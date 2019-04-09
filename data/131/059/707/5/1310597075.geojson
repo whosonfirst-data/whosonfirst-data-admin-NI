@@ -1,0 +1,72 @@
+{
+  "id": 1310597075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.48613,12.98759,-86.48613,12.98759",
+    "geom:latitude":12.98759,
+    "geom:longitude":-86.48613,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Campamento",
+    "gn:country_code":"NI",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620542,
+    "gn:latitude":12.98759,
+    "gn:longitude":-86.48613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Campamento",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Campamento",
+        "Campamente",
+        "Campamento"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421168431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620542
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"428e580b12c8a9cccaa853c8012f156b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421168431,
+            "locality_id":1310597075,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1310597075,
+    "wof:lastmodified":1537675576,
+    "wof:name":"Campamento",
+    "wof:parent_id":421168431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.48613,
+    12.98759,
+    -86.48613,
+    12.98759
+],
+  "geometry": {"coordinates":[-86.48613,12.98759],"type":"Point"}
+}

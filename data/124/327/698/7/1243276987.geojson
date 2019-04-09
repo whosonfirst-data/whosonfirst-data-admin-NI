@@ -1,0 +1,67 @@
+{
+  "id": 1243276987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.20995,11.66248,-86.20995,11.66248",
+    "geom:latitude":11.66248,
+    "geom:longitude":-86.20995,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"El Naranjo",
+    "gn:country_code":"NI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619605,
+    "gn:latitude":11.66248,
+    "gn:longitude":-86.20995,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Naranjo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619605
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"589ea3e7c6752f2e0d3e0e7d45f589b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":1243276987,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1243276987,
+    "wof:lastmodified":1537047752,
+    "wof:name":"El Naranjo",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.20995,
+    11.66248,
+    -86.20995,
+    11.66248
+],
+  "geometry": {"coordinates":[-86.20995000000001,11.66248],"type":"Point"}
+}

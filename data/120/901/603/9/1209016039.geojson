@@ -1,0 +1,66 @@
+{
+  "id": 1209016039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.09839,12.46631,-87.09839,12.46631",
+    "geom:latitude":12.46631,
+    "geom:longitude":-87.09839,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puerto el Barquito",
+    "gn:country_code":"NI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617151,
+    "gn:latitude":12.46631,
+    "gn:longitude":-87.09839,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto el Barquito",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Barquito",
+        "Barquito",
+        "Puerto el Barquito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617151
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6289136e196b0018f9c526049458c8b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209016039
+        }
+    ],
+    "wof:id":1209016039,
+    "wof:lastmodified":1537675540,
+    "wof:name":"Puerto el Barquito",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.09839000000002,
+    12.46631,
+    -87.09839000000002,
+    12.46631
+],
+  "geometry": {"coordinates":[-87.09839000000002,12.46631],"type":"Point"}
+}

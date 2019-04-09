@@ -1,0 +1,68 @@
+{
+  "id": 1276758897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.85,13.17,-85.85,13.17",
+    "geom:latitude":13.17,
+    "geom:longitude":-85.85,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Santa Maria de Pantasma",
+    "gn:country_code":"NI",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7701408,
+    "gn:latitude":13.17,
+    "gn:longitude":-85.85,
+    "gn:modification_date":"2011-03-09",
+    "gn:name":"Santa Maria de Pantasma",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701408,
+        "wk:page":"Santa_Mar%C3%ADa_de_Pantasma"
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0899badf1857944f556bdf89c9066a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":1276758897,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1276758897,
+    "wof:lastmodified":1537570047,
+    "wof:name":"Santa Maria de Pantasma",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.85,
+    13.17,
+    -85.85,
+    13.17
+],
+  "geometry": {"coordinates":[-85.84999999999999,13.17],"type":"Point"}
+}

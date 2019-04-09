@@ -1,0 +1,70 @@
+{
+  "id": 1344060203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.04217,11.73837,-86.04217,11.73837",
+    "geom:latitude":11.73837,
+    "geom:longitude":-86.04217,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Presa Candelaria",
+    "gn:country_code":"NI",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036087,
+    "gn:latitude":11.73837,
+    "gn:longitude":-86.04217,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Presa Candelaria",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Presa Candelaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036087
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"12c515a57ac5aae1e201b5ce0e47fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1344060203,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1344060203,
+    "wof:lastmodified":1537675589,
+    "wof:name":"Presa Candelaria",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.04217,
+    11.73837,
+    -86.04217,
+    11.73837
+],
+  "geometry": {"coordinates":[-86.04217,11.73837],"type":"Point"}
+}

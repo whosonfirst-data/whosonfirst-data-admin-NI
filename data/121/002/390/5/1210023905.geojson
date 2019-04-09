@@ -1,0 +1,71 @@
+{
+  "id": 1210023905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.89569,12.62667,-86.89569,12.62667",
+    "geom:latitude":12.62667,
+    "geom:longitude":-86.89569,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Los Portillos",
+    "gn:country_code":"NI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617861,
+    "gn:latitude":12.62667,
+    "gn:longitude":-86.89569,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Portillos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Los Portillos",
+        "Los Portillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421172925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617861
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"02149f4c723d1146972adee6e4d9d7ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421172925,
+            "locality_id":1210023905,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1210023905,
+    "wof:lastmodified":1537675546,
+    "wof:name":"Los Portillos",
+    "wof:parent_id":421172925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.89569,
+    12.62667,
+    -86.89569,
+    12.62667
+],
+  "geometry": {"coordinates":[-86.89569,12.62667],"type":"Point"}
+}

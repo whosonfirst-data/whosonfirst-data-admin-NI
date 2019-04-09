@@ -1,0 +1,116 @@
+{
+  "id": 1108693785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.006141,
+    "geom:area_square_m":74293148.003025,
+    "geom:bbox":"-86.2976163855,11.9202558427,-86.1510358594,11.9927203932",
+    "geom:latitude":11.954953,
+    "geom:longitude":-86.22222,
+    "iso:country":"NI",
+    "lbl:latitude":11.954098,
+    "lbl:longitude":-86.222225,
+    "meso:admin_1":"MASAYA",
+    "meso:gadm_admin":"La Concepci\u00f3n",
+    "meso:gadm_hasc2":"NI.MS.LC",
+    "meso:gaul_admin":"La Concepcion",
+    "meso:local_id":"1883",
+    "meso:mps_x":-86.222225,
+    "meso:mps_y":11.954098,
+    "meso:name_local":"LA CONCEPCION",
+    "meso:source":"ISCGM",
+    "mps:latitude":11.954098,
+    "mps:longitude":-86.222225,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u5eb7\u585e\u666e\u897f\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "La Concepcion"
+    ],
+    "name:eng_x_variant":[
+        "La Concepcion",
+        "La Concepci\u00f3n",
+        "LA CONCEPCION"
+    ],
+    "name:fre_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0648\u0646\u0633\u067e\u0633\u06cc\u0648\u0646\u060c \u0645\u0627\u0633\u0627\u06cc\u0627"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"66.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"La Concepci\u00f3n",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.MS",
+    "statoids:name":"La Concepci\u00f3n",
+    "statoids:population":"31950",
+    "statoids:statoid":"NI.MS.LC",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.MS.LC",
+        "wd:id":"Q538269"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415120,
+    "wof:geomhash":"76a5e31fdce2cc3a1b4d739483da6b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693785,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1108693785,
+    "wof:lastmodified":1544032792,
+    "wof:name":"La Concepcion",
+    "wof:parent_id":85675499,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":31950,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"LC",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.29761638551891,
+    11.92025584266241,
+    -86.15103585937605,
+    11.99272039324236
+],
+  "geometry": {"coordinates":[[[-86.26437226762333,11.99272039324236],[-86.24071286526296,11.97546601169983],[-86.18948209079346,11.98215203135088],[-86.18896134644615,11.9831418162235],[-86.161510041141,11.96857267299215],[-86.15619103351546,11.96530594749718],[-86.15103585937605,11.96273928736536],[-86.16805971786667,11.95818873398085],[-86.1617093501863,11.93720022355981],[-86.16596253171144,11.93111818971261],[-86.16878630048087,11.92979728838762],[-86.17154355843037,11.92560966855391],[-86.17418594703264,11.92142167833884],[-86.1747955248081,11.92025584266241],[-86.19300163868603,11.92284504487573],[-86.20339330991089,11.92473176209749],[-86.20681621588285,11.9247301218707],[-86.20772130179141,11.92472927903519],[-86.22072139923111,11.9303414903866],[-86.23578172778318,11.93010246330555],[-86.24611378991715,11.9309543447893],[-86.25252637001584,11.93330108043968],[-86.25755076059366,11.93455888821733],[-86.27824246097092,11.94452246934226],[-86.28743584410807,11.95002019219485],[-86.29761638551891,11.95460225922694],[-86.26437226762333,11.99272039324236]]],"type":"Polygon"}
+}

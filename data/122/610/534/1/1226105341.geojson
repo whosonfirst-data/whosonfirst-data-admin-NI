@@ -1,0 +1,72 @@
+{
+  "id": 1226105341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.13333,13.16667,-84.13333,13.16667",
+    "geom:latitude":13.16667,
+    "geom:longitude":-84.13333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kiawas",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618858,
+    "gn:latitude":13.16667,
+    "gn:longitude":-84.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kiaw\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaw\u00e1s",
+        "Kiaw\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618858
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"883dfa3a1991b0a17691c629acef3723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693869,
+            "locality_id":1226105341,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1226105341,
+    "wof:lastmodified":1537675558,
+    "wof:name":"Kiawas",
+    "wof:parent_id":1108693869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.13333,
+    13.16667,
+    -84.13333,
+    13.16667
+],
+  "geometry": {"coordinates":[-84.13333,13.16667],"type":"Point"}
+}

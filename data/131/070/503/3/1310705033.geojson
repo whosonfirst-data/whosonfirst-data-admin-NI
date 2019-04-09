@@ -1,0 +1,72 @@
+{
+  "id": 1310705033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.30616,11.60758,-86.30616,11.60758",
+    "geom:latitude":11.60758,
+    "geom:longitude":-86.30616,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tupilapa",
+    "gn:country_code":"NI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615953,
+    "gn:latitude":11.60758,
+    "gn:longitude":-86.30616,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tupilapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veracruz",
+        "Tupitapa",
+        "Tupilapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615953
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ec2e0933a22a5b0fafa41e1885232c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1310705033,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1310705033,
+    "wof:lastmodified":1537675531,
+    "wof:name":"Tupilapa",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.30615999999998,
+    11.60758,
+    -86.30615999999998,
+    11.60758
+],
+  "geometry": {"coordinates":[-86.30615999999998,11.60758],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310676739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.75,12.23333,-83.75,12.23333",
+    "geom:latitude":12.23333,
+    "geom:longitude":-83.75,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cukra",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620227,
+    "gn:latitude":12.23333,
+    "gn:longitude":-83.75,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Cukra",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cukra Hill",
+        "Cukra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620227
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4bc54f07f1a8da8ff9493b58a2cfec44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693873,
+            "locality_id":1310676739,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1310676739,
+    "wof:lastmodified":1537675572,
+    "wof:name":"Cukra",
+    "wof:parent_id":1108693873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.75,
+    12.23333,
+    -83.75,
+    12.23333
+],
+  "geometry": {"coordinates":[-83.75,12.23333],"type":"Point"}
+}

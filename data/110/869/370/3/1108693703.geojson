@@ -1,0 +1,117 @@
+{
+  "id": 1108693703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010603,
+    "geom:area_square_m":127402925.372462,
+    "geom:bbox":"-86.3635926308,13.5928052249,-86.196281396,13.717628355",
+    "geom:latitude":13.645667,
+    "geom:longitude":-86.27793,
+    "iso:country":"NI",
+    "lbl:latitude":13.655365,
+    "lbl:longitude":-86.262715,
+    "meso:admin_1":"NUEVA SEGOVIA",
+    "meso:gadm_admin":"Ciudad Antigua",
+    "meso:gadm_hasc2":"NI.NS.CA",
+    "meso:gaul_admin":"Ciudad Antigua",
+    "meso:local_id":"1227",
+    "meso:mps_x":-86.262715,
+    "meso:mps_y":13.655365,
+    "meso:name_local":"CIUDAD ANTGUA",
+    "meso:source":"ISCGM",
+    "mps:latitude":13.655365,
+    "mps:longitude":-86.262715,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5b89\u8482\u74dc\u5e02"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:eng_x_variant":[
+        "Ciudad Antigua"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:por_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0648\u062f\u0627\u062f \u0627\u0646\u062a\u06cc\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ciudad Antigua"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"147.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"Ciudad Antigua",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.NS",
+    "statoids:name":"Ciudad Antigua",
+    "statoids:population":"4868",
+    "statoids:statoid":"NI.NS.CA",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.NS.CA",
+        "wd:id":"Q2215588"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415048,
+    "wof:geomhash":"a7cccc8e79e372d3d2109345b4b8343b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693703,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":1108693703,
+    "wof:lastmodified":1543954416,
+    "wof:name":"Ciudad Antigua",
+    "wof:parent_id":85675517,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":4868,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"CA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36359263080587,
+    13.59280522492156,
+    -86.19628139603574,
+    13.71762835501273
+],
+  "geometry": {"coordinates":[[[-86.24630483655405,13.71762835501273],[-86.2393721761883,13.70721956389321],[-86.23513261971731,13.68936082826676],[-86.23046649503131,13.67971039059396],[-86.21707083901055,13.67102024400283],[-86.21291728423236,13.66883148569902],[-86.20207657702672,13.67093626873837],[-86.19628139603574,13.66943249052561],[-86.20054182164026,13.6496375558436],[-86.20991216116875,13.6191841484469],[-86.21331617709998,13.61923788352578],[-86.24428734577531,13.62307823761768],[-86.26168676356667,13.61949012341106],[-86.27979853524033,13.61079204059697],[-86.3062404211412,13.59280522492156],[-86.31782753796165,13.59666751026928],[-86.33545353989923,13.59617377169422],[-86.34441027399853,13.59796403399745],[-86.35290252086521,13.59682549861305],[-86.35279001788508,13.59591763802899],[-86.3545996345954,13.59734415180281],[-86.36107479310347,13.61394121197266],[-86.36359263080587,13.62347882783013],[-86.35807087364049,13.62490114725554],[-86.35828807373336,13.63626720168521],[-86.35025406733494,13.6428015870251],[-86.33173258460978,13.65144604541246],[-86.31062131012902,13.66651501507597],[-86.29426389498509,13.67493083363567],[-86.28633802459989,13.68484938268925],[-86.2755479790065,13.69109065273054],[-86.26990434367677,13.70175781220766],[-86.25688025317044,13.71115161250331],[-86.24630483655405,13.71762835501273]]],"type":"Polygon"}
+}

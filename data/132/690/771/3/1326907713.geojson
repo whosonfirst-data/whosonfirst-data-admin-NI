@@ -1,0 +1,67 @@
+{
+  "id": 1326907713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.93333,12.73333,-85.93333,12.73333",
+    "geom:latitude":12.73333,
+    "geom:longitude":-85.93333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"San Jose",
+    "gn:country_code":"NI",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616772,
+    "gn:latitude":12.73333,
+    "gn:longitude":-85.93333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Jos\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421200105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616772
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f2cfa24714bcc6cd01af627400780748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200105,
+            "locality_id":1326907713,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1326907713,
+    "wof:lastmodified":1536940826,
+    "wof:name":"San Jose",
+    "wof:parent_id":421200105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.93333,
+    12.73333,
+    -85.93333,
+    12.73333
+],
+  "geometry": {"coordinates":[-85.93333,12.73333],"type":"Point"}
+}

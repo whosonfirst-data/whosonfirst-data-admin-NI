@@ -1,0 +1,67 @@
+{
+  "id": 1243155993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.40514,11.89121,-86.40514,11.89121",
+    "geom:latitude":11.89121,
+    "geom:longitude":-86.40514,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Las Lapas",
+    "gn:country_code":"NI",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618222,
+    "gn:latitude":11.89121,
+    "gn:longitude":-86.40514,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Lapas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618222
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"42bb8973e6284b18b23597068744ed0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693779,
+            "locality_id":1243155993,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1243155993,
+    "wof:lastmodified":1536727722,
+    "wof:name":"Las Lapas",
+    "wof:parent_id":1108693779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.40514,
+    11.89121,
+    -86.40514,
+    11.89121
+],
+  "geometry": {"coordinates":[-86.40514,11.89121],"type":"Point"}
+}

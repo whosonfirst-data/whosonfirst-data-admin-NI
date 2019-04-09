@@ -1,0 +1,72 @@
+{
+  "id": 1310188951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23687,12.60067,-86.23687,12.60067",
+    "geom:latitude":12.60067,
+    "geom:longitude":-86.23687,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Caserio Las Ranas",
+    "gn:country_code":"NI",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620452,
+    "gn:latitude":12.60067,
+    "gn:longitude":-86.23687,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caser\u00edo Las Ranas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ranas",
+        "Las Ranas",
+        "Caser\u00edo Las Ranas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620452
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6c9223213a9c4875adb1eb4c834c258e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693775,
+            "locality_id":1310188951,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1310188951,
+    "wof:lastmodified":1537675575,
+    "wof:name":"Caserio Las Ranas",
+    "wof:parent_id":1108693775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23687,
+    12.60067,
+    -86.23687,
+    12.60067
+],
+  "geometry": {"coordinates":[-86.23687,12.60067],"type":"Point"}
+}

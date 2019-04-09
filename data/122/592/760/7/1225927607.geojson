@@ -1,0 +1,71 @@
+{
+  "id": 1225927607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11224,12.15329,-86.11224,12.15329",
+    "geom:latitude":12.15329,
+    "geom:longitude":-86.11224,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"El Zapotal",
+    "gn:country_code":"NI",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619258,
+    "gn:latitude":12.15329,
+    "gn:longitude":-86.11224,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Zapotal",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zapotal",
+        "El Zapotal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619258
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0f92ba016ca891a02f255ac9274d500e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1225927607,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1225927607,
+    "wof:lastmodified":1537675562,
+    "wof:name":"El Zapotal",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11224,
+    12.15329,
+    -86.11224,
+    12.15329
+],
+  "geometry": {"coordinates":[-86.11224,12.15329],"type":"Point"}
+}

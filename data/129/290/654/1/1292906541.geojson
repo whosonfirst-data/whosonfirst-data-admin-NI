@@ -1,0 +1,70 @@
+{
+  "id": 1292906541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36106,11.6988,-86.36106,11.6988",
+    "geom:latitude":11.6988,
+    "geom:longitude":-86.36106,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tepano",
+    "gn:country_code":"NI",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308689,
+    "gn:latitude":11.6988,
+    "gn:longitude":-86.36106,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"Tepano",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Tepano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308689
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1447366fce9870ef9448b3252f22a380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1292906541,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1292906541,
+    "wof:lastmodified":1537675590,
+    "wof:name":"Tepano",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36106,
+    11.6988,
+    -86.36106,
+    11.6988
+],
+  "geometry": {"coordinates":[-86.36105999999999,11.6988],"type":"Point"}
+}

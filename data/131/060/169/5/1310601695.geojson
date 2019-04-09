@@ -1,0 +1,67 @@
+{
+  "id": 1310601695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.33575,11.93728,-85.33575,11.93728",
+    "geom:latitude":11.93728,
+    "geom:longitude":-85.33575,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Buey Negro",
+    "gn:country_code":"NI",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620033,
+    "gn:latitude":11.93728,
+    "gn:longitude":-85.33575,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Buey Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620033
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0dd49fc2d42b9ccc078393f6b0a670b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693859,
+            "locality_id":1310601695,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":1310601695,
+    "wof:lastmodified":1536778667,
+    "wof:name":"El Buey Negro",
+    "wof:parent_id":1108693859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.33575,
+    11.93728,
+    -85.33575,
+    11.93728
+],
+  "geometry": {"coordinates":[-85.33575,11.93728],"type":"Point"}
+}

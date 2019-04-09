@@ -1,0 +1,70 @@
+{
+  "id": 1259486431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.20123,11.73847,-86.20123,11.73847",
+    "geom:latitude":11.73847,
+    "geom:longitude":-86.20123,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Chorrera",
+    "gn:country_code":"NI",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034250,
+    "gn:latitude":11.73847,
+    "gn:longitude":-86.20123,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Chorrera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Chorrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034250
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7493f244d4f419dea3a9816c5bf2cbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1259486431,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1259486431,
+    "wof:lastmodified":1537675587,
+    "wof:name":"La Chorrera",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.20123000000002,
+    11.73847,
+    -86.20123000000002,
+    11.73847
+],
+  "geometry": {"coordinates":[-86.20123000000002,11.73847],"type":"Point"}
+}

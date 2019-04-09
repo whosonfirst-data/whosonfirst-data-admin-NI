@@ -1,0 +1,68 @@
+{
+  "id": 1226518075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.75413,12.48181,-83.75413,12.48181",
+    "geom:latitude":12.48181,
+    "geom:longitude":-83.75413,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Fe",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618572,
+    "gn:latitude":12.48181,
+    "gn:longitude":-83.75413,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Fe",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brown Bank",
+        "La Fe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618572
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7e5e7420363e777df53d4d3bbd9056c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "locality_id":1226518075,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226518075,
+    "wof:lastmodified":1537675555,
+    "wof:name":"La Fe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.75413,
+    12.48181,
+    -83.75413,
+    12.48181
+],
+  "geometry": {"coordinates":[-83.75413,12.48181],"type":"Point"}
+}

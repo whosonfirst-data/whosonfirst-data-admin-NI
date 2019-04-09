@@ -1,0 +1,71 @@
+{
+  "id": 1226513865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.95295,13.68694,-84.95295,13.68694",
+    "geom:latitude":13.68694,
+    "geom:longitude":-84.95295,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Danli",
+    "gn:country_code":"NI",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620196,
+    "gn:latitude":13.68694,
+    "gn:longitude":-84.95295,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Danl\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danl\u00ed Arriba",
+        "Danl\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620196
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0f1c73eb74037c220f0fb7c0bc03fefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693679,
+            "locality_id":1226513865,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1226513865,
+    "wof:lastmodified":1537675572,
+    "wof:name":"Danli",
+    "wof:parent_id":1108693679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.95295,
+    13.68694,
+    -84.95295,
+    13.68694
+],
+  "geometry": {"coordinates":[-84.95295,13.68694],"type":"Point"}
+}

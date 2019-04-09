@@ -1,0 +1,61 @@
+{
+  "id": 1209011983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.3064,12.72283,-87.3064,12.72283",
+    "geom:latitude":12.72283,
+    "geom:longitude":-87.3064,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sicantal",
+    "gn:country_code":"NI",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616291,
+    "gn:latitude":12.72283,
+    "gn:longitude":-87.3064,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Sicantal",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616291
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6d2f09a2ac2d996bbbc45434b6cf8576",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209011983
+        }
+    ],
+    "wof:id":1209011983,
+    "wof:lastmodified":1536300416,
+    "wof:name":"Sicantal",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.3064,
+    12.72283,
+    -87.3064,
+    12.72283
+],
+  "geometry": {"coordinates":[-87.3064,12.72283],"type":"Point"}
+}

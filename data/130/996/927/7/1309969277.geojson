@@ -1,0 +1,72 @@
+{
+  "id": 1309969277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.07353,13.2029,-84.07353,13.2029",
+    "geom:latitude":13.2029,
+    "geom:longitude":-84.07353,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kansas City",
+    "gn:country_code":"NI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618886,
+    "gn:latitude":13.2029,
+    "gn:longitude":-84.07353,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kansas City",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Roscilapin",
+        "Rostilapin",
+        "Kansas City"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618886
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5a95f0b7a213f6ba62ba1a9fa61b9be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693869,
+            "locality_id":1309969277,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1309969277,
+    "wof:lastmodified":1537675559,
+    "wof:name":"Kansas City",
+    "wof:parent_id":1108693869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.07353,
+    13.2029,
+    -84.07353,
+    13.2029
+],
+  "geometry": {"coordinates":[-84.07353000000001,13.2029],"type":"Point"}
+}

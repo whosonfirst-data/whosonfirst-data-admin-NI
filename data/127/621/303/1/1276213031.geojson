@@ -1,0 +1,72 @@
+{
+  "id": 1276213031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18152,13.82212,-86.18152,13.82212",
+    "geom:latitude":13.82212,
+    "geom:longitude":-86.18152,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Los Puntalitos",
+    "gn:country_code":"NI",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617852,
+    "gn:latitude":13.82212,
+    "gn:longitude":-86.18152,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Puntalitos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puntali",
+        "Puntalitos",
+        "Los Puntalitos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        421170023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617852
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0fda571204259fdb9a5b565778f9f55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170023,
+            "locality_id":1276213031,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":1276213031,
+    "wof:lastmodified":1537675545,
+    "wof:name":"Los Puntalitos",
+    "wof:parent_id":421170023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18151999999998,
+    13.82212,
+    -86.18151999999998,
+    13.82212
+],
+  "geometry": {"coordinates":[-86.18151999999998,13.82212],"type":"Point"}
+}

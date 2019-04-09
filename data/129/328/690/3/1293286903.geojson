@@ -1,0 +1,67 @@
+{
+  "id": 1293286903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.2,14.38333,-85.2,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":-85.2,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Upla Pruan",
+    "gn:country_code":"NI",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615913,
+    "gn:latitude":14.38333,
+    "gn:longitude":-85.2,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Upla Pruan",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615913
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5caca32a0e42cc897f24ad38bb93c537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":1293286903,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1293286903,
+    "wof:lastmodified":1537073135,
+    "wof:name":"Upla Pruan",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.2,
+    14.38333,
+    -85.2,
+    14.38333
+],
+  "geometry": {"coordinates":[-85.2,14.38333],"type":"Point"}
+}

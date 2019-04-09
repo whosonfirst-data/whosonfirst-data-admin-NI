@@ -1,0 +1,67 @@
+{
+  "id": 1293763693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.75181,13.1458,-85.75181,13.1458",
+    "geom:latitude":13.1458,
+    "geom:longitude":-85.75181,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Las Conchitas",
+    "gn:country_code":"NI",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618283,
+    "gn:latitude":13.1458,
+    "gn:longitude":-85.75181,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Las Conchitas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618283
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c789ad1db1dfa4cf980853811bf445ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693819,
+            "locality_id":1293763693,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1293763693,
+    "wof:lastmodified":1536885485,
+    "wof:name":"Las Conchitas",
+    "wof:parent_id":1108693819,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.75180999999998,
+    13.1458,
+    -85.75180999999998,
+    13.1458
+],
+  "geometry": {"coordinates":[-85.75180999999998,13.1458],"type":"Point"}
+}

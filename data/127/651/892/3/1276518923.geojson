@@ -1,0 +1,73 @@
+{
+  "id": 1276518923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.17201,14.98922,-83.17201,14.98922",
+    "geom:latitude":14.98922,
+    "geom:longitude":-83.17201,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cabo Gracias a Dios",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620568,
+    "gn:latitude":14.98922,
+    "gn:longitude":-83.17201,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cabo Gracias a Dios",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u043e-\u0413\u0440\u0430\u0441\u044c\u044f\u0441-\u0430-\u0414\u044c\u043e\u0441"
+    ],
+    "name:und_x_variant":[
+        "Puerto Cabo Gracias a Dios",
+        "Ciudad del Cabo",
+        "Aduana",
+        "Cabo de Gracias a Dios",
+        "Cabo Gracias a Dios"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620568
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a2b71a16cf60ac870977655cccdaa0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1276518923,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276518923,
+    "wof:lastmodified":1537675576,
+    "wof:name":"Cabo Gracias a Dios",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.17201,
+    14.98922,
+    -83.17201,
+    14.98922
+],
+  "geometry": {"coordinates":[-83.17201,14.98922],"type":"Point"}
+}

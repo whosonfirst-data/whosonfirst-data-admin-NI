@@ -1,0 +1,64 @@
+{
+  "id": 1209518525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28843,11.70897,-86.28843,11.70897",
+    "geom:latitude":11.70897,
+    "geom:longitude":-86.28843,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"El Silo",
+    "gn:country_code":"NI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017049,
+    "gn:latitude":11.70897,
+    "gn:longitude":-86.28843,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"El Silo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Silo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017049
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7df4d41bd08ccd812865d53d03fa5a83",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209518525
+        }
+    ],
+    "wof:id":1209518525,
+    "wof:lastmodified":1537675585,
+    "wof:name":"El Silo",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28843,
+    11.70897,
+    -86.28843,
+    11.70897
+],
+  "geometry": {"coordinates":[-86.28843000000001,11.70897],"type":"Point"}
+}

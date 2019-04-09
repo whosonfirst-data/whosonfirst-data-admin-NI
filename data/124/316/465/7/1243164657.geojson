@@ -1,0 +1,70 @@
+{
+  "id": 1243164657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.9332,11.90287,-85.9332,11.90287",
+    "geom:latitude":11.90287,
+    "geom:longitude":-85.9332,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aseses",
+    "gn:country_code":"NI",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016313,
+    "gn:latitude":11.90287,
+    "gn:longitude":-85.9332,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Aseses",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Aseses"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016313
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"941df66064f30760e9fc24987eaa298a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1243164657,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1243164657,
+    "wof:lastmodified":1537675583,
+    "wof:name":"Aseses",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.9332,
+    11.90287,
+    -85.9332,
+    11.90287
+],
+  "geometry": {"coordinates":[-85.9332,11.90287],"type":"Point"}
+}

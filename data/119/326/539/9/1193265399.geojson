@@ -1,0 +1,71 @@
+{
+  "id": 1193265399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.93858,12.99337,-85.93858,12.99337",
+    "geom:latitude":12.99337,
+    "geom:longitude":-85.93858,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"San Simon de Palcila",
+    "gn:country_code":"NI",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616568,
+    "gn:latitude":12.99337,
+    "gn:longitude":-85.93858,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Sim\u00f3n de Palcila",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paxila",
+        "San Sim\u00f3n de Palcila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616568
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fafd283992aef1a9943533d4b44f36a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1193265399,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1193265399,
+    "wof:lastmodified":1537675535,
+    "wof:name":"San Simon de Palcila",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.93858,
+    12.99337,
+    -85.93858,
+    12.99337
+],
+  "geometry": {"coordinates":[-85.93858,12.99337],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890442865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-82.979736,12.283163,-82.979736,12.283163",
+    "geom:latitude":12.283163,
+    "geom:longitude":-82.979736,
+    "gn:country":"NI",
+    "gp:adm0":23424915,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Corn Island",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur",
+    "qs:photos":772,
+    "qs:photos_1k":156,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2115,
+    "qs:photos_sr":9,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":941,
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813434,
+        "qs:id":361910,
+        "wd:id":"Q21111",
+        "wk:page":"Corn Islands"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052384,
+    "wof:geomhash":"4ab03c8e06513438dda1bbd008ade4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "county_id":890442865
+        }
+    ],
+    "wof:id":890442865,
+    "wof:lastmodified":1527792858,
+    "wof:name":"Corn Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.979736,
+    12.283163,
+    -82.979736,
+    12.283163
+],
+  "geometry": {"coordinates":[-82.979736,12.283163],"type":"Point"}
+}

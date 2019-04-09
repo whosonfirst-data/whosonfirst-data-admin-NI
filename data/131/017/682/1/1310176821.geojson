@@ -1,0 +1,70 @@
+{
+  "id": 1310176821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.53252,13.55592,-83.53252,13.55592",
+    "geom:latitude":13.55592,
+    "geom:longitude":-83.53252,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wounta",
+    "gn:country_code":"NI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615679,
+    "gn:latitude":13.55592,
+    "gn:longitude":-83.53252,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wounta",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huaunta",
+        "Wuonta",
+        "Huanta",
+        "Wounta Plantation",
+        "Wounta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615679
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6529e7d4a3cd666e7fadcb4d6b6b558e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1310176821,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310176821,
+    "wof:lastmodified":1537675527,
+    "wof:name":"Wounta",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.53251999999998,
+    13.55592,
+    -83.53251999999998,
+    13.55592
+],
+  "geometry": {"coordinates":[-83.53251999999998,13.55592],"type":"Point"}
+}

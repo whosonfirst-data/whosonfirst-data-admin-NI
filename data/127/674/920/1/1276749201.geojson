@@ -1,0 +1,72 @@
+{
+  "id": 1276749201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.83095,12.53498,-86.83095,12.53498",
+    "geom:latitude":12.53498,
+    "geom:longitude":-86.83095,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Comarca El Jicarito",
+    "gn:country_code":"NI",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620311,
+    "gn:latitude":12.53498,
+    "gn:longitude":-86.83095,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Comarca El Jicarito",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Jicarito",
+        "Jicarito",
+        "Comarca El Jicarito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421179703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620311
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fe0ebc635be5c69715c809a1612e3543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179703,
+            "locality_id":1276749201,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1276749201,
+    "wof:lastmodified":1537675573,
+    "wof:name":"Comarca El Jicarito",
+    "wof:parent_id":421179703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.83095,
+    12.53498,
+    -86.83095,
+    12.53498
+],
+  "geometry": {"coordinates":[-86.83095,12.53498],"type":"Point"}
+}

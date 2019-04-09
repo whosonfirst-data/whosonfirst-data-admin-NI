@@ -1,0 +1,124 @@
+{
+  "id": 421194281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.01843,13.7585,-86.01843,13.7585",
+    "geom:latitude":13.7585,
+    "geom:longitude":-86.01843,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7a46\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Murra"
+    ],
+    "name:eng_x_preferred":[
+        "Murra"
+    ],
+    "name:fra_x_preferred":[
+        "Murra"
+    ],
+    "name:fre_x_preferred":[
+        "Murra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Murra"
+    ],
+    "name:nld_x_preferred":[
+        "Murra"
+    ],
+    "name:spa_x_preferred":[
+        "Murra"
+    ],
+    "name:swe_x_preferred":[
+        "Murra"
+    ],
+    "name:unk_x_variant":[
+        "San Juan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u0627\u060c \u0646\u0648\u06cc\u0628\u0627 \u0633\u06cc\u06af\u0648\u0628\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Murra"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u62c9"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617543,
+    "qs:gn_pop":1179,
+    "qs:name":"Murra",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1045733,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153596,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":173,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        1108693697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617543,
+        "gp:id":153596,
+        "qs:id":1045733,
+        "wd:id":"Q2215609",
+        "wk:page":"Murra, Nueva Segovia"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009800,
+    "wof:geomhash":"170ba918f0b83f80f580cf8fef4c2cd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693697,
+            "locality_id":421194281,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":421194281,
+    "wof:lastmodified":1527716130,
+    "wof:name":"Murra",
+    "wof:parent_id":1108693697,
+    "wof:placetype":"locality",
+    "wof:population":1179,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.01843,
+    13.7585,
+    -86.01843,
+    13.7585
+],
+  "geometry": {"coordinates":[-86.01843,13.7585],"type":"Point"}
+}

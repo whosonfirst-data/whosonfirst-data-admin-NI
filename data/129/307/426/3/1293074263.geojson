@@ -1,0 +1,67 @@
+{
+  "id": 1293074263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.88609,11.3552,-85.88609,11.3552",
+    "geom:latitude":11.3552,
+    "geom:longitude":-85.88609,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Trinidad",
+    "gn:country_code":"NI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618092,
+    "gn:latitude":11.3552,
+    "gn:longitude":-85.88609,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421197835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618092
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6c663198e2d7de4bb5ca7751e3716950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197835,
+            "locality_id":1293074263,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1293074263,
+    "wof:lastmodified":1536885428,
+    "wof:name":"La Trinidad",
+    "wof:parent_id":421197835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.88609,
+    11.3552,
+    -85.88609,
+    11.3552
+],
+  "geometry": {"coordinates":[-85.88609,11.3552],"type":"Point"}
+}

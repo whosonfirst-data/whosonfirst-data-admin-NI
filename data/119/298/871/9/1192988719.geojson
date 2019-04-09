@@ -1,0 +1,67 @@
+{
+  "id": 1192988719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.91088,11.30451,-85.91088,11.30451",
+    "geom:latitude":11.30451,
+    "geom:longitude":-85.91088,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"NI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616712,
+    "gn:latitude":11.30451,
+    "gn:longitude":-85.91088,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616712
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"57056839fc1f5d52c7e2d6b6a317d1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202297,
+            "locality_id":1192988719,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1192988719,
+    "wof:lastmodified":1536383245,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":421202297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.91088,
+    11.30451,
+    -85.91088,
+    11.30451
+],
+  "geometry": {"coordinates":[-85.91088000000001,11.30451],"type":"Point"}
+}

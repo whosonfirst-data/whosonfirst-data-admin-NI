@@ -1,0 +1,67 @@
+{
+  "id": 1326529109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.33487,13.00919,-86.33487,13.00919",
+    "geom:latitude":13.00919,
+    "geom:longitude":-86.33487,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Ocotillo",
+    "gn:country_code":"NI",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619582,
+    "gn:latitude":13.00919,
+    "gn:longitude":-86.33487,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Ocotillo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619582
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fb7d41da9ed43cc26d96e9539a2b6bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693753,
+            "locality_id":1326529109,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1326529109,
+    "wof:lastmodified":1536987761,
+    "wof:name":"El Ocotillo",
+    "wof:parent_id":1108693753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.33487,
+    13.00919,
+    -86.33487,
+    13.00919
+],
+  "geometry": {"coordinates":[-86.33487,13.00919],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209312037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.13281,11.69133,-86.13281,11.69133",
+    "geom:latitude":11.69133,
+    "geom:longitude":-86.13281,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mata de Tule",
+    "gn:country_code":"NI",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617709,
+    "gn:latitude":11.69133,
+    "gn:longitude":-86.13281,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Mata de Tule",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617709
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7e3261e8fd28c45d750109e931f1c6e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209312037
+        }
+    ],
+    "wof:id":1209312037,
+    "wof:lastmodified":1536290994,
+    "wof:name":"Mata de Tule",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.13280999999998,
+    11.69133,
+    -86.13280999999998,
+    11.69133
+],
+  "geometry": {"coordinates":[-86.13280999999998,11.69133],"type":"Point"}
+}

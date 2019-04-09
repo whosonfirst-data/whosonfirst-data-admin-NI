@@ -1,0 +1,69 @@
+{
+  "id": 421171811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.43387,12.425375,-83.43387,12.425375",
+    "geom:latitude":12.425375,
+    "geom:longitude":-83.43387,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Desembocadura de R\u00edo Grande",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur",
+    "qs:photos":186,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":186,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264350,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813428,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813428,
+        "qs:id":1264350
+    },
+    "wof:country":"NI",
+    "wof:created":1459008907,
+    "wof:geomhash":"26e32e4bf903a6479ad4deaa32668ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "county_id":421171811
+        }
+    ],
+    "wof:id":421171811,
+    "wof:lastmodified":1474491965,
+    "wof:name":"Desembocadura de R\u00edo Grande",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.43387,
+    12.425375,
+    -83.43387,
+    12.425375
+],
+  "geometry": {"coordinates":[-83.43387,12.425375],"type":"Point"}
+}

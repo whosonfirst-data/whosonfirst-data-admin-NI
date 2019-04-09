@@ -1,0 +1,72 @@
+{
+  "id": 1259855643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.5606,14.92492,-83.5606,14.92492",
+    "geom:latitude":14.92492,
+    "geom:longitude":-83.5606,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sagua",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617005,
+    "gn:latitude":14.92492,
+    "gn:longitude":-83.5606,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sagua",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sawa",
+        "Sahua Leven",
+        "Sagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617005
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8f489252d0e6eb59851562f8ad882f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1259855643,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1259855643,
+    "wof:lastmodified":1537675539,
+    "wof:name":"Sagua",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.5606,
+    14.92492,
+    -83.5606,
+    14.92492
+],
+  "geometry": {"coordinates":[-83.56059999999999,14.92492],"type":"Point"}
+}

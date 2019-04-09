@@ -1,0 +1,67 @@
+{
+  "id": 1360061677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.65096,14.29975,-83.65096,14.29975",
+    "geom:latitude":14.29975,
+    "geom:longitude":-83.65096,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Auyatara",
+    "gn:country_code":"NI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620814,
+    "gn:latitude":14.29975,
+    "gn:longitude":-83.65096,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Auyatara",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620814
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"11117ffc365c47141dcde529a36f3e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":1360061677,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1360061677,
+    "wof:lastmodified":1536978913,
+    "wof:name":"Auyatara",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.65096,
+    14.29975,
+    -83.65096,
+    14.29975
+],
+  "geometry": {"coordinates":[-83.65096,14.29975],"type":"Point"}
+}

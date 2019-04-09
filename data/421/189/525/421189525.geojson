@@ -1,0 +1,73 @@
+{
+  "id": 421189525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.704345,12.524357,-85.704345,12.524357",
+    "geom:latitude":12.524357,
+    "geom:longitude":-85.704345,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Luc\u00eda",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Boaco",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1113890,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813295,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813295,
+        "qs:id":1113890
+    },
+    "wof:country":"NI",
+    "wof:created":1459009627,
+    "wof:geomhash":"abb63ae74d84e299b16f42be3af9d2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189525,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":421189525,
+    "wof:lastmodified":1474491969,
+    "wof:name":"Santa Luc\u00eda",
+    "wof:parent_id":85675521,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.704345,
+    12.524357,
+    -85.704345,
+    12.524357
+],
+  "geometry": {"coordinates":[-85.704345,12.524357],"type":"Point"}
+}

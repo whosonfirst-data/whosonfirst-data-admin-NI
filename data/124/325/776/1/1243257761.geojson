@@ -1,0 +1,67 @@
+{
+  "id": 1243257761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.05103,12.52357,-86.05103,12.52357",
+    "geom:latitude":12.52357,
+    "geom:longitude":-86.05103,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Casa Sola",
+    "gn:country_code":"NI",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620456,
+    "gn:latitude":12.52357,
+    "gn:longitude":-86.05103,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Casa Sola",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620456
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2e335286305a6fbf5cbc645d73c92af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1243257761,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1243257761,
+    "wof:lastmodified":1537074463,
+    "wof:name":"Casa Sola",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.05103000000003,
+    12.52357,
+    -86.05103000000003,
+    12.52357
+],
+  "geometry": {"coordinates":[-86.05103000000003,12.52357],"type":"Point"}
+}

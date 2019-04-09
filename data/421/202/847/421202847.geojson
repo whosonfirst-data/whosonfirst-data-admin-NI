@@ -1,0 +1,81 @@
+{
+  "id": 421202847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.76146,11.11146,-85.76146,11.11146",
+    "geom:latitude":11.11146,
+    "geom:longitude":-85.76146,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ostinal"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3619569,
+    "qs:gn_pop":0,
+    "qs:name":"El Ostional",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Rivas",
+    "qs:photos":199,
+    "qs:photos_1k":40,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":199,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":228597,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152625,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":2134,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619569,
+        "gp:id":152625,
+        "qs:id":228597,
+        "wd:id":"Q22092326"
+    },
+    "wof:country":"NI",
+    "wof:created":1459010131,
+    "wof:geomhash":"18887e118c9625ce5e317de892cde475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202297,
+            "locality_id":421202847,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":421202847,
+    "wof:lastmodified":1527716211,
+    "wof:name":"El Ostional",
+    "wof:parent_id":421202297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76146,
+    11.11146,
+    -85.76146,
+    11.11146
+],
+  "geometry": {"coordinates":[-85.76146,11.11146],"type":"Point"}
+}

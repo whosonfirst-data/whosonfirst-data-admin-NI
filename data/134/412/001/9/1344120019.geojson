@@ -1,0 +1,67 @@
+{
+  "id": 1344120019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.03333,12.93333,-85.03333,12.93333",
+    "geom:latitude":12.93333,
+    "geom:longitude":-85.03333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Bilampi",
+    "gn:country_code":"NI",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620709,
+    "gn:latitude":12.93333,
+    "gn:longitude":-85.03333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Bilamp\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620709
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8fd75adae6e5cb1952d7bff740888334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":1344120019,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1344120019,
+    "wof:lastmodified":1536790192,
+    "wof:name":"Bilampi",
+    "wof:parent_id":1108693871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.03333,
+    12.93333,
+    -85.03333,
+    12.93333
+],
+  "geometry": {"coordinates":[-85.03333000000001,12.93333],"type":"Point"}
+}

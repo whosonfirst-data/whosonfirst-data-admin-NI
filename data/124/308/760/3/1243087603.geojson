@@ -1,0 +1,67 @@
+{
+  "id": 1243087603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.63703,12.57812,-86.63703,12.57812",
+    "geom:latitude":12.57812,
+    "geom:longitude":-86.63703,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"NI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616586,
+    "gn:latitude":12.57812,
+    "gn:longitude":-86.63703,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616586
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bec06bbd54c1bb5ff78a7d82fa6b308d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693767,
+            "locality_id":1243087603,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1243087603,
+    "wof:lastmodified":1536824907,
+    "wof:name":"San Ramon",
+    "wof:parent_id":1108693767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.63703000000002,
+    12.57812,
+    -86.63703000000002,
+    12.57812
+],
+  "geometry": {"coordinates":[-86.63703000000002,12.57812],"type":"Point"}
+}

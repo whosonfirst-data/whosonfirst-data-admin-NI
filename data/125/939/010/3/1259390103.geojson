@@ -1,0 +1,67 @@
+{
+  "id": 1259390103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.09321,12.6851,-87.09321,12.6851",
+    "geom:latitude":12.6851,
+    "geom:longitude":-87.09321,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Chuscada",
+    "gn:country_code":"NI",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618655,
+    "gn:latitude":12.6851,
+    "gn:longitude":-87.09321,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Chuscada",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421171365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618655
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bc93f7d0cc349f2a83be5f6c6853b1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171365,
+            "locality_id":1259390103,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1259390103,
+    "wof:lastmodified":1536991838,
+    "wof:name":"La Chuscada",
+    "wof:parent_id":421171365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.09321,
+    12.6851,
+    -87.09321,
+    12.6851
+],
+  "geometry": {"coordinates":[-87.09321,12.6851],"type":"Point"}
+}

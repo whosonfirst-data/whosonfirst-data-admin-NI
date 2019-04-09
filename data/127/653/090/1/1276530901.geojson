@@ -1,0 +1,67 @@
+{
+  "id": 1276530901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.86598,11.26874,-85.86598,11.26874",
+    "geom:latitude":11.26874,
+    "geom:longitude":-85.86598,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nandaime",
+    "gn:country_code":"NI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617514,
+    "gn:latitude":11.26874,
+    "gn:longitude":-85.86598,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nandaime",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617514
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"de3ffadf970a6cce79a90326111ba7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202297,
+            "locality_id":1276530901,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1276530901,
+    "wof:lastmodified":1537010624,
+    "wof:name":"Nandaime",
+    "wof:parent_id":421202297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86598000000002,
+    11.26874,
+    -85.86598000000002,
+    11.26874
+],
+  "geometry": {"coordinates":[-85.86598000000002,11.26874],"type":"Point"}
+}

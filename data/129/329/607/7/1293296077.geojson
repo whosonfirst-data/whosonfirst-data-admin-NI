@@ -1,0 +1,70 @@
+{
+  "id": 1293296077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.31728,11.68202,-86.31728,11.68202",
+    "geom:latitude":11.68202,
+    "geom:longitude":-86.31728,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Banosa",
+    "gn:country_code":"NI",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017087,
+    "gn:latitude":11.68202,
+    "gn:longitude":-86.31728,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Banosa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Banosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017087
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1ce5327a0c1cb55ea5ec4b8f79281b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1293296077,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1293296077,
+    "wof:lastmodified":1537675586,
+    "wof:name":"Banosa",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.31728000000003,
+    11.68202,
+    -86.31728000000003,
+    11.68202
+],
+  "geometry": {"coordinates":[-86.31728000000003,11.68202],"type":"Point"}
+}

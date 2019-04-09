@@ -1,0 +1,71 @@
+{
+  "id": 1293460739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.77389,10.77523,-83.77389,10.77523",
+    "geom:latitude":10.77523,
+    "geom:longitude":-83.77389,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Delta del San Juan",
+    "gn:country_code":"NI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620191,
+    "gn:latitude":10.77523,
+    "gn:longitude":-83.77389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Delta del San Juan",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Delta",
+        "Delta del San Juan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        421175429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620191
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7530f788dc0130b6d9f4a8fc940b6f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175429,
+            "locality_id":1293460739,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":1293460739,
+    "wof:lastmodified":1537675572,
+    "wof:name":"Delta del San Juan",
+    "wof:parent_id":421175429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.77389000000002,
+    10.77523,
+    -83.77389000000002,
+    10.77523
+],
+  "geometry": {"coordinates":[-83.77389000000002,10.77523],"type":"Point"}
+}

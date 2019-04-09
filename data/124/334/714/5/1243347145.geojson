@@ -1,0 +1,71 @@
+{
+  "id": 1243347145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28169,12.49104,-86.28169,12.49104",
+    "geom:latitude":12.49104,
+    "geom:longitude":-86.28169,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Puerto Nuevo",
+    "gn:country_code":"NI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617144,
+    "gn:latitude":12.49104,
+    "gn:longitude":-86.28169,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puerto Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Costa Rica",
+        "Puerto Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617144
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"94754059439192ea81df38fb3c238389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693775,
+            "locality_id":1243347145,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1243347145,
+    "wof:lastmodified":1537675540,
+    "wof:name":"Puerto Nuevo",
+    "wof:parent_id":1108693775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28169,
+    12.49104,
+    -86.28169,
+    12.49104
+],
+  "geometry": {"coordinates":[-86.28169,12.49104],"type":"Point"}
+}

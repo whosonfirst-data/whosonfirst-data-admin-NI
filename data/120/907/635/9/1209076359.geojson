@@ -1,0 +1,66 @@
+{
+  "id": 1209076359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.03462,11.41581,-86.03462,11.41581",
+    "geom:latitude":11.41581,
+    "geom:longitude":-86.03462,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Guiscoyol",
+    "gn:country_code":"NI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619056,
+    "gn:latitude":11.41581,
+    "gn:longitude":-86.03462,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fciscoyol",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guiscyal",
+        "Guiscaya",
+        "G\u00fciscoyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619056
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f8ab4d717cf51fafb5f695810eb472d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209076359
+        }
+    ],
+    "wof:id":1209076359,
+    "wof:lastmodified":1537675560,
+    "wof:name":"Guiscoyol",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.03461999999998,
+    11.41581,
+    -86.03461999999998,
+    11.41581
+],
+  "geometry": {"coordinates":[-86.03461999999998,11.41581],"type":"Point"}
+}

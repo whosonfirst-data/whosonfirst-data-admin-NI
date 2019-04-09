@@ -1,0 +1,67 @@
+{
+  "id": 1226335565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.8,12.35,-86.8,12.35",
+    "geom:latitude":12.35,
+    "geom:longitude":-86.8,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Castillo",
+    "gn:country_code":"NI",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620444,
+    "gn:latitude":12.35,
+    "gn:longitude":-86.8,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Castillo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620444
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"263a7fb7be8128435ae66754eb01b83f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693769,
+            "locality_id":1226335565,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1226335565,
+    "wof:lastmodified":1536804066,
+    "wof:name":"Castillo",
+    "wof:parent_id":1108693769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.8,
+    12.35,
+    -86.8,
+    12.35
+],
+  "geometry": {"coordinates":[-86.8,12.35],"type":"Point"}
+}

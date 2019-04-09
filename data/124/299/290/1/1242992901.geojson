@@ -1,0 +1,67 @@
+{
+  "id": 1242992901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.92005,12.48137,-86.92005,12.48137",
+    "geom:latitude":12.48137,
+    "geom:longitude":-86.92005,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Carmen",
+    "gn:country_code":"NI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619977,
+    "gn:latitude":12.48137,
+    "gn:longitude":-86.92005,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Carmen",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619977
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fbb2a5fa44a3378c7231cdb9fbd925c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693769,
+            "locality_id":1242992901,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1242992901,
+    "wof:lastmodified":1536962335,
+    "wof:name":"El Carmen",
+    "wof:parent_id":1108693769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.92005,
+    12.48137,
+    -86.92005,
+    12.48137
+],
+  "geometry": {"coordinates":[-86.92005,12.48137],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310465087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.5848,12.89559,-83.5848,12.89559",
+    "geom:latitude":12.89559,
+    "geom:longitude":-83.5848,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kara",
+    "gn:country_code":"NI",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618885,
+    "gn:latitude":12.89559,
+    "gn:longitude":-83.5848,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kara",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cara",
+        "Kara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618885
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f9e84ce47b0ba83631c5a501d76220a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693879,
+            "locality_id":1310465087,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1310465087,
+    "wof:lastmodified":1537675559,
+    "wof:name":"Kara",
+    "wof:parent_id":1108693879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.5848,
+    12.89559,
+    -83.5848,
+    12.89559
+],
+  "geometry": {"coordinates":[-83.5848,12.89559],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276862269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.42649,12.8666,-86.42649,12.8666",
+    "geom:latitude":12.8666,
+    "geom:longitude":-86.42649,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Morada",
+    "gn:country_code":"NI",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618445,
+    "gn:latitude":12.8666,
+    "gn:longitude":-86.42649,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Morada",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618445
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7246db24f9ed30f173a031365b291e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693763,
+            "locality_id":1276862269,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1276862269,
+    "wof:lastmodified":1537061981,
+    "wof:name":"La Morada",
+    "wof:parent_id":1108693763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.42649,
+    12.8666,
+    -86.42649,
+    12.8666
+],
+  "geometry": {"coordinates":[-86.42649,12.8666],"type":"Point"}
+}

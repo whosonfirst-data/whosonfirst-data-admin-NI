@@ -1,0 +1,67 @@
+{
+  "id": 1242858153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.33074,12.02369,-86.33074,12.02369",
+    "geom:latitude":12.02369,
+    "geom:longitude":-86.33074,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mazatlan",
+    "gn:country_code":"NI",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617683,
+    "gn:latitude":12.02369,
+    "gn:longitude":-86.33074,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Mazatl\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617683
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5f3fb9bfe17aee2849947472f56847d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1242858153,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1242858153,
+    "wof:lastmodified":1536659645,
+    "wof:name":"Mazatlan",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.33074,
+    12.02369,
+    -86.33074,
+    12.02369
+],
+  "geometry": {"coordinates":[-86.33074000000001,12.02369],"type":"Point"}
+}

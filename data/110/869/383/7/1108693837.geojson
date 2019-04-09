@@ -1,0 +1,91 @@
+{
+  "id": 1108693837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.01004,
+    "geom:area_square_m":121201026.523376,
+    "geom:bbox":"-85.7658961522,12.443015539,-85.6609880891,12.5759593429",
+    "geom:latitude":12.510026,
+    "geom:longitude":-85.716662,
+    "iso:country":"NI",
+    "lbl:latitude":12.516164,
+    "lbl:longitude":-85.722906,
+    "meso:admin_1":"BOACO",
+    "meso:gadm_admin":"Santa Luc\u00eda",
+    "meso:gadm_hasc2":"NI.BO.SL",
+    "meso:gaul_admin":"Santa Lucia",
+    "meso:local_id":"23125",
+    "meso:mps_x":-85.722906,
+    "meso:mps_y":12.516164,
+    "meso:name_local":"SANTA LUCIA",
+    "meso:source":"ISCGM",
+    "mps:latitude":12.516164,
+    "mps:longitude":-85.722906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santa Lucia"
+    ],
+    "name:eng_x_variant":[
+        "Santa Lucia",
+        "Santa Luc\u00eda",
+        "SANTA LUCIA"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"121.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"Santa Lucia",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.BO",
+    "statoids:name":"Santa Luc\u00eda",
+    "statoids:population":"8254",
+    "statoids:statoid":"NI.BO.SL",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.BO.SL"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415171,
+    "wof:geomhash":"c5982526f617ed9d8e001371c04aa5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693837,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1108693837,
+    "wof:lastmodified":1544032792,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":85675521,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":8254,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76589615218627,
+    12.44301553896765,
+    -85.66098808908669,
+    12.57595934293518
+],
+  "geometry": {"coordinates":[[[-85.75375587084558,12.55260372138979],[-85.74682531500832,12.55720610978861],[-85.7369767375737,12.56974726565954],[-85.72619019917487,12.57595934293518],[-85.71198041300555,12.56691487758144],[-85.69556595262439,12.56318863056797],[-85.67735071099384,12.57179439229106],[-85.66868955553957,12.56684121864244],[-85.66272829876084,12.5634314246711],[-85.66098808908669,12.54945588048539],[-85.66159797853982,12.53349177387919],[-85.67600379597901,12.51364730438275],[-85.68744567340323,12.49905711746559],[-85.69383291155205,12.48889565786623],[-85.68856213564031,12.4717239850922],[-85.68208606421291,12.45913689874551],[-85.67757644836212,12.44834942527877],[-85.67785517561776,12.44644428955586],[-85.68838905544338,12.44518351595024],[-85.69999377305889,12.44478184199778],[-85.7130092858327,12.44301553896765],[-85.72910849476455,12.44863269180367],[-85.74527787741727,12.44614843707286],[-85.75500187799271,12.4543439630908],[-85.75935993500093,12.46277340127434],[-85.76030957062619,12.47444423096574],[-85.76264348876531,12.48779515244309],[-85.76589615218627,12.50293476919366],[-85.76555154617564,12.51591400244119],[-85.76357430999288,12.52882016714093],[-85.75368056470714,12.5400396656714],[-85.74893601385162,12.54918524380985],[-85.75375587084558,12.55260372138979]]],"type":"Polygon"}
+}

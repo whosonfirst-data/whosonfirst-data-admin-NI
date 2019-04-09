@@ -1,0 +1,71 @@
+{
+  "id": 1259459957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.86873,12.86449,-85.86873,12.86449",
+    "geom:latitude":12.86449,
+    "geom:longitude":-85.86873,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Samulali",
+    "gn:country_code":"NI",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616976,
+    "gn:latitude":12.86449,
+    "gn:longitude":-85.86873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samulali",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Samalali",
+        "Samulali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616976
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d04b2dc8dc63afe0c088ae7afee53269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1259459957,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1259459957,
+    "wof:lastmodified":1537675538,
+    "wof:name":"Samulali",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86873,
+    12.86449,
+    -85.86873,
+    12.86449
+],
+  "geometry": {"coordinates":[-85.86873,12.86449],"type":"Point"}
+}

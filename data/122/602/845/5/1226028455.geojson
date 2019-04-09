@@ -1,0 +1,67 @@
+{
+  "id": 1226028455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.21667,12.01667,-86.21667,12.01667",
+    "geom:latitude":12.01667,
+    "geom:longitude":-86.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Jorge",
+    "gn:country_code":"NI",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616793,
+    "gn:latitude":12.01667,
+    "gn:longitude":-86.21667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Jorge",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421179217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616793
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e861b1c9b8597a13a4c9c233ad831f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179217,
+            "locality_id":1226028455,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1226028455,
+    "wof:lastmodified":1536749992,
+    "wof:name":"San Jorge",
+    "wof:parent_id":421179217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.21667,
+    12.01667,
+    -86.21667,
+    12.01667
+],
+  "geometry": {"coordinates":[-86.21666999999999,12.01667],"type":"Point"}
+}

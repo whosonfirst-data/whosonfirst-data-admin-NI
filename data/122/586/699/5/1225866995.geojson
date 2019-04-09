@@ -1,0 +1,67 @@
+{
+  "id": 1225866995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.05209,11.78017,-86.05209,11.78017",
+    "geom:latitude":11.78017,
+    "geom:longitude":-86.05209,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Brena",
+    "gn:country_code":"NI",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618714,
+    "gn:latitude":11.78017,
+    "gn:longitude":-86.05209,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Bre\u00f1a",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618714
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"449c8212fea108a61039d324cdb02f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1225866995,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1225866995,
+    "wof:lastmodified":1536982377,
+    "wof:name":"La Brena",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.05209,
+    11.78017,
+    -86.05209,
+    11.78017
+],
+  "geometry": {"coordinates":[-86.05209000000001,11.78017],"type":"Point"}
+}

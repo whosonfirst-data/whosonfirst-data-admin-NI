@@ -1,0 +1,109 @@
+{
+  "id": 421186615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.615009,12.416459,-86.615009,12.416459",
+    "geom:latitude":12.416459,
+    "geom:longitude":-86.615009,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:ces_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:dan_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:deu_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:fin_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d5\u05df \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10dd\u10dc-\u10d5\u10d8\u10d4\u10ee\u10dd"
+    ],
+    "name:lit_x_preferred":[
+        "Senasis Leonas"
+    ],
+    "name:spa_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Leon Viejo",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Le\u00f3n",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":90,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1074598,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153383,
+    "src:geom":"quattroshapes",
+    "wd:latitude":12.400556,
+    "wd:longitude":-86.617222,
+    "wd:wordcount":415,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":153383,
+        "qs:id":1074598,
+        "wd:id":"Q1422898"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009486,
+    "wof:geomhash":"23c15fc0b417d3ddf01d1d42d8cbbe08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693771,
+            "locality_id":421186615,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":421186615,
+    "wof:lastmodified":1527716317,
+    "wof:name":"Leon Viejo",
+    "wof:parent_id":1108693771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.615009,
+    12.416459,
+    -86.615009,
+    12.416459
+],
+  "geometry": {"coordinates":[-86.615009,12.416459],"type":"Point"}
+}

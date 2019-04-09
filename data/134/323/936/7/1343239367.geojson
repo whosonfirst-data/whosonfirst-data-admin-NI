@@ -1,0 +1,71 @@
+{
+  "id": 1343239367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.5239,12.80221,-85.5239,12.80221",
+    "geom:latitude":12.80221,
+    "geom:longitude":-85.5239,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Paso Real",
+    "gn:country_code":"NI",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617312,
+    "gn:latitude":12.80221,
+    "gn:longitude":-85.5239,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Paso Real",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paso Real de la Guardia",
+        "Paso Real"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617312
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bade148dfe894723d955d8b283fad3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693833,
+            "locality_id":1343239367,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343239367,
+    "wof:lastmodified":1537675541,
+    "wof:name":"Paso Real",
+    "wof:parent_id":1108693833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.5239,
+    12.80221,
+    -85.5239,
+    12.80221
+],
+  "geometry": {"coordinates":[-85.5239,12.80221],"type":"Point"}
+}

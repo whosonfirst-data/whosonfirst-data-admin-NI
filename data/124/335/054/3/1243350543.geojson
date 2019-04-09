@@ -1,0 +1,67 @@
+{
+  "id": 1243350543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.9412,12.87191,-85.9412,12.87191",
+    "geom:latitude":12.87191,
+    "geom:longitude":-85.9412,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Jucuapa Arriba",
+    "gn:country_code":"NI",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618909,
+    "gn:latitude":12.87191,
+    "gn:longitude":-85.9412,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Jucuapa Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618909
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8367149324b154befbea197e3a54fd1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1243350543,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1243350543,
+    "wof:lastmodified":1536944353,
+    "wof:name":"Jucuapa Arriba",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.9412,
+    12.87191,
+    -85.9412,
+    12.87191
+],
+  "geometry": {"coordinates":[-85.94119999999999,12.87191],"type":"Point"}
+}

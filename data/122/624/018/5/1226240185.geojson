@@ -1,0 +1,70 @@
+{
+  "id": 1226240185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96482,11.90727,-85.96482,11.90727",
+    "geom:latitude":11.90727,
+    "geom:longitude":-85.96482,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Puerla",
+    "gn:country_code":"NI",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016298,
+    "gn:latitude":11.90727,
+    "gn:longitude":-85.96482,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Puerla",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Puerla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016298
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d23bc148bcebff1ca171366d5c17a941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1226240185,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1226240185,
+    "wof:lastmodified":1537675582,
+    "wof:name":"La Puerla",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96481999999997,
+    11.90727,
+    -85.96481999999997,
+    11.90727
+],
+  "geometry": {"coordinates":[-85.96481999999997,11.90727],"type":"Point"}
+}

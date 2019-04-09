@@ -1,0 +1,75 @@
+{
+  "id": 421171543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.573196,12.8671,-85.573196,12.8671",
+    "geom:latitude":12.8671,
+    "geom:longitude":-85.573196,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Matigu\u00e1s",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Matagalpa",
+    "qs:photos":592,
+    "qs:photos_1k":120,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":640,
+    "qs:photos_sr":8,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264330,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813384,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813384,
+        "qs:id":1264330,
+        "wd:id":"Q2215416"
+    },
+    "wof:country":"NI",
+    "wof:created":1459008897,
+    "wof:geomhash":"442e40a2d9b280dffce3b5f3168d8383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171543,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":421171543,
+    "wof:lastmodified":1527726486,
+    "wof:name":"Matigu\u00e1s",
+    "wof:parent_id":85675513,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.573196,
+    12.8671,
+    -85.573196,
+    12.8671
+],
+  "geometry": {"coordinates":[-85.573196,12.8671],"type":"Point"}
+}

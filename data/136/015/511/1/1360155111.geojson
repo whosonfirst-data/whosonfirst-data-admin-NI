@@ -1,0 +1,67 @@
+{
+  "id": 1360155111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.81794,11.36746,-85.81794,11.36746",
+    "geom:latitude":11.36746,
+    "geom:longitude":-85.81794,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nancite Dulce",
+    "gn:country_code":"NI",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617516,
+    "gn:latitude":11.36746,
+    "gn:longitude":-85.81794,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nancite Dulce",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421197835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617516
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ebe495fe0bcbd29d278e04e235c17ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197835,
+            "locality_id":1360155111,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1360155111,
+    "wof:lastmodified":1536843698,
+    "wof:name":"Nancite Dulce",
+    "wof:parent_id":421197835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.81794000000002,
+    11.36746,
+    -85.81794000000002,
+    11.36746
+],
+  "geometry": {"coordinates":[-85.81794000000002,11.36746],"type":"Point"}
+}

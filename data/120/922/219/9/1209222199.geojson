@@ -1,0 +1,61 @@
+{
+  "id": 1209222199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.84556,12.86278,-86.84556,12.86278",
+    "geom:latitude":12.86278,
+    "geom:longitude":-86.84556,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Israel",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3828359,
+    "gn:latitude":12.86278,
+    "gn:longitude":-86.84556,
+    "gn:modification_date":"2000-07-15",
+    "gn:name":"Israel",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3828359
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d19971d6f392364ea3402973a884d8f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209222199
+        }
+    ],
+    "wof:id":1209222199,
+    "wof:lastmodified":1536293923,
+    "wof:name":"Israel",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.84555999999998,
+    12.86278,
+    -86.84555999999998,
+    12.86278
+],
+  "geometry": {"coordinates":[-86.84555999999998,12.86278],"type":"Point"}
+}

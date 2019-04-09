@@ -1,0 +1,68 @@
+{
+  "id": 1326606323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.02291,14.74112,-84.02291,14.74112",
+    "geom:latitude":14.74112,
+    "geom:longitude":-84.02291,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kisalaya",
+    "gn:country_code":"NI",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618848,
+    "gn:latitude":14.74112,
+    "gn:longitude":-84.02291,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kisalaya",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Quisalaya",
+        "Kisaliya",
+        "Kisalaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618848
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f1ebbed2400853d86cbb7754efcfdcd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1326606323,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326606323,
+    "wof:lastmodified":1537675558,
+    "wof:name":"Kisalaya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.02291,
+    14.74112,
+    -84.02291,
+    14.74112
+],
+  "geometry": {"coordinates":[-84.02291,14.74112],"type":"Point"}
+}

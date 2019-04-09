@@ -1,0 +1,67 @@
+{
+  "id": 1276446345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8,12.48333,-85.8,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-85.8,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"San Diego",
+    "gn:country_code":"NI",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616892,
+    "gn:latitude":12.48333,
+    "gn:longitude":-85.8,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Diego",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421171787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616892
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bfe52bf764b0d255e5feac8c98fed9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171787,
+            "locality_id":1276446345,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1276446345,
+    "wof:lastmodified":1536625192,
+    "wof:name":"San Diego",
+    "wof:parent_id":421171787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.8,
+    12.48333,
+    -85.8,
+    12.48333
+],
+  "geometry": {"coordinates":[-85.8,12.48333],"type":"Point"}
+}

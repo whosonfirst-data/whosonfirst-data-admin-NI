@@ -1,0 +1,67 @@
+{
+  "id": 1260373285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.89823,11.48003,-85.89823,11.48003",
+    "geom:latitude":11.48003,
+    "geom:longitude":-85.89823,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Chacalapa",
+    "gn:country_code":"NI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620412,
+    "gn:latitude":11.48003,
+    "gn:longitude":-85.89823,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Chacalapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        1108693811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620412
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d87db2d9361d905ebec3f0905a32fa4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693811,
+            "locality_id":1260373285,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1260373285,
+    "wof:lastmodified":1537085419,
+    "wof:name":"Chacalapa",
+    "wof:parent_id":1108693811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.89823,
+    11.48003,
+    -85.89823,
+    11.48003
+],
+  "geometry": {"coordinates":[-85.89823,11.48003],"type":"Point"}
+}

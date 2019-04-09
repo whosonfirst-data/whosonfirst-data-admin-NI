@@ -1,0 +1,67 @@
+{
+  "id": 1226221751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.95,13.61667,-85.95,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-85.95,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"La Luz",
+    "gn:country_code":"NI",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618471,
+    "gn:latitude":13.61667,
+    "gn:longitude":-85.95,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Luz",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        1108693699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618471
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f551e31c85339f690b6922fe89944455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693699,
+            "locality_id":1226221751,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":1226221751,
+    "wof:lastmodified":1536967988,
+    "wof:name":"La Luz",
+    "wof:parent_id":1108693699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.95,
+    13.61667,
+    -85.95,
+    13.61667
+],
+  "geometry": {"coordinates":[-85.95,13.61667],"type":"Point"}
+}

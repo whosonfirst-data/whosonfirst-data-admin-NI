@@ -1,0 +1,117 @@
+{
+  "id": 421204907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.59103,14.02885,-84.59103,14.02885",
+    "geom:latitude":14.02885,
+    "geom:longitude":-84.59103,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u535a\u5357\u85a9"
+    ],
+    "name:dut_x_preferred":[
+        "Bonanza"
+    ],
+    "name:eng_x_preferred":[
+        "Bonanza"
+    ],
+    "name:fre_x_preferred":[
+        "Bonanza"
+    ],
+    "name:ger_x_preferred":[
+        "Bonanza"
+    ],
+    "name:ita_x_preferred":[
+        "Bonanza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dc\u30ca\u30f3\u30b5"
+    ],
+    "name:spa_x_preferred":[
+        "Bonanza"
+    ],
+    "name:swe_x_preferred":[
+        "Bonanza"
+    ],
+    "name:unk_x_variant":[
+        "Bonanza Bodega"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0646\u0627\u0646\u0633\u0627\u060c \u0634\u0645\u0627\u0644\u06cc \u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0633\u0627\u062d\u0644 \u062e\u0648\u062f \u0645\u062e\u062a\u0627\u0631 \u0639\u0644\u0627\u0642\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Bonanza"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620645,
+    "qs:gn_pop":6315,
+    "qs:name":"Bonanza",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Norte",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":251592,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152170,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620645,
+        "gp:id":152170,
+        "qs:id":251592,
+        "wd:id":"Q892092",
+        "wk:page":"Bonanza, North Caribbean Coast Autonomous Region"
+    },
+    "wof:country":"NI",
+    "wof:created":1459010202,
+    "wof:geomhash":"f6b29609f09b70e007240de09b6412b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693675,
+            "locality_id":421204907,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":421204907,
+    "wof:lastmodified":1553816390,
+    "wof:name":"Bonanza",
+    "wof:parent_id":1108693675,
+    "wof:placetype":"locality",
+    "wof:population":6315,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.59103,
+    14.02885,
+    -84.59103,
+    14.02885
+],
+  "geometry": {"coordinates":[-84.59103,14.02885],"type":"Point"}
+}

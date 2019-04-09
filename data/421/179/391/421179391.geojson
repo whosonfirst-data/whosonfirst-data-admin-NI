@@ -1,0 +1,129 @@
+{
+  "id": 421179391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.67528,12.34,-86.67528,12.34",
+    "geom:latitude":12.34,
+    "geom:longitude":-86.67528,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:chi_x_preferred":[
+        "\u4e2d\u62c9\u5df4\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03a3\u03ad\u03bd\u03c4\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:fra_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:fre_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03a3\u03ad\u03bd\u03c4\u03c1\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:pol_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:spa_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:unk_x_variant":[
+        "La Paz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632 \u0633\u06cc\u0646\u0679\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u62c9\u5df4\u65af"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3618411,
+    "qs:gn_pop":23481,
+    "qs:name":"La Paz Centro",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Le\u00f3n",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149470,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153151,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618411,
+        "gp:id":153151,
+        "qs:id":149470,
+        "wd:id":"Q2604553"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009214,
+    "wof:geomhash":"2af1d3f57889a1d3b83908c249caba10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693771,
+            "locality_id":421179391,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":421179391,
+    "wof:lastmodified":1527717701,
+    "wof:name":"La Paz Centro",
+    "wof:parent_id":1108693771,
+    "wof:placetype":"locality",
+    "wof:population":23481,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.67528,
+    12.34,
+    -86.67528,
+    12.34
+],
+  "geometry": {"coordinates":[-86.67528,12.34],"type":"Point"}
+}

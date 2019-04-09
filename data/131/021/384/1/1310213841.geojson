@@ -1,0 +1,70 @@
+{
+  "id": 1310213841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.08803,11.71847,-86.08803,11.71847",
+    "geom:latitude":11.71847,
+    "geom:longitude":-86.08803,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Medina",
+    "gn:country_code":"NI",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036060,
+    "gn:latitude":11.71847,
+    "gn:longitude":-86.08803,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Medina",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Medina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036060
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"dbc2ead07f1d3afd02a2cc50971f36a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1310213841,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310213841,
+    "wof:lastmodified":1537675588,
+    "wof:name":"Medina",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.08803,
+    11.71847,
+    -86.08803,
+    11.71847
+],
+  "geometry": {"coordinates":[-86.08803,11.71847],"type":"Point"}
+}

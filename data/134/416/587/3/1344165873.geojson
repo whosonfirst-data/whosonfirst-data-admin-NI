@@ -1,0 +1,71 @@
+{
+  "id": 1344165873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.16029,11.83669,-86.16029,11.83669",
+    "geom:latitude":11.83669,
+    "geom:longitude":-86.16029,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dulce Nombre",
+    "gn:country_code":"NI",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620143,
+    "gn:latitude":11.83669,
+    "gn:longitude":-86.16029,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dulce Nombre",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Dulce Nombre",
+        "Dulce Nombre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620143
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d7db96edbc60c2aba9c65e934fc36f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693799,
+            "locality_id":1344165873,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1344165873,
+    "wof:lastmodified":1537675572,
+    "wof:name":"Dulce Nombre",
+    "wof:parent_id":1108693799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.16029,
+    11.83669,
+    -86.16029,
+    11.83669
+],
+  "geometry": {"coordinates":[-86.16029,11.83669],"type":"Point"}
+}

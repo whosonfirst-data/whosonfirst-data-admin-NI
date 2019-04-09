@@ -1,0 +1,67 @@
+{
+  "id": 1209792925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96262,12.99798,-85.96262,12.99798",
+    "geom:latitude":12.99798,
+    "geom:longitude":-85.96262,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Apalili",
+    "gn:country_code":"NI",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620892,
+    "gn:latitude":12.99798,
+    "gn:longitude":-85.96262,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Apalil\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620892
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"19263dd3f93d409464249e4d1adcacf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1209792925,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1209792925,
+    "wof:lastmodified":1536394187,
+    "wof:name":"Apalili",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96262,
+    12.99798,
+    -85.96262,
+    12.99798
+],
+  "geometry": {"coordinates":[-85.96262,12.99798],"type":"Point"}
+}

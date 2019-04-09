@@ -1,0 +1,138 @@
+{
+  "id": 421180165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.16466,12.54307,-87.16466,12.54307",
+    "geom:latitude":12.54307,
+    "geom:longitude":-87.16466,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Realejo"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u96f7\u963f\u840a\u970d"
+    ],
+    "name:deu_x_preferred":[
+        "El Realejo"
+    ],
+    "name:dut_x_preferred":[
+        "El Realejo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a1\u03b5\u03b1\u03bb\u03ad\u03c7\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "El Realejo"
+    ],
+    "name:fra_x_preferred":[
+        "El Realejo"
+    ],
+    "name:fre_x_preferred":[
+        "El Realejo"
+    ],
+    "name:ger_x_preferred":[
+        "El Realejo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u03a1\u03b5\u03b1\u03bb\u03ad\u03c7\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "El Realejo"
+    ],
+    "name:nld_x_preferred":[
+        "El Realejo"
+    ],
+    "name:pol_x_preferred":[
+        "El Realejo"
+    ],
+    "name:spa_x_preferred":[
+        "El Realejo"
+    ],
+    "name:swe_x_preferred":[
+        "El Realejo"
+    ],
+    "name:unk_x_variant":[
+        "Realejo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0631\u06cc\u0627\u0644\u06cc\u062e\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Realejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u96f7\u963f\u840a\u970d"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3619451,
+    "qs:gn_pop":6208,
+    "qs:name":"El Realejo",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Chinandega",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":24,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1117593,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152697,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619451,
+        "gp:id":152697,
+        "qs:id":1117593,
+        "wd:id":"Q368227",
+        "wk:page":"El Realejo"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009246,
+    "wof:geomhash":"005bc535f7388efacb3023bb97878198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693747,
+            "locality_id":421180165,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":421180165,
+    "wof:lastmodified":1514491740,
+    "wof:name":"El Realejo",
+    "wof:parent_id":1108693747,
+    "wof:placetype":"locality",
+    "wof:population":6208,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.16466,
+    12.54307,
+    -87.16466,
+    12.54307
+],
+  "geometry": {"coordinates":[-87.16466,12.54307],"type":"Point"}
+}

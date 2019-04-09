@@ -1,0 +1,67 @@
+{
+  "id": 1242641065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.58333,13.21667,-83.58333,13.21667",
+    "geom:latitude":13.21667,
+    "geom:longitude":-83.58333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wankluma",
+    "gn:country_code":"NI",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615762,
+    "gn:latitude":13.21667,
+    "gn:longitude":-83.58333,
+    "gn:modification_date":"2003-08-04",
+    "gn:name":"Wankluma",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615762
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f46e3b0cebb3099c76fe3d71be454754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693681,
+            "locality_id":1242641065,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1242641065,
+    "wof:lastmodified":1536972145,
+    "wof:name":"Wankluma",
+    "wof:parent_id":1108693681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.58333,
+    13.21667,
+    -83.58333,
+    13.21667
+],
+  "geometry": {"coordinates":[-83.58333,13.21667],"type":"Point"}
+}

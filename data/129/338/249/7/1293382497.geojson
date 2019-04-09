@@ -1,0 +1,67 @@
+{
+  "id": 1293382497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.94213,11.97878,-85.94213,11.97878",
+    "geom:latitude":11.97878,
+    "geom:longitude":-85.94213,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Calzada",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618692,
+    "gn:latitude":11.97878,
+    "gn:longitude":-85.94213,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Calzada",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618692
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6cb05be224b3a12ddd3dfba8ba1c3f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1293382497,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1293382497,
+    "wof:lastmodified":1536939132,
+    "wof:name":"La Calzada",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.94213,
+    11.97878,
+    -85.94213,
+    11.97878
+],
+  "geometry": {"coordinates":[-85.94213000000001,11.97878],"type":"Point"}
+}

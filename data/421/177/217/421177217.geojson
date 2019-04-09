@@ -1,0 +1,124 @@
+{
+  "id": 421177217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.43841,13.66034,-86.43841,13.66034",
+    "geom:latitude":13.66034,
+    "geom:longitude":-86.43841,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u043e\u0437\u043e\u043d\u0442\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Mozonte"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ab\u677e\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "Mozonte"
+    ],
+    "name:eng_x_preferred":[
+        "Mozonte"
+    ],
+    "name:fra_x_preferred":[
+        "Mozonte"
+    ],
+    "name:fre_x_preferred":[
+        "Mozonte"
+    ],
+    "name:ita_x_preferred":[
+        "Mozonte"
+    ],
+    "name:spa_x_preferred":[
+        "Mozonte"
+    ],
+    "name:swe_x_preferred":[
+        "Mozonte"
+    ],
+    "name:unk_x_variant":[
+        "Mosonte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u0648\u0646\u062a\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Mozonte"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u677e\u7279"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617565,
+    "qs:gn_pop":2338,
+    "qs:name":"Mozonte",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1117604,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153590,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":31,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        1108693709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617565,
+        "gp:id":153590,
+        "qs:id":1117604,
+        "wd:id":"Q2215922",
+        "wk:page":"Mozonte"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009136,
+    "wof:geomhash":"3be36a82aa3ecba596004cefafd34b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693709,
+            "locality_id":421177217,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":421177217,
+    "wof:lastmodified":1527716478,
+    "wof:name":"Mozonte",
+    "wof:parent_id":1108693709,
+    "wof:placetype":"locality",
+    "wof:population":2338,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.43841,
+    13.66034,
+    -86.43841,
+    13.66034
+],
+  "geometry": {"coordinates":[-86.43841,13.66034],"type":"Point"}
+}

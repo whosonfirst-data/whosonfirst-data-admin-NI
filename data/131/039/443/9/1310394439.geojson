@@ -1,0 +1,72 @@
+{
+  "id": 1310394439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.50144,12.0622,-86.50144,12.0622",
+    "geom:latitude":12.0622,
+    "geom:longitude":-86.50144,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ingenio Santa Rita",
+    "gn:country_code":"NI",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618984,
+    "gn:latitude":12.0622,
+    "gn:longitude":-86.50144,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ingenio Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Monte Fresco",
+        "Santa Rita",
+        "Ingenio Santa Rita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618984
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4f2069f19c755989f6a61b36e5bd996a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693777,
+            "locality_id":1310394439,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1310394439,
+    "wof:lastmodified":1537675560,
+    "wof:name":"Ingenio Santa Rita",
+    "wof:parent_id":1108693777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.50144,
+    12.0622,
+    -86.50144,
+    12.0622
+],
+  "geometry": {"coordinates":[-86.50144,12.0622],"type":"Point"}
+}

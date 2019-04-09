@@ -1,0 +1,76 @@
+{
+  "id": 421184001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.06667,12.31667,-86.06667,12.31667",
+    "geom:latitude":12.31667,
+    "geom:longitude":-86.06667,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616926,
+    "qs:gn_pop":0,
+    "qs:name":"San Benito",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Managua",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":988306,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153840,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616926,
+        "gp:id":153840,
+        "qs:id":988306
+    },
+    "wof:country":"NI",
+    "wof:created":1459009397,
+    "wof:geomhash":"b8ab282784e05bf1bb88e9d32bb21691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":421184001,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":421184001,
+    "wof:lastmodified":1500017633,
+    "wof:name":"San Benito",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.06667,
+    12.31667,
+    -86.06667,
+    12.31667
+],
+  "geometry": {"coordinates":[-86.06667,12.31667],"type":"Point"}
+}

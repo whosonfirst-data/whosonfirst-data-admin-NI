@@ -1,0 +1,70 @@
+{
+  "id": 1293213587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.39582,11.72602,-86.39582,11.72602",
+    "geom:latitude":11.72602,
+    "geom:longitude":-86.39582,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Horno Grande",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016414,
+    "gn:latitude":11.72602,
+    "gn:longitude":-86.39582,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Horno Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Horno Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016414
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"24b0f8d35b7aaf2a18a52d05f56eb40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1293213587,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1293213587,
+    "wof:lastmodified":1537675584,
+    "wof:name":"Horno Grande",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.39582,
+    11.72602,
+    -86.39582,
+    11.72602
+],
+  "geometry": {"coordinates":[-86.39582,11.72602],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209486857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.87711,13.79713,-84.87711,13.79713",
+    "geom:latitude":13.79713,
+    "geom:longitude":-84.87711,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Waspuk",
+    "gn:country_code":"NI",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615727,
+    "gn:latitude":13.79713,
+    "gn:longitude":-84.87711,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Waspuk",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waspuko",
+        "Waspuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615727
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"be3839cfe82494436ae60ed6205d78a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209486857
+        }
+    ],
+    "wof:id":1209486857,
+    "wof:lastmodified":1537675527,
+    "wof:name":"Waspuk",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.87711,
+    13.79713,
+    -84.87711,
+    13.79713
+],
+  "geometry": {"coordinates":[-84.87711,13.79713],"type":"Point"}
+}

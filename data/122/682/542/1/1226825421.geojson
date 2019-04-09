@@ -1,0 +1,67 @@
+{
+  "id": 1226825421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.27976,14.46218,-83.27976,14.46218",
+    "geom:latitude":14.46218,
+    "geom:longitude":-83.27976,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tawasakia",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616110,
+    "gn:latitude":14.46218,
+    "gn:longitude":-83.27976,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Tawasakia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616110
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9247ee25fa33e44c9293a96f0dec9432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":1226825421,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1226825421,
+    "wof:lastmodified":1537094433,
+    "wof:name":"Tawasakia",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.27976,
+    14.46218,
+    -83.27976,
+    14.46218
+],
+  "geometry": {"coordinates":[-83.27976,14.46218],"type":"Point"}
+}

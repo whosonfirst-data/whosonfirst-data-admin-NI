@@ -1,0 +1,67 @@
+{
+  "id": 1226518619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.39806,15.00669,-83.39806,15.00669",
+    "geom:latitude":15.00669,
+    "geom:longitude":-83.39806,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Liwa Sirpe",
+    "gn:country_code":"NI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617990,
+    "gn:latitude":15.00669,
+    "gn:longitude":-83.39806,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Liwa Sirpe",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617990
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9970cc1070718fb5e7fd2d0400a1107c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1226518619,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1226518619,
+    "wof:lastmodified":1537035675,
+    "wof:name":"Liwa Sirpe",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.39806,
+    15.00669,
+    -83.39806,
+    15.00669
+],
+  "geometry": {"coordinates":[-83.39806,15.00669],"type":"Point"}
+}

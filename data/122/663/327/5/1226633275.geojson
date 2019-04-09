@@ -1,0 +1,72 @@
+{
+  "id": 1226633275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96562,12.84867,-85.96562,12.84867",
+    "geom:latitude":12.84867,
+    "geom:longitude":-85.96562,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"El Bijague",
+    "gn:country_code":"NI",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620054,
+    "gn:latitude":12.84867,
+    "gn:longitude":-85.96562,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bijague",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bijague",
+        "Bijaque",
+        "El Bijague"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620054
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"badd6baf9f105b57d7879e91e44ca6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1226633275,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1226633275,
+    "wof:lastmodified":1537675571,
+    "wof:name":"El Bijague",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96562,
+    12.84867,
+    -85.96562,
+    12.84867
+],
+  "geometry": {"coordinates":[-85.96562,12.84867],"type":"Point"}
+}

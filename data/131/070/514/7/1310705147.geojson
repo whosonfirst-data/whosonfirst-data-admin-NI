@@ -1,0 +1,70 @@
+{
+  "id": 1310705147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.35005,11.65167,-86.35005,11.65167",
+    "geom:latitude":11.65167,
+    "geom:longitude":-86.35005,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Verarera",
+    "gn:country_code":"NI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016421,
+    "gn:latitude":11.65167,
+    "gn:longitude":-86.35005,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Verarera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Verarera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016421
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"969b8e77464cd7c3f7766ba6d1661d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1310705147,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1310705147,
+    "wof:lastmodified":1537675584,
+    "wof:name":"La Verarera",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.35005,
+    11.65167,
+    -86.35005,
+    11.65167
+],
+  "geometry": {"coordinates":[-86.35005,11.65167],"type":"Point"}
+}

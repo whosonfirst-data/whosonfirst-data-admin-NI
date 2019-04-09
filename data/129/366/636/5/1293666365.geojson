@@ -1,0 +1,67 @@
+{
+  "id": 1293666365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.09128,12.76486,-86.09128,12.76486",
+    "geom:latitude":12.76486,
+    "geom:longitude":-86.09128,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Jagua",
+    "gn:country_code":"NI",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618504,
+    "gn:latitude":12.76486,
+    "gn:longitude":-86.09128,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Jagua",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618504
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8e74e076318d9a2f84bcee067556a9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171805,
+            "locality_id":1293666365,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1293666365,
+    "wof:lastmodified":1537025348,
+    "wof:name":"La Jagua",
+    "wof:parent_id":421171805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.09128,
+    12.76486,
+    -86.09128,
+    12.76486
+],
+  "geometry": {"coordinates":[-86.09128,12.76486],"type":"Point"}
+}

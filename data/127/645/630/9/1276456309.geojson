@@ -1,0 +1,74 @@
+{
+  "id": 1276456309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18107,11.82169,-86.18107,11.82169",
+    "geom:latitude":11.82169,
+    "geom:longitude":-86.18107,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guiquiliapa",
+    "gn:country_code":"NI",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619058,
+    "gn:latitude":11.82169,
+    "gn:longitude":-86.18107,
+    "gn:modification_date":"2012-03-23",
+    "gn:name":"G\u00fciquiliapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guisguilapa",
+        "Guisquiliapa",
+        "G\u00fcisquilapa",
+        "G\u00fciquiliapa",
+        "Wiskiliapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619058
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9083e4e9772e8d6f773610e6febe167d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1276456309,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1276456309,
+    "wof:lastmodified":1537675560,
+    "wof:name":"Guiquiliapa",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18106999999998,
+    11.82169,
+    -86.18106999999998,
+    11.82169
+],
+  "geometry": {"coordinates":[-86.18106999999998,11.82169],"type":"Point"}
+}

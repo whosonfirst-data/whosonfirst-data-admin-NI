@@ -1,0 +1,67 @@
+{
+  "id": 1293276715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.68731,13.62998,-86.68731,13.62998",
+    "geom:latitude":13.62998,
+    "geom:longitude":-86.68731,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Icalupe",
+    "gn:country_code":"NI",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618996,
+    "gn:latitude":13.62998,
+    "gn:longitude":-86.68731,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Icalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675511,
+        421171799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618996
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"279b7d5f6aba2155f7efd07262e3e1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171799,
+            "locality_id":1293276715,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":1293276715,
+    "wof:lastmodified":1537087727,
+    "wof:name":"Icalupe",
+    "wof:parent_id":421171799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.68731,
+    13.62998,
+    -86.68731,
+    13.62998
+],
+  "geometry": {"coordinates":[-86.68731,13.62998],"type":"Point"}
+}

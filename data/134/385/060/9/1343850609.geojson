@@ -1,0 +1,67 @@
+{
+  "id": 1343850609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.07514,11.8108,-86.07514,11.8108",
+    "geom:latitude":11.8108,
+    "geom:longitude":-86.07514,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Encanto",
+    "gn:country_code":"NI",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619820,
+    "gn:latitude":11.8108,
+    "gn:longitude":-86.07514,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Encanto",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619820
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b924d4936ede48194543ad64746c843c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1343850609,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1343850609,
+    "wof:lastmodified":1536680815,
+    "wof:name":"El Encanto",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.07514,
+    11.8108,
+    -86.07514,
+    11.8108
+],
+  "geometry": {"coordinates":[-86.07514,11.8108],"type":"Point"}
+}

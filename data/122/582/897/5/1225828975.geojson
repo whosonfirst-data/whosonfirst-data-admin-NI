@@ -1,0 +1,67 @@
+{
+  "id": 1225828975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28274,12.01516,-86.28274,12.01516",
+    "geom:latitude":12.01516,
+    "geom:longitude":-86.28274,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Vicente",
+    "gn:country_code":"NI",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616341,
+    "gn:latitude":12.01516,
+    "gn:longitude":-86.28274,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Vicente",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616341
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ba112b43a7e98929292f60536dd049f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1225828975,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1225828975,
+    "wof:lastmodified":1537036307,
+    "wof:name":"San Vicente",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28274,
+    12.01516,
+    -86.28274,
+    12.01516
+],
+  "geometry": {"coordinates":[-86.28274,12.01516],"type":"Point"}
+}

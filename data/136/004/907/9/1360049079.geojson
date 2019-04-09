@@ -1,0 +1,67 @@
+{
+  "id": 1360049079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.51725,14.0596,-83.51725,14.0596",
+    "geom:latitude":14.0596,
+    "geom:longitude":-83.51725,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Dakban",
+    "gn:country_code":"NI",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620206,
+    "gn:latitude":14.0596,
+    "gn:longitude":-83.51725,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Dakban",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620206
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4421d5db643fdce2ec2864afabf3b42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":1360049079,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1360049079,
+    "wof:lastmodified":1536997001,
+    "wof:name":"Dakban",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.51725,
+    14.0596,
+    -83.51725,
+    14.0596
+],
+  "geometry": {"coordinates":[-83.51725,14.0596],"type":"Point"}
+}

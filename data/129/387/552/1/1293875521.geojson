@@ -1,0 +1,71 @@
+{
+  "id": 1293875521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.14846,13.31981,-86.14846,13.31981",
+    "geom:latitude":13.31981,
+    "geom:longitude":-86.14846,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Coyolar",
+    "gn:country_code":"NI",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619861,
+    "gn:latitude":13.31981,
+    "gn:longitude":-86.14846,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Coyolar",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coyolar",
+        "El Coyolar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619861
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1f4403c4a45777a7bbedcc18b5a6e86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693689,
+            "locality_id":1293875521,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1293875521,
+    "wof:lastmodified":1537675568,
+    "wof:name":"El Coyolar",
+    "wof:parent_id":1108693689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.14846,
+    13.31981,
+    -86.14846,
+    13.31981
+],
+  "geometry": {"coordinates":[-86.14846,13.31981],"type":"Point"}
+}

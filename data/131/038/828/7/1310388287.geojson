@@ -1,0 +1,67 @@
+{
+  "id": 1310388287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.67339,11.55616,-85.67339,11.55616",
+    "geom:latitude":11.55616,
+    "geom:longitude":-85.67339,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Concepcion",
+    "gn:country_code":"NI",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618649,
+    "gn:latitude":11.55616,
+    "gn:longitude":-85.67339,
+    "gn:modification_date":"2016-02-12",
+    "gn:name":"La Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618649
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ba55f8238725f38fa4b1fb992b0cd460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202289,
+            "locality_id":1310388287,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1310388287,
+    "wof:lastmodified":1537082897,
+    "wof:name":"La Concepcion",
+    "wof:parent_id":421202289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.67339,
+    11.55616,
+    -85.67339,
+    11.55616
+],
+  "geometry": {"coordinates":[-85.67339,11.55616],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 890438817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.51081,12.28345,-85.51081,12.28345",
+    "geom:latitude":12.28345,
+    "geom:longitude":-85.51081,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":1272,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u79d1\u99ac\u62c9\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Comalapa"
+    ],
+    "name:eng_x_preferred":[
+        "Comalapa"
+    ],
+    "name:fre_x_preferred":[
+        "Comalapa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bc\u03b1\u03bb\u03ac\u03c0\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Comalapa"
+    ],
+    "name:spa_x_preferred":[
+        "Comalapa"
+    ],
+    "name:swe_x_preferred":[
+        "Comalapa"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u0644\u0627\u067e\u0627\u060c \u0686\u0648\u0646\u062a\u0627\u0644\u06cc\u0633"
+    ],
+    "qs:name":"Comalapa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620318,
+        "gp:id":152289,
+        "qs:id":1045745,
+        "wd:id":"Q677924",
+        "wk:page":"Comalapa"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052210,
+    "wof:geomhash":"a5eaaaacf3dd1568f19e4879764a1475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693843,
+            "locality_id":890438817,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":890438817,
+    "wof:lastmodified":1553816398,
+    "wof:name":"Comalapa",
+    "wof:parent_id":1108693843,
+    "wof:placetype":"locality",
+    "wof:population":1272,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.51081,
+    12.28345,
+    -85.51081,
+    12.28345
+],
+  "geometry": {"coordinates":[-85.51081000000001,12.28345],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 890430707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.9717,14.74189,-83.9717,14.74189",
+    "geom:latitude":14.74189,
+    "geom:longitude":-83.9717,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":6403,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u74e6\u65af\u6f58"
+    ],
+    "name:dut_x_preferred":[
+        "Waspam"
+    ],
+    "name:eng_x_preferred":[
+        "Waspam"
+    ],
+    "name:fre_x_preferred":[
+        "Waspam"
+    ],
+    "name:ita_x_preferred":[
+        "Wasp\u00e1n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30b9\u30d1\u30f3"
+    ],
+    "name:spa_x_preferred":[
+        "Wasp\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Waspam"
+    ],
+    "name:unk_x_variant":[
+        "Huaspan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0633\u067e\u0627\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Wasp\u00e1n"
+    ],
+    "qs:name":"Waspam",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615730,
+        "gp:id":154483,
+        "qs:id":149439,
+        "wd:id":"Q2217458",
+        "wk:page":"Waspam"
+    },
+    "wof:country":"NI",
+    "wof:created":1469051863,
+    "wof:geomhash":"a58c1ab56aa88f6a9ec2b5be94c7df6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":890430707,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":890430707,
+    "wof:lastmodified":1527729734,
+    "wof:name":"Waspam",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:population":6403,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.9717,
+    14.74189,
+    -83.9717,
+    14.74189
+],
+  "geometry": {"coordinates":[-83.9717,14.74189],"type":"Point"}
+}

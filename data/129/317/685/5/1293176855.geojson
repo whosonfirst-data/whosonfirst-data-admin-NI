@@ -1,0 +1,67 @@
+{
+  "id": 1293176855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.7116,12.55403,-83.7116,12.55403",
+    "geom:latitude":12.55403,
+    "geom:longitude":-83.7116,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Orinoco",
+    "gn:country_code":"NI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617422,
+    "gn:latitude":12.55403,
+    "gn:longitude":-83.7116,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Orinoco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421183419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617422
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"35b6b917375e1b95116cbab48c02af2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421183419,
+            "locality_id":1293176855,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1293176855,
+    "wof:lastmodified":1536737939,
+    "wof:name":"Orinoco",
+    "wof:parent_id":421183419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.7116,
+    12.55403,
+    -83.7116,
+    12.55403
+],
+  "geometry": {"coordinates":[-83.7116,12.55403],"type":"Point"}
+}

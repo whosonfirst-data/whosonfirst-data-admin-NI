@@ -1,0 +1,65 @@
+{
+  "id": 1209097767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.15649,13.10789,-86.15649,13.10789",
+    "geom:latitude":13.10789,
+    "geom:longitude":-86.15649,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Colon",
+    "gn:country_code":"NI",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620331,
+    "gn:latitude":13.10789,
+    "gn:longitude":-86.15649,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Col\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yupal\u00ed",
+        "Col\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620331
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d9a5b47c2218d73b7311be1deb868a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209097767
+        }
+    ],
+    "wof:id":1209097767,
+    "wof:lastmodified":1537675574,
+    "wof:name":"Colon",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.15649,
+    13.10789,
+    -86.15649,
+    13.10789
+],
+  "geometry": {"coordinates":[-86.15649000000001,13.10789],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421181057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.46667,11.05,-84.46667,11.05",
+    "geom:latitude":11.05,
+    "geom:longitude":-84.46667,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Boca de Sabalos"
+    ],
+    "name:swe_x_preferred":[
+        "Boca de S\u00e1balos"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620663,
+    "qs:gn_pop":0,
+    "qs:name":"Boca de S\u00e1balos",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":148,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":474931,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152165,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        1108693867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620663,
+        "gp:id":152165,
+        "qs:id":474931,
+        "wd:id":"Q18358913"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009283,
+    "wof:geomhash":"bd20cef95bdac504602370cd1f0f804c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693867,
+            "locality_id":421181057,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":421181057,
+    "wof:lastmodified":1514491725,
+    "wof:name":"Boca de S\u00e1balos",
+    "wof:parent_id":1108693867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.46667,
+    11.05,
+    -84.46667,
+    11.05
+],
+  "geometry": {"coordinates":[-84.46666999999999,11.05],"type":"Point"}
+}

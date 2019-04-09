@@ -1,0 +1,102 @@
+{
+  "id": 890430537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.38333,13.23333,-85.38333,13.23333",
+    "geom:latitude":13.23333,
+    "geom:longitude":-85.38333,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":6498,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u74e6\u65af\u62c9\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Waslala"
+    ],
+    "name:eng_x_preferred":[
+        "Waslala"
+    ],
+    "name:fre_x_preferred":[
+        "Waslala"
+    ],
+    "name:ger_x_preferred":[
+        "Waslala"
+    ],
+    "name:hun_x_preferred":[
+        "Waslala"
+    ],
+    "name:ita_x_preferred":[
+        "Waslala"
+    ],
+    "name:spa_x_preferred":[
+        "Waslala"
+    ],
+    "name:swe_x_preferred":[
+        "Waslala"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0633\u0644\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Waslala"
+    ],
+    "qs:name":"Waslala",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":179,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615745,
+        "gp:id":26813476,
+        "qs:id":149440,
+        "wd:id":"Q1018767",
+        "wk:page":"Waslala"
+    },
+    "wof:country":"NI",
+    "wof:created":1469051856,
+    "wof:geomhash":"175b734b4d15126bd9a1d879157d5d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693677,
+            "locality_id":890430537,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":890430537,
+    "wof:lastmodified":1527729738,
+    "wof:name":"Waslala",
+    "wof:parent_id":1108693677,
+    "wof:placetype":"locality",
+    "wof:population":6498,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.38333,
+    13.23333,
+    -85.38333,
+    13.23333
+],
+  "geometry": {"coordinates":[-85.38333,13.23333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293662409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.74108,11.35913,-85.74108,11.35913",
+    "geom:latitude":11.35913,
+    "geom:longitude":-85.74108,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Limon",
+    "gn:country_code":"NI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618010,
+    "gn:latitude":11.35913,
+    "gn:longitude":-85.74108,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Lim\u00f3n",
+        "Lim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        421172641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618010
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f131a0fc67460eaaf5a901fbdaf1ec77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421172641,
+            "locality_id":1293662409,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293662409,
+    "wof:lastmodified":1537675548,
+    "wof:name":"Limon",
+    "wof:parent_id":421172641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.74108000000003,
+    11.35913,
+    -85.74108000000003,
+    11.35913
+],
+  "geometry": {"coordinates":[-85.74108000000003,11.35913],"type":"Point"}
+}

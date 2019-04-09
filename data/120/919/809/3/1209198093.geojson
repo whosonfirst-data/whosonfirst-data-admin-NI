@@ -1,0 +1,61 @@
+{
+  "id": 1209198093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.16849,12.31765,-86.16849,12.31765",
+    "geom:latitude":12.31765,
+    "geom:longitude":-86.16849,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Las Tinajas",
+    "gn:country_code":"NI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618116,
+    "gn:latitude":12.31765,
+    "gn:longitude":-86.16849,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Tinajas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618116
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b43a761ba59b02b2adcefa175e5c9b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209198093
+        }
+    ],
+    "wof:id":1209198093,
+    "wof:lastmodified":1536294704,
+    "wof:name":"Las Tinajas",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.16849,
+    12.31765,
+    -86.16849,
+    12.31765
+],
+  "geometry": {"coordinates":[-86.16849000000001,12.31765],"type":"Point"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 421180513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.08078,12.26356,-85.08078,12.26356",
+    "geom:latitude":12.26356,
+    "geom:longitude":-85.08078,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u591a\u660e\u6208"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:fra_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Domingo"
+    ],
+    "name:unk_x_variant":[
+        "Santa Domingo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u06cc\u0646\u06af\u0648\u060c \u0686\u0648\u0646\u062a\u0627\u0644\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u591a\u660e\u6208"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616356,
+    "qs:gn_pop":5827,
+    "qs:name":"Santo Domingo",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Chontales",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1204489,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154269,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616356,
+        "gp:id":154269,
+        "qs:id":1204489,
+        "wd:id":"Q1647902",
+        "wk:page":"Santo Domingo, Chontales"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009262,
+    "wof:geomhash":"02c320246483bb58df7309abe20dada2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693851,
+            "locality_id":421180513,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":421180513,
+    "wof:lastmodified":1527716242,
+    "wof:name":"Santo Domingo",
+    "wof:parent_id":1108693851,
+    "wof:placetype":"locality",
+    "wof:population":5827,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.08078,
+    12.26356,
+    -85.08078,
+    12.26356
+],
+  "geometry": {"coordinates":[-85.08078,12.26356],"type":"Point"}
+}

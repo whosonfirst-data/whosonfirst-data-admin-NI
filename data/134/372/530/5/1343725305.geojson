@@ -1,0 +1,67 @@
+{
+  "id": 1343725305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.67269,12.3226,-83.67269,12.3226",
+    "geom:latitude":12.3226,
+    "geom:longitude":-83.67269,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Haulover",
+    "gn:country_code":"NI",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619025,
+    "gn:latitude":12.3226,
+    "gn:longitude":-83.67269,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Haulover",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421183419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619025
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ff2a7226db8e668a5141bcde5f97ceb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421183419,
+            "locality_id":1343725305,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1343725305,
+    "wof:lastmodified":1536860320,
+    "wof:name":"Haulover",
+    "wof:parent_id":421183419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.67269,
+    12.3226,
+    -83.67269,
+    12.3226
+],
+  "geometry": {"coordinates":[-83.67269,12.3226],"type":"Point"}
+}

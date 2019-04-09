@@ -1,0 +1,76 @@
+{
+  "id": 421195377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34614,12.09654,-86.34614,12.09654",
+    "geom:latitude":12.09654,
+    "geom:longitude":-86.34614,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616560,
+    "qs:gn_pop":0,
+    "qs:name":"Santa Ana",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Managua",
+    "qs:photos":601,
+    "qs:photos_1k":122,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":601,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149458,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154112,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616560,
+        "gp:id":154112,
+        "qs:id":149458
+    },
+    "wof:country":"NI",
+    "wof:created":1459009841,
+    "wof:geomhash":"d2c1defde9c9b7ca78618f7c3f237c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":421195377,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":421195377,
+    "wof:lastmodified":1500017632,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34614,
+    12.09654,
+    -86.34614,
+    12.09654
+],
+  "geometry": {"coordinates":[-86.34614000000001,12.09654],"type":"Point"}
+}

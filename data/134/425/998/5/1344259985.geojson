@@ -1,0 +1,70 @@
+{
+  "id": 1344259985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.16668,11.72225,-86.16668,11.72225",
+    "geom:latitude":11.72225,
+    "geom:longitude":-86.16668,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Palmerita",
+    "gn:country_code":"NI",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8308785,
+    "gn:latitude":11.72225,
+    "gn:longitude":-86.16668,
+    "gn:modification_date":"2012-06-07",
+    "gn:name":"La Palmerita",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Palmerita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8308785
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c0f54790dab74e042e503adf12a1778a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":1344259985,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1344259985,
+    "wof:lastmodified":1537675590,
+    "wof:name":"La Palmerita",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.16668,
+    11.72225,
+    -86.16668,
+    11.72225
+],
+  "geometry": {"coordinates":[-86.16668,11.72225],"type":"Point"}
+}

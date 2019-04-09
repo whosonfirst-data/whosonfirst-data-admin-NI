@@ -1,0 +1,70 @@
+{
+  "id": 1310027989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.9656,11.97613,-85.9656,11.97613",
+    "geom:latitude":11.97613,
+    "geom:longitude":-85.9656,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Los Malacos",
+    "gn:country_code":"NI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016258,
+    "gn:latitude":11.97613,
+    "gn:longitude":-85.9656,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Los Malacos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Malacos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016258
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ca204c20169a20350f7fc67a7c9c1081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1310027989,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310027989,
+    "wof:lastmodified":1537675581,
+    "wof:name":"Los Malacos",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.9656,
+    11.97613,
+    -85.9656,
+    11.97613
+],
+  "geometry": {"coordinates":[-85.96559999999999,11.97613],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310511855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.74359,12.65847,-83.74359,12.65847",
+    "geom:latitude":12.65847,
+    "geom:longitude":-83.74359,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Pueblo Nuevo",
+    "gn:country_code":"NI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10794012,
+    "gn:latitude":12.65847,
+    "gn:longitude":-83.74359,
+    "gn:modification_date":"2015-10-01",
+    "gn:name":"Pueblo Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421183419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10794012
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"02da94830672bcd919fd32c879662f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421183419,
+            "locality_id":1310511855,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1310511855,
+    "wof:lastmodified":1536907927,
+    "wof:name":"Pueblo Nuevo",
+    "wof:parent_id":421183419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.74359,
+    12.65847,
+    -83.74359,
+    12.65847
+],
+  "geometry": {"coordinates":[-83.74359,12.65847],"type":"Point"}
+}

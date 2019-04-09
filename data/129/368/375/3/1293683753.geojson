@@ -1,0 +1,67 @@
+{
+  "id": 1293683753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.73339,13.85738,-85.73339,13.85738",
+    "geom:latitude":13.85738,
+    "geom:longitude":-85.73339,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Wanblan",
+    "gn:country_code":"NI",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615771,
+    "gn:latitude":13.85738,
+    "gn:longitude":-85.73339,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Wanbl\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615771
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ac6417dcea37a923bab3aceeb1c73a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":1293683753,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1293683753,
+    "wof:lastmodified":1537000707,
+    "wof:name":"Wanblan",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.73339,
+    13.85738,
+    -85.73339,
+    13.85738
+],
+  "geometry": {"coordinates":[-85.73339,13.85738],"type":"Point"}
+}

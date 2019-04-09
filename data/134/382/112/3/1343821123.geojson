@@ -1,0 +1,67 @@
+{
+  "id": 1343821123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.81355,11.07539,-83.81355,11.07539",
+    "geom:latitude":11.07539,
+    "geom:longitude":-83.81355,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Buena Vista",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620620,
+    "gn:latitude":11.07539,
+    "gn:longitude":-83.81355,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Buena Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421186279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620620
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f5803ffb454bf0a998aaa57c0d38b7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421186279,
+            "locality_id":1343821123,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1343821123,
+    "wof:lastmodified":1536723891,
+    "wof:name":"Buena Vista",
+    "wof:parent_id":421186279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.81355,
+    11.07539,
+    -83.81355,
+    11.07539
+],
+  "geometry": {"coordinates":[-83.81355000000001,11.07539],"type":"Point"}
+}

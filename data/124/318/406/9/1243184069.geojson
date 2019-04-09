@@ -1,0 +1,67 @@
+{
+  "id": 1243184069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.93869,12.57726,-86.93869,12.57726",
+    "geom:latitude":12.57726,
+    "geom:longitude":-86.93869,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Los Velasquez",
+    "gn:country_code":"NI",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617829,
+    "gn:latitude":12.57726,
+    "gn:longitude":-86.93869,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Los Vel\u00e1squez",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617829
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"12f0b6e760d65dc8b0907a46afd1fe9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693749,
+            "locality_id":1243184069,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1243184069,
+    "wof:lastmodified":1536686796,
+    "wof:name":"Los Velasquez",
+    "wof:parent_id":1108693749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.93869000000002,
+    12.57726,
+    -86.93869000000002,
+    12.57726
+],
+  "geometry": {"coordinates":[-86.93869000000002,12.57726],"type":"Point"}
+}

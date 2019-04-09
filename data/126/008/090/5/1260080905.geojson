@@ -1,0 +1,67 @@
+{
+  "id": 1260080905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.21277,11.85938,-85.21277,11.85938",
+    "geom:latitude":11.85938,
+    "geom:longitude":-85.21277,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"San Jeronimo",
+    "gn:country_code":"NI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616806,
+    "gn:latitude":11.85938,
+    "gn:longitude":-85.21277,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"San Jer\u00f3nimo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616806
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0a990113aac90aa0d45a7c198ac6728b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693859,
+            "locality_id":1260080905,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":1260080905,
+    "wof:lastmodified":1536990925,
+    "wof:name":"San Jeronimo",
+    "wof:parent_id":1108693859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.21276999999998,
+    11.85938,
+    -85.21276999999998,
+    11.85938
+],
+  "geometry": {"coordinates":[-85.21276999999998,11.85938],"type":"Point"}
+}

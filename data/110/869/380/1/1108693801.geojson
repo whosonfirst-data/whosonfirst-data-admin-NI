@@ -1,0 +1,119 @@
+{
+  "id": 1108693801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001744,
+    "geom:area_square_m":21111317.958338,
+    "geom:bbox":"-86.1415421985,11.7901108812,-86.077574787,11.835559003",
+    "geom:latitude":11.812988,
+    "geom:longitude":-86.107618,
+    "iso:country":"NI",
+    "lbl:latitude":11.812873,
+    "lbl:longitude":-86.107619,
+    "meso:admin_1":"CARAZO",
+    "meso:gadm_admin":"La Paz de Carazo",
+    "meso:gadm_hasc2":"NI.CA.LP",
+    "meso:gaul_admin":"La Paz De Carazo",
+    "meso:local_id":"1994",
+    "meso:mps_x":-86.107619,
+    "meso:mps_y":11.812873,
+    "meso:name_local":"LA PAZ DE CARAZO",
+    "meso:source":"ISCGM",
+    "mps:latitude":11.812873,
+    "mps:longitude":-86.107619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u5df4\u65af\u5fb7\u5361\u62c9\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz De Carazo"
+    ],
+    "name:eng_x_variant":[
+        "La Paz De Carazo",
+        "La Paz de Carazo",
+        "LA PAZ DE CARAZO"
+    ],
+    "name:fre_x_preferred":[
+        "La Paz de Oriente"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03b4\u03b5 \u039a\u03b1\u03c1\u03ac\u03c3\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "name:spa_x_preferred":[
+        "La Paz de Oriente"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz de Oriente"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632 \u062f\u06d2 \u06a9\u0627\u0631\u0627\u0632\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"16.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"La Paz De Carazo",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.CA",
+    "statoids:name":"La Paz de Carazo",
+    "statoids:population":"4657",
+    "statoids:statoid":"NI.CA.LP",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.CA.LP",
+        "wd:id":"Q2215549"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415134,
+    "wof:geomhash":"63ed3b73162d28d343694f4e7cc35c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693801,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1108693801,
+    "wof:lastmodified":1544032792,
+    "wof:name":"La Paz De Carazo",
+    "wof:parent_id":85675471,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":4657,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"LP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.1415421985018,
+    11.79011088118771,
+    -86.07757478698309,
+    11.83555900297654
+],
+  "geometry": {"coordinates":[[[-86.11613384734474,11.83555900297654],[-86.10829251598017,11.83402548895444],[-86.09801657455829,11.83192000852867],[-86.09553210756296,11.83043026466663],[-86.09298777439061,11.82796485489712],[-86.0900390240698,11.82532632213586],[-86.08559933291016,11.82595858615219],[-86.08185189961191,11.82664727448122],[-86.07913790473143,11.82538610476558],[-86.07757478698309,11.82326510245378],[-86.07785517682174,11.82022436923594],[-86.07951985530225,11.81701292800932],[-86.08066741843875,11.81471873754718],[-86.08210849143873,11.81058648358033],[-86.08325296238554,11.81093266097982],[-86.08956969548011,11.80014836536597],[-86.09364978989623,11.79446916253945],[-86.09474270308766,11.79337963284477],[-86.09594601615734,11.79045482529232],[-86.09586617471598,11.79031215255447],[-86.09655404321592,11.79011088118771],[-86.10490494313994,11.79065043075698],[-86.11246436417582,11.79401870858035],[-86.12237003620676,11.7981626623066],[-86.13227659295883,11.80230855331388],[-86.1415421985018,11.80513309710494],[-86.11779536309797,11.83448585841289],[-86.11613384734474,11.83555900297654]]],"type":"Polygon"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226554017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.80081,12.18244,-85.80081,12.18244",
+    "geom:latitude":12.18244,
+    "geom:longitude":-85.80081,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Catarina",
+    "gn:country_code":"NI",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620440,
+    "gn:latitude":12.18244,
+    "gn:longitude":-85.80081,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Catarina",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620440
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"01be0e96d1ab3eefbee3f1b34f48d77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693839,
+            "locality_id":1226554017,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1226554017,
+    "wof:lastmodified":1536985245,
+    "wof:name":"Catarina",
+    "wof:parent_id":1108693839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.80081,
+    12.18244,
+    -85.80081,
+    12.18244
+],
+  "geometry": {"coordinates":[-85.80081,12.18244],"type":"Point"}
+}

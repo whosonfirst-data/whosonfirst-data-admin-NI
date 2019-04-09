@@ -1,0 +1,67 @@
+{
+  "id": 1293378875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.99611,12.21618,-85.99611,12.21618",
+    "geom:latitude":12.21618,
+    "geom:longitude":-85.99611,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Las Guanacastes",
+    "gn:country_code":"NI",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618244,
+    "gn:latitude":12.21618,
+    "gn:longitude":-85.99611,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Guanacastes",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618244
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e55f5c7db3e295257ca3e519902cd8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1293378875,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1293378875,
+    "wof:lastmodified":1536944117,
+    "wof:name":"Las Guanacastes",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.99611,
+    12.21618,
+    -85.99611,
+    12.21618
+],
+  "geometry": {"coordinates":[-85.99611,12.21618],"type":"Point"}
+}

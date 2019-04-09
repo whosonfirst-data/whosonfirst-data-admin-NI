@@ -1,0 +1,71 @@
+{
+  "id": 1259366771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.52304,12.11219,-86.52304,12.11219",
+    "geom:latitude":12.11219,
+    "geom:longitude":-86.52304,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nandayosi",
+    "gn:country_code":"NI",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617508,
+    "gn:latitude":12.11219,
+    "gn:longitude":-86.52304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nandayosi",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nadayosi",
+        "Nandayosi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617508
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f4ce609de87590f6b0f310b6ea4a78b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693777,
+            "locality_id":1259366771,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1259366771,
+    "wof:lastmodified":1537675543,
+    "wof:name":"Nandayosi",
+    "wof:parent_id":1108693777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.52304000000002,
+    12.11219,
+    -86.52304000000002,
+    12.11219
+],
+  "geometry": {"coordinates":[-86.52304000000002,12.11219],"type":"Point"}
+}

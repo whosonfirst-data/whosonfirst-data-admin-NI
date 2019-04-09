@@ -1,0 +1,72 @@
+{
+  "id": 1226541745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.15,12.55,-87.15,12.55",
+    "geom:latitude":12.55,
+    "geom:longitude":-87.15,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Las Lajas",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618230,
+    "gn:latitude":12.55,
+    "gn:longitude":-87.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Lajas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lajas",
+        "Las Lajas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618230
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7324bb2d5236f57b78d46a828e48cc56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693747,
+            "locality_id":1226541745,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1226541745,
+    "wof:lastmodified":1537675551,
+    "wof:name":"Las Lajas",
+    "wof:parent_id":1108693747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.15,
+    12.55,
+    -87.15,
+    12.55
+],
+  "geometry": {"coordinates":[-87.15000000000001,12.55],"type":"Point"}
+}

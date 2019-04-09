@@ -1,0 +1,61 @@
+{
+  "id": 1209428027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.25,11.81667,-86.25,11.81667",
+    "geom:latitude":11.81667,
+    "geom:longitude":-86.25,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Grandeza",
+    "gn:country_code":"NI",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618539,
+    "gn:latitude":11.81667,
+    "gn:longitude":-86.25,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Grandeza",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618539
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5f9021f792faabd4695b396ea1bcaee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209428027
+        }
+    ],
+    "wof:id":1209428027,
+    "wof:lastmodified":1536287320,
+    "wof:name":"La Grandeza",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.25,
+    11.81667,
+    -86.25,
+    11.81667
+],
+  "geometry": {"coordinates":[-86.25,11.81667],"type":"Point"}
+}

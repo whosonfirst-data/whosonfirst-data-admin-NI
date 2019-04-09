@@ -1,0 +1,105 @@
+{
+  "id": 890430715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.09059,12.06938,-85.09059,12.06938",
+    "geom:latitude":12.06938,
+    "geom:longitude":-85.09059,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":14809,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u6258\u99ac\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:ger_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:unk_x_variant":[
+        "Santa Tomas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633\u060c \u0686\u0648\u0646\u062a\u0627\u0644\u06cc\u0633"
+    ],
+    "qs:name":"Santo Tom\u00e1s",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":202,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616349,
+        "gp:id":154274,
+        "qs:id":149457,
+        "wd:id":"Q542822",
+        "wk:page":"Santo Tomas"
+    },
+    "wof:country":"NI",
+    "wof:created":1469051863,
+    "wof:geomhash":"b839c93928a6b030263a7c7638ba1fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693855,
+            "locality_id":890430715,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":890430715,
+    "wof:lastmodified":1553816394,
+    "wof:name":"Santo Tom\u00e1s",
+    "wof:parent_id":1108693855,
+    "wof:placetype":"locality",
+    "wof:population":14809,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.09059,
+    12.06938,
+    -85.09059,
+    12.06938
+],
+  "geometry": {"coordinates":[-85.09059000000001,12.06938],"type":"Point"}
+}

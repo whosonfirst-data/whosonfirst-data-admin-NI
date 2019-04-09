@@ -1,0 +1,66 @@
+{
+  "id": 1209588761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.85203,11.50628,-85.85203,11.50628",
+    "geom:latitude":11.50628,
+    "geom:longitude":-85.85203,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Apompua",
+    "gn:country_code":"NI",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620879,
+    "gn:latitude":11.50628,
+    "gn:longitude":-85.85203,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Apompu\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Apampoa",
+        "Apompoa",
+        "Apompu\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620879
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3141ff5ba5ea46ff578cf3c3bb4fb04a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209588761
+        }
+    ],
+    "wof:id":1209588761,
+    "wof:lastmodified":1537675579,
+    "wof:name":"Apompua",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.85203,
+    11.50628,
+    -85.85203,
+    11.50628
+],
+  "geometry": {"coordinates":[-85.85203,11.50628],"type":"Point"}
+}

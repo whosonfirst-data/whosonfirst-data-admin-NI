@@ -1,0 +1,67 @@
+{
+  "id": 1226663933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.68405,12.11356,-85.68405,12.11356",
+    "geom:latitude":12.11356,
+    "geom:longitude":-85.68405,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Miramontes",
+    "gn:country_code":"NI",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617643,
+    "gn:latitude":12.11356,
+    "gn:longitude":-85.68405,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Miramontes",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617643
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a0495b1c13d45b786b76062dd0c81174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693839,
+            "locality_id":1226663933,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1226663933,
+    "wof:lastmodified":1536832277,
+    "wof:name":"Miramontes",
+    "wof:parent_id":1108693839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.68405,
+    12.11356,
+    -85.68405,
+    12.11356
+],
+  "geometry": {"coordinates":[-85.68405,12.11356],"type":"Point"}
+}

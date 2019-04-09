@@ -1,0 +1,67 @@
+{
+  "id": 1309692397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.70139,12.93285,-85.70139,12.93285",
+    "geom:latitude":12.93285,
+    "geom:longitude":-85.70139,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"NI",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616965,
+    "gn:latitude":12.93285,
+    "gn:longitude":-85.70139,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616965
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f43f0325231c6971bfe1b9836493890d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693831,
+            "locality_id":1309692397,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1309692397,
+    "wof:lastmodified":1537091409,
+    "wof:name":"San Andres",
+    "wof:parent_id":1108693831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.70139,
+    12.93285,
+    -85.70139,
+    12.93285
+],
+  "geometry": {"coordinates":[-85.70139,12.93285],"type":"Point"}
+}

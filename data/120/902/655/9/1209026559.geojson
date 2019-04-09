@@ -1,0 +1,61 @@
+{
+  "id": 1209026559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.42453,12.67458,-86.42453,12.67458",
+    "geom:latitude":12.67458,
+    "geom:longitude":-86.42453,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Empalme",
+    "gn:country_code":"NI",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619822,
+    "gn:latitude":12.67458,
+    "gn:longitude":-86.42453,
+    "gn:modification_date":"2000-07-15",
+    "gn:name":"El Empalme",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619822
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"041cd78e21b8daeeaf3f2984db6ac8dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209026559
+        }
+    ],
+    "wof:id":1209026559,
+    "wof:lastmodified":1536299978,
+    "wof:name":"El Empalme",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.42453,
+    12.67458,
+    -86.42453,
+    12.67458
+],
+  "geometry": {"coordinates":[-86.42453,12.67458],"type":"Point"}
+}

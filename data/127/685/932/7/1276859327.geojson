@@ -1,0 +1,71 @@
+{
+  "id": 1276859327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.13652,12.05367,-86.13652,12.05367",
+    "geom:latitude":12.05367,
+    "geom:longitude":-86.13652,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Campuzano",
+    "gn:country_code":"NI",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620534,
+    "gn:latitude":12.05367,
+    "gn:longitude":-86.13652,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Campuzano",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campazano",
+        "Campuzano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620534
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e9371beb45a6f8eb7e6072f0ad7b7aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "locality_id":1276859327,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1276859327,
+    "wof:lastmodified":1537675575,
+    "wof:name":"Campuzano",
+    "wof:parent_id":1108693783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.13651999999998,
+    12.05367,
+    -86.13651999999998,
+    12.05367
+],
+  "geometry": {"coordinates":[-86.13651999999998,12.05367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193131631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.89819,13.18208,-85.89819,13.18208",
+    "geom:latitude":13.18208,
+    "geom:longitude":-85.89819,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"San Pedro de Buculmay",
+    "gn:country_code":"NI",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616613,
+    "gn:latitude":13.18208,
+    "gn:longitude":-85.89819,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Pedro de Buculmay",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblo Nuevo",
+        "San Pedro de Buculmay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616613
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"93b879c85eb974bc923da40531313bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":1193131631,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1193131631,
+    "wof:lastmodified":1537675535,
+    "wof:name":"San Pedro de Buculmay",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.89819,
+    13.18208,
+    -85.89819,
+    13.18208
+],
+  "geometry": {"coordinates":[-85.89819,13.18208],"type":"Point"}
+}

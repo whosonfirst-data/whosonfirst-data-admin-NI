@@ -1,0 +1,67 @@
+{
+  "id": 1276217509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78009,12.71791,-86.78009,12.71791",
+    "geom:latitude":12.71791,
+    "geom:longitude":-86.78009,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Jote",
+    "gn:country_code":"NI",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619673,
+    "gn:latitude":12.71791,
+    "gn:longitude":-86.78009,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Jote",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421179703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619673
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"935abdb49f5879aaf2c8b9f38d321aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179703,
+            "locality_id":1276217509,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1276217509,
+    "wof:lastmodified":1536934997,
+    "wof:name":"El Jote",
+    "wof:parent_id":421179703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78009,
+    12.71791,
+    -86.78009,
+    12.71791
+],
+  "geometry": {"coordinates":[-86.78009,12.71791],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209338601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.41661,11.93548,-85.41661,11.93548",
+    "geom:latitude":11.93548,
+    "geom:longitude":-85.41661,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Gallo",
+    "gn:country_code":"NI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619795,
+    "gn:latitude":11.93548,
+    "gn:longitude":-85.41661,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Gallo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619795
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4a0b2bf59b3e799e3c56074a84986781",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209338601
+        }
+    ],
+    "wof:id":1209338601,
+    "wof:lastmodified":1536290135,
+    "wof:name":"El Gallo",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.41660999999998,
+    11.93548,
+    -85.41660999999998,
+    11.93548
+],
+  "geometry": {"coordinates":[-85.41660999999998,11.93548],"type":"Point"}
+}

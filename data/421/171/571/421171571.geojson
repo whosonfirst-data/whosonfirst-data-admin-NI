@@ -1,0 +1,125 @@
+{
+  "id": 421171571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.92281,13.18659,-86.92281,13.18659",
+    "geom:latitude":13.18659,
+    "geom:longitude":-86.92281,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:chi_x_preferred":[
+        "\u5317\u8056\u6258\u99ac\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2 \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:fra_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2 \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:unk_x_variant":[
+        "Santo Tom\u00e1s de Nance"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u8056\u6258\u99ac\u65af"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616346,
+    "qs:gn_pop":608,
+    "qs:name":"Santo Tom\u00e1s del Norte",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Chinandega",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1262385,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154276,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616346,
+        "gp:id":154276,
+        "qs:id":1262385,
+        "wd:id":"Q2216439",
+        "wk:page":"Santo Tom\u00e1s del Norte"
+    },
+    "wof:country":"NI",
+    "wof:created":1459008898,
+    "wof:geomhash":"a123617ea7d12e5d01a8ac0267b789f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "locality_id":421171571,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":421171571,
+    "wof:lastmodified":1527726497,
+    "wof:name":"Santo Tom\u00e1s del Norte",
+    "wof:parent_id":85675503,
+    "wof:placetype":"locality",
+    "wof:population":608,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.92281,
+    13.18659,
+    -86.92281,
+    13.18659
+],
+  "geometry": {"coordinates":[-86.92281,13.18659],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193262061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.17839,12.07568,-86.17839,12.07568",
+    "geom:latitude":12.07568,
+    "geom:longitude":-86.17839,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Valle Gottel",
+    "gn:country_code":"NI",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615883,
+    "gn:latitude":12.07568,
+    "gn:longitude":-86.17839,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valle Gottel",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle de Gothel",
+        "Valle Gotel",
+        "Valle Gottel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615883
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"65368d3b617c00e5e6476e8a5da778dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "locality_id":1193262061,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1193262061,
+    "wof:lastmodified":1537675530,
+    "wof:name":"Valle Gottel",
+    "wof:parent_id":1108693783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.17839000000002,
+    12.07568,
+    -86.17839000000002,
+    12.07568
+],
+  "geometry": {"coordinates":[-86.17839000000002,12.07568],"type":"Point"}
+}

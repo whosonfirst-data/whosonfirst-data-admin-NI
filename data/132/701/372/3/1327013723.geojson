@@ -1,0 +1,67 @@
+{
+  "id": 1327013723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.32742,12.09793,-86.32742,12.09793",
+    "geom:latitude":12.09793,
+    "geom:longitude":-86.32742,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Comarca San Jose De Las Canadas",
+    "gn:country_code":"NI",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019727,
+    "gn:latitude":12.09793,
+    "gn:longitude":-86.32742,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Comarca San Jos\u00e9 De Las Ca\u00f1adas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019727
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f91bd9735e447a79b681a2a29656b92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1327013723,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1327013723,
+    "wof:lastmodified":1536787933,
+    "wof:name":"Comarca San Jose De Las Canadas",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.32741999999998,
+    12.09793,
+    -86.32741999999998,
+    12.09793
+],
+  "geometry": {"coordinates":[-86.32741999999998,12.09793],"type":"Point"}
+}

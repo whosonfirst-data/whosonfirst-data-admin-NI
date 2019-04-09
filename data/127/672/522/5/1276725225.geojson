@@ -1,0 +1,67 @@
+{
+  "id": 1276725225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.08811,12.14592,-84.08811,12.14592",
+    "geom:latitude":12.14592,
+    "geom:longitude":-84.08811,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Silvandera",
+    "gn:country_code":"NI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616269,
+    "gn:latitude":12.14592,
+    "gn:longitude":-84.08811,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Silvandera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616269
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"df74af7fb538a6afbb9880d8ced0ce8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1276725225,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1276725225,
+    "wof:lastmodified":1536750758,
+    "wof:name":"Silvandera",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.08811,
+    12.14592,
+    -84.08811,
+    12.14592
+],
+  "geometry": {"coordinates":[-84.08811,12.14592],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276643163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.97617,12.91932,-85.97617,12.91932",
+    "geom:latitude":12.91932,
+    "geom:longitude":-85.97617,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Waswali Abajo",
+    "gn:country_code":"NI",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615720,
+    "gn:latitude":12.91932,
+    "gn:longitude":-85.97617,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Waswal\u00ed Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waslala",
+        "Waswali",
+        "Waswal\u00ed Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615720
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a38107b7d846dd11460318cdd34629a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1276643163,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1276643163,
+    "wof:lastmodified":1537675527,
+    "wof:name":"Waswali Abajo",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.97617,
+    12.91932,
+    -85.97617,
+    12.91932
+],
+  "geometry": {"coordinates":[-85.97617,12.91932],"type":"Point"}
+}

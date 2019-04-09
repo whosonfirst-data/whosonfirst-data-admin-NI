@@ -1,0 +1,107 @@
+{
+  "id": 890435119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.12269,12.78571,-85.12269,12.78571",
+    "geom:latitude":12.78571,
+    "geom:longitude":-85.12269,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":7872,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6d3e\u74e6\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Bocana de Paiwas"
+    ],
+    "name:eng_x_preferred":[
+        "Bocana de Paiwas"
+    ],
+    "name:fre_x_preferred":[
+        "Bocana de Paiwas"
+    ],
+    "name:ita_x_preferred":[
+        "Paiwas"
+    ],
+    "name:spa_x_preferred":[
+        "Paiwas"
+    ],
+    "name:swe_x_preferred":[
+        "Bocana de Paiwas"
+    ],
+    "name:unk_x_variant":[
+        "Paiwas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0646\u0627 \u062f\u06d2 \u067e\u0627\u06cc\u0648\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Paiwas"
+    ],
+    "qs:name":"Bocana de Paiwas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693871,
+        85675513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620661,
+        "gp:id":152167,
+        "qs:id":149482,
+        "wd:id":"Q691374",
+        "wk:page":"Bocana de Paiwas"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052055,
+    "wof:geomhash":"65856f3cc3644b924c10309730c4122b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":890435119,
+            "region_id":85675467
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":890435119,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":890435119,
+    "wof:lastmodified":1527793048,
+    "wof:name":"Bocana de Paiwas",
+    "wof:parent_id":1108693871,
+    "wof:placetype":"locality",
+    "wof:population":7872,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.12269,
+    12.78571,
+    -85.12269,
+    12.78571
+],
+  "geometry": {"coordinates":[-85.12269000000001,12.78571],"type":"Point"}
+}

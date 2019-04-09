@@ -1,0 +1,71 @@
+{
+  "id": 1226055387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36466,11.85879,-86.36466,11.85879",
+    "geom:latitude":11.85879,
+    "geom:longitude":-86.36466,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Los Gagos",
+    "gn:country_code":"NI",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617908,
+    "gn:latitude":11.85879,
+    "gn:longitude":-86.36466,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Gagos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gagos",
+        "Los Gagos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617908
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5b3a1ce17781fb7b5d5792096ff28a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693779,
+            "locality_id":1226055387,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1226055387,
+    "wof:lastmodified":1537675546,
+    "wof:name":"Los Gagos",
+    "wof:parent_id":1108693779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36466,
+    11.85879,
+    -86.36466,
+    11.85879
+],
+  "geometry": {"coordinates":[-86.36466,11.85879],"type":"Point"}
+}

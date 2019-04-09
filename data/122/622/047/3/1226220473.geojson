@@ -1,0 +1,72 @@
+{
+  "id": 1226220473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.30054,11.94908,-86.30054,11.94908",
+    "geom:latitude":11.94908,
+    "geom:longitude":-86.30054,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Pacaya",
+    "gn:country_code":"NI",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617406,
+    "gn:latitude":11.94908,
+    "gn:longitude":-86.30054,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pacaya",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Passaya",
+        "Pecaya",
+        "Pacaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617406
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c738c23a0ce3fdc943e9d7485337b7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693789,
+            "locality_id":1226220473,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1226220473,
+    "wof:lastmodified":1537675542,
+    "wof:name":"Pacaya",
+    "wof:parent_id":1108693789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.30054,
+    11.94908,
+    -86.30054,
+    11.94908
+],
+  "geometry": {"coordinates":[-86.30054,11.94908],"type":"Point"}
+}

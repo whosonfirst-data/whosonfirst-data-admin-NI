@@ -1,0 +1,67 @@
+{
+  "id": 1310400835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.04144,12.4113,-86.04144,12.4113",
+    "geom:latitude":12.4113,
+    "geom:longitude":-86.04144,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Francisco del Penon",
+    "gn:country_code":"NI",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616849,
+    "gn:latitude":12.4113,
+    "gn:longitude":-86.04144,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Francisco del Pe\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616849
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ba529156707816caac3c24b8c0c2c7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1310400835,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1310400835,
+    "wof:lastmodified":1537065127,
+    "wof:name":"San Francisco del Penon",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.04144000000002,
+    12.4113,
+    -86.04144000000002,
+    12.4113
+],
+  "geometry": {"coordinates":[-86.04144000000002,12.4113],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259707885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.24257,11.80824,-85.24257,11.80824",
+    "geom:latitude":11.80824,
+    "geom:longitude":-85.24257,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"San Pancho",
+    "gn:country_code":"NI",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616635,
+    "gn:latitude":11.80824,
+    "gn:longitude":-85.24257,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"San Pancho",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616635
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4dcce9c841ff4125af570c6d4ba560e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693859,
+            "locality_id":1259707885,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":1259707885,
+    "wof:lastmodified":1537030630,
+    "wof:name":"San Pancho",
+    "wof:parent_id":1108693859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.24257,
+    11.80824,
+    -85.24257,
+    11.80824
+],
+  "geometry": {"coordinates":[-85.24257,11.80824],"type":"Point"}
+}

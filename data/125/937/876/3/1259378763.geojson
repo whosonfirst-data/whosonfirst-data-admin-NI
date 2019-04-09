@@ -1,0 +1,67 @@
+{
+  "id": 1259378763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53471,12.67319,-86.53471,12.67319",
+    "geom:latitude":12.67319,
+    "geom:longitude":-86.53471,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jesus Maria",
+    "gn:country_code":"NI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618938,
+    "gn:latitude":12.67319,
+    "gn:longitude":-86.53471,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Jes\u00fas Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618938
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"547149704329ac0eeb73f411bbaa0f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693767,
+            "locality_id":1259378763,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1259378763,
+    "wof:lastmodified":1537008394,
+    "wof:name":"Jesus Maria",
+    "wof:parent_id":1108693767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53471,
+    12.67319,
+    -86.53471,
+    12.67319
+],
+  "geometry": {"coordinates":[-86.53471,12.67319],"type":"Point"}
+}

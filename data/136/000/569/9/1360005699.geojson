@@ -1,0 +1,67 @@
+{
+  "id": 1360005699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.54067,12.86723,-86.54067,12.86723",
+    "geom:latitude":12.86723,
+    "geom:longitude":-86.54067,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Suiza",
+    "gn:country_code":"NI",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618108,
+    "gn:latitude":12.86723,
+    "gn:longitude":-86.54067,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Suiza",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421168431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618108
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1c8b22210f2937397d4c3440b10ea469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421168431,
+            "locality_id":1360005699,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1360005699,
+    "wof:lastmodified":1537057684,
+    "wof:name":"La Suiza",
+    "wof:parent_id":421168431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.54066999999998,
+    12.86723,
+    -86.54066999999998,
+    12.86723
+],
+  "geometry": {"coordinates":[-86.54066999999998,12.86723],"type":"Point"}
+}

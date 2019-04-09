@@ -1,0 +1,67 @@
+{
+  "id": 1326610211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.2,12.95,-85.2,12.95",
+    "geom:latitude":12.95,
+    "geom:longitude":-85.2,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Caratera",
+    "gn:country_code":"NI",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620484,
+    "gn:latitude":12.95,
+    "gn:longitude":-85.2,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Caratera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620484
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8822c73207a8e76b746d099b22483396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":1326610211,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1326610211,
+    "wof:lastmodified":1536870568,
+    "wof:name":"Caratera",
+    "wof:parent_id":1108693871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.2,
+    12.95,
+    -85.2,
+    12.95
+],
+  "geometry": {"coordinates":[-85.2,12.95],"type":"Point"}
+}

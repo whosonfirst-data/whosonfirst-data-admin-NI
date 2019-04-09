@@ -1,0 +1,67 @@
+{
+  "id": 1243278123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.15427,12.69398,-85.15427,12.69398",
+    "geom:latitude":12.69398,
+    "geom:longitude":-85.15427,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aguas Calientes",
+    "gn:country_code":"NI",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620959,
+    "gn:latitude":12.69398,
+    "gn:longitude":-85.15427,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Aguas Calientes",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421189523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620959
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0975ac4de24460259eeb3f3133b4aaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189523,
+            "locality_id":1243278123,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1243278123,
+    "wof:lastmodified":1537046188,
+    "wof:name":"Aguas Calientes",
+    "wof:parent_id":421189523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.15427,
+    12.69398,
+    -85.15427,
+    12.69398
+],
+  "geometry": {"coordinates":[-85.15427,12.69398],"type":"Point"}
+}

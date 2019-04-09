@@ -1,0 +1,71 @@
+{
+  "id": 1276954257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.4356,11.6449,-84.4356,11.6449",
+    "geom:latitude":11.6449,
+    "geom:longitude":-84.4356,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Colonia Verdun",
+    "gn:country_code":"NI",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620326,
+    "gn:latitude":11.6449,
+    "gn:longitude":-84.4356,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Colonia Verd\u00fan",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colonia Agr\u00edcola Verd\u00fan",
+        "Colonia Verd\u00fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421192911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620326
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5b75883cb8642931cb2ac50e8f2dcd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421192911,
+            "locality_id":1276954257,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1276954257,
+    "wof:lastmodified":1537675573,
+    "wof:name":"Colonia Verdun",
+    "wof:parent_id":421192911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.4356,
+    11.6449,
+    -84.4356,
+    11.6449
+],
+  "geometry": {"coordinates":[-84.43559999999999,11.6449],"type":"Point"}
+}

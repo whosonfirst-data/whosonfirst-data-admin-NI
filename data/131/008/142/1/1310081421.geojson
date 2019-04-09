@@ -1,0 +1,67 @@
+{
+  "id": 1310081421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.29786,12.31809,-84.29786,12.31809",
+    "geom:latitude":12.31809,
+    "geom:longitude":-84.29786,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Las Nubes",
+    "gn:country_code":"NI",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618171,
+    "gn:latitude":12.31809,
+    "gn:longitude":-84.29786,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Las Nubes",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618171
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"36d0f46e169d881921f4ffebaadd37d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1310081421,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1310081421,
+    "wof:lastmodified":1537029999,
+    "wof:name":"Las Nubes",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.29786,
+    12.31809,
+    -84.29786,
+    12.31809
+],
+  "geometry": {"coordinates":[-84.29786,12.31809],"type":"Point"}
+}

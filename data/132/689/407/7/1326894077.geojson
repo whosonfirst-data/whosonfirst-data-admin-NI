@@ -1,0 +1,71 @@
+{
+  "id": 1326894077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.49019,14.04921,-83.49019,14.04921",
+    "geom:latitude":14.04921,
+    "geom:longitude":-83.49019,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lawa Place",
+    "gn:country_code":"NI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618046,
+    "gn:latitude":14.04921,
+    "gn:longitude":-83.49019,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lawa Place",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lowa Place",
+        "Lawa Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618046
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"636255654d062aea27b12899530a9545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":1326894077,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1326894077,
+    "wof:lastmodified":1537675549,
+    "wof:name":"Lawa Place",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.49019,
+    14.04921,
+    -83.49019,
+    14.04921
+],
+  "geometry": {"coordinates":[-83.49019,14.04921],"type":"Point"}
+}

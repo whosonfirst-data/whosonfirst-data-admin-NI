@@ -1,0 +1,70 @@
+{
+  "id": 1343670439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.19225,11.73067,-86.19225,11.73067",
+    "geom:latitude":11.73067,
+    "geom:longitude":-86.19225,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cern",
+    "gn:country_code":"NI",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036105,
+    "gn:latitude":11.73067,
+    "gn:longitude":-86.19225,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Cern",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cern"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036105
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7cc250ba6d5a922527a2092cc58da389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":1343670439,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1343670439,
+    "wof:lastmodified":1537675590,
+    "wof:name":"Cern",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.19225,
+    11.73067,
+    -86.19225,
+    11.73067
+],
+  "geometry": {"coordinates":[-86.19225,11.73067],"type":"Point"}
+}

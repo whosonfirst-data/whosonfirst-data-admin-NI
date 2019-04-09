@@ -1,0 +1,67 @@
+{
+  "id": 1226063257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.3369,11.97847,-86.3369,11.97847",
+    "geom:latitude":11.97847,
+    "geom:longitude":-86.3369,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Providencia",
+    "gn:country_code":"NI",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618361,
+    "gn:latitude":11.97847,
+    "gn:longitude":-86.3369,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Providencia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618361
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"117308ac02bc82e1d054636973ecf1f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1226063257,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1226063257,
+    "wof:lastmodified":1536700250,
+    "wof:name":"La Providencia",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3369,
+    11.97847,
+    -86.3369,
+    11.97847
+],
+  "geometry": {"coordinates":[-86.3369,11.97847],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242983555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23161,11.73615,-86.23161,11.73615",
+    "geom:latitude":11.73615,
+    "geom:longitude":-86.23161,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Las Cuacas",
+    "gn:country_code":"NI",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036095,
+    "gn:latitude":11.73615,
+    "gn:longitude":-86.23161,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Las Cuacas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Cuacas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036095
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"268969f97231702f01b73ebaa1e383ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1242983555,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1242983555,
+    "wof:lastmodified":1537675589,
+    "wof:name":"Las Cuacas",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23161,
+    11.73615,
+    -86.23161,
+    11.73615
+],
+  "geometry": {"coordinates":[-86.23161,11.73615],"type":"Point"}
+}

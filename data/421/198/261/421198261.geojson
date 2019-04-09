@@ -1,0 +1,121 @@
+{
+  "id": 421198261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53903,12.88687,-86.53903,12.88687",
+    "geom:latitude":12.88687,
+    "geom:longitude":-86.53903,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u7d39\u585e"
+    ],
+    "name:dut_x_preferred":[
+        "El Sauce"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u03a3\u03ac\u03bf\u03c5\u03c3\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "El Sauce"
+    ],
+    "name:fra_x_preferred":[
+        "El Sauce"
+    ],
+    "name:fre_x_preferred":[
+        "El Sauce"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u03a3\u03ac\u03bf\u03c5\u03c3\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "El Sauce"
+    ],
+    "name:spa_x_preferred":[
+        "El Sauce"
+    ],
+    "name:swe_x_preferred":[
+        "El Sauce"
+    ],
+    "name:unk_x_variant":[
+        "Sauce"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0633\u0627\u0648\u0633\u06d2\u060c \u0644\u06cc\u0648\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u7d39\u585e"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3619382,
+    "qs:gn_pop":11898,
+    "qs:name":"El Sauce",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Le\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1117592,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152738,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":316,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421168431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619382,
+        "gp:id":152738,
+        "qs:id":1117592,
+        "wd:id":"Q1647835",
+        "wk:page":"El Sauce, Le\u00f3n"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009942,
+    "wof:geomhash":"5251bf771733318c5cdd11e4d774fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421168431,
+            "locality_id":421198261,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":421198261,
+    "wof:lastmodified":1527716351,
+    "wof:name":"El Sauce",
+    "wof:parent_id":421168431,
+    "wof:placetype":"locality",
+    "wof:population":11898,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53903,
+    12.88687,
+    -86.53903,
+    12.88687
+],
+  "geometry": {"coordinates":[-86.53903,12.88687],"type":"Point"}
+}

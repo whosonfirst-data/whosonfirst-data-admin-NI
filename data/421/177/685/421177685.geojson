@@ -1,0 +1,141 @@
+{
+  "id": 421177685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.50571,11.98009,-86.50571,11.98009",
+    "geom:latitude":11.98009,
+    "geom:longitude":-86.50571,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u5361\u9580\u93ae"
+    ],
+    "name:deu_x_preferred":[
+        "Carlos Fonseca"
+    ],
+    "name:dut_x_preferred":[
+        "Villa Carlos Fonseca"
+    ],
+    "name:eng_x_preferred":[
+        "Villa Carlos Fonseca"
+    ],
+    "name:epo_x_preferred":[
+        "Carlos Fonseca Amador"
+    ],
+    "name:eus_x_preferred":[
+        "Carlos Fonseca"
+    ],
+    "name:fra_x_preferred":[
+        "Carlos Fonseca"
+    ],
+    "name:fre_x_preferred":[
+        "villa Carlos Fonseca"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03af\u03bb\u03bb\u03b9\u03b1 \u039a\u03ac\u03c1\u03bb\u03bf\u03c2 \u03a6\u03bf\u03bd\u03c3\u03ad\u03ba\u03b1"
+    ],
+    "name:hun_x_preferred":[
+        "Carlos Fonseca Amador"
+    ],
+    "name:ita_x_preferred":[
+        "Villa El Carmen"
+    ],
+    "name:oss_x_preferred":[
+        "\u0424\u043e\u043d\u0441\u0435\u043a\u00e6 \u0410\u043c\u0430\u0434\u043e\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Carlos Fonseca Amador"
+    ],
+    "name:por_x_preferred":[
+        "Carlos Fonseca Amador"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u043d\u0441\u0435\u043a\u0430 \u0410\u043c\u0430\u0434\u043e\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Carlos Fonseca"
+    ],
+    "name:swe_x_preferred":[
+        "Villa Carlos Fonseca"
+    ],
+    "name:tur_x_preferred":[
+        "Carlos Fonseca Amador"
+    ],
+    "name:unk_x_variant":[
+        "Villa El Carmen"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0627 \u0627\u06cc\u0644 \u06a9\u0627\u0631\u0645\u06cc\u0646"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620473,
+    "qs:gn_pop":5219,
+    "qs:name":"Carlos Fonseca Amador",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Managua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1204422,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152231,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":1416,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620473,
+        "gp:id":152231,
+        "qs:id":1204422,
+        "wd:id":"Q629477"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009157,
+    "wof:geomhash":"b9751ab16e3318745e84ea6bae093592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693777,
+            "locality_id":421177685,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":421177685,
+    "wof:lastmodified":1527716483,
+    "wof:name":"Carlos Fonseca Amador",
+    "wof:parent_id":1108693777,
+    "wof:placetype":"locality",
+    "wof:population":5219,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.50571,
+    11.98009,
+    -86.50571,
+    11.98009
+],
+  "geometry": {"coordinates":[-86.50570999999999,11.98009],"type":"Point"}
+}

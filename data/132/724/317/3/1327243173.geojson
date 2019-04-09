@@ -1,0 +1,71 @@
+{
+  "id": 1327243173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.0449,12.53261,-87.0449,12.53261",
+    "geom:latitude":12.53261,
+    "geom:longitude":-87.0449,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ingenio San Antonio",
+    "gn:country_code":"NI",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618986,
+    "gn:latitude":12.53261,
+    "gn:longitude":-87.0449,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ingenio San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio",
+        "Ingenio San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421189527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618986
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2c1517d919ecde8aa1d896e966a137f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189527,
+            "locality_id":1327243173,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1327243173,
+    "wof:lastmodified":1537675560,
+    "wof:name":"Ingenio San Antonio",
+    "wof:parent_id":421189527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.0449,
+    12.53261,
+    -87.0449,
+    12.53261
+],
+  "geometry": {"coordinates":[-87.0449,12.53261],"type":"Point"}
+}

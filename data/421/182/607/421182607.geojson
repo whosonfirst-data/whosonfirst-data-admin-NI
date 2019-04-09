@@ -1,0 +1,118 @@
+{
+  "id": 421182607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.70996,13.74665,-86.70996,13.74665",
+    "geom:latitude":13.74665,
+    "geom:longitude":-86.70996,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0645\u0627\u0631\u06cc\u0627\u060c \u0646\u0648\u06cc\u0628\u0627 \u0633\u06cc\u06af\u0648\u0628\u06cc\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u746a\u5229\u4e9e"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616441,
+    "qs:gn_pop":720,
+    "qs:name":"Santa Mar\u00eda",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":924509,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154204,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        1108693713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616441,
+        "gp:id":154204,
+        "qs:id":924509,
+        "wd:id":"Q1647660",
+        "wk:page":"Santa Mar\u00eda, Nueva Segovia"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009336,
+    "wof:geomhash":"3a497c200e0bea1efc26656804b53657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693713,
+            "locality_id":421182607,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":421182607,
+    "wof:lastmodified":1527726460,
+    "wof:name":"Santa Mar\u00eda",
+    "wof:parent_id":1108693713,
+    "wof:placetype":"locality",
+    "wof:population":720,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.70996,
+    13.74665,
+    -86.70996,
+    13.74665
+],
+  "geometry": {"coordinates":[-86.70996,13.74665],"type":"Point"}
+}

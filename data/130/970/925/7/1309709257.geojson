@@ -1,0 +1,63 @@
+{
+  "id": 1309709257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.18333,14.46667,-85.18333,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-85.18333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Inipuwas",
+    "gn:country_code":"NI",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618983,
+    "gn:latitude":14.46667,
+    "gn:longitude":-85.18333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Inipuw\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618983
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"44c2defd5ebab72ac68811dd6f33ed59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1309709257,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309709257,
+    "wof:lastmodified":1537067417,
+    "wof:name":"Inipuwas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.18333,
+    14.46667,
+    -85.18333,
+    14.46667
+],
+  "geometry": {"coordinates":[-85.18333,14.46667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343934879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.79279,12.99315,-85.79279,12.99315",
+    "geom:latitude":12.99315,
+    "geom:longitude":-85.79279,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ilapo",
+    "gn:country_code":"NI",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618994,
+    "gn:latitude":12.99315,
+    "gn:longitude":-85.79279,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ilapo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618994
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1ba0026a8d9957c5f9ac52f8076efd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693831,
+            "locality_id":1343934879,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343934879,
+    "wof:lastmodified":1537054610,
+    "wof:name":"Ilapo",
+    "wof:parent_id":1108693831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.79279,
+    12.99315,
+    -85.79279,
+    12.99315
+],
+  "geometry": {"coordinates":[-85.79279,12.99315],"type":"Point"}
+}

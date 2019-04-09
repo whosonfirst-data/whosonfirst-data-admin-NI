@@ -1,0 +1,75 @@
+{
+  "id": 421197013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.27623,12.03273,-86.27623,12.03273",
+    "geom:latitude":12.03273,
+    "geom:longitude":-86.27623,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El Crucero",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Managua",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":175,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264530,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":28358281,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28358281,
+        "qs:id":1264530,
+        "wd:id":"Q2605353"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009900,
+    "wof:geomhash":"0be3a7d4ed28ff3a73e80cd09d20e9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197013,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":421197013,
+    "wof:lastmodified":1527716400,
+    "wof:name":"El Crucero",
+    "wof:parent_id":85675495,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27623,
+    12.03273,
+    -86.27623,
+    12.03273
+],
+  "geometry": {"coordinates":[-86.27623,12.03273],"type":"Point"}
+}

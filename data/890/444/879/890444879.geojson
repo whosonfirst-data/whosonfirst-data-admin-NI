@@ -1,0 +1,108 @@
+{
+  "id": 890444879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.97992,12.54481,-86.97992,12.54481",
+    "geom:latitude":12.54481,
+    "geom:longitude":-86.97992,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":6403,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6ce2\u7d22\u723e\u7279\u52a0"
+    ],
+    "name:dut_x_preferred":[
+        "Posoltega"
+    ],
+    "name:eng_x_preferred":[
+        "Posoltega"
+    ],
+    "name:fre_x_preferred":[
+        "Posoltega"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c3\u03bf\u03bb\u03c4\u03ad\u03b3\u03b1"
+    ],
+    "name:hun_x_preferred":[
+        "Posoltega"
+    ],
+    "name:ita_x_preferred":[
+        "Posoltega"
+    ],
+    "name:pol_x_preferred":[
+        "Posoltega"
+    ],
+    "name:spa_x_preferred":[
+        "Posoltega"
+    ],
+    "name:swe_x_preferred":[
+        "Posoltega"
+    ],
+    "name:unk_x_variant":[
+        "Posoletega"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0633\u0648\u0644\u062a\u06cc\u06af\u0627\u060c \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Posoltega"
+    ],
+    "qs:name":"Posoltega",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617191,
+        "gp:id":153702,
+        "qs:id":1045729,
+        "wd:id":"Q2604656",
+        "wk:page":"Posoltega, Nicaragua"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052485,
+    "wof:geomhash":"3188a25dc6f707c43f3ae9604a9c1c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693749,
+            "locality_id":890444879,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":890444879,
+    "wof:lastmodified":1527782134,
+    "wof:name":"Posoltega",
+    "wof:parent_id":1108693749,
+    "wof:placetype":"locality",
+    "wof:population":6403,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.97992,
+    12.54481,
+    -86.97992,
+    12.54481
+],
+  "geometry": {"coordinates":[-86.97992000000001,12.54481],"type":"Point"}
+}

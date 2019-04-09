@@ -1,0 +1,71 @@
+{
+  "id": 1259367313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.2811,13.4493,-86.2811,13.4493",
+    "geom:latitude":13.4493,
+    "geom:longitude":-86.2811,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Valle San Andres",
+    "gn:country_code":"NI",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615869,
+    "gn:latitude":13.4493,
+    "gn:longitude":-86.2811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valle San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Andr\u00e9s",
+        "Valle San Andr\u00e9s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675511,
+        1108693723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615869
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d42db3d05a224b4528b078ba439d828c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693723,
+            "locality_id":1259367313,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":1259367313,
+    "wof:lastmodified":1537675529,
+    "wof:name":"Valle San Andres",
+    "wof:parent_id":1108693723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2811,
+    13.4493,
+    -86.2811,
+    13.4493
+],
+  "geometry": {"coordinates":[-86.2811,13.4493],"type":"Point"}
+}

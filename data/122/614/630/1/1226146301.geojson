@@ -1,0 +1,70 @@
+{
+  "id": 1226146301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28991,11.74051,-86.28991,11.74051",
+    "geom:latitude":11.74051,
+    "geom:longitude":-86.28991,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Luis",
+    "gn:country_code":"NI",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017052,
+    "gn:latitude":11.74051,
+    "gn:longitude":-86.28991,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"San Luis",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Luis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017052
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9f9144d6859b48f92cb48632f8ec6ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1226146301,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1226146301,
+    "wof:lastmodified":1537675586,
+    "wof:name":"San Luis",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28990999999998,
+    11.74051,
+    -86.28990999999998,
+    11.74051
+],
+  "geometry": {"coordinates":[-86.28990999999998,11.74051],"type":"Point"}
+}

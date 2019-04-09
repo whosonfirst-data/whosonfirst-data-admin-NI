@@ -1,0 +1,96 @@
+{
+  "id": 890438813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.28737,12.19046,-85.28737,12.19046",
+    "geom:latitude":12.19046,
+    "geom:longitude":-85.28737,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":5406,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u963f\u7d04\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "El Ayote"
+    ],
+    "name:eng_x_preferred":[
+        "El Ayote"
+    ],
+    "name:fre_x_preferred":[
+        "El Ayote"
+    ],
+    "name:ita_x_preferred":[
+        "El Ayote"
+    ],
+    "name:spa_x_preferred":[
+        "El Ayote"
+    ],
+    "name:swe_x_preferred":[
+        "El Ayote"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0622\u06cc\u0648\u062a\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "El Ayote"
+    ],
+    "qs:name":"El Ayote",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620084,
+        "gp:id":152315,
+        "qs:id":1045741,
+        "wd:id":"Q2215912",
+        "wk:page":"El Ayote"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052210,
+    "wof:geomhash":"3b695da841137dcdf058292332b45cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693847,
+            "locality_id":890438813,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":890438813,
+    "wof:lastmodified":1527735424,
+    "wof:name":"El Ayote",
+    "wof:parent_id":1108693847,
+    "wof:placetype":"locality",
+    "wof:population":5406,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.28737,
+    12.19046,
+    -85.28737,
+    12.19046
+],
+  "geometry": {"coordinates":[-85.28737,12.19046],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276206559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.64844,12.67377,-85.64844,12.67377",
+    "geom:latitude":12.67377,
+    "geom:longitude":-85.64844,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Santa Juana",
+    "gn:country_code":"NI",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616467,
+    "gn:latitude":12.67377,
+    "gn:longitude":-85.64844,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Santa Juana",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421200103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616467
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f356e60cbb90e667e303d929791f6c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200103,
+            "locality_id":1276206559,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1276206559,
+    "wof:lastmodified":1536949249,
+    "wof:name":"Santa Juana",
+    "wof:parent_id":421200103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.64844000000002,
+    12.67377,
+    -85.64844000000002,
+    12.67377
+],
+  "geometry": {"coordinates":[-85.64844000000002,12.67377],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 421197671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.21952,12.15965,-84.21952,12.15965",
+    "geom:latitude":12.15965,
+    "geom:longitude":-84.21952,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u044b"
+    ],
+    "name:unk_x_variant":[
+        "Ciudad Rama"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617095,
+    "qs:gn_pop":20456,
+    "qs:name":"Rama",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur",
+    "qs:photos":34,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":34,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":149461,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153756,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":10236,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617095,
+        "gp:id":153756,
+        "qs:id":149461,
+        "wd:id":"Q160213"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009921,
+    "wof:geomhash":"8d14252641f5f23e14d1988f579385be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":421197671,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":421197671,
+    "wof:lastmodified":1527716405,
+    "wof:name":"Rama",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:population":20456,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.21952,
+    12.15965,
+    -84.21952,
+    12.15965
+],
+  "geometry": {"coordinates":[-84.21952,12.15965],"type":"Point"}
+}

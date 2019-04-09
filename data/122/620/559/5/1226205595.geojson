@@ -1,0 +1,67 @@
+{
+  "id": 1226205595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.4081,12.14865,-84.4081,12.14865",
+    "geom:latitude":12.14865,
+    "geom:longitude":-84.4081,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Presillitas",
+    "gn:country_code":"NI",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617172,
+    "gn:latitude":12.14865,
+    "gn:longitude":-84.4081,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Presillitas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617172
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a54d3315a8fe72a806ea6bac9ff5d871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693875,
+            "locality_id":1226205595,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1226205595,
+    "wof:lastmodified":1536990805,
+    "wof:name":"Presillitas",
+    "wof:parent_id":1108693875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.4081,
+    12.14865,
+    -84.4081,
+    12.14865
+],
+  "geometry": {"coordinates":[-84.4081,12.14865],"type":"Point"}
+}

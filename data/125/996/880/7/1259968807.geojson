@@ -1,0 +1,71 @@
+{
+  "id": 1259968807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.95986,12.31995,-85.95986,12.31995",
+    "geom:latitude":12.31995,
+    "geom:longitude":-85.95986,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ostocal",
+    "gn:country_code":"NI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617413,
+    "gn:latitude":12.31995,
+    "gn:longitude":-85.95986,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ostocal",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oscotal",
+        "Ostocal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617413
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c8217a128456b204d0268422d9d2e3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1259968807,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1259968807,
+    "wof:lastmodified":1537675542,
+    "wof:name":"Ostocal",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.95985999999998,
+    12.31995,
+    -85.95985999999998,
+    12.31995
+],
+  "geometry": {"coordinates":[-85.95985999999998,12.31995],"type":"Point"}
+}

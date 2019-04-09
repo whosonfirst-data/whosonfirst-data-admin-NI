@@ -1,0 +1,67 @@
+{
+  "id": 1309982539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.69406,13.69304,-86.69406,13.69304",
+    "geom:latitude":13.69304,
+    "geom:longitude":-86.69406,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Los Robles",
+    "gn:country_code":"NI",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617844,
+    "gn:latitude":13.69304,
+    "gn:longitude":-86.69406,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Los Robles",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        1108693713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617844
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"aa6672ace50567ad9d0c5af590de8590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693713,
+            "locality_id":1309982539,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":1309982539,
+    "wof:lastmodified":1536676477,
+    "wof:name":"Los Robles",
+    "wof:parent_id":1108693713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.69406,
+    13.69304,
+    -86.69406,
+    13.69304
+],
+  "geometry": {"coordinates":[-86.69405999999999,13.69304],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293167165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.45888,12.12283,-84.45888,12.12283",
+    "geom:latitude":12.12283,
+    "geom:longitude":-84.45888,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cara de Mono",
+    "gn:country_code":"NI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620486,
+    "gn:latitude":12.12283,
+    "gn:longitude":-84.45888,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cara de Mono",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620486
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d7b76d6334b5fee1f217cb51beedc031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693875,
+            "locality_id":1293167165,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1293167165,
+    "wof:lastmodified":1536751960,
+    "wof:name":"Cara de Mono",
+    "wof:parent_id":1108693875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.45888000000002,
+    12.12283,
+    -84.45888000000002,
+    12.12283
+],
+  "geometry": {"coordinates":[-84.45888000000002,12.12283],"type":"Point"}
+}

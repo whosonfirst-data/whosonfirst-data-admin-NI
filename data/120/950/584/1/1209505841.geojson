@@ -1,0 +1,61 @@
+{
+  "id": 1209505841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05327,12.38759,-87.05327,12.38759",
+    "geom:latitude":12.38759,
+    "geom:longitude":-87.05327,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Silvestre",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616569,
+    "gn:latitude":12.38759,
+    "gn:longitude":-87.05327,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Silvestre",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616569
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"580c311dd62d6b7264d2c17f2f721507",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209505841
+        }
+    ],
+    "wof:id":1209505841,
+    "wof:lastmodified":1536285038,
+    "wof:name":"San Silvestre",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05327,
+    12.38759,
+    -87.05327,
+    12.38759
+],
+  "geometry": {"coordinates":[-87.05327,12.38759],"type":"Point"}
+}

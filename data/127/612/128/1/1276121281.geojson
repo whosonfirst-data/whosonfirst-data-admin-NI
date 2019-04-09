@@ -1,0 +1,70 @@
+{
+  "id": 1276121281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.00884,11.71031,-86.00884,11.71031",
+    "geom:latitude":11.71031,
+    "geom:longitude":-86.00884,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Presopio",
+    "gn:country_code":"NI",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036080,
+    "gn:latitude":11.71031,
+    "gn:longitude":-86.00884,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"San Presopio",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Presopio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036080
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d82d36fba8491364ee38284b556959f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1276121281,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1276121281,
+    "wof:lastmodified":1537675589,
+    "wof:name":"San Presopio",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.00884,
+    11.71031,
+    -86.00884,
+    11.71031
+],
+  "geometry": {"coordinates":[-86.00884000000001,11.71031],"type":"Point"}
+}

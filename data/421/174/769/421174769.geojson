@@ -1,0 +1,132 @@
+{
+  "id": 421174769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.45616,11.68758,-84.45616,11.68758",
+    "geom:latitude":11.68758,
+    "geom:longitude":-84.45616,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:chi_x_preferred":[
+        "\u65b0\u5e7e\u5167\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:eng_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:fra_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:fre_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:ita_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cc\u30a8\u30d0\u30fb\u30b0\u30a4\u30cd\u30a2"
+    ],
+    "name:lit_x_preferred":[
+        "Nueva Gin\u0117ja"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:unk_x_variant":[
+        "Colonia Nueva Guinea"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u06cc\u0628\u0627 \u06af\u06cc\u0646\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e7e\u5167\u4e9e"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617459,
+    "qs:gn_pop":52929,
+    "qs:name":"Nueva Guinea",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "qs:qs_id":898739,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153618,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421192911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617459,
+        "gp:id":153618,
+        "qs:id":898739,
+        "wd:id":"Q2554341",
+        "wk:page":"Nueva Guinea"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009043,
+    "wof:geomhash":"3fcceb3b83b9d57ba2d55df65790402e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421192911,
+            "locality_id":421174769,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":421174769,
+    "wof:lastmodified":1514491768,
+    "wof:name":"Nueva Guinea",
+    "wof:parent_id":421192911,
+    "wof:placetype":"locality",
+    "wof:population":52929,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.45616,
+    11.68758,
+    -84.45616,
+    11.68758
+],
+  "geometry": {"coordinates":[-84.45616,11.68758],"type":"Point"}
+}

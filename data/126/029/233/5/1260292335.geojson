@@ -1,0 +1,71 @@
+{
+  "id": 1260292335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.41356,12.82551,-87.41356,12.82551",
+    "geom:latitude":12.82551,
+    "geom:longitude":-87.41356,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hato Nuevo",
+    "gn:country_code":"NI",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619032,
+    "gn:latitude":12.82551,
+    "gn:longitude":-87.41356,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hato Nuevo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hato Grande",
+        "Hato Nuevo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421170189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619032
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ca5eb7cba47b57240c624385bee15ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170189,
+            "locality_id":1260292335,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1260292335,
+    "wof:lastmodified":1537675560,
+    "wof:name":"Hato Nuevo",
+    "wof:parent_id":421170189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.41356,
+    12.82551,
+    -87.41356,
+    12.82551
+],
+  "geometry": {"coordinates":[-87.41356,12.82551],"type":"Point"}
+}

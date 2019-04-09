@@ -1,0 +1,72 @@
+{
+  "id": 1343363673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.5419,13.4138,-86.5419,13.4138",
+    "geom:latitude":13.4138,
+    "geom:longitude":-86.5419,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Santa Teresa de Guasuyuca",
+    "gn:country_code":"NI",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616365,
+    "gn:latitude":13.4138,
+    "gn:longitude":-86.5419,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Teresa de Guasuyuca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guasuyuca",
+        "Guasayuca",
+        "Santa Teresa de Guasuyuca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        421205285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616365
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"87d9fb20c2584de2d18fc4ac122c92ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421205285,
+            "locality_id":1343363673,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1343363673,
+    "wof:lastmodified":1537675534,
+    "wof:name":"Santa Teresa de Guasuyuca",
+    "wof:parent_id":421205285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.5419,
+    13.4138,
+    -86.5419,
+    13.4138
+],
+  "geometry": {"coordinates":[-86.5419,13.4138],"type":"Point"}
+}

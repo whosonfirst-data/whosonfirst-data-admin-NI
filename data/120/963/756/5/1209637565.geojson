@@ -1,0 +1,64 @@
+{
+  "id": 1209637565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.971,11.95134,-85.971,11.95134",
+    "geom:latitude":11.95134,
+    "geom:longitude":-85.971,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Estancia",
+    "gn:country_code":"NI",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016266,
+    "gn:latitude":11.95134,
+    "gn:longitude":-85.971,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Estancia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Estancia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016266
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a64cdd0b7e9be6f7f9b3afc19281aaaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209637565
+        }
+    ],
+    "wof:id":1209637565,
+    "wof:lastmodified":1537675581,
+    "wof:name":"La Estancia",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.971,
+    11.95134,
+    -85.971,
+    11.95134
+],
+  "geometry": {"coordinates":[-85.971,11.95134],"type":"Point"}
+}

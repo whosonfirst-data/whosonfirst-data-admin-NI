@@ -1,0 +1,67 @@
+{
+  "id": 1209337147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.26401,13.35664,-86.26401,13.35664",
+    "geom:latitude":13.35664,
+    "geom:longitude":-86.26401,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Valle El Jocote",
+    "gn:country_code":"NI",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615892,
+    "gn:latitude":13.35664,
+    "gn:longitude":-86.26401,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valle El Jocote",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cocote",
+        "Jocote",
+        "Jocate",
+        "Valle El Jocote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615892
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"920142f22777863d6682dc2b2b640955",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209337147
+        }
+    ],
+    "wof:id":1209337147,
+    "wof:lastmodified":1537675530,
+    "wof:name":"Valle El Jocote",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.26401,
+    13.35664,
+    -86.26401,
+    13.35664
+],
+  "geometry": {"coordinates":[-86.26401,13.35664],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360287409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.23374,12.58821,-87.23374,12.58821",
+    "geom:latitude":12.58821,
+    "geom:longitude":-87.23374,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ceilan",
+    "gn:country_code":"NI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620427,
+    "gn:latitude":12.58821,
+    "gn:longitude":-87.23374,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Ceil\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620427
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3a039588db443390edbdfafa251dc836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693747,
+            "locality_id":1360287409,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1360287409,
+    "wof:lastmodified":1536653690,
+    "wof:name":"Ceilan",
+    "wof:parent_id":1108693747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.23374,
+    12.58821,
+    -87.23374,
+    12.58821
+],
+  "geometry": {"coordinates":[-87.23374,12.58821],"type":"Point"}
+}

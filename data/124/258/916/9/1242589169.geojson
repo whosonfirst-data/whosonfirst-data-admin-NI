@@ -1,0 +1,67 @@
+{
+  "id": 1242589169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.27374,12.63967,-87.27374,12.63967",
+    "geom:latitude":12.63967,
+    "geom:longitude":-87.27374,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"El Pozo",
+    "gn:country_code":"NI",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619464,
+    "gn:latitude":12.63967,
+    "gn:longitude":-87.27374,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Pozo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421170189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619464
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4b4502133c7a669ffd56927d3aa3a65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170189,
+            "locality_id":1242589169,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1242589169,
+    "wof:lastmodified":1537045057,
+    "wof:name":"El Pozo",
+    "wof:parent_id":421170189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.27374,
+    12.63967,
+    -87.27374,
+    12.63967
+],
+  "geometry": {"coordinates":[-87.27374,12.63967],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243246423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.02186,11.48176,-86.02186,11.48176",
+    "geom:latitude":11.48176,
+    "geom:longitude":-86.02186,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Cuascoto",
+    "gn:country_code":"NI",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620240,
+    "gn:latitude":11.48176,
+    "gn:longitude":-86.02186,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Cuascoto",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421190545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620240
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"700ba762191967ef6c2648e3833e0698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421190545,
+            "locality_id":1243246423,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1243246423,
+    "wof:lastmodified":1537090647,
+    "wof:name":"Cuascoto",
+    "wof:parent_id":421190545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.02186,
+    11.48176,
+    -86.02186,
+    11.48176
+],
+  "geometry": {"coordinates":[-86.02186,11.48176],"type":"Point"}
+}

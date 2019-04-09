@@ -1,0 +1,67 @@
+{
+  "id": 1192981677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.10379,13.14936,-84.10379,13.14936",
+    "geom:latitude":13.14936,
+    "geom:longitude":-84.10379,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Panamerican",
+    "gn:country_code":"NI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617350,
+    "gn:latitude":13.14936,
+    "gn:longitude":-84.10379,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Panam\u00e9rican",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617350
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"21c7025430626b9f0cf645a0bfcf74da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693869,
+            "locality_id":1192981677,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1192981677,
+    "wof:lastmodified":1536367266,
+    "wof:name":"Panamerican",
+    "wof:parent_id":1108693869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.10379,
+    13.14936,
+    -84.10379,
+    13.14936
+],
+  "geometry": {"coordinates":[-84.10379,13.14936],"type":"Point"}
+}

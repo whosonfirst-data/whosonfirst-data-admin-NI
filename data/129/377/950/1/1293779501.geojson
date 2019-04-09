@@ -1,0 +1,67 @@
+{
+  "id": 1293779501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.40384,12.47467,-86.40384,12.47467",
+    "geom:latitude":12.47467,
+    "geom:longitude":-86.40384,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Ranchos de Sinecapa",
+    "gn:country_code":"NI",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617848,
+    "gn:latitude":12.47467,
+    "gn:longitude":-86.40384,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Los Ranchos de Sinecapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617848
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"54d728c67311c6e5d3d19702ed3fb44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693765,
+            "locality_id":1293779501,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1293779501,
+    "wof:lastmodified":1536861792,
+    "wof:name":"Los Ranchos de Sinecapa",
+    "wof:parent_id":1108693765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.40384,
+    12.47467,
+    -86.40384,
+    12.47467
+],
+  "geometry": {"coordinates":[-86.40384,12.47467],"type":"Point"}
+}

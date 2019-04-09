@@ -1,0 +1,71 @@
+{
+  "id": 1343745021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.98791,11.49866,-85.98791,11.49866",
+    "geom:latitude":11.49866,
+    "geom:longitude":-85.98791,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Pansuaca",
+    "gn:country_code":"NI",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617339,
+    "gn:latitude":11.49866,
+    "gn:longitude":-85.98791,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pansuaca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pansaca",
+        "Pansuaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421190545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617339
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a014e1ea273bedc5f52bc5595ce920b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421190545,
+            "locality_id":1343745021,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1343745021,
+    "wof:lastmodified":1537675542,
+    "wof:name":"Pansuaca",
+    "wof:parent_id":421190545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.98791,
+    11.49866,
+    -85.98791,
+    11.49866
+],
+  "geometry": {"coordinates":[-85.98791,11.49866],"type":"Point"}
+}

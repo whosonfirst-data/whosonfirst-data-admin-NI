@@ -1,0 +1,72 @@
+{
+  "id": 1326539595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.53333,12.68333,-85.53333,12.68333",
+    "geom:latitude":12.68333,
+    "geom:longitude":-85.53333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maderas",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617801,
+    "gn:latitude":12.68333,
+    "gn:longitude":-85.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maderas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Maderas",
+        "Maderas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617801
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9f927fb9aec42a64f8369562becbb44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693841,
+            "locality_id":1326539595,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1326539595,
+    "wof:lastmodified":1537675545,
+    "wof:name":"Maderas",
+    "wof:parent_id":1108693841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.53333,
+    12.68333,
+    -85.53333,
+    12.68333
+],
+  "geometry": {"coordinates":[-85.53333000000001,12.68333],"type":"Point"}
+}

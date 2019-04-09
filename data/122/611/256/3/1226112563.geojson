@@ -1,0 +1,67 @@
+{
+  "id": 1226112563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.77908,11.26093,-85.77908,11.26093",
+    "geom:latitude":11.26093,
+    "geom:longitude":-85.77908,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Victoria",
+    "gn:country_code":"NI",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618062,
+    "gn:latitude":11.26093,
+    "gn:longitude":-85.77908,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Victoria",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618062
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0e7e3942bd3937d06f45969f497fa699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202297,
+            "locality_id":1226112563,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1226112563,
+    "wof:lastmodified":1536626973,
+    "wof:name":"La Victoria",
+    "wof:parent_id":421202297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.77908000000002,
+    11.26093,
+    -85.77908000000002,
+    11.26093
+],
+  "geometry": {"coordinates":[-85.77908000000002,11.26093],"type":"Point"}
+}

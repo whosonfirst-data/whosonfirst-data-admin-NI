@@ -1,0 +1,67 @@
+{
+  "id": 1243371077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.21957,12.85979,-87.21957,12.85979",
+    "geom:latitude":12.85979,
+    "geom:longitude":-87.21957,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tempisquiapa",
+    "gn:country_code":"NI",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616084,
+    "gn:latitude":12.85979,
+    "gn:longitude":-87.21957,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Tempisquiapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616084
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a0dcff4ffa8f69a7072603a5c392d344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693745,
+            "locality_id":1243371077,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1243371077,
+    "wof:lastmodified":1536914667,
+    "wof:name":"Tempisquiapa",
+    "wof:parent_id":1108693745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.21956999999998,
+    12.85979,
+    -87.21956999999998,
+    12.85979
+],
+  "geometry": {"coordinates":[-87.21956999999998,12.85979],"type":"Point"}
+}

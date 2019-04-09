@@ -1,0 +1,67 @@
+{
+  "id": 1343970853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.09649,11.83587,-86.09649,11.83587",
+    "geom:latitude":11.83587,
+    "geom:longitude":-86.09649,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"NI",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616628,
+    "gn:latitude":11.83587,
+    "gn:longitude":-86.09649,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616628
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"84d30be279600f4752071d4d2d2bc496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693807,
+            "locality_id":1343970853,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1343970853,
+    "wof:lastmodified":1537004181,
+    "wof:name":"San Pedro",
+    "wof:parent_id":1108693807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.09649,
+    11.83587,
+    -86.09649,
+    11.83587
+],
+  "geometry": {"coordinates":[-86.09649,11.83587],"type":"Point"}
+}

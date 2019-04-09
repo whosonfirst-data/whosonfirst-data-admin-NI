@@ -1,0 +1,67 @@
+{
+  "id": 1209810909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34157,12.96339,-86.34157,12.96339",
+    "geom:latitude":12.96339,
+    "geom:longitude":-86.34157,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Laguna",
+    "gn:country_code":"NI",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618492,
+    "gn:latitude":12.96339,
+    "gn:longitude":-86.34157,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618492
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f88d9e3806d23f0752a6ce6885205b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693759,
+            "locality_id":1209810909,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1209810909,
+    "wof:lastmodified":1536386487,
+    "wof:name":"La Laguna",
+    "wof:parent_id":1108693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34156999999998,
+    12.96339,
+    -86.34156999999998,
+    12.96339
+],
+  "geometry": {"coordinates":[-86.34156999999998,12.96339],"type":"Point"}
+}

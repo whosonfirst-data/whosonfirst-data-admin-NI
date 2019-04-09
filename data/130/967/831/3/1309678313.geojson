@@ -1,0 +1,67 @@
+{
+  "id": 1309678313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.23687,11.99087,-84.23687,11.99087",
+    "geom:latitude":11.99087,
+    "geom:longitude":-84.23687,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Guadalupe",
+    "gn:country_code":"NI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619082,
+    "gn:latitude":11.99087,
+    "gn:longitude":-84.23687,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Guadalupe",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619082
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ea9c4743ef82c60e4a1c018002c1c753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1309678313,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1309678313,
+    "wof:lastmodified":1536615720,
+    "wof:name":"Guadalupe",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.23687,
+    11.99087,
+    -84.23687,
+    11.99087
+],
+  "geometry": {"coordinates":[-84.23687,11.99087],"type":"Point"}
+}

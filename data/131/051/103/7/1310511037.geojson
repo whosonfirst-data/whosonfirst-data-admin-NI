@@ -1,0 +1,67 @@
+{
+  "id": 1310511037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78069,12.3573,-85.78069,12.3573",
+    "geom:latitude":12.3573,
+    "geom:longitude":-85.78069,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Cusirina",
+    "gn:country_code":"NI",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620213,
+    "gn:latitude":12.3573,
+    "gn:longitude":-85.78069,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cusirina",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421171787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620213
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ec43e57c0869e98c4bbede4357ba4ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171787,
+            "locality_id":1310511037,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1310511037,
+    "wof:lastmodified":1536909132,
+    "wof:name":"Cusirina",
+    "wof:parent_id":421171787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78069,
+    12.3573,
+    -85.78069,
+    12.3573
+],
+  "geometry": {"coordinates":[-85.78069000000001,12.3573],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259349035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.85523,11.20291,-83.85523,11.20291",
+    "geom:latitude":11.20291,
+    "geom:longitude":-83.85523,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Amerisco",
+    "gn:country_code":"NI",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620907,
+    "gn:latitude":11.20291,
+    "gn:longitude":-83.85523,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amerisco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amerrisco",
+        "Amerisco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421186279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620907
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2b10a98c1b64d6b8340a51041c0afef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421186279,
+            "locality_id":1259349035,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1259349035,
+    "wof:lastmodified":1537675580,
+    "wof:name":"Amerisco",
+    "wof:parent_id":421186279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.85523,
+    11.20291,
+    -83.85523,
+    11.20291
+],
+  "geometry": {"coordinates":[-83.85523000000001,11.20291],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292987963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.09169,12.85077,-86.09169,12.85077",
+    "geom:latitude":12.85077,
+    "geom:longitude":-86.09169,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sebaco Viejo",
+    "gn:country_code":"NI",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616309,
+    "gn:latitude":12.85077,
+    "gn:longitude":-86.09169,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"S\u00e9baco Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9baco Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616309
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"614fc0d26c18efca5413e00f291ae24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693821,
+            "locality_id":1292987963,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1292987963,
+    "wof:lastmodified":1537675533,
+    "wof:name":"Sebaco Viejo",
+    "wof:parent_id":1108693821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.09169,
+    12.85077,
+    -86.09169,
+    12.85077
+],
+  "geometry": {"coordinates":[-86.09169,12.85077],"type":"Point"}
+}

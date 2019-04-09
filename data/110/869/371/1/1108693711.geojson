@@ -1,0 +1,114 @@
+{
+  "id": 1108693711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009536,
+    "geom:area_square_m":114548408.152925,
+    "geom:bbox":"-86.5802979683,13.6588086171,-86.4659463618,13.7899729777",
+    "geom:latitude":13.730584,
+    "geom:longitude":-86.521635,
+    "iso:country":"NI",
+    "lbl:latitude":13.734169,
+    "lbl:longitude":-86.517006,
+    "meso:admin_1":"NUEVA SEGOVIA",
+    "meso:gadm_admin":"Dipilto",
+    "meso:gadm_hasc2":"NI.NS.DI",
+    "meso:gaul_admin":"Dipilto",
+    "meso:local_id":"1231",
+    "meso:mps_x":-86.517006,
+    "meso:mps_y":13.734169,
+    "meso:name_local":"DIPILTO",
+    "meso:source":"ISCGM",
+    "mps:latitude":13.734169,
+    "mps:longitude":-86.517006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8fea\u76ae\u723e\u6258"
+    ],
+    "name:dut_x_preferred":[
+        "Dipilto"
+    ],
+    "name:eng_x_preferred":[
+        "Dipilto"
+    ],
+    "name:eng_x_variant":[
+        "Dipilto"
+    ],
+    "name:fre_x_preferred":[
+        "Dipilto"
+    ],
+    "name:ita_x_preferred":[
+        "Dipilto"
+    ],
+    "name:spa_x_preferred":[
+        "Dipilto"
+    ],
+    "name:swe_x_preferred":[
+        "Dipilto"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u067e\u06cc\u0644\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Dipilto"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"105.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"Dipilto",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.NS",
+    "statoids:name":"Dipilto",
+    "statoids:population":"5207",
+    "statoids:statoid":"NI.NS.DI",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.NS.DI",
+        "wd:id":"Q2215450"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415054,
+    "wof:geomhash":"2e0c1d606255ac63ebed3a2d3fdff412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693711,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":1108693711,
+    "wof:lastmodified":1543954415,
+    "wof:name":"Dipilto",
+    "wof:parent_id":85675517,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":5207,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"DI",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.5802979682837,
+    13.65880861705277,
+    -86.46594636180305,
+    13.78997297772191
+],
+  "geometry": {"coordinates":[[[-86.46995789439684,13.76967429423733],[-86.47896576552348,13.74609656967118],[-86.46594636180305,13.69316710313791],[-86.54676053516984,13.66389661836276],[-86.5607980797802,13.65880861705277],[-86.55251179079374,13.69697812483916],[-86.5539134581618,13.70277656031261],[-86.55413612045948,13.7192514229274],[-86.56233239398875,13.72849679207686],[-86.56735464108556,13.75306699101601],[-86.57473141770477,13.7630576212307],[-86.57448928363749,13.77482529487489],[-86.5802979682837,13.78244067142191],[-86.57881530142946,13.78253194812637],[-86.57543548286282,13.78010516094454],[-86.57107139203117,13.77814227516986],[-86.56666135623195,13.77856178158994],[-86.56357192812189,13.78114231356501],[-86.56022215694195,13.78407723444186],[-86.55638453026999,13.78688690103729],[-86.55244814680491,13.78897975372125],[-86.54791577457233,13.78975471931128],[-86.54192688813698,13.78991543371289],[-86.53667798748103,13.78984682905016],[-86.5325199186573,13.78991129562146],[-86.52812536566788,13.78997297772191],[-86.52397462159219,13.78956148509692],[-86.5198469928233,13.78831585546473],[-86.51571981242435,13.78659433043479],[-86.51135563791242,13.78487000671556],[-86.50759432509811,13.78327114011656],[-86.50299390440401,13.78094830587466],[-86.49961409435589,13.77863917501347],[-86.49598964904592,13.77585254105793],[-86.49273961574941,13.77295021374037],[-86.48876492323411,13.76992088652785],[-86.48525507038927,13.76772997034951],[-86.48150173274752,13.76613186426274],[-86.47710701427211,13.76595530063303],[-86.47317018826088,13.76733370276437],[-86.46995789439684,13.76967429423733]]],"type":"Polygon"}
+}

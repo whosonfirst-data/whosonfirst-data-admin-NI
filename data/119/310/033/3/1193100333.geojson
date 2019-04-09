@@ -1,0 +1,75 @@
+{
+  "id": 1193100333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.72411,12.3965,-83.72411,12.3965",
+    "geom:latitude":12.3965,
+    "geom:longitude":-83.72411,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kakabila",
+    "gn:country_code":"NI",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618901,
+    "gn:latitude":12.3965,
+    "gn:longitude":-83.72411,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kakabila",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cocabila",
+        "Kahkabila",
+        "Cocabilla",
+        "Kocabilla",
+        "Cokabilla",
+        "Kakabila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421183419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618901
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a0720d921e7ef841d066ad3c84b336f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421183419,
+            "locality_id":1193100333,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1193100333,
+    "wof:lastmodified":1537675559,
+    "wof:name":"Kakabila",
+    "wof:parent_id":421183419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.72411,
+    12.3965,
+    -83.72411,
+    12.3965
+],
+  "geometry": {"coordinates":[-83.72411,12.3965],"type":"Point"}
+}

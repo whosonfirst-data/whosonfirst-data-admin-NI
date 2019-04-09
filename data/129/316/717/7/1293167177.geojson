@@ -1,0 +1,67 @@
+{
+  "id": 1293167177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.33295,12.13983,-84.33295,12.13983",
+    "geom:latitude":12.13983,
+    "geom:longitude":-84.33295,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Pijibay",
+    "gn:country_code":"NI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617248,
+    "gn:latitude":12.13983,
+    "gn:longitude":-84.33295,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Pijibay",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617248
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b500ab31aaa02121a95adfebc2dfe3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1293167177,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1293167177,
+    "wof:lastmodified":1536751943,
+    "wof:name":"Pijibay",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.33295,
+    12.13983,
+    -84.33295,
+    12.13983
+],
+  "geometry": {"coordinates":[-84.33295,12.13983],"type":"Point"}
+}

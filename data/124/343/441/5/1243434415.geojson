@@ -1,0 +1,67 @@
+{
+  "id": 1243434415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.4329,12.73934,-85.4329,12.73934",
+    "geom:latitude":12.73934,
+    "geom:longitude":-85.4329,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Bocana Las Limas",
+    "gn:country_code":"NI",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620660,
+    "gn:latitude":12.73934,
+    "gn:longitude":-85.4329,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Bocana Las Limas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620660
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f31ec6993af59c2f08932184ae9593f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693833,
+            "locality_id":1243434415,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1243434415,
+    "wof:lastmodified":1536821994,
+    "wof:name":"Bocana Las Limas",
+    "wof:parent_id":1108693833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.4329,
+    12.73934,
+    -85.4329,
+    12.73934
+],
+  "geometry": {"coordinates":[-85.4329,12.73934],"type":"Point"}
+}

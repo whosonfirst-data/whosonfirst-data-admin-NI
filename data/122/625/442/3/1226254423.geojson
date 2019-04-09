@@ -1,0 +1,67 @@
+{
+  "id": 1226254423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.08333,12.61667,-87.08333,12.61667",
+    "geom:latitude":12.61667,
+    "geom:longitude":-87.08333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Merida",
+    "gn:country_code":"NI",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617666,
+    "gn:latitude":12.61667,
+    "gn:longitude":-87.08333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"M\u00e9rida",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421171365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617666
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8bd0069f9340ada117b5352303ba3df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171365,
+            "locality_id":1226254423,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1226254423,
+    "wof:lastmodified":1536921725,
+    "wof:name":"Merida",
+    "wof:parent_id":421171365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.08333,
+    12.61667,
+    -87.08333,
+    12.61667
+],
+  "geometry": {"coordinates":[-87.08333,12.61667],"type":"Point"}
+}

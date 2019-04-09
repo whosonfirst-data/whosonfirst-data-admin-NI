@@ -1,0 +1,67 @@
+{
+  "id": 1210007275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.86886,12.36118,-86.86886,12.36118",
+    "geom:latitude":12.36118,
+    "geom:longitude":-86.86886,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"La Veranera",
+    "gn:country_code":"NI",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618065,
+    "gn:latitude":12.36118,
+    "gn:longitude":-86.86886,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Veranera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618065
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ba2eb4da0e3cbb336d1c96d2536ba041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693769,
+            "locality_id":1210007275,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1210007275,
+    "wof:lastmodified":1536372327,
+    "wof:name":"La Veranera",
+    "wof:parent_id":1108693769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.86886,
+    12.36118,
+    -86.86886,
+    12.36118
+],
+  "geometry": {"coordinates":[-86.86886,12.36118],"type":"Point"}
+}

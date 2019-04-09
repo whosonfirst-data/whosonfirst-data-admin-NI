@@ -1,0 +1,65 @@
+{
+  "id": 1209200253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.41145,12.56117,-86.41145,12.56117",
+    "geom:latitude":12.56117,
+    "geom:longitude":-86.41145,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Casa Nueva",
+    "gn:country_code":"NI",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620458,
+    "gn:latitude":12.56117,
+    "gn:longitude":-86.41145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Casa Nueva",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo de Casa Nueva",
+        "Casa Nueva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620458
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fa15ba6f2325ac6ec669cbdeb9178c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209200253
+        }
+    ],
+    "wof:id":1209200253,
+    "wof:lastmodified":1537675575,
+    "wof:name":"Casa Nueva",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.41145,
+    12.56117,
+    -86.41145,
+    12.56117
+],
+  "geometry": {"coordinates":[-86.41145,12.56117],"type":"Point"}
+}

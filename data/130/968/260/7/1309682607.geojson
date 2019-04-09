@@ -1,0 +1,67 @@
+{
+  "id": 1309682607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.82646,11.53336,-85.82646,11.53336",
+    "geom:latitude":11.53336,
+    "geom:longitude":-85.82646,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"El Capulin",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620000,
+    "gn:latitude":11.53336,
+    "gn:longitude":-85.82646,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Capul\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620000
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"55ce73d8e34e2447c3159e447c225f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202287,
+            "locality_id":1309682607,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1309682607,
+    "wof:lastmodified":1536609164,
+    "wof:name":"El Capulin",
+    "wof:parent_id":421202287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.82646,
+    11.53336,
+    -85.82646,
+    11.53336
+],
+  "geometry": {"coordinates":[-85.82646,11.53336],"type":"Point"}
+}

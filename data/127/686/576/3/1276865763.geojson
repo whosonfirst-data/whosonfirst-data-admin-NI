@@ -1,0 +1,68 @@
+{
+  "id": 1276865763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.22,12.0105,-86.22,12.0105",
+    "geom:latitude":12.0105,
+    "geom:longitude":-86.22,
+    "gn:admin1_code":"10.0",
+    "gn:admin2_code":"5530",
+    "gn:asciiname":"La Borgona",
+    "gn:country_code":"NI",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11184885,
+    "gn:latitude":12.0105,
+    "gn:longitude":-86.22,
+    "gn:modification_date":"2016-06-15",
+    "gn:name":"La Borgona",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421179217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11184885
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"55cf14f9253f417987abc4f1069b94b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179217,
+            "locality_id":1276865763,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1276865763,
+    "wof:lastmodified":1537057544,
+    "wof:name":"La Borgona",
+    "wof:parent_id":421179217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.22,
+    12.0105,
+    -86.22,
+    12.0105
+],
+  "geometry": {"coordinates":[-86.22,12.0105],"type":"Point"}
+}

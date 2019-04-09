@@ -1,0 +1,67 @@
+{
+  "id": 1293676261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.63414,12.95785,-85.63414,12.95785",
+    "geom:latitude":12.95785,
+    "geom:longitude":-85.63414,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Perla",
+    "gn:country_code":"NI",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618402,
+    "gn:latitude":12.95785,
+    "gn:longitude":-85.63414,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Perla",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618402
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1dfa278cd5587ad277f973739a958c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693833,
+            "locality_id":1293676261,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1293676261,
+    "wof:lastmodified":1537011477,
+    "wof:name":"La Perla",
+    "wof:parent_id":1108693833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.63414,
+    12.95785,
+    -85.63414,
+    12.95785
+],
+  "geometry": {"coordinates":[-85.63414,12.95785],"type":"Point"}
+}

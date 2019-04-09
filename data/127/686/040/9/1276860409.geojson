@@ -1,0 +1,67 @@
+{
+  "id": 1276860409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.43414,11.89055,-86.43414,11.89055",
+    "geom:latitude":11.89055,
+    "geom:longitude":-86.43414,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Santa Teresa",
+    "gn:country_code":"NI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616378,
+    "gn:latitude":11.89055,
+    "gn:longitude":-86.43414,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Santa Teresa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616378
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fc2c46418ca6df40906ed1bc50aacf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693779,
+            "locality_id":1276860409,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1276860409,
+    "wof:lastmodified":1537064362,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":1108693779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.43414,
+    11.89055,
+    -86.43414,
+    11.89055
+],
+  "geometry": {"coordinates":[-86.43414,11.89055],"type":"Point"}
+}

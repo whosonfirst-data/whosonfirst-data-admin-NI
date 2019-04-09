@@ -1,0 +1,67 @@
+{
+  "id": 1226444381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5391,12.84995,-87.5391,12.84995",
+    "geom:latitude":12.84995,
+    "geom:longitude":-87.5391,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Vaca",
+    "gn:country_code":"NI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618069,
+    "gn:latitude":12.84995,
+    "gn:longitude":-87.5391,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421170189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618069
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"58db6c163dddc619076f569bcc1c8fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170189,
+            "locality_id":1226444381,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1226444381,
+    "wof:lastmodified":1536647027,
+    "wof:name":"La Vaca",
+    "wof:parent_id":421170189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5391,
+    12.84995,
+    -87.5391,
+    12.84995
+],
+  "geometry": {"coordinates":[-87.5391,12.84995],"type":"Point"}
+}

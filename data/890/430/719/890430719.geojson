@@ -1,0 +1,100 @@
+{
+  "id": 890430719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12756,11.82331,-86.12756,11.82331",
+    "geom:latitude":11.82331,
+    "geom:longitude":-86.12756,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":2454,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u5df4\u65af\u5fb7\u5361\u62c9\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "name:eng_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "name:fre_x_preferred":[
+        "La Paz de Oriente"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03b4\u03b5 \u039a\u03b1\u03c1\u03ac\u03c3\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "name:spa_x_preferred":[
+        "La Paz de Oriente"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz de Oriente"
+    ],
+    "name:unk_x_variant":[
+        "Paz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632 \u062f\u06d2 \u06a9\u0627\u0631\u0627\u0632\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "qs:name":"La Paz de Oriente",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618410,
+        "gp:id":26813535,
+        "qs:id":149469,
+        "wd:id":"Q2215549"
+    },
+    "wof:country":"NI",
+    "wof:created":1469051864,
+    "wof:geomhash":"42370ee720f700fad87fa7afa82e43de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693799,
+            "locality_id":890430719,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":890430719,
+    "wof:lastmodified":1514491752,
+    "wof:name":"La Paz de Oriente",
+    "wof:parent_id":1108693799,
+    "wof:placetype":"locality",
+    "wof:population":2454,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12756,
+    11.82331,
+    -86.12756,
+    11.82331
+],
+  "geometry": {"coordinates":[-86.12756,11.82331],"type":"Point"}
+}

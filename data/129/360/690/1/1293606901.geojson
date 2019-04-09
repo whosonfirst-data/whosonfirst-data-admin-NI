@@ -1,0 +1,67 @@
+{
+  "id": 1293606901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.22596,12.4897,-86.22596,12.4897",
+    "geom:latitude":12.4897,
+    "geom:longitude":-86.22596,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Talolinga",
+    "gn:country_code":"NI",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616150,
+    "gn:latitude":12.4897,
+    "gn:longitude":-86.22596,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Talolinga",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616150
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3ae32e1897c8f8662be28ae316dede06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693775,
+            "locality_id":1293606901,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1293606901,
+    "wof:lastmodified":1536612486,
+    "wof:name":"Talolinga",
+    "wof:parent_id":1108693775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.22596,
+    12.4897,
+    -86.22596,
+    12.4897
+],
+  "geometry": {"coordinates":[-86.22596,12.4897],"type":"Point"}
+}

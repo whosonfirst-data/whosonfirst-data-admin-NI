@@ -1,0 +1,72 @@
+{
+  "id": 1209910795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.40118,13.77888,-85.40118,13.77888",
+    "geom:latitude":13.77888,
+    "geom:longitude":-85.40118,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ayapal",
+    "gn:country_code":"NI",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620804,
+    "gn:latitude":13.77888,
+    "gn:longitude":-85.40118,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayapal",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arapal",
+        "Avapal",
+        "Ayapal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620804
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"449fd7559399df553df628257de44e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693685,
+            "locality_id":1209910795,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1209910795,
+    "wof:lastmodified":1537675578,
+    "wof:name":"Ayapal",
+    "wof:parent_id":1108693685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.40118000000002,
+    13.77888,
+    -85.40118000000002,
+    13.77888
+],
+  "geometry": {"coordinates":[-85.40118000000002,13.77888],"type":"Point"}
+}

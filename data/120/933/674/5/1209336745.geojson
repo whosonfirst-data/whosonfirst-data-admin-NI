@@ -1,0 +1,64 @@
+{
+  "id": 1209336745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.91543,11.74114,-85.91543,11.74114",
+    "geom:latitude":11.74114,
+    "geom:longitude":-85.91543,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Vera Cruz",
+    "gn:country_code":"NI",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615834,
+    "gn:latitude":11.74114,
+    "gn:longitude":-85.91543,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vera Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veracruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615834
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"49337e006a53f954d8d0afab5be95b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209336745
+        }
+    ],
+    "wof:id":1209336745,
+    "wof:lastmodified":1537675528,
+    "wof:name":"Vera Cruz",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.91543,
+    11.74114,
+    -85.91543,
+    11.74114
+],
+  "geometry": {"coordinates":[-85.91543,11.74114],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326951581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.93418,13.43498,-85.93418,13.43498",
+    "geom:latitude":13.43498,
+    "geom:longitude":-85.93418,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Las Puertas",
+    "gn:country_code":"NI",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618128,
+    "gn:latitude":13.43498,
+    "gn:longitude":-85.93418,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Las Puertas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618128
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ebc8961a11cdd224e866f86609fd697c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693687,
+            "locality_id":1326951581,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1326951581,
+    "wof:lastmodified":1536876120,
+    "wof:name":"Las Puertas",
+    "wof:parent_id":1108693687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.93418,
+    13.43498,
+    -85.93418,
+    13.43498
+],
+  "geometry": {"coordinates":[-85.93418,13.43498],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242974069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.15503,11.68116,-86.15503,11.68116",
+    "geom:latitude":11.68116,
+    "geom:longitude":-86.15503,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Los Gomez",
+    "gn:country_code":"NI",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537808,
+    "gn:latitude":11.68116,
+    "gn:longitude":-86.15503,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Los Gomez",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Gomez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537808
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2e1af65c68516c6887cce0afe0f5c0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693803,
+            "locality_id":1242974069,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1242974069,
+    "wof:lastmodified":1537675590,
+    "wof:name":"Los Gomez",
+    "wof:parent_id":1108693803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.15503000000002,
+    11.68116,
+    -86.15503000000002,
+    11.68116
+],
+  "geometry": {"coordinates":[-86.15503000000002,11.68116],"type":"Point"}
+}

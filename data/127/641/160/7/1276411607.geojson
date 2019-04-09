@@ -1,0 +1,72 @@
+{
+  "id": 1276411607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.06667,14.05,-86.06667,14.05",
+    "geom:latitude":14.05,
+    "geom:longitude":-86.06667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Teotecacinte",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616081,
+    "gn:latitude":14.05,
+    "gn:longitude":-86.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Teotecacinte",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teotecicante",
+        "Teotecacinte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        421170023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616081
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"082d87bc59e898738b78d4bfad19b0a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170023,
+            "locality_id":1276411607,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":1276411607,
+    "wof:lastmodified":1537675532,
+    "wof:name":"Teotecacinte",
+    "wof:parent_id":421170023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.06667,
+    14.05,
+    -86.06667,
+    14.05
+],
+  "geometry": {"coordinates":[-86.06667,14.05],"type":"Point"}
+}

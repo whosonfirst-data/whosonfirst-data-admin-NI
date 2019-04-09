@@ -1,0 +1,65 @@
+{
+  "id": 1209412221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53997,12.84804,-86.53997,12.84804",
+    "geom:latitude":12.84804,
+    "geom:longitude":-86.53997,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Tololos",
+    "gn:country_code":"NI",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617834,
+    "gn:latitude":12.84804,
+    "gn:longitude":-86.53997,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Tololos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tololos",
+        "Los Tololos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617834
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bd89341065e22f3b152d9168216647fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209412221
+        }
+    ],
+    "wof:id":1209412221,
+    "wof:lastmodified":1537675545,
+    "wof:name":"Los Tololos",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53997,
+    12.84804,
+    -86.53997,
+    12.84804
+],
+  "geometry": {"coordinates":[-86.53997,12.84804],"type":"Point"}
+}

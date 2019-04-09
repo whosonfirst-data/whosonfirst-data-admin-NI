@@ -1,0 +1,64 @@
+{
+  "id": 1209518441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.15488,11.69197,-86.15488,11.69197",
+    "geom:latitude":11.69197,
+    "geom:longitude":-86.15488,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Las Esquinas",
+    "gn:country_code":"NI",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036031,
+    "gn:latitude":11.69197,
+    "gn:longitude":-86.15488,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Las Esquinas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Esquinas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036031
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fac27e90aff47be83e71636fe16eac32",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209518441
+        }
+    ],
+    "wof:id":1209518441,
+    "wof:lastmodified":1537675587,
+    "wof:name":"Las Esquinas",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.15488,
+    11.69197,
+    -86.15488,
+    11.69197
+],
+  "geometry": {"coordinates":[-86.15488000000001,11.69197],"type":"Point"}
+}

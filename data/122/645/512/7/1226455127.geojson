@@ -1,0 +1,70 @@
+{
+  "id": 1226455127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.07432,11.70652,-86.07432,11.70652",
+    "geom:latitude":11.70652,
+    "geom:longitude":-86.07432,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Chipopa",
+    "gn:country_code":"NI",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036062,
+    "gn:latitude":11.70652,
+    "gn:longitude":-86.07432,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Chipopa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Chipopa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036062
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7ce4368c86a458ba2dbb77d6427ea8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1226455127,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1226455127,
+    "wof:lastmodified":1537675588,
+    "wof:name":"La Chipopa",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.07432,
+    11.70652,
+    -86.07432,
+    11.70652
+],
+  "geometry": {"coordinates":[-86.07432,11.70652],"type":"Point"}
+}

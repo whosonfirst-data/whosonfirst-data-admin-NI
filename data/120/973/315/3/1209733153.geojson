@@ -1,0 +1,67 @@
+{
+  "id": 1209733153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.08559,12.69683,-85.08559,12.69683",
+    "geom:latitude":12.69683,
+    "geom:longitude":-85.08559,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Penas Blancas",
+    "gn:country_code":"NI",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617286,
+    "gn:latitude":12.69683,
+    "gn:longitude":-85.08559,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Pe\u00f1as Blancas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421189523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617286
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"04d38d160982df58c26a060cd5d4ec9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189523,
+            "locality_id":1209733153,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1209733153,
+    "wof:lastmodified":1536376538,
+    "wof:name":"Penas Blancas",
+    "wof:parent_id":421189523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.08559,
+    12.69683,
+    -85.08559,
+    12.69683
+],
+  "geometry": {"coordinates":[-85.08559,12.69683],"type":"Point"}
+}

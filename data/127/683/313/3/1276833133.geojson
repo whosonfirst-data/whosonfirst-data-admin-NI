@@ -1,0 +1,67 @@
+{
+  "id": 1276833133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.78351,14.82089,-83.78351,14.82089",
+    "geom:latitude":14.82089,
+    "geom:longitude":-83.78351,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Tuskru Sirpi",
+    "gn:country_code":"NI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615949,
+    "gn:latitude":14.82089,
+    "gn:longitude":-83.78351,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tuskru Sirpi",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuskro Sirpe",
+        "Tuskru Sirpi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615949
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b33ff8fb948fddeecaff34d9bcb1291f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1276833133,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276833133,
+    "wof:lastmodified":1537675531,
+    "wof:name":"Tuskru Sirpi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.78350999999998,
+    14.82089,
+    -83.78350999999998,
+    14.82089
+],
+  "geometry": {"coordinates":[-83.78350999999998,14.82089],"type":"Point"}
+}

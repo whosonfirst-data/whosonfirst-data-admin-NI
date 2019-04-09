@@ -1,0 +1,79 @@
+{
+  "id": 421182401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.67335,13.36844,-85.67335,13.36844",
+    "geom:latitude":13.36844,
+    "geom:longitude":-85.67335,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Paso Real del Cu\u00e1"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617311,
+    "qs:gn_pop":0,
+    "qs:name":"Paso Real de Cu\u00e1",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Jinotega",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":910227,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153671,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617311,
+        "gp:id":153671,
+        "qs:id":910227
+    },
+    "wof:country":"NI",
+    "wof:created":1459009328,
+    "wof:geomhash":"66c556e27baa5aa03df0b19001eb0c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693685,
+            "locality_id":421182401,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":421182401,
+    "wof:lastmodified":1501268121,
+    "wof:name":"Paso Real de Cu\u00e1",
+    "wof:parent_id":1108693685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.67335,
+    13.36844,
+    -85.67335,
+    13.36844
+],
+  "geometry": {"coordinates":[-85.67335,13.36844],"type":"Point"}
+}

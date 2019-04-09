@@ -1,0 +1,76 @@
+{
+  "id": 1360179085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.00004,13.06899,-86.00004,13.06899",
+    "geom:latitude":13.06899,
+    "geom:longitude":-86.00004,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Llano de La Tejera",
+    "gn:country_code":"NI",
+    "gn:dem":1051,
+    "gn:elevation":"1053.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615877,
+    "gn:latitude":13.06899,
+    "gn:longitude":-86.00004,
+    "gn:modification_date":"2017-01-28",
+    "gn:name":"Llano de La Tejera",
+    "gn:population":209,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tejera",
+        "Tijero",
+        "Valle La Tejera"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615877
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2ccba7893d2d236d1c4421afa3224fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":1360179085,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1360179085,
+    "wof:lastmodified":1537675530,
+    "wof:name":"Llano de La Tejera",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:population":209,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.00004,
+    13.06899,
+    -86.00004,
+    13.06899
+],
+  "geometry": {"coordinates":[-86.00004,13.06899],"type":"Point"}
+}

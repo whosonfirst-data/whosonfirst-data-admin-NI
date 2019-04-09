@@ -1,0 +1,70 @@
+{
+  "id": 1226564279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96361,11.99755,-85.96361,11.99755",
+    "geom:latitude":11.99755,
+    "geom:longitude":-85.96361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Gloria",
+    "gn:country_code":"NI",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016243,
+    "gn:latitude":11.99755,
+    "gn:longitude":-85.96361,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Gloria",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Gloria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016243
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8357baff444913399b335b92f5fa68aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1226564279,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1226564279,
+    "wof:lastmodified":1537675580,
+    "wof:name":"La Gloria",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96361,
+    11.99755,
+    -85.96361,
+    11.99755
+],
+  "geometry": {"coordinates":[-85.96361,11.99755],"type":"Point"}
+}

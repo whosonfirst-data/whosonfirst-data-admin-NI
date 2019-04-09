@@ -1,0 +1,67 @@
+{
+  "id": 1225849889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23924,13.24039,-86.23924,13.24039",
+    "geom:latitude":13.24039,
+    "geom:longitude":-86.23924,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Miraflor",
+    "gn:country_code":"NI",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8298593,
+    "gn:latitude":13.24039,
+    "gn:longitude":-86.23924,
+    "gn:modification_date":"2012-05-16",
+    "gn:name":"Miraflor",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8298593
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"391d7c4e5fa0b6c3bda322733db45b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693753,
+            "locality_id":1225849889,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1225849889,
+    "wof:lastmodified":1537006932,
+    "wof:name":"Miraflor",
+    "wof:parent_id":1108693753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23924,
+    13.24039,
+    -86.23924,
+    13.24039
+],
+  "geometry": {"coordinates":[-86.23924,13.24039],"type":"Point"}
+}

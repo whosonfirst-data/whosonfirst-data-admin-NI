@@ -1,0 +1,67 @@
+{
+  "id": 1225940181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.05,12.38333,-86.05,12.38333",
+    "geom:latitude":12.38333,
+    "geom:longitude":-86.05,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Gregorio",
+    "gn:country_code":"NI",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616836,
+    "gn:latitude":12.38333,
+    "gn:longitude":-86.05,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Gregorio",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616836
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0a1284574b9591af91eab7c4afe66900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1225940181,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1225940181,
+    "wof:lastmodified":1536876558,
+    "wof:name":"San Gregorio",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.05,
+    12.38333,
+    -86.05,
+    12.38333
+],
+  "geometry": {"coordinates":[-86.05,12.38333],"type":"Point"}
+}

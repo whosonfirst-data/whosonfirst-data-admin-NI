@@ -1,0 +1,61 @@
+{
+  "id": 1209599211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.05389,12.27244,-86.05389,12.27244",
+    "geom:latitude":12.27244,
+    "geom:longitude":-86.05389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Santa Maria",
+    "gn:country_code":"NI",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616445,
+    "gn:latitude":12.27244,
+    "gn:longitude":-86.05389,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Santa Mar\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616445
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c3f2c6d36bc3d20626b151733ebefb9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209599211
+        }
+    ],
+    "wof:id":1209599211,
+    "wof:lastmodified":1536282224,
+    "wof:name":"Santa Maria",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.05389,
+    12.27244,
+    -86.05389,
+    12.27244
+],
+  "geometry": {"coordinates":[-86.05389,12.27244],"type":"Point"}
+}

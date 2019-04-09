@@ -1,0 +1,67 @@
+{
+  "id": 1344024295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.00909,12.73934,-85.00909,12.73934",
+    "geom:latitude":12.73934,
+    "geom:longitude":-85.00909,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Siquia",
+    "gn:country_code":"NI",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616262,
+    "gn:latitude":12.73934,
+    "gn:longitude":-85.00909,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Siquia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421189523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616262
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8c8466609fea113fee69f2f0c4565f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189523,
+            "locality_id":1344024295,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1344024295,
+    "wof:lastmodified":1536928647,
+    "wof:name":"Siquia",
+    "wof:parent_id":421189523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.00909,
+    12.73934,
+    -85.00909,
+    12.73934
+],
+  "geometry": {"coordinates":[-85.00909,12.73934],"type":"Point"}
+}

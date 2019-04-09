@@ -1,0 +1,72 @@
+{
+  "id": 1343436909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.75,12.21667,-84.75,12.21667",
+    "geom:latitude":12.21667,
+    "geom:longitude":-84.75,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kamusasca",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618891,
+    "gn:latitude":12.21667,
+    "gn:longitude":-84.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kamusasca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumusaca",
+        "Kamusasca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618891
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"58412952b2db784024209e5e18b0d2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693875,
+            "locality_id":1343436909,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1343436909,
+    "wof:lastmodified":1537675559,
+    "wof:name":"Kamusasca",
+    "wof:parent_id":1108693875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.75,
+    12.21667,
+    -84.75,
+    12.21667
+],
+  "geometry": {"coordinates":[-84.75,12.21667],"type":"Point"}
+}

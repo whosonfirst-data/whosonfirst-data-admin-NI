@@ -1,0 +1,67 @@
+{
+  "id": 1326715837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.51435,12.82876,-86.51435,12.82876",
+    "geom:latitude":12.82876,
+    "geom:longitude":-86.51435,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Coco",
+    "gn:country_code":"NI",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619910,
+    "gn:latitude":12.82876,
+    "gn:longitude":-86.51435,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Coco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421168431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619910
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"03186b72569d71323492307fa3214ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421168431,
+            "locality_id":1326715837,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1326715837,
+    "wof:lastmodified":1536719776,
+    "wof:name":"El Coco",
+    "wof:parent_id":421168431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.51435,
+    12.82876,
+    -86.51435,
+    12.82876
+],
+  "geometry": {"coordinates":[-86.51434999999999,12.82876],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343383549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28271,12.82599,-86.28271,12.82599",
+    "geom:latitude":12.82599,
+    "geom:longitude":-86.28271,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Ramon de la Uva",
+    "gn:country_code":"NI",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616580,
+    "gn:latitude":12.82599,
+    "gn:longitude":-86.28271,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Ram\u00f3n de la Uva",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616580
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1b23ad99addde85359fa6c0759c1272f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693823,
+            "locality_id":1343383549,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343383549,
+    "wof:lastmodified":1536856014,
+    "wof:name":"San Ramon de la Uva",
+    "wof:parent_id":1108693823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28271,
+    12.82599,
+    -86.28271,
+    12.82599
+],
+  "geometry": {"coordinates":[-86.28270999999999,12.82599],"type":"Point"}
+}

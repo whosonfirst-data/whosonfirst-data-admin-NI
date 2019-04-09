@@ -1,0 +1,118 @@
+{
+  "id": 85794083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":32911126.336371,
+    "geom:bbox":"-86.098345,11.966747,-86.098345,11.966747",
+    "geom:latitude":11.966747,
+    "geom:longitude":-86.098345,
+    "gn:latitude":11.96468,
+    "gn:longitude":-86.09007,
+    "iso:country":"NI",
+    "lbl:latitude":11.966747,
+    "lbl:longitude":-86.098345,
+    "mps:latitude":11.971806,
+    "mps:longitude":-86.09834,
+    "mz:hierarchy_label":0,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:spa_x_colloquial":[
+        "Barrio Monimbo",
+        "Monimbo"
+    ],
+    "name:spa_x_preferred":[
+        "Monimb\u00f3"
+    ],
+    "name:spa_x_variant":[
+        "Barrio Monimb\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Barrio Monimb\u00f3",
+        "Monimb\u00f3"
+    ],
+    "qs:gn_adm0_cc":"NI",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3617723,
+    "qs:gn_namadm1":"11",
+    "qs:gn_name":"Monimb\u00f3",
+    "qs:local_max":359,
+    "qs:local_sum":359,
+    "qs:localhoods":1,
+    "qs:name":"Monimb\u00f3",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Masaya",
+    "qs:name_adm2":"Masaya",
+    "qs:name_local":"Masaya",
+    "qs:photo_max":182,
+    "qs:photo_sum":359,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":23,
+    "qs:woe_adm0":23424915,
+    "qs:woe_adm1":2346427,
+    "qs:woe_adm2":26813369,
+    "qs:woe_lau":0,
+    "qs:woe_local":153533,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        85675499,
+        102191575,
+        85632599,
+        421170019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617617,
+        "gp:id":153567,
+        "qs:id":222192
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f69185823ce11836fba5d33f2927c3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170019,
+            "locality_id":-1,
+            "neighbourhood_id":85794083,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":85794083,
+    "wof:lang":[
+        "spa"
+    ],
+    "wof:lastmodified":1534379386,
+    "wof:name":"Monimb\u00f3",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[
+        1126093071
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.098345,
+    11.966747,
+    -86.098345,
+    11.966747
+],
+  "geometry": {"coordinates":[-86.09834499999999,11.966747],"type":"Point"}
+}

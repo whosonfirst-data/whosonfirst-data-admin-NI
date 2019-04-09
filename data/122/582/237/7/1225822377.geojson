@@ -1,0 +1,67 @@
+{
+  "id": 1225822377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.51278,12.85356,-85.51278,12.85356",
+    "geom:latitude":12.85356,
+    "geom:longitude":-85.51278,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Cusile",
+    "gn:country_code":"NI",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620215,
+    "gn:latitude":12.85356,
+    "gn:longitude":-85.51278,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Cusile",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620215
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fb01d210035853b859a30502d9f0b007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693833,
+            "locality_id":1225822377,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1225822377,
+    "wof:lastmodified":1537045539,
+    "wof:name":"Cusile",
+    "wof:parent_id":1108693833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.51278,
+    12.85356,
+    -85.51278,
+    12.85356
+],
+  "geometry": {"coordinates":[-85.51278000000001,12.85356],"type":"Point"}
+}

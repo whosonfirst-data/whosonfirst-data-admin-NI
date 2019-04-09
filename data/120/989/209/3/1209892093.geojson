@@ -1,0 +1,71 @@
+{
+  "id": 1209892093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.73022,12.44599,-83.73022,12.44599",
+    "geom:latitude":12.44599,
+    "geom:longitude":-83.73022,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Banco Brown Abajo",
+    "gn:country_code":"NI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620770,
+    "gn:latitude":12.44599,
+    "gn:longitude":-83.73022,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Banco Brown Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brown Bank Bottom",
+        "Banco Brown Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421183419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620770
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6fafcbbe8954b666c15c539c426d9324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421183419,
+            "locality_id":1209892093,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1209892093,
+    "wof:lastmodified":1537675578,
+    "wof:name":"Banco Brown Abajo",
+    "wof:parent_id":421183419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.73021999999997,
+    12.44599,
+    -83.73021999999997,
+    12.44599
+],
+  "geometry": {"coordinates":[-83.73021999999997,12.44599],"type":"Point"}
+}

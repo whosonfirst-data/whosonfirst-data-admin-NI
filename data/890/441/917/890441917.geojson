@@ -1,0 +1,99 @@
+{
+  "id": 890441917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.18588,13.1129,-84.18588,13.1129",
+    "geom:latitude":13.1129,
+    "geom:longitude":-84.18588,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":1669,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u514b\u9b6f\u65af\u5fb7\u91cc\u5967\u683c\u862d\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "name:eng_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "name:fre_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "name:ita_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "name:spa_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "name:swe_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "name:unk_x_variant":[
+        "La Cruz"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0631\u0648\u0632 \u062f\u06d2 \u0631\u06cc\u0648 \u06af\u0631\u0627\u0646\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "La Cruz de R\u00edo Grande"
+    ],
+    "qs:name":"La Cruz de R\u00edo Grande",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":113,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618618,
+        "gp:id":153045,
+        "qs:id":149478,
+        "wd:id":"Q963732",
+        "wk:page":"La Cruz de R\u00edo Grande"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052343,
+    "wof:geomhash":"edd9ad5026c704758975890ffce2958e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693869,
+            "locality_id":890441917,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":890441917,
+    "wof:lastmodified":1527727235,
+    "wof:name":"La Cruz de R\u00edo Grande",
+    "wof:parent_id":1108693869,
+    "wof:placetype":"locality",
+    "wof:population":1669,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.18588,
+    13.1129,
+    -84.18588,
+    13.1129
+],
+  "geometry": {"coordinates":[-84.18588,13.1129],"type":"Point"}
+}

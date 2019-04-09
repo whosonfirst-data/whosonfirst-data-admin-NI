@@ -1,0 +1,99 @@
+{
+  "id": 890441005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18976,11.93711,-86.18976,11.93711",
+    "geom:latitude":11.93711,
+    "geom:longitude":-86.18976,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":6946,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u5eb7\u585e\u666e\u897f\u7fc1"
+    ],
+    "name:dut_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:eng_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:fre_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:ger_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:spa_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
+    "name:unk_x_variant":[
+        "Concepci\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u06a9\u0648\u0646\u0633\u067e\u0633\u06cc\u0648\u0646\u060c \u0645\u0627\u0633\u0627\u06cc\u0627"
+    ],
+    "qs:name":"La Concepci\u00f3n",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618648,
+        "gp:id":153030,
+        "qs:id":149480,
+        "wd:id":"Q538269",
+        "wk:page":"La Concepci\u00f3n"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052305,
+    "wof:geomhash":"676889ab2a0731b4d50523e8a8295d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693785,
+            "locality_id":890441005,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":890441005,
+    "wof:lastmodified":1527727234,
+    "wof:name":"La Concepci\u00f3n",
+    "wof:parent_id":1108693785,
+    "wof:placetype":"locality",
+    "wof:population":6946,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18976,
+    11.93711,
+    -86.18976,
+    11.93711
+],
+  "geometry": {"coordinates":[-86.18976000000001,11.93711],"type":"Point"}
+}

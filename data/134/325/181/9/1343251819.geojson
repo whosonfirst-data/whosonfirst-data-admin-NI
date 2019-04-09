@@ -1,0 +1,67 @@
+{
+  "id": 1343251819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.20244,13.49074,-86.20244,13.49074",
+    "geom:latitude":13.49074,
+    "geom:longitude":-86.20244,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Quibuto",
+    "gn:country_code":"NI",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617112,
+    "gn:latitude":13.49074,
+    "gn:longitude":-86.20244,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Quibuto",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675511,
+        1108693723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617112
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c7fbd42eaa51012e5edc910ff9a634f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693723,
+            "locality_id":1343251819,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":1343251819,
+    "wof:lastmodified":1537045533,
+    "wof:name":"Quibuto",
+    "wof:parent_id":1108693723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.20244,
+    13.49074,
+    -86.20244,
+    13.49074
+],
+  "geometry": {"coordinates":[-86.20244,13.49074],"type":"Point"}
+}

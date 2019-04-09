@@ -1,0 +1,72 @@
+{
+  "id": 1293588323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23534,12.96881,-86.23534,12.96881",
+    "geom:latitude":12.96881,
+    "geom:longitude":-86.23534,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Trinidad",
+    "gn:country_code":"NI",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618087,
+    "gn:latitude":12.96881,
+    "gn:longitude":-86.23534,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Trinidad",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trinidad",
+        "La Trinidad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618087,
+        "wk:page":"La_Trinidad%2C_Estel%C3%AD"
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"af397e2d5c6f109b4664cb2c01287111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693757,
+            "locality_id":1293588323,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1293588323,
+    "wof:lastmodified":1537675549,
+    "wof:name":"La Trinidad",
+    "wof:parent_id":1108693757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23534000000002,
+    12.96881,
+    -86.23534000000002,
+    12.96881
+],
+  "geometry": {"coordinates":[-86.23534000000002,12.96881],"type":"Point"}
+}

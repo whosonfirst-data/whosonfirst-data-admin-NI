@@ -1,0 +1,82 @@
+{
+  "id": 421177687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.19629,12.82247,-84.19629,12.82247",
+    "geom:latitude":12.82247,
+    "geom:longitude":-84.19629,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Tortuguero"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617457,
+    "qs:gn_pop":1292,
+    "qs:name":"Nuevo Amanecer",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1204455,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153619,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617457,
+        "gp:id":153619,
+        "qs:id":1204455
+    },
+    "wof:country":"NI",
+    "wof:created":1459009157,
+    "wof:geomhash":"9a1175b83937804627d27e95b525cfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693877,
+            "locality_id":421177687,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":421177687,
+    "wof:lastmodified":1505340633,
+    "wof:name":"Nuevo Amanecer",
+    "wof:parent_id":1108693877,
+    "wof:placetype":"locality",
+    "wof:population":1292,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.19629,
+    12.82247,
+    -84.19629,
+    12.82247
+],
+  "geometry": {"coordinates":[-84.19629,12.82247],"type":"Point"}
+}

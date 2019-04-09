@@ -1,0 +1,61 @@
+{
+  "id": 1209427729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.30395,11.67305,-86.30395,11.67305",
+    "geom:latitude":11.67305,
+    "geom:longitude":-86.30395,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Barranco Bayo",
+    "gn:country_code":"NI",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620757,
+    "gn:latitude":11.67305,
+    "gn:longitude":-86.30395,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Barranco Bayo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620757
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6064f3aceddda30fb45cd6f798e8d01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209427729
+        }
+    ],
+    "wof:id":1209427729,
+    "wof:lastmodified":1536287329,
+    "wof:name":"Barranco Bayo",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.30395,
+    11.67305,
+    -86.30395,
+    11.67305
+],
+  "geometry": {"coordinates":[-86.30395,11.67305],"type":"Point"}
+}

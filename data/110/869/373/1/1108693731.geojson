@@ -1,0 +1,117 @@
+{
+  "id": 1108693731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00543,
+    "geom:area_square_m":65329238.276724,
+    "geom:bbox":"-86.7079782428,13.3018891212,-86.5887879962,13.3763911065",
+    "geom:latitude":13.338268,
+    "geom:longitude":-86.647413,
+    "iso:country":"NI",
+    "lbl:latitude":13.335114,
+    "lbl:longitude":-86.642542,
+    "meso:admin_1":"MADRIZ",
+    "meso:gadm_admin":"Las Sabanas",
+    "meso:gadm_hasc2":"NI.MD.LS",
+    "meso:gaul_admin":"Las Sabanas",
+    "meso:local_id":"1342",
+    "meso:mps_x":-86.642542,
+    "meso:mps_y":13.335114,
+    "meso:name_local":"LAS SABANAS",
+    "meso:source":"ISCGM",
+    "mps:latitude":13.335114,
+    "mps:longitude":-86.642542,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u65af\u85a9\u74e6\u7d0d\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:eng_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:eng_x_variant":[
+        "Las Sabanas"
+    ],
+    "name:fre_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0633\u0627\u0628\u0627\u0646\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Las Sabanas"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"65.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"Las Sabanas",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.MD",
+    "statoids:name":"Las Sabanas",
+    "statoids:population":"4136",
+    "statoids:statoid":"NI.MD.LS",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.MD.LS",
+        "wd:id":"Q2215117"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415069,
+    "wof:geomhash":"d44d4ea670cf4321b08fd4956db0d444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693731,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":1108693731,
+    "wof:lastmodified":1543954416,
+    "wof:name":"Las Sabanas",
+    "wof:parent_id":85675511,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":4136,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"LS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.7079782428179,
+    13.30188912124782,
+    -86.58878799615486,
+    13.37639110650317
+],
+  "geometry": {"coordinates":[[[-86.58878799615486,13.34716456690415],[-86.6003175881529,13.34125579760753],[-86.61289898671431,13.33046525318664],[-86.61220184368317,13.31886856643555],[-86.61273241494159,13.30928226664198],[-86.61726297424514,13.30188912124782],[-86.63238684718799,13.30331299941277],[-86.65016673922715,13.30578178188543],[-86.66279962712589,13.3078469485633],[-86.6774211065928,13.31398761093605],[-86.69426556732742,13.32024203018342],[-86.70106918246763,13.31999694371383],[-86.70187104690342,13.3240047911545],[-86.70180217479285,13.32793475357585],[-86.70171856348323,13.33305716031008],[-86.70201571559278,13.33735037515743],[-86.70291612476947,13.34153239664387],[-86.70479294106239,13.34632252192847],[-86.70618934643745,13.35039207822749],[-86.70782936408875,13.35494115267661],[-86.7079782428179,13.35544769656856],[-86.68753459826512,13.3564665651689],[-86.66044840163332,13.35767615381114],[-86.63838783227465,13.37570195452373],[-86.62803205532988,13.37639110650317],[-86.62370286763615,13.376045617944],[-86.61843947615395,13.37110856404629],[-86.60569233029359,13.35733008081272],[-86.59913567777285,13.36639935112566],[-86.59276260684365,13.35933734869931],[-86.58920006543575,13.34785583796025],[-86.58878799615486,13.34716456690415]]],"type":"Polygon"}
+}

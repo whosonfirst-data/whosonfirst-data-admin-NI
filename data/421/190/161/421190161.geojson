@@ -1,0 +1,75 @@
+{
+  "id": 421190161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.972137,12.0373055,-85.972137,12.0373055",
+    "geom:latitude":12.037306,
+    "geom:longitude":-85.972137,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Tisma",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Masaya",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":116371,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813370,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813370,
+        "qs:id":116371,
+        "wd:id":"Q2216452"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009649,
+    "wof:geomhash":"f0ce75051d58ebed239fb272879681e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421190161,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":421190161,
+    "wof:lastmodified":1527716389,
+    "wof:name":"Tisma",
+    "wof:parent_id":85675477,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.972137,
+    12.0373055,
+    -85.972137,
+    12.0373055
+],
+  "geometry": {"coordinates":[-85.972137,12.0373055],"type":"Point"}
+}

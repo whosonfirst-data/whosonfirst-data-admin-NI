@@ -1,0 +1,70 @@
+{
+  "id": 1293690125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.22767,11.7294,-86.22767,11.7294",
+    "geom:latitude":11.7294,
+    "geom:longitude":-86.22767,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"NI",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036096,
+    "gn:latitude":11.7294,
+    "gn:longitude":-86.22767,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036096
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"322bfee3e770d34b88e8f9b92e84ebf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1293690125,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1293690125,
+    "wof:lastmodified":1537675589,
+    "wof:name":"San Antonio",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.22766999999997,
+    11.7294,
+    -86.22766999999997,
+    11.7294
+],
+  "geometry": {"coordinates":[-86.22766999999997,11.7294],"type":"Point"}
+}

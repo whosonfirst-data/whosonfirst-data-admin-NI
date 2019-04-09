@@ -1,0 +1,72 @@
+{
+  "id": 1260308641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23333,13.03333,-86.23333,13.03333",
+    "geom:latitude":13.03333,
+    "geom:longitude":-86.23333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Canada",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618684,
+    "gn:latitude":13.03333,
+    "gn:longitude":-86.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Ca\u00f1ada",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ca\u00f1ada",
+        "La Ca\u00f1ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618684
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"51b204afca5ec7719440bf731492d22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693757,
+            "locality_id":1260308641,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1260308641,
+    "wof:lastmodified":1537675556,
+    "wof:name":"La Canada",
+    "wof:parent_id":1108693757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23333000000002,
+    13.03333,
+    -86.23333000000002,
+    13.03333
+],
+  "geometry": {"coordinates":[-86.23333000000002,13.03333],"type":"Point"}
+}

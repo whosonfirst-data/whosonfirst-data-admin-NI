@@ -1,0 +1,67 @@
+{
+  "id": 1310091027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.85935,12.29515,-86.85935,12.29515",
+    "geom:latitude":12.29515,
+    "geom:longitude":-86.85935,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"NI",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616603,
+    "gn:latitude":12.29515,
+    "gn:longitude":-86.85935,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616603
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"df11649c245d3be142ae915c9012d324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693769,
+            "locality_id":1310091027,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1310091027,
+    "wof:lastmodified":1537016710,
+    "wof:name":"San Rafael",
+    "wof:parent_id":1108693769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.85935,
+    12.29515,
+    -86.85935,
+    12.29515
+],
+  "geometry": {"coordinates":[-86.85935000000001,12.29515],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360248109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.33067,12.31572,-84.33067,12.31572",
+    "geom:latitude":12.31572,
+    "geom:longitude":-84.33067,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"San Isidro",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616822,
+    "gn:latitude":12.31572,
+    "gn:longitude":-84.33067,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"San Isidro",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616822
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f6c6a830c458b02a80f88614791d3642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1360248109,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1360248109,
+    "wof:lastmodified":1536710878,
+    "wof:name":"San Isidro",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.33067,
+    12.31572,
+    -84.33067,
+    12.31572
+],
+  "geometry": {"coordinates":[-84.33067,12.31572],"type":"Point"}
+}

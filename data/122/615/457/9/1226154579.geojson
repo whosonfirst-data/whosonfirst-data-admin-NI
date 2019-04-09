@@ -1,0 +1,71 @@
+{
+  "id": 1226154579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.88223,12.73329,-86.88223,12.73329",
+    "geom:latitude":12.73329,
+    "geom:longitude":-86.88223,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Las Grietas",
+    "gn:country_code":"NI",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618247,
+    "gn:latitude":12.73329,
+    "gn:longitude":-86.88223,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Grietas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grietas",
+        "Las Grietas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421171365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618247
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"daa5dc0a7dac7f75218dc45f57d219a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171365,
+            "locality_id":1226154579,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1226154579,
+    "wof:lastmodified":1537675551,
+    "wof:name":"Las Grietas",
+    "wof:parent_id":421171365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.88223,
+    12.73329,
+    -86.88223,
+    12.73329
+],
+  "geometry": {"coordinates":[-86.88223000000001,12.73329],"type":"Point"}
+}

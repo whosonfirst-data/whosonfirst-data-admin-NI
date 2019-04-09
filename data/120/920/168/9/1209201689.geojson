@@ -1,0 +1,61 @@
+{
+  "id": 1209201689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.03313,12.65659,-86.03313,12.65659",
+    "geom:latitude":12.65659,
+    "geom:longitude":-86.03313,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Valle El Tempisque",
+    "gn:country_code":"NI",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615884,
+    "gn:latitude":12.65659,
+    "gn:longitude":-86.03313,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Valle El Tempisque",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615884
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"57465d74b3c14f11642aa7a79cc80bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209201689
+        }
+    ],
+    "wof:id":1209201689,
+    "wof:lastmodified":1536294587,
+    "wof:name":"Valle El Tempisque",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.03313,
+    12.65659,
+    -86.03313,
+    12.65659
+],
+  "geometry": {"coordinates":[-86.03313,12.65659],"type":"Point"}
+}

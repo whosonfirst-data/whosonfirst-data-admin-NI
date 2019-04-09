@@ -1,0 +1,71 @@
+{
+  "id": 1344244055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.51428,13.26996,-85.51428,13.26996",
+    "geom:latitude":13.26996,
+    "geom:longitude":-85.51428,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"El Bote",
+    "gn:country_code":"NI",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620039,
+    "gn:latitude":13.26996,
+    "gn:longitude":-85.51428,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Bote",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Elena",
+        "El Bote"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620039
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7d95560010fd44543cc0c4ae527143bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693817,
+            "locality_id":1344244055,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1344244055,
+    "wof:lastmodified":1537675570,
+    "wof:name":"El Bote",
+    "wof:parent_id":1108693817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.51428,
+    13.26996,
+    -85.51428,
+    13.26996
+],
+  "geometry": {"coordinates":[-85.51428,13.26996],"type":"Point"}
+}

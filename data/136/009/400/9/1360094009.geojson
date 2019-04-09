@@ -1,0 +1,70 @@
+{
+  "id": 1360094009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.2895,11.71024,-86.2895,11.71024",
+    "geom:latitude":11.71024,
+    "geom:longitude":-86.2895,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Calera",
+    "gn:country_code":"NI",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017048,
+    "gn:latitude":11.71024,
+    "gn:longitude":-86.2895,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Calera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Calera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017048
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4625d9a696c79a41a7983b0a23471de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1360094009,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1360094009,
+    "wof:lastmodified":1537675585,
+    "wof:name":"La Calera",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2895,
+    11.71024,
+    -86.2895,
+    11.71024
+],
+  "geometry": {"coordinates":[-86.2895,11.71024],"type":"Point"}
+}

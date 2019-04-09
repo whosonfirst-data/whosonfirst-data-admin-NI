@@ -1,0 +1,72 @@
+{
+  "id": 1260158123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.92235,12.79768,-85.92235,12.79768",
+    "geom:latitude":12.79768,
+    "geom:longitude":-85.92235,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Matasanos",
+    "gn:country_code":"NI",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617699,
+    "gn:latitude":12.79768,
+    "gn:longitude":-85.92235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Matasanos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matazano",
+        "Matasano",
+        "Matasanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617699
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"640737ece096b51abba418777ca2ecd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1260158123,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1260158123,
+    "wof:lastmodified":1537675544,
+    "wof:name":"Matasanos",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.92235,
+    12.79768,
+    -85.92235,
+    12.79768
+],
+  "geometry": {"coordinates":[-85.92234999999999,12.79768],"type":"Point"}
+}

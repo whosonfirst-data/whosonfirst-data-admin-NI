@@ -1,0 +1,61 @@
+{
+  "id": 1209679311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.53988,14.97642,-83.53988,14.97642",
+    "geom:latitude":14.97642,
+    "geom:longitude":-83.53988,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Utlamasta",
+    "gn:country_code":"NI",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615906,
+    "gn:latitude":14.97642,
+    "gn:longitude":-83.53988,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Utlamasta",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615906
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a92cc7aeedffdffc5e71e375581ac6dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209679311
+        }
+    ],
+    "wof:id":1209679311,
+    "wof:lastmodified":1536279634,
+    "wof:name":"Utlamasta",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.53988000000003,
+    14.97642,
+    -83.53988000000003,
+    14.97642
+],
+  "geometry": {"coordinates":[-83.53988000000003,14.97642],"type":"Point"}
+}

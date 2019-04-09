@@ -1,0 +1,61 @@
+{
+  "id": 1209234497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28453,12.67126,-86.28453,12.67126",
+    "geom:latitude":12.67126,
+    "geom:longitude":-86.28453,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Abra Vieja",
+    "gn:country_code":"NI",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620984,
+    "gn:latitude":12.67126,
+    "gn:longitude":-86.28453,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Abra Vieja",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620984
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a48f3bed29e670f920227bd2b60c2c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209234497
+        }
+    ],
+    "wof:id":1209234497,
+    "wof:lastmodified":1536293532,
+    "wof:name":"Abra Vieja",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28453,
+    12.67126,
+    -86.28453,
+    12.67126
+],
+  "geometry": {"coordinates":[-86.28453,12.67126],"type":"Point"}
+}

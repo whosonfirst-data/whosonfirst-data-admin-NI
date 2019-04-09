@@ -1,0 +1,67 @@
+{
+  "id": 1310103409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.02739,11.80848,-86.02739,11.80848",
+    "geom:latitude":11.80848,
+    "geom:longitude":-86.02739,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Granadilla",
+    "gn:country_code":"NI",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618540,
+    "gn:latitude":11.80848,
+    "gn:longitude":-86.02739,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Granadilla",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618540
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d93ace7ec1f22d2ff4bc13d7d054c274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1310103409,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310103409,
+    "wof:lastmodified":1536998776,
+    "wof:name":"La Granadilla",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.02739,
+    11.80848,
+    -86.02739,
+    11.80848
+],
+  "geometry": {"coordinates":[-86.02739,11.80848],"type":"Point"}
+}

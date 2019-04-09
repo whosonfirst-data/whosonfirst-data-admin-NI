@@ -1,0 +1,67 @@
+{
+  "id": 1343625159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.70142,14.64779,-84.70142,14.64779",
+    "geom:latitude":14.64779,
+    "geom:longitude":-84.70142,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Umbra Sumal",
+    "gn:country_code":"NI",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615918,
+    "gn:latitude":14.64779,
+    "gn:longitude":-84.70142,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Umbra Sumal",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Umbra",
+        "Umbra Sumal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615918
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4de6d361f59f2ac7a674c9f98250e61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1343625159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343625159,
+    "wof:lastmodified":1537675531,
+    "wof:name":"Umbra Sumal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.70142,
+    14.64779,
+    -84.70142,
+    14.64779
+],
+  "geometry": {"coordinates":[-84.70142,14.64779],"type":"Point"}
+}

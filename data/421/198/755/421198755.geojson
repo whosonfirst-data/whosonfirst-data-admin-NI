@@ -1,0 +1,124 @@
+{
+  "id": 421198755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.70269,11.67859,-84.70269,11.67859",
+    "geom:latitude":11.67859,
+    "geom:longitude":-84.70269,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Almendro"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u963f\u723e\u9580\u5fb7\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "El Almendro"
+    ],
+    "name:eng_x_preferred":[
+        "El Almendro"
+    ],
+    "name:fra_x_preferred":[
+        "El Almendro"
+    ],
+    "name:fre_x_preferred":[
+        "El Almendro"
+    ],
+    "name:ita_x_preferred":[
+        "El Almendro"
+    ],
+    "name:sco_x_preferred":[
+        "El Almendro"
+    ],
+    "name:spa_x_preferred":[
+        "El Almendro"
+    ],
+    "name:swe_x_preferred":[
+        "El Almendro"
+    ],
+    "name:unk_x_variant":[
+        "Almendro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0627\u0644\u0645\u06cc\u0646\u062f\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Almendro"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u963f\u723e\u9580\u5fb7\u7f85"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620106,
+    "qs:gn_pop":2681,
+    "qs:name":"El Almendro",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1204435,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152359,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":240,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        1108693865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620106,
+        "gp:id":152359,
+        "qs:id":1204435,
+        "wd:id":"Q2621532",
+        "wk:page":"El Almendro"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009959,
+    "wof:geomhash":"93369e123b3101c3ce23c4616fd08842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693865,
+            "locality_id":421198755,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":421198755,
+    "wof:lastmodified":1527716347,
+    "wof:name":"El Almendro",
+    "wof:parent_id":1108693865,
+    "wof:placetype":"locality",
+    "wof:population":2681,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.70269,
+    11.67859,
+    -84.70269,
+    11.67859
+],
+  "geometry": {"coordinates":[-84.70269,11.67859],"type":"Point"}
+}

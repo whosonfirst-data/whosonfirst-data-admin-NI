@@ -1,0 +1,71 @@
+{
+  "id": 1309777549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.10914,14.56106,-84.10914,14.56106",
+    "geom:latitude":14.56106,
+    "geom:longitude":-84.10914,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Miguel Bikan",
+    "gn:country_code":"NI",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617656,
+    "gn:latitude":14.56106,
+    "gn:longitude":-84.10914,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Miguel Bikan",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Tronquera",
+        "Miguel Bikan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617656
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2eeabebcf4d26b40dab50f54e9c5a456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1309777549,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1309777549,
+    "wof:lastmodified":1537675544,
+    "wof:name":"Miguel Bikan",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.10914,
+    14.56106,
+    -84.10914,
+    14.56106
+],
+  "geometry": {"coordinates":[-84.10914,14.56106],"type":"Point"}
+}

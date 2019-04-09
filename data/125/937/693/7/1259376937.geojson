@@ -1,0 +1,71 @@
+{
+  "id": 1259376937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12319,12.11541,-86.12319,12.11541",
+    "geom:latitude":12.11541,
+    "geom:longitude":-86.12319,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Cofradia",
+    "gn:country_code":"NI",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620337,
+    "gn:latitude":12.11541,
+    "gn:longitude":-86.12319,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cofrad\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cofrad\u00edas",
+        "Cofrad\u00eda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620337
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f636589b456c34222c92cc2abdae3738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "locality_id":1259376937,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1259376937,
+    "wof:lastmodified":1537675574,
+    "wof:name":"Cofradia",
+    "wof:parent_id":1108693783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12319000000002,
+    12.11541,
+    -86.12319000000002,
+    12.11541
+],
+  "geometry": {"coordinates":[-86.12319000000002,12.11541],"type":"Point"}
+}

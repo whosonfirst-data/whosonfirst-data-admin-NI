@@ -1,0 +1,67 @@
+{
+  "id": 1243427583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.58832,11.51316,-85.58832,11.51316",
+    "geom:latitude":11.51316,
+    "geom:longitude":-85.58832,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Las Pilas",
+    "gn:country_code":"NI",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618145,
+    "gn:latitude":11.51316,
+    "gn:longitude":-85.58832,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Las Pilas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618145
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9a517d0544368f035b8d091d9e58dddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202291,
+            "locality_id":1243427583,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1243427583,
+    "wof:lastmodified":1536831736,
+    "wof:name":"Las Pilas",
+    "wof:parent_id":421202291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.58832,
+    11.51316,
+    -85.58832,
+    11.51316
+],
+  "geometry": {"coordinates":[-85.58832,11.51316],"type":"Point"}
+}

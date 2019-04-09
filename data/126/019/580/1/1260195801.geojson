@@ -1,0 +1,67 @@
+{
+  "id": 1260195801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.17282,11.7165,-86.17282,11.7165",
+    "geom:latitude":11.7165,
+    "geom:longitude":-86.17282,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"El Brasil",
+    "gn:country_code":"NI",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620036,
+    "gn:latitude":11.7165,
+    "gn:longitude":-86.17282,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Brasil",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620036
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f00e269c2d910b5171760f71faed2733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":1260195801,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1260195801,
+    "wof:lastmodified":1536829984,
+    "wof:name":"El Brasil",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.17282,
+    11.7165,
+    -86.17282,
+    11.7165
+],
+  "geometry": {"coordinates":[-86.17282,11.7165],"type":"Point"}
+}

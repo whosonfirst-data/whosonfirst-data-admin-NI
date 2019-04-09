@@ -1,0 +1,67 @@
+{
+  "id": 1292992365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.08236,12.98592,-86.08236,12.98592",
+    "geom:latitude":12.98592,
+    "geom:longitude":-86.08236,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Monte Grande",
+    "gn:country_code":"NI",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617598,
+    "gn:latitude":12.98592,
+    "gn:longitude":-86.08236,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Monte Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617598
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"10c26de8bd0ac3ddc9aabf34360ee1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693821,
+            "locality_id":1292992365,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1292992365,
+    "wof:lastmodified":1537003089,
+    "wof:name":"Monte Grande",
+    "wof:parent_id":1108693821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.08236,
+    12.98592,
+    -86.08236,
+    12.98592
+],
+  "geometry": {"coordinates":[-86.08235999999999,12.98592],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 421184209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.109167,13.634333,-86.109167,13.634333",
+    "geom:latitude":13.634333,
+    "geom:longitude":-86.109167,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:fra_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:ita_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:nld_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:por_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:sco_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:spa_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:swe_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:vie_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"El J\u00edcaro",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":990190,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813392,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813392,
+        "qs:id":990190,
+        "wd:id":"Q3049996"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009403,
+    "wof:geomhash":"aeba255a97e506007262199715a83085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421184209,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":421184209,
+    "wof:lastmodified":1527716453,
+    "wof:name":"El J\u00edcaro",
+    "wof:parent_id":85675517,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.109167,
+    13.634333,
+    -86.109167,
+    13.634333
+],
+  "geometry": {"coordinates":[-86.109167,13.634333],"type":"Point"}
+}

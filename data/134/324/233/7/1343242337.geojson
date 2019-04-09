@@ -1,0 +1,67 @@
+{
+  "id": 1343242337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.0966,12.69598,-86.0966,12.69598",
+    "geom:latitude":12.69598,
+    "geom:longitude":-86.0966,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Las Limas",
+    "gn:country_code":"NI",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618219,
+    "gn:latitude":12.69598,
+    "gn:longitude":-86.0966,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Limas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618219
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"204dd81a8addf11f76cdbbac57e871e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171805,
+            "locality_id":1343242337,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343242337,
+    "wof:lastmodified":1537058607,
+    "wof:name":"Las Limas",
+    "wof:parent_id":421171805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.0966,
+    12.69598,
+    -86.0966,
+    12.69598
+],
+  "geometry": {"coordinates":[-86.0966,12.69598],"type":"Point"}
+}

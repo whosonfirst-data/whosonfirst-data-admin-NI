@@ -1,0 +1,67 @@
+{
+  "id": 1242850713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.77651,13.87711,-83.77651,13.87711",
+    "geom:latitude":13.87711,
+    "geom:longitude":-83.77651,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Lapan",
+    "gn:country_code":"NI",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618418,
+    "gn:latitude":13.87711,
+    "gn:longitude":-83.77651,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Lapan",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618418
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ed7f6aaa5c4a2382dbf4f5342b437db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":1242850713,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1242850713,
+    "wof:lastmodified":1536670308,
+    "wof:name":"Lapan",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.77651,
+    13.87711,
+    -83.77651,
+    13.87711
+],
+  "geometry": {"coordinates":[-83.77651,13.87711],"type":"Point"}
+}

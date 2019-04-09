@@ -1,0 +1,67 @@
+{
+  "id": 1243155763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.02903,11.56741,-85.02903,11.56741",
+    "geom:latitude":11.56741,
+    "geom:longitude":-85.02903,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"La Flor",
+    "gn:country_code":"NI",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618567,
+    "gn:latitude":11.56741,
+    "gn:longitude":-85.02903,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Flor",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        1108693861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618567
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"18e206ea9c36cef155723b5759e7c8e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693861,
+            "locality_id":1243155763,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":1243155763,
+    "wof:lastmodified":1536728050,
+    "wof:name":"La Flor",
+    "wof:parent_id":1108693861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.02903,
+    11.56741,
+    -85.02903,
+    11.56741
+],
+  "geometry": {"coordinates":[-85.02903000000001,11.56741],"type":"Point"}
+}

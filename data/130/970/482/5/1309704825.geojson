@@ -1,0 +1,69 @@
+{
+  "id": 1309704825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.86817,11.69659,-85.86817,11.69659",
+    "geom:latitude":11.69659,
+    "geom:longitude":-85.86817,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rocoso",
+    "gn:country_code":"NI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016226,
+    "gn:latitude":11.69659,
+    "gn:longitude":-85.86817,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rocoso",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rocoso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        421172641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016226
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0b056578c1c78816b665303355064625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421172641,
+            "locality_id":1309704825,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309704825,
+    "wof:lastmodified":1537675580,
+    "wof:name":"Rocoso",
+    "wof:parent_id":421172641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86816999999998,
+    11.69659,
+    -85.86816999999998,
+    11.69659
+],
+  "geometry": {"coordinates":[-85.86816999999998,11.69659],"type":"Point"}
+}

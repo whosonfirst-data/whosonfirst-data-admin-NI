@@ -1,0 +1,70 @@
+{
+  "id": 1259882833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12308,11.70377,-86.12308,11.70377",
+    "geom:latitude":11.70377,
+    "geom:longitude":-86.12308,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rio Blanco",
+    "gn:country_code":"NI",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036054,
+    "gn:latitude":11.70377,
+    "gn:longitude":-86.12308,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rio Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rio Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036054
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b185c61421b0ec9b34ae34a9f0a8bbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1259882833,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1259882833,
+    "wof:lastmodified":1537675588,
+    "wof:name":"Rio Blanco",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12308,
+    11.70377,
+    -86.12308,
+    11.70377
+],
+  "geometry": {"coordinates":[-86.12308,11.70377],"type":"Point"}
+}

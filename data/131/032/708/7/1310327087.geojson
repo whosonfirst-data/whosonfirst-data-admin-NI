@@ -1,0 +1,70 @@
+{
+  "id": 1310327087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.99483,11.88809,-85.99483,11.88809",
+    "geom:latitude":11.88809,
+    "geom:longitude":-85.99483,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Cruz de Buenaviata",
+    "gn:country_code":"NI",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537464,
+    "gn:latitude":11.88809,
+    "gn:longitude":-85.99483,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Santa Cruz de Buenaviata",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cruz de Buenaviata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537464
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5f46fa4da55df0fbab98349168ac208c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1310327087,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310327087,
+    "wof:lastmodified":1537675590,
+    "wof:name":"Santa Cruz de Buenaviata",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.99483000000002,
+    11.88809,
+    -85.99483000000002,
+    11.88809
+],
+  "geometry": {"coordinates":[-85.99483000000002,11.88809],"type":"Point"}
+}

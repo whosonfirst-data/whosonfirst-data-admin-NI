@@ -1,0 +1,67 @@
+{
+  "id": 1343659499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.61653,12.88138,-86.61653,12.88138",
+    "geom:latitude":12.88138,
+    "geom:longitude":-86.61653,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Los Frijoles",
+    "gn:country_code":"NI",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617909,
+    "gn:latitude":12.88138,
+    "gn:longitude":-86.61653,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Los Frijoles",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421168431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617909
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a6fed40577a34a75f66491d2f9502874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421168431,
+            "locality_id":1343659499,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1343659499,
+    "wof:lastmodified":1536956509,
+    "wof:name":"Los Frijoles",
+    "wof:parent_id":421168431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.61653000000003,
+    12.88138,
+    -86.61653000000003,
+    12.88138
+],
+  "geometry": {"coordinates":[-86.61653000000003,12.88138],"type":"Point"}
+}

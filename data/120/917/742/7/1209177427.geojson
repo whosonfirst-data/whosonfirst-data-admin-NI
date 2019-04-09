@@ -1,0 +1,72 @@
+{
+  "id": 1209177427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.74517,12.24096,-83.74517,12.24096",
+    "geom:latitude":12.24096,
+    "geom:longitude":-83.74517,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Kukra Hill",
+    "gn:country_code":"NI",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618791,
+    "gn:latitude":12.24096,
+    "gn:longitude":-83.74517,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kukra Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Kukrahill"
+    ],
+    "name:und_x_variant":[
+        "Cukra Hill",
+        "Kukra",
+        "Campamento Kukra Hill",
+        "Kukra Hill",
+        "Cukra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618791,
+        "wk:page":"Kukra_Hill"
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"10e5f505e873cd50e13fa941f6fcbce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209177427
+        }
+    ],
+    "wof:id":1209177427,
+    "wof:lastmodified":1537675557,
+    "wof:name":"Kukra Hill",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.74517,
+    12.24096,
+    -83.74517,
+    12.24096
+],
+  "geometry": {"coordinates":[-83.74517,12.24096],"type":"Point"}
+}

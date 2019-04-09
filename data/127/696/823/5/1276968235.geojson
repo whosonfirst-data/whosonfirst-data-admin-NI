@@ -1,0 +1,67 @@
+{
+  "id": 1276968235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.29054,12.09267,-86.29054,12.09267",
+    "geom:latitude":12.09267,
+    "geom:longitude":-86.29054,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Comarca Los Ladinos",
+    "gn:country_code":"NI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7019729,
+    "gn:latitude":12.09267,
+    "gn:longitude":-86.29054,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Comarca Los Ladinos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7019729
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"12882d259b830b260bf2242c088d1130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1276968235,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1276968235,
+    "wof:lastmodified":1536923585,
+    "wof:name":"Comarca Los Ladinos",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.29054000000002,
+    12.09267,
+    -86.29054000000002,
+    12.09267
+],
+  "geometry": {"coordinates":[-86.29054000000002,12.09267],"type":"Point"}
+}

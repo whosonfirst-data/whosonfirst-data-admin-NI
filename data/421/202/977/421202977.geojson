@@ -1,0 +1,114 @@
+{
+  "id": 421202977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8254,13.62679,-85.8254,13.62679",
+    "geom:latitude":13.62679,
+    "geom:longitude":-85.8254,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Wiwil\u00ed"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b9\u03b3\u03bf\u03c5\u03b9\u03bb\u03af"
+    ],
+    "name:fra_x_preferred":[
+        "Wiwil\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Wiwil\u00ed de Jinotega"
+    ],
+    "name:pol_x_preferred":[
+        "Wiwil\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Wiwil\u00ed de Jinotega"
+    ],
+    "name:swe_x_preferred":[
+        "Wiwil\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Guiquili"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u0648\u06cc\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Wiwil\u00ed de Jinotega"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u7dad\u5229"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3615683,
+    "qs:gn_pop":6955,
+    "qs:name":"Wiwil\u00ed",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":53647,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154492,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615683,
+        "gp:id":154492,
+        "qs:id":53647,
+        "wd:id":"Q1014671",
+        "wk:page":"Wiwil\u00ed"
+    },
+    "wof:country":"NI",
+    "wof:created":1459010136,
+    "wof:geomhash":"ab37cc113bf1dcad21800fed8c886fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":421202977,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":421202977,
+    "wof:lastmodified":1505340778,
+    "wof:name":"Wiwil\u00ed",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:population":6955,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.8254,
+    13.62679,
+    -85.8254,
+    13.62679
+],
+  "geometry": {"coordinates":[-85.8254,13.62679],"type":"Point"}
+}

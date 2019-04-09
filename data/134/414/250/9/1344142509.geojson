@@ -1,0 +1,73 @@
+{
+  "id": 1344142509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53915,12.63415,-86.53915,12.63415",
+    "geom:latitude":12.63415,
+    "geom:longitude":-86.53915,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Calle Real de Tolapa",
+    "gn:country_code":"NI",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618693,
+    "gn:latitude":12.63415,
+    "gn:longitude":-86.53915,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Calle Real de Tolapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Calle Real de Tolapa",
+        "Caser\u00edo La Calle Real de Tolape",
+        "La Calle Real de Tolape",
+        "Calle Real de Tolapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618693
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"101ba16503c0d71a76b50a98811301a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693767,
+            "locality_id":1344142509,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1344142509,
+    "wof:lastmodified":1537675556,
+    "wof:name":"Calle Real de Tolapa",
+    "wof:parent_id":1108693767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53915,
+    12.63415,
+    -86.53915,
+    12.63415
+],
+  "geometry": {"coordinates":[-86.53915000000001,12.63415],"type":"Point"}
+}

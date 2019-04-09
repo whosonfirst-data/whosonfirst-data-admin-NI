@@ -1,0 +1,67 @@
+{
+  "id": 1310088493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.27174,11.11381,-85.27174,11.11381",
+    "geom:latitude":11.11381,
+    "geom:longitude":-85.27174,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Canas",
+    "gn:country_code":"NI",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620520,
+    "gn:latitude":11.11381,
+    "gn:longitude":-85.27174,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ca\u00f1as",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        1108693815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620520
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"33293ba18fcad4aa86837ba0f40a70df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693815,
+            "locality_id":1310088493,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1310088493,
+    "wof:lastmodified":1537020192,
+    "wof:name":"Canas",
+    "wof:parent_id":1108693815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.27174000000002,
+    11.11381,
+    -85.27174000000002,
+    11.11381
+],
+  "geometry": {"coordinates":[-85.27174000000002,11.11381],"type":"Point"}
+}

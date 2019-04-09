@@ -1,0 +1,72 @@
+{
+  "id": 1309997595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78333,13.55,-85.78333,13.55",
+    "geom:latitude":13.55,
+    "geom:longitude":-85.78333,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kilambe",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618856,
+    "gn:latitude":13.55,
+    "gn:longitude":-85.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kilamb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Zapote",
+        "Kilamb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618856
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"43107134928fc3cf629976984333ae13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":1309997595,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1309997595,
+    "wof:lastmodified":1537675558,
+    "wof:name":"Kilambe",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78333,
+    13.55,
+    -85.78333,
+    13.55
+],
+  "geometry": {"coordinates":[-85.78333000000001,13.55],"type":"Point"}
+}

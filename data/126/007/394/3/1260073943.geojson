@@ -1,0 +1,71 @@
+{
+  "id": 1260073943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28319,11.96549,-86.28319,11.96549",
+    "geom:latitude":11.96549,
+    "geom:longitude":-86.28319,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Isabel Grande",
+    "gn:country_code":"NI",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618976,
+    "gn:latitude":11.96549,
+    "gn:longitude":-86.28319,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Isabel Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Isabel",
+        "Isabel Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618976
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3f49ab0cb07921e861fe638fe0b3e09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693785,
+            "locality_id":1260073943,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1260073943,
+    "wof:lastmodified":1537675560,
+    "wof:name":"Isabel Grande",
+    "wof:parent_id":1108693785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28319,
+    11.96549,
+    -86.28319,
+    11.96549
+],
+  "geometry": {"coordinates":[-86.28319,11.96549],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343273729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.1,12.58333,-87.1,12.58333",
+    "geom:latitude":12.58333,
+    "geom:longitude":-87.1,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ingenio Belgica",
+    "gn:country_code":"NI",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618987,
+    "gn:latitude":12.58333,
+    "gn:longitude":-87.1,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Ingenio B\u00e9lgica",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421171365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618987
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"77f6cbc4804e44dbc24e40e3b83e0d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171365,
+            "locality_id":1343273729,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1343273729,
+    "wof:lastmodified":1537014983,
+    "wof:name":"Ingenio Belgica",
+    "wof:parent_id":421171365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.1,
+    12.58333,
+    -87.1,
+    12.58333
+],
+  "geometry": {"coordinates":[-87.09999999999999,12.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259459075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.34083,14.99795,-83.34083,14.99795",
+    "geom:latitude":14.99795,
+    "geom:longitude":-83.34083,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Riska",
+    "gn:country_code":"NI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617053,
+    "gn:latitude":14.99795,
+    "gn:longitude":-83.34083,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Riska",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617053
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9a3d336bfa7ffa65cce2a3b021373952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1259459075,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1259459075,
+    "wof:lastmodified":1536893641,
+    "wof:name":"Riska",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.34083000000003,
+    14.99795,
+    -83.34083000000003,
+    14.99795
+],
+  "geometry": {"coordinates":[-83.34083000000003,14.99795],"type":"Point"}
+}

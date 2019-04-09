@@ -1,0 +1,67 @@
+{
+  "id": 1276859317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18846,12.05763,-86.18846,12.05763",
+    "geom:latitude":12.05763,
+    "geom:longitude":-86.18846,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Barrio San Miguel",
+    "gn:country_code":"NI",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620742,
+    "gn:latitude":12.05763,
+    "gn:longitude":-86.18846,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Barrio San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620742
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f347a26fe341e554bf68019e4aed711c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "locality_id":1276859317,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1276859317,
+    "wof:lastmodified":1537065772,
+    "wof:name":"Barrio San Miguel",
+    "wof:parent_id":1108693783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18845999999998,
+    12.05763,
+    -86.18845999999998,
+    12.05763
+],
+  "geometry": {"coordinates":[-86.18845999999998,12.05763],"type":"Point"}
+}

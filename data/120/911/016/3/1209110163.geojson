@@ -1,0 +1,61 @@
+{
+  "id": 1209110163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.62999,12.44151,-85.62999,12.44151",
+    "geom:latitude":12.44151,
+    "geom:longitude":-85.62999,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"La Ceiba",
+    "gn:country_code":"NI",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618676,
+    "gn:latitude":12.44151,
+    "gn:longitude":-85.62999,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Ceiba",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618676
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c901a9f774ec8579c86ab8b023b0a56f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209110163
+        }
+    ],
+    "wof:id":1209110163,
+    "wof:lastmodified":1536297433,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.62999,
+    12.44151,
+    -85.62999,
+    12.44151
+],
+  "geometry": {"coordinates":[-85.62999000000001,12.44151],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 421181357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.81661,11.46916,-85.81661,11.46916",
+    "geom:latitude":11.46916,
+    "geom:longitude":-85.81661,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5e03\u57c3\u8afe\u65af\u827e\u96f7\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:eng_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:fre_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:ita_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:spa_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:swe_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633\u060c \u0631\u06cc\u0648\u0627\u0632"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620603,
+    "qs:gn_pop":1692,
+    "qs:name":"Buenos Aires",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Rivas",
+    "qs:photos":322,
+    "qs:photos_1k":65,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":322,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":489293,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152190,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620603,
+        "gp:id":152190,
+        "qs:id":489293,
+        "wd:id":"Q1648230"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009293,
+    "wof:geomhash":"eab90401a812309533206cff6b138a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202287,
+            "locality_id":421181357,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":421181357,
+    "wof:lastmodified":1514491726,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":421202287,
+    "wof:placetype":"locality",
+    "wof:population":1692,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.81661,
+    11.46916,
+    -85.81661,
+    11.46916
+],
+  "geometry": {"coordinates":[-85.81661,11.46916],"type":"Point"}
+}

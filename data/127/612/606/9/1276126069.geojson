@@ -1,0 +1,67 @@
+{
+  "id": 1276126069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.76112,12.96323,-86.76112,12.96323",
+    "geom:latitude":12.96323,
+    "geom:longitude":-86.76112,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"NI",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616648,
+    "gn:latitude":12.96323,
+    "gn:longitude":-86.76112,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Nicol\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616648
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"65e5c0c2076b8e04872e3f46109c01fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693743,
+            "locality_id":1276126069,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1276126069,
+    "wof:lastmodified":1537053935,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":1108693743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.76111999999998,
+    12.96323,
+    -86.76111999999998,
+    12.96323
+],
+  "geometry": {"coordinates":[-86.76111999999998,12.96323],"type":"Point"}
+}

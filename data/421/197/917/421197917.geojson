@@ -1,0 +1,83 @@
+{
+  "id": 421197917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.61359,11.21821,-85.61359,11.21821",
+    "geom:latitude":11.21821,
+    "geom:longitude":-85.61359,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:spa_x_preferred":[
+        "Pe\u00f1as Blancas"
+    ],
+    "name:unk_x_variant":[
+        "Be\u00f1a Blanca"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617287,
+    "qs:gn_pop":0,
+    "qs:name":"Pe\u00f1as Blancas",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Rivas",
+    "qs:photos":64,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":64,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":238581,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153676,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        1108693815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617287,
+        "gp:id":153676,
+        "qs:id":238581
+    },
+    "wof:country":"NI",
+    "wof:created":1459009929,
+    "wof:geomhash":"95cb2a9a83bdd484550fb701bcd757b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693815,
+            "locality_id":421197917,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":421197917,
+    "wof:lastmodified":1527716408,
+    "wof:name":"Pe\u00f1as Blancas",
+    "wof:parent_id":1108693815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.61359,
+    11.21821,
+    -85.61359,
+    11.21821
+],
+  "geometry": {"coordinates":[-85.61359,11.21821],"type":"Point"}
+}

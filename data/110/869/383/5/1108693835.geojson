@@ -1,0 +1,119 @@
+{
+  "id": 1108693835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.024465,
+    "geom:area_square_m":295232970.192675,
+    "geom:bbox":"-85.9487714781,12.5173190525,-85.6416690362,12.6591289007",
+    "geom:latitude":12.595146,
+    "geom:longitude":-85.792383,
+    "iso:country":"NI",
+    "lbl:latitude":12.594402,
+    "lbl:longitude":-85.820301,
+    "meso:admin_1":"BOACO",
+    "meso:gadm_admin":"San Jos\u00e9 de los Remates",
+    "meso:gadm_hasc2":"NI.BO.SJ",
+    "meso:gaul_admin":"San Jose De Los Remates",
+    "meso:local_id":"23123",
+    "meso:mps_x":-85.820301,
+    "meso:mps_y":12.594402,
+    "meso:name_local":"SAN J.D LOS REMATES",
+    "meso:source":"ISCGM",
+    "mps:latitude":12.594402,
+    "mps:longitude":-85.820301,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u6d1b\u65af\u96f7\u99ac\u7279\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de los Remates"
+    ],
+    "name:eng_x_preferred":[
+        "San Jose De Los Remates"
+    ],
+    "name:eng_x_variant":[
+        "San Jose De Los Remates",
+        "San Jos\u00e9 de los Remates",
+        "SAN J.D LOS REMATES"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 de los Remates"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03b4\u03b5 \u03bb\u03bf\u03c2 \u03a1\u03b5\u03bc\u03ac\u03c4\u03b5\u03c2"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de los Remates"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Los Remates"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 de los Remates"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u06c1\u0648\u0632\u06d2 \u062f\u06d2 \u0644\u0627\u0633 \u0631\u06cc\u0645\u0627\u062a\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Jos\u00e9 de los Remates"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"280.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"San Jos\u00e9 de Los Remates",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.BO",
+    "statoids:name":"San Jos\u00e9 de los Remates",
+    "statoids:population":"7650",
+    "statoids:statoid":"NI.BO.SJ",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.BO.SJ",
+        "wd:id":"Q2215558"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415169,
+    "wof:geomhash":"670e7c570c56a9e93f568dc493ad7835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693835,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1108693835,
+    "wof:lastmodified":1544032792,
+    "wof:name":"San Jose De Los Remates",
+    "wof:parent_id":85675521,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":7650,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SJ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.94877147808403,
+    12.51731905254306,
+    -85.64166903622288,
+    12.65912890073816
+],
+  "geometry": {"coordinates":[[[-85.89850662102998,12.62286992951025],[-85.8969137183161,12.62654435121932],[-85.88212155310731,12.63760824180442],[-85.86548338282417,12.63182270212312],[-85.85964607605625,12.63553866518572],[-85.84601062840467,12.64421955072291],[-85.80858207511655,12.64788266485052],[-85.77948704497108,12.63892686321206],[-85.76046705604868,12.63902784396146],[-85.74902192902456,12.64689995243027],[-85.73330269973891,12.6564531626173],[-85.7184908021643,12.65555843324655],[-85.6922078759895,12.65874184009406],[-85.68577653576691,12.65373773439153],[-85.6735928975299,12.65912890073816],[-85.66303326965472,12.65258710436396],[-85.65285958182562,12.65506835893056],[-85.64729220217818,12.65139335807629],[-85.64619237671567,12.64936040233977],[-85.64166903622288,12.64099511903488],[-85.64878941552199,12.62785677988974],[-85.65356355853659,12.62239094912394],[-85.6585866478498,12.61526163882668],[-85.66775580181348,12.60110902438426],[-85.66669311035515,12.58955189104022],[-85.66385602994494,12.580734298482],[-85.66427019480655,12.57361563084901],[-85.66868955553957,12.56684121864244],[-85.67735071099384,12.57179439229106],[-85.69556595262439,12.56318863056797],[-85.71198041300555,12.56691487758144],[-85.72619019917487,12.57595934293518],[-85.7369767375737,12.56974726565954],[-85.74682531500832,12.55720610978861],[-85.75375587084558,12.55260372138979],[-85.76076117462651,12.55757260400024],[-85.79054761076527,12.55263533655821],[-85.80589353147882,12.54485514763235],[-85.82768242374119,12.54064073310102],[-85.84574134968254,12.54311039520787],[-85.86276177666078,12.52999951669113],[-85.88275164417055,12.51731905254306],[-85.90229834293648,12.52318722658737],[-85.91869076155589,12.52983025314999],[-85.93278620524885,12.54679212444175],[-85.94208495383373,12.55830839464564],[-85.94877147808403,12.56517580754799],[-85.92810746250747,12.57036069529716],[-85.9074335156777,12.58085576810298],[-85.89253934585238,12.59766481327016],[-85.88907799170113,12.62158765934766],[-85.89850662102998,12.62286992951025]]],"type":"Polygon"}
+}

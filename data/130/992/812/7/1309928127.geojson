@@ -1,0 +1,72 @@
+{
+  "id": 1309928127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.88333,12.48333,-86.88333,12.48333",
+    "geom:latitude":12.48333,
+    "geom:longitude":-86.88333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Comarca El Platanar",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620310,
+    "gn:latitude":12.48333,
+    "gn:longitude":-86.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Comarca El Platanar",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Platanar",
+        "Comarca El Platanar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421172925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620310
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2123410c68ec63344e70a308efd5c658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421172925,
+            "locality_id":1309928127,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1309928127,
+    "wof:lastmodified":1537675573,
+    "wof:name":"Comarca El Platanar",
+    "wof:parent_id":421172925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.88333,
+    12.48333,
+    -86.88333,
+    12.48333
+],
+  "geometry": {"coordinates":[-86.88333,12.48333],"type":"Point"}
+}

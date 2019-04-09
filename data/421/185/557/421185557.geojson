@@ -1,0 +1,124 @@
+{
+  "id": 421185557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.07343,11.90624,-86.07343,11.90624",
+    "geom:latitude":11.90624,
+    "geom:longitude":-86.07343,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u5967\u9023\u7279"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:fra_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:sco_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:unk_x_variant":[
+        "San Juan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u0645\u0634\u0631\u0642\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan de Oriente"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u5967\u9023\u7279"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616723,
+    "qs:gn_pop":2111,
+    "qs:name":"San Juan de Oriente",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Masaya",
+    "qs:photos":91,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":91,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":898757,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153973,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":548,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616723,
+        "gp:id":153973,
+        "qs:id":898757,
+        "wd:id":"Q384555",
+        "wk:page":"San Juan de Oriente"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009447,
+    "wof:geomhash":"96bb2c0c74907816f3e11930a5e3a4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693787,
+            "locality_id":421185557,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":421185557,
+    "wof:lastmodified":1527726501,
+    "wof:name":"San Juan de Oriente",
+    "wof:parent_id":1108693787,
+    "wof:placetype":"locality",
+    "wof:population":2111,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.07343,
+    11.90624,
+    -86.07343,
+    11.90624
+],
+  "geometry": {"coordinates":[-86.07343,11.90624],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209882415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.98855,12.8202,-84.98855,12.8202",
+    "geom:latitude":12.8202,
+    "geom:longitude":-84.98855,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Palsagua",
+    "gn:country_code":"NI",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617353,
+    "gn:latitude":12.8202,
+    "gn:longitude":-84.98855,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Palsagua",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Polsagua",
+        "Palsagua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617353
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0db4ec07360195c364928a6ff408bc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":1209882415,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1209882415,
+    "wof:lastmodified":1537675542,
+    "wof:name":"Palsagua",
+    "wof:parent_id":1108693871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.98855,
+    12.8202,
+    -84.98855,
+    12.8202
+],
+  "geometry": {"coordinates":[-84.98855,12.8202],"type":"Point"}
+}

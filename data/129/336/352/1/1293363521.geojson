@@ -1,0 +1,67 @@
+{
+  "id": 1293363521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.84665,11.43487,-85.84665,11.43487",
+    "geom:latitude":11.43487,
+    "geom:longitude":-85.84665,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Las Piedras",
+    "gn:country_code":"NI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618150,
+    "gn:latitude":11.43487,
+    "gn:longitude":-85.84665,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Las Piedras",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421197835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618150
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"079002722270eb77984cd9f10bc16fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197835,
+            "locality_id":1293363521,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1293363521,
+    "wof:lastmodified":1536965629,
+    "wof:name":"Las Piedras",
+    "wof:parent_id":421197835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.84665,
+    11.43487,
+    -85.84665,
+    11.43487
+],
+  "geometry": {"coordinates":[-85.84665,11.43487],"type":"Point"}
+}

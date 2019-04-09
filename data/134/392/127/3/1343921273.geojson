@@ -1,0 +1,72 @@
+{
+  "id": 1343921273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.80639,12.11674,-83.80639,12.11674",
+    "geom:latitude":12.11674,
+    "geom:longitude":-83.80639,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Cano Mocho",
+    "gn:country_code":"NI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620498,
+    "gn:latitude":12.11674,
+    "gn:longitude":-83.80639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1o Mocho",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moho Creek",
+        "Ca\u00f1o Moho",
+        "Ca\u00f1o Mocho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421186279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620498
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"533e8fffb498dc6ab378df4f4ba40850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421186279,
+            "locality_id":1343921273,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1343921273,
+    "wof:lastmodified":1537675575,
+    "wof:name":"Cano Mocho",
+    "wof:parent_id":421186279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.80639000000002,
+    12.11674,
+    -83.80639000000002,
+    12.11674
+],
+  "geometry": {"coordinates":[-83.80639000000002,12.11674],"type":"Point"}
+}

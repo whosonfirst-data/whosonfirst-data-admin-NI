@@ -1,0 +1,75 @@
+{
+  "id": 421171807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.911197,13.478444,-85.911197,13.478444",
+    "geom:latitude":13.478444,
+    "geom:longitude":-85.911197,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Quilal\u00ed",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":47,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":47,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1264348,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813400,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":667,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813400,
+        "qs:id":1264348,
+        "wd:id":"Q2604559"
+    },
+    "wof:country":"NI",
+    "wof:created":1459008907,
+    "wof:geomhash":"31960d9a298ea2f5f993fb32b2f05521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171807,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":421171807,
+    "wof:lastmodified":1527726495,
+    "wof:name":"Quilal\u00ed",
+    "wof:parent_id":85675481,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.911197,
+    13.478444,
+    -85.911197,
+    13.478444
+],
+  "geometry": {"coordinates":[-85.911197,13.478444],"type":"Point"}
+}

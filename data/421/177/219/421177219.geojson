@@ -1,0 +1,112 @@
+{
+  "id": 421177219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.08052,11.62118,-85.08052,11.62118",
+    "geom:latitude":11.62118,
+    "geom:longitude":-85.08052,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Morrito"
+    ],
+    "name:fra_x_preferred":[
+        "Morrito"
+    ],
+    "name:ita_x_preferred":[
+        "Morrito"
+    ],
+    "name:sco_x_preferred":[
+        "Morrito"
+    ],
+    "name:spa_x_preferred":[
+        "Morrito"
+    ],
+    "name:swe_x_preferred":[
+        "Morrito"
+    ],
+    "name:unk_x_variant":[
+        "El Morrito"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Morrito"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u91cc\u6258"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617575,
+    "qs:gn_pop":1360,
+    "qs:name":"Morrito",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1117605,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153588,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":473,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        1108693861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617575,
+        "gp:id":153588,
+        "qs:id":1117605,
+        "wd:id":"Q2621523",
+        "wk:page":"Morrito"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009137,
+    "wof:geomhash":"6e205f9241c4b39e9ff87ca8bd0b363e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693861,
+            "locality_id":421177219,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":421177219,
+    "wof:lastmodified":1527716478,
+    "wof:name":"Morrito",
+    "wof:parent_id":1108693861,
+    "wof:placetype":"locality",
+    "wof:population":1360,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.08052,
+    11.62118,
+    -85.08052,
+    11.62118
+],
+  "geometry": {"coordinates":[-85.08052000000001,11.62118],"type":"Point"}
+}

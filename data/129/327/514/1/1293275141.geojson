@@ -1,0 +1,67 @@
+{
+  "id": 1293275141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.52389,11.45844,-85.52389,11.45844",
+    "geom:latitude":11.45844,
+    "geom:longitude":-85.52389,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Argentina",
+    "gn:country_code":"NI",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618744,
+    "gn:latitude":11.45844,
+    "gn:longitude":-85.52389,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Argentina",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618744
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bbe7a7aa11fcc7461f602aab18d2d896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202291,
+            "locality_id":1293275141,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1293275141,
+    "wof:lastmodified":1537089992,
+    "wof:name":"La Argentina",
+    "wof:parent_id":421202291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.52389000000002,
+    11.45844,
+    -85.52389000000002,
+    11.45844
+],
+  "geometry": {"coordinates":[-85.52389000000002,11.45844],"type":"Point"}
+}

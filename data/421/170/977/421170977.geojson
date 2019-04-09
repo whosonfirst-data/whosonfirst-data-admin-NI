@@ -1,0 +1,120 @@
+{
+  "id": 421170977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.59004,13.0537,-86.59004,13.0537",
+    "geom:latitude":13.0537,
+    "geom:longitude":-86.59004,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u963f\u4e18\u963f\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de Achuapa"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de Achuapa"
+    ],
+    "name:fra_x_preferred":[
+        "San Jos\u00e9 de Achuapa"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 de Achuapa"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03b4\u03b5 \u0391\u03c4\u03c3\u03bf\u03c5\u03ac\u03c0\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de Achuapa"
+    ],
+    "name:spa_x_preferred":[
+        "Achuapa"
+    ],
+    "name:swe_x_preferred":[
+        "Achuapa"
+    ],
+    "name:unk_x_variant":[
+        "San Jos\u00e9 de Achuapa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u06c1\u0648\u0632\u06d2 \u062f\u06d2 \u0627\u0686\u0648\u0627\u067e\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Achuapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u963f\u4e18\u963f\u5e15"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620982,
+    "qs:gn_pop":3299,
+    "qs:name":"Achuapa",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Le\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1204423,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152052,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620982,
+        "gp:id":152052,
+        "qs:id":1204423,
+        "wd:id":"Q2215392",
+        "wk:page":"San Jos\u00e9 de Achuapa"
+    },
+    "wof:country":"NI",
+    "wof:created":1459008877,
+    "wof:geomhash":"b9740654d2ad55ed501418797c447b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693761,
+            "locality_id":421170977,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":421170977,
+    "wof:lastmodified":1514491722,
+    "wof:name":"Achuapa",
+    "wof:parent_id":1108693761,
+    "wof:placetype":"locality",
+    "wof:population":3299,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.59004,
+    13.0537,
+    -86.59004,
+    13.0537
+],
+  "geometry": {"coordinates":[-86.59004,13.0537],"type":"Point"}
+}

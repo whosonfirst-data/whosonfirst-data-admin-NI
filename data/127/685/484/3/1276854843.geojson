@@ -1,0 +1,67 @@
+{
+  "id": 1276854843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.4127,11.95445,-86.4127,11.95445",
+    "geom:latitude":11.95445,
+    "geom:longitude":-86.4127,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"El Guapinolar",
+    "gn:country_code":"NI",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619752,
+    "gn:latitude":11.95445,
+    "gn:longitude":-86.4127,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Guapinolar",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619752
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bdb34d3c344c6f11517e7683c6235c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1276854843,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1276854843,
+    "wof:lastmodified":1537071575,
+    "wof:name":"El Guapinolar",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.4127,
+    11.95445,
+    -86.4127,
+    11.95445
+],
+  "geometry": {"coordinates":[-86.4127,11.95445],"type":"Point"}
+}

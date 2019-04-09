@@ -1,0 +1,67 @@
+{
+  "id": 1343871241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.38309,11.76877,-86.38309,11.76877",
+    "geom:latitude":11.76877,
+    "geom:longitude":-86.38309,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Monte Fresco",
+    "gn:country_code":"NI",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617603,
+    "gn:latitude":11.76877,
+    "gn:longitude":-86.38309,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Monte Fresco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617603
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"33d5d13843b6442f0cb7aff6c0da9837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1343871241,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1343871241,
+    "wof:lastmodified":1536650788,
+    "wof:name":"Monte Fresco",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.38309,
+    11.76877,
+    -86.38309,
+    11.76877
+],
+  "geometry": {"coordinates":[-86.38309,11.76877],"type":"Point"}
+}

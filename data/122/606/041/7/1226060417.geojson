@@ -1,0 +1,71 @@
+{
+  "id": 1226060417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.48734,12.6542,-85.48734,12.6542",
+    "geom:latitude":12.6542,
+    "geom:longitude":-85.48734,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bacoas",
+    "gn:country_code":"NI",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620790,
+    "gn:latitude":12.6542,
+    "gn:longitude":-85.48734,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bacoas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vaguas",
+        "Bacoas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620790
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d0e2992fe9ba3abb3f9f1e8bc277ae2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693841,
+            "locality_id":1226060417,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1226060417,
+    "wof:lastmodified":1537675578,
+    "wof:name":"Bacoas",
+    "wof:parent_id":1108693841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.48734,
+    12.6542,
+    -85.48734,
+    12.6542
+],
+  "geometry": {"coordinates":[-85.48734,12.6542],"type":"Point"}
+}

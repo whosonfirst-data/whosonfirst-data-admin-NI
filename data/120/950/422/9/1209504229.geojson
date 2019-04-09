@@ -1,0 +1,61 @@
+{
+  "id": 1209504229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.43047,11.9903,-86.43047,11.9903",
+    "geom:latitude":11.9903,
+    "geom:longitude":-86.43047,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buenavista",
+    "gn:country_code":"NI",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620618,
+    "gn:latitude":11.9903,
+    "gn:longitude":-86.43047,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Buenavista",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620618
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2522281f52bc554a0beef9d0a7b0227e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209504229
+        }
+    ],
+    "wof:id":1209504229,
+    "wof:lastmodified":1536285085,
+    "wof:name":"Buenavista",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.43047,
+    11.9903,
+    -86.43047,
+    11.9903
+],
+  "geometry": {"coordinates":[-86.43047,11.9903],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344142531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.91105,12.52238,-86.91105,12.52238",
+    "geom:latitude":12.52238,
+    "geom:longitude":-86.91105,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santa Patricia",
+    "gn:country_code":"NI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616430,
+    "gn:latitude":12.52238,
+    "gn:longitude":-86.91105,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Patricia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Patricia",
+        "Santa Patricia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421172925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616430
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a9c6878044ec69dd3e2ef9c15f10fce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421172925,
+            "locality_id":1344142531,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1344142531,
+    "wof:lastmodified":1537675534,
+    "wof:name":"Santa Patricia",
+    "wof:parent_id":421172925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.91105,
+    12.52238,
+    -86.91105,
+    12.52238
+],
+  "geometry": {"coordinates":[-86.91105,12.52238],"type":"Point"}
+}

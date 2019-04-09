@@ -1,0 +1,67 @@
+{
+  "id": 1326817445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.77586,12.9729,-85.77586,12.9729",
+    "geom:latitude":12.9729,
+    "geom:longitude":-85.77586,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"La Lima",
+    "gn:country_code":"NI",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618480,
+    "gn:latitude":12.9729,
+    "gn:longitude":-85.77586,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Lima",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618480
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6d86bd9e1cb10dc1d7212af18d603e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693831,
+            "locality_id":1326817445,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1326817445,
+    "wof:lastmodified":1537067179,
+    "wof:name":"La Lima",
+    "wof:parent_id":1108693831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.77586,
+    12.9729,
+    -85.77586,
+    12.9729
+],
+  "geometry": {"coordinates":[-85.77585999999999,12.9729],"type":"Point"}
+}

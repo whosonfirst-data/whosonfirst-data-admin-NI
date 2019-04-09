@@ -1,0 +1,67 @@
+{
+  "id": 1293891265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.94397,12.67233,-86.94397,12.67233",
+    "geom:latitude":12.67233,
+    "geom:longitude":-86.94397,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Argelia",
+    "gn:country_code":"NI",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620859,
+    "gn:latitude":12.67233,
+    "gn:longitude":-86.94397,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Argelia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421171365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620859
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7185761951085a0ffb42fa1963b25f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171365,
+            "locality_id":1293891265,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1293891265,
+    "wof:lastmodified":1536702359,
+    "wof:name":"Argelia",
+    "wof:parent_id":421171365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.94397,
+    12.67233,
+    -86.94397,
+    12.67233
+],
+  "geometry": {"coordinates":[-86.94396999999999,12.67233],"type":"Point"}
+}

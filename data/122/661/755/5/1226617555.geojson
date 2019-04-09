@@ -1,0 +1,67 @@
+{
+  "id": 1226617555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.63418,14.66551,-84.63418,14.66551",
+    "geom:latitude":14.66551,
+    "geom:longitude":-84.63418,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sang Sang",
+    "gn:country_code":"NI",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616834,
+    "gn:latitude":14.66551,
+    "gn:longitude":-84.63418,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sang Sang",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sansang",
+        "Sang Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616834
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0ad06e71713e1f6723241dbad257b166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1226617555,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226617555,
+    "wof:lastmodified":1537675537,
+    "wof:name":"Sang Sang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.63418,
+    14.66551,
+    -84.63418,
+    14.66551
+],
+  "geometry": {"coordinates":[-84.63418,14.66551],"type":"Point"}
+}

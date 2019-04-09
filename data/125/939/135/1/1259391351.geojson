@@ -1,0 +1,70 @@
+{
+  "id": 1259391351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11118,11.71306,-86.11118,11.71306",
+    "geom:latitude":11.71306,
+    "geom:longitude":-86.11118,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Los Jirones",
+    "gn:country_code":"NI",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036053,
+    "gn:latitude":11.71306,
+    "gn:longitude":-86.11118,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Los Jirones",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Jirones"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036053
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"853f3652b086eb902e7176da03074ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693803,
+            "locality_id":1259391351,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1259391351,
+    "wof:lastmodified":1537675588,
+    "wof:name":"Los Jirones",
+    "wof:parent_id":1108693803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11118,
+    11.71306,
+    -86.11118,
+    11.71306
+],
+  "geometry": {"coordinates":[-86.11118,11.71306],"type":"Point"}
+}

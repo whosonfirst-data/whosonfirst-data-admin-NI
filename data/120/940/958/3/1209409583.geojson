@@ -1,0 +1,65 @@
+{
+  "id": 1209409583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.912,13.18149,-85.912,13.18149",
+    "geom:latitude":13.18149,
+    "geom:longitude":-85.912,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Cuyali",
+    "gn:country_code":"NI",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620211,
+    "gn:latitude":13.18149,
+    "gn:longitude":-85.912,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cuyal\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuyal",
+        "Cuyal\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620211
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"514793e5e36c925a86cac0f94481b68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209409583
+        }
+    ],
+    "wof:id":1209409583,
+    "wof:lastmodified":1537675572,
+    "wof:name":"Cuyali",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.912,
+    13.18149,
+    -85.912,
+    13.18149
+],
+  "geometry": {"coordinates":[-85.91200000000001,13.18149],"type":"Point"}
+}

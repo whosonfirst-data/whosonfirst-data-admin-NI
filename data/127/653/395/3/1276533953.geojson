@@ -1,0 +1,67 @@
+{
+  "id": 1276533953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.62065,12.91751,-86.62065,12.91751",
+    "geom:latitude":12.91751,
+    "geom:longitude":-86.62065,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hato Viejo",
+    "gn:country_code":"NI",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619029,
+    "gn:latitude":12.91751,
+    "gn:longitude":-86.62065,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Hato Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421168431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619029
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b56300ac896bf987077679421cf5fc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421168431,
+            "locality_id":1276533953,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1276533953,
+    "wof:lastmodified":1537006446,
+    "wof:name":"Hato Viejo",
+    "wof:parent_id":421168431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.62065,
+    12.91751,
+    -86.62065,
+    12.91751
+],
+  "geometry": {"coordinates":[-86.62065,12.91751],"type":"Point"}
+}

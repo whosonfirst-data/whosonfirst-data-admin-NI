@@ -1,0 +1,118 @@
+{
+  "id": 421186483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.22354,12.93435,-85.22354,12.93435",
+    "geom:latitude":12.93435,
+    "geom:longitude":-85.22354,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:chi_x_preferred":[
+        "\u91cc\u5967\u5e03\u862d\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:eng_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:fre_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:ita_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:pol_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:swe_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0648 \u0628\u0644\u0627\u0646\u06a9\u0648\u060c \u0645\u0627\u062a\u0627\u06af\u0627\u0644\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cc\u5967\u5e03\u862d\u79d1"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617069,
+    "qs:gn_pop":17018,
+    "qs:name":"R\u00edo Blanco",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Matagalpa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":924506,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153763,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421200101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617069,
+        "gp:id":153763,
+        "qs:id":924506,
+        "wd:id":"Q2605369",
+        "wk:page":"R\u00edo Blanco, Matagalpa"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009482,
+    "wof:geomhash":"6865da466af868fff96361d62856d36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200101,
+            "locality_id":421186483,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":421186483,
+    "wof:lastmodified":1527716312,
+    "wof:name":"R\u00edo Blanco",
+    "wof:parent_id":421200101,
+    "wof:placetype":"locality",
+    "wof:population":17018,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.22354,
+    12.93435,
+    -85.22354,
+    12.93435
+],
+  "geometry": {"coordinates":[-85.22354,12.93435],"type":"Point"}
+}

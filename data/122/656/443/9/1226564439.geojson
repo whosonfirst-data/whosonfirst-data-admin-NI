@@ -1,0 +1,67 @@
+{
+  "id": 1226564439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.85323,12.66522,-86.85323,12.66522",
+    "geom:latitude":12.66522,
+    "geom:longitude":-86.85323,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Las Marias",
+    "gn:country_code":"NI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618211,
+    "gn:latitude":12.66522,
+    "gn:longitude":-86.85323,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421179703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618211
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fb1f893c3af44293d2d32be07a574910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179703,
+            "locality_id":1226564439,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1226564439,
+    "wof:lastmodified":1536970917,
+    "wof:name":"Las Marias",
+    "wof:parent_id":421179703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.85323000000002,
+    12.66522,
+    -86.85323000000002,
+    12.66522
+],
+  "geometry": {"coordinates":[-86.85323000000002,12.66522],"type":"Point"}
+}

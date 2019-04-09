@@ -1,0 +1,67 @@
+{
+  "id": 1327123437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.21667,12.1,-86.21667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-86.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Comarca Las Jaguitas",
+    "gn:country_code":"NI",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620307,
+    "gn:latitude":12.1,
+    "gn:longitude":-86.21667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Comarca Las Jaguitas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620307
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a90590d09a16dd2d627566c5748e05a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1327123437,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1327123437,
+    "wof:lastmodified":1536627251,
+    "wof:name":"Comarca Las Jaguitas",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.21667,
+    12.1,
+    -86.21667,
+    12.1
+],
+  "geometry": {"coordinates":[-86.21666999999999,12.1],"type":"Point"}
+}

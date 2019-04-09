@@ -1,0 +1,97 @@
+{
+  "id": 421180765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.923557,12.926519,-85.923557,12.926519",
+    "geom:latitude":12.926519,
+    "geom:longitude":-85.923557,
+    "gn:country":"NI",
+    "gn:fcode":"PPLA",
+    "gn:pop":109089,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0433\u0430\u043b\u044c\u043f\u0430"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Matagalpa",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Matagalpa",
+    "qs:photos":1889,
+    "qs:photos_1k":383,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1889,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":457248,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153537,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":680.0,
+    "wd:latitude":12.916667,
+    "wd:longitude":-85.916667,
+    "wd:population":150000,
+    "wd:wordcount":1212,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617708,
+        "gp:id":153537,
+        "qs:id":457248,
+        "wd:id":"Q596688",
+        "wk:page":"Matagalpa, Nicaragua"
+    },
+    "wof:concordances_alt":{
+        "qs:id":1045725
+    },
+    "wof:country":"NI",
+    "wof:created":1459009270,
+    "wof:geomhash":"4f1a4568c89005cbdd49925068b21da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":421180765,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":421180765,
+    "wof:lastmodified":1534379386,
+    "wof:name":"Matagalpa",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:population":150000,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890444877
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.923557,
+    12.926519,
+    -85.923557,
+    12.926519
+],
+  "geometry": {"coordinates":[-85.923557,12.926519],"type":"Point"}
+}

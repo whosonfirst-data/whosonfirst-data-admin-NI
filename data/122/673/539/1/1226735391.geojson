@@ -1,0 +1,71 @@
+{
+  "id": 1226735391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.39087,12.54329,-86.39087,12.54329",
+    "geom:latitude":12.54329,
+    "geom:longitude":-86.39087,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"NI",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616510,
+    "gn:latitude":12.54329,
+    "gn:longitude":-86.39087,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Santa Elena",
+        "Santa Elena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616510
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2f4153858dbf4a6d642cae42cf78cf19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693765,
+            "locality_id":1226735391,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1226735391,
+    "wof:lastmodified":1537675535,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":1108693765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.39086999999998,
+    12.54329,
+    -86.39086999999998,
+    12.54329
+],
+  "geometry": {"coordinates":[-86.39086999999998,12.54329],"type":"Point"}
+}

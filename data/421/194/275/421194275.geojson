@@ -1,0 +1,127 @@
+{
+  "id": 421194275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.89991,11.40255,-84.89991,11.40255",
+    "geom:latitude":11.40255,
+    "geom:longitude":-84.89991,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u7c73\u683c\u5229\u6258"
+    ],
+    "name:deu_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:dut_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:eng_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:fra_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:fre_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:ger_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:ita_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:sco_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:spa_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:swe_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:unk_x_variant":[
+        "San Miguellito"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u06cc\u06af\u0648\u06cc\u0644\u06cc\u062a\u0648\u060c \u0631\u06cc\u0648 \u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7c73\u683c\u5229\u6258"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616659,
+    "qs:gn_pop":4181,
+    "qs:name":"San Miguelito",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":10,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045722,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154026,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":46,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        421205287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616659,
+        "gp:id":154026,
+        "qs:id":1045722,
+        "wd:id":"Q1015364",
+        "wk:page":"San Miguelito, R\u00edo San Juan"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009800,
+    "wof:geomhash":"626bd92fd29c7e7a6c32aa28a225a3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421205287,
+            "locality_id":421194275,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":421194275,
+    "wof:lastmodified":1527716130,
+    "wof:name":"San Miguelito",
+    "wof:parent_id":421205287,
+    "wof:placetype":"locality",
+    "wof:population":4181,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.89991,
+    11.40255,
+    -84.89991,
+    11.40255
+],
+  "geometry": {"coordinates":[-84.89991000000001,11.40255],"type":"Point"}
+}

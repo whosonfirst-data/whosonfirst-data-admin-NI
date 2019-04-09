@@ -1,0 +1,61 @@
+{
+  "id": 1209039757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.46063,11.97795,-85.46063,11.97795",
+    "geom:latitude":11.97795,
+    "geom:longitude":-85.46063,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Cicaya",
+    "gn:country_code":"NI",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618654,
+    "gn:latitude":11.97795,
+    "gn:longitude":-85.46063,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Cicaya",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618654
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"403daba8d23037f8090b0b4a4e159c7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209039757
+        }
+    ],
+    "wof:id":1209039757,
+    "wof:lastmodified":1536299583,
+    "wof:name":"La Cicaya",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.46063000000002,
+    11.97795,
+    -85.46063000000002,
+    11.97795
+],
+  "geometry": {"coordinates":[-85.46063000000002,11.97795],"type":"Point"}
+}

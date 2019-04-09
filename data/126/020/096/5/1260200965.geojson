@@ -1,0 +1,67 @@
+{
+  "id": 1260200965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.82079,12.30514,-85.82079,12.30514",
+    "geom:latitude":12.30514,
+    "geom:longitude":-85.82079,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"El Trapiche",
+    "gn:country_code":"NI",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619303,
+    "gn:latitude":12.30514,
+    "gn:longitude":-85.82079,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Trapiche",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421171787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619303
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"01c7a270d9b6600186759a19ec52803a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171787,
+            "locality_id":1260200965,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1260200965,
+    "wof:lastmodified":1536823101,
+    "wof:name":"El Trapiche",
+    "wof:parent_id":421171787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.82079,
+    12.30514,
+    -85.82079,
+    12.30514
+],
+  "geometry": {"coordinates":[-85.82079,12.30514],"type":"Point"}
+}

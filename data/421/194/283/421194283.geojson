@@ -1,0 +1,117 @@
+{
+  "id": 421194283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.39811,11.01844,-84.39811,11.01844",
+    "geom:latitude":11.01844,
+    "geom:longitude":-84.39811,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u5361\u65af\u8482\u7565"
+    ],
+    "name:dut_x_preferred":[
+        "El Castillo"
+    ],
+    "name:eng_x_preferred":[
+        "El Castillo"
+    ],
+    "name:fre_x_preferred":[
+        "El Castillo"
+    ],
+    "name:ger_x_preferred":[
+        "El Castillo"
+    ],
+    "name:ita_x_preferred":[
+        "El Castillo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30ab\u30b9\u30c6\u30a3\u30fc\u30e8"
+    ],
+    "name:spa_x_preferred":[
+        "El Castillo"
+    ],
+    "name:swe_x_preferred":[
+        "El Castillo"
+    ],
+    "name:unk_x_variant":[
+        "Castillo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u06a9\u0627\u0633\u062a\u06cc\u0644\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Castillo"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3619954,
+    "qs:gn_pop":735,
+    "qs:name":"El Castillo de La Concepci\u00f3n",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":455,
+    "qs:photos_1k":92,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":455,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1045740,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152450,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        1108693867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619954,
+        "gp:id":152450,
+        "qs:id":1045740,
+        "wd:id":"Q581121",
+        "wk:page":"El Castillo (municipality)"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009800,
+    "wof:geomhash":"54c6a3557d94fc88b25e7c8ab5836b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693867,
+            "locality_id":421194283,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":421194283,
+    "wof:lastmodified":1514491740,
+    "wof:name":"El Castillo de La Concepci\u00f3n",
+    "wof:parent_id":1108693867,
+    "wof:placetype":"locality",
+    "wof:population":735,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.39811,
+    11.01844,
+    -84.39811,
+    11.01844
+],
+  "geometry": {"coordinates":[-84.39811,11.01844],"type":"Point"}
+}

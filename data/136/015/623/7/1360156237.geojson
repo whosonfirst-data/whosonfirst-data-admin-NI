@@ -1,0 +1,72 @@
+{
+  "id": 1360156237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.55774,13.47032,-83.55774,13.47032",
+    "geom:latitude":13.47032,
+    "geom:longitude":-83.55774,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Walpasiksa",
+    "gn:country_code":"NI",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615781,
+    "gn:latitude":13.47032,
+    "gn:longitude":-83.55774,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Walpasiksa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hualpasixa",
+        "Wualpaxisco",
+        "Hualpasika",
+        "Wualpaxisca",
+        "Walpasicsa",
+        "Walpasixa",
+        "Walpasiksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615781
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f6c555659830a1bd2e580ba12d79441a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1360156237,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360156237,
+    "wof:lastmodified":1537675528,
+    "wof:name":"Walpasiksa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.55774,
+    13.47032,
+    -83.55774,
+    13.47032
+],
+  "geometry": {"coordinates":[-83.55774,13.47032],"type":"Point"}
+}

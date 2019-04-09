@@ -1,0 +1,70 @@
+{
+  "id": 1276331649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.99119,11.91149,-85.99119,11.91149",
+    "geom:latitude":11.91149,
+    "geom:longitude":-85.99119,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Qunita",
+    "gn:country_code":"NI",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016302,
+    "gn:latitude":11.91149,
+    "gn:longitude":-85.99119,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Qunita",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Qunita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016302
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8fdd59149019079bbd9d10dc79c9bfc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1276331649,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1276331649,
+    "wof:lastmodified":1537675582,
+    "wof:name":"La Qunita",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.99119,
+    11.91149,
+    -85.99119,
+    11.91149
+],
+  "geometry": {"coordinates":[-85.99119,11.91149],"type":"Point"}
+}

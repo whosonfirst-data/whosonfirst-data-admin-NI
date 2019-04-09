@@ -1,0 +1,67 @@
+{
+  "id": 1310574387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.92437,11.51096,-85.92437,11.51096",
+    "geom:latitude":11.51096,
+    "geom:longitude":-85.92437,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Poza Azul",
+    "gn:country_code":"NI",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617178,
+    "gn:latitude":11.51096,
+    "gn:longitude":-85.92437,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Poza Azul",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        1108693811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617178
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6330c6548bede047e4bd3953f00d690a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693811,
+            "locality_id":1310574387,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1310574387,
+    "wof:lastmodified":1536816839,
+    "wof:name":"Poza Azul",
+    "wof:parent_id":1108693811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.92437,
+    11.51096,
+    -85.92437,
+    11.51096
+],
+  "geometry": {"coordinates":[-85.92437,11.51096],"type":"Point"}
+}

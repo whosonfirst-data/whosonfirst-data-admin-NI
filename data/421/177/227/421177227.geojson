@@ -1,0 +1,138 @@
+{
+  "id": 421177227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.70349,10.91987,-83.70349,10.91987",
+    "geom:latitude":10.91987,
+    "geom:longitude":-83.70349,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062f\u064a \u0646\u064a\u0643\u0627\u0631\u0627\u063a\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Greytown"
+    ],
+    "name:ceb_x_preferred":[
+        "San Juan del Norte"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u5c3c\u52a0\u62c9\u74dc"
+    ],
+    "name:deu_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:fra_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:ger_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30d5\u30a1\u30f3\u30c7\u30eb\u30ce\u30eb\u30c6"
+    ],
+    "name:por_x_preferred":[
+        "San Juan de Nicar\u00e1gua"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan del Norte"
+    ],
+    "name:unk_x_variant":[
+        "Greytown"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062f\u06d2 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u5c3c\u52a0\u62c9\u74dc"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616730,
+    "qs:gn_pop":642,
+    "qs:name":"San Juan del Norte",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"R\u00edo San Juan",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":56,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":1117620,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153975,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        421175429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616730,
+        "gp:id":153975,
+        "qs:id":1117620,
+        "wd:id":"Q2063725",
+        "wk:page":"San Juan de Nicaragua"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009137,
+    "wof:geomhash":"6a2f88c14b8eee4f287afb13936baa27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175429,
+            "locality_id":421177227,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":421177227,
+    "wof:lastmodified":1514491785,
+    "wof:name":"San Juan del Norte",
+    "wof:parent_id":421175429,
+    "wof:placetype":"locality",
+    "wof:population":642,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.70349,
+    10.91987,
+    -83.70349,
+    10.91987
+],
+  "geometry": {"coordinates":[-83.70349,10.91987],"type":"Point"}
+}

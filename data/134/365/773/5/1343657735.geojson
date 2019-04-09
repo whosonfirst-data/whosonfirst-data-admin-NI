@@ -1,0 +1,67 @@
+{
+  "id": 1343657735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.41899,12.1719,-86.41899,12.1719",
+    "geom:latitude":12.1719,
+    "geom:longitude":-86.41899,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Los Ranchos",
+    "gn:country_code":"NI",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617849,
+    "gn:latitude":12.1719,
+    "gn:longitude":-86.41899,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Los Ranchos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421202283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617849
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"dd72c9be81c3c5f3359fabd083efe029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202283,
+            "locality_id":1343657735,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1343657735,
+    "wof:lastmodified":1536958965,
+    "wof:name":"Los Ranchos",
+    "wof:parent_id":421202283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.41899000000002,
+    12.1719,
+    -86.41899000000002,
+    12.1719
+],
+  "geometry": {"coordinates":[-86.41899000000002,12.1719],"type":"Point"}
+}

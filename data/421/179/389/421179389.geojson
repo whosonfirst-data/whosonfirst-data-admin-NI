@@ -1,0 +1,117 @@
+{
+  "id": 421179389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12128,12.00386,-86.12128,12.00386",
+    "geom:latitude":12.00386,
+    "geom:longitude":-86.12128,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:chi_x_preferred":[
+        "\u5be7\u8fea\u91cc"
+    ],
+    "name:dut_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0646\u062f\u06cc\u0631\u06cc\u060c \u0645\u0627\u0633\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5be7\u8fea\u91cc"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617473,
+    "qs:gn_pop":7073,
+    "qs:name":"Nindir\u00ed",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Masaya",
+    "qs:photos":510,
+    "qs:photos_1k":103,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":510,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149466,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153615,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617473,
+        "gp:id":153615,
+        "qs:id":149466,
+        "wd:id":"Q2215135",
+        "wk:page":"Nindir\u00ed, Masaya"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009214,
+    "wof:geomhash":"c7bc2b3fba1c601e5b6e49dbb71639f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "locality_id":421179389,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":421179389,
+    "wof:lastmodified":1514491768,
+    "wof:name":"Nindir\u00ed",
+    "wof:parent_id":1108693783,
+    "wof:placetype":"locality",
+    "wof:population":7073,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12128,
+    12.00386,
+    -86.12128,
+    12.00386
+],
+  "geometry": {"coordinates":[-86.12128,12.00386],"type":"Point"}
+}

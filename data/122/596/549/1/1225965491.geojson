@@ -1,0 +1,71 @@
+{
+  "id": 1225965491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96667,13.24569,-85.96667,13.24569",
+    "geom:latitude":13.24569,
+    "geom:longitude":-85.96667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Valle Mancotal Abajo",
+    "gn:country_code":"NI",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615873,
+    "gn:latitude":13.24569,
+    "gn:longitude":-85.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valle Mancotal Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mancotal",
+        "Valle Mancotal Abajo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615873
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8aaaffe53079dc43052776421ddb6a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":1225965491,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1225965491,
+    "wof:lastmodified":1537675530,
+    "wof:name":"Valle Mancotal Abajo",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96667,
+    13.24569,
+    -85.96667,
+    13.24569
+],
+  "geometry": {"coordinates":[-85.96666999999999,13.24569],"type":"Point"}
+}

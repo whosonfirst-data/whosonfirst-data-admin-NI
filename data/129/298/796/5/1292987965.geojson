@@ -1,0 +1,67 @@
+{
+  "id": 1292987965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.66331,12.92619,-85.66331,12.92619",
+    "geom:latitude":12.92619,
+    "geom:longitude":-85.66331,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Escocia",
+    "gn:country_code":"NI",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619214,
+    "gn:latitude":12.92619,
+    "gn:longitude":-85.66331,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Escocia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619214
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"74bfd7415b80ab0e069e0385fe57b754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693831,
+            "locality_id":1292987965,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1292987965,
+    "wof:lastmodified":1537009473,
+    "wof:name":"Escocia",
+    "wof:parent_id":1108693831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.66331,
+    12.92619,
+    -85.66331,
+    12.92619
+],
+  "geometry": {"coordinates":[-85.66331,12.92619],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209587147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.85311,13.69517,-84.85311,13.69517",
+    "geom:latitude":13.69517,
+    "geom:longitude":-84.85311,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Wani",
+    "gn:country_code":"NI",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615769,
+    "gn:latitude":13.69517,
+    "gn:longitude":-84.85311,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wan\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wany",
+        "Huani",
+        "Wuan\u00ed",
+        "Wuany",
+        "Wan\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615769
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9ae7130eb810a3b085487e90e83c08a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209587147
+        }
+    ],
+    "wof:id":1209587147,
+    "wof:lastmodified":1537675527,
+    "wof:name":"Wani",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.85311,
+    13.69517,
+    -84.85311,
+    13.69517
+],
+  "geometry": {"coordinates":[-84.85311,13.69517],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343424611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.48091,13.92543,-83.48091,13.92543",
+    "geom:latitude":13.92543,
+    "geom:longitude":-83.48091,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Karata",
+    "gn:country_code":"NI",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618881,
+    "gn:latitude":13.92543,
+    "gn:longitude":-83.48091,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karat\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Carata",
+        "Karat\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618881
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a4cd9cceeea75e7c1fccde8f7fff545e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1343424611,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343424611,
+    "wof:lastmodified":1537675559,
+    "wof:name":"Karata",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.48091,
+    13.92543,
+    -83.48091,
+    13.92543
+],
+  "geometry": {"coordinates":[-83.48090999999999,13.92543],"type":"Point"}
+}

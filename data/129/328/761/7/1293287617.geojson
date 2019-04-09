@@ -1,0 +1,67 @@
+{
+  "id": 1293287617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.87169,12.24342,-85.87169,12.24342",
+    "geom:latitude":12.24342,
+    "geom:longitude":-85.87169,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Tieso",
+    "gn:country_code":"NI",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619331,
+    "gn:latitude":12.24342,
+    "gn:longitude":-85.87169,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Tieso",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421175427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619331
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"961abc2296f5b942ac02128f48ccc768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175427,
+            "locality_id":1293287617,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1293287617,
+    "wof:lastmodified":1537072079,
+    "wof:name":"El Tieso",
+    "wof:parent_id":421175427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.87169,
+    12.24342,
+    -85.87169,
+    12.24342
+],
+  "geometry": {"coordinates":[-85.87169,12.24342],"type":"Point"}
+}

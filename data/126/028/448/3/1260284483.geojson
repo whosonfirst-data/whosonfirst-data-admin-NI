@@ -1,0 +1,73 @@
+{
+  "id": 1260284483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.88999,12.40418,-84.88999,12.40418",
+    "geom:latitude":12.40418,
+    "geom:longitude":-84.88999,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tapalwas",
+    "gn:country_code":"NI",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616134,
+    "gn:latitude":12.40418,
+    "gn:longitude":-84.88999,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tapalw\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Planta Electra",
+        "Tapalgu\u00e1s",
+        "Planta Electrica",
+        "Tapalw\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616134
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"4beaaa2238606303bc81d2bfa4d76a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693851,
+            "locality_id":1260284483,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":1260284483,
+    "wof:lastmodified":1537675533,
+    "wof:name":"Tapalwas",
+    "wof:parent_id":1108693851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.88999,
+    12.40418,
+    -84.88999,
+    12.40418
+],
+  "geometry": {"coordinates":[-84.88999,12.40418],"type":"Point"}
+}

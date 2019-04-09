@@ -1,0 +1,67 @@
+{
+  "id": 1243068361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.70283,12.00113,-84.70283,12.00113",
+    "geom:latitude":12.00113,
+    "geom:longitude":-84.70283,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"El Cacao",
+    "gn:country_code":"NI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620031,
+    "gn:latitude":12.00113,
+    "gn:longitude":-84.70283,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Cacao",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620031
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"95b05ca07b6d94e9e22d9bf22dfc0fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693875,
+            "locality_id":1243068361,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1243068361,
+    "wof:lastmodified":1536852467,
+    "wof:name":"El Cacao",
+    "wof:parent_id":1108693875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.70283,
+    12.00113,
+    -84.70283,
+    12.00113
+],
+  "geometry": {"coordinates":[-84.70283000000001,12.00113],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293106251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.76431,13.25445,-86.76431,13.25445",
+    "geom:latitude":13.25445,
+    "geom:longitude":-86.76431,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Los Arados",
+    "gn:country_code":"NI",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617950,
+    "gn:latitude":13.25445,
+    "gn:longitude":-86.76431,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Arados",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arado",
+        "Arados",
+        "Los Arados"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617950
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f7b3c25981533bc444825508c8f3180d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693739,
+            "locality_id":1293106251,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1293106251,
+    "wof:lastmodified":1537675548,
+    "wof:name":"Los Arados",
+    "wof:parent_id":1108693739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.76431,
+    13.25445,
+    -86.76431,
+    13.25445
+],
+  "geometry": {"coordinates":[-86.76430999999999,13.25445],"type":"Point"}
+}

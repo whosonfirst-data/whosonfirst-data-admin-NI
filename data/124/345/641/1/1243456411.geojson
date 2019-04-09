@@ -1,0 +1,67 @@
+{
+  "id": 1243456411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.2236,12.56859,-87.2236,12.56859",
+    "geom:latitude":12.56859,
+    "geom:longitude":-87.2236,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Fernando",
+    "gn:country_code":"NI",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616872,
+    "gn:latitude":12.56859,
+    "gn:longitude":-87.2236,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Fernando",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        1108693747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616872
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fc3ce4431f9155d3c71d47a9a5b87c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693747,
+            "locality_id":1243456411,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1243456411,
+    "wof:lastmodified":1536791495,
+    "wof:name":"San Fernando",
+    "wof:parent_id":1108693747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.2236,
+    12.56859,
+    -87.2236,
+    12.56859
+],
+  "geometry": {"coordinates":[-87.2236,12.56859],"type":"Point"}
+}

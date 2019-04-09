@@ -1,0 +1,71 @@
+{
+  "id": 1310379125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.95042,11.68723,-84.95042,11.68723",
+    "geom:latitude":11.68723,
+    "geom:longitude":-84.95042,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Los Cerritos",
+    "gn:country_code":"NI",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617932,
+    "gn:latitude":11.68723,
+    "gn:longitude":-84.95042,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Cerritos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cerritos",
+        "Los Cerritos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675465,
+        1108693861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617932
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bd1b7d2f010bf16bbc40af4f636ab155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693861,
+            "locality_id":1310379125,
+            "region_id":85675465
+        }
+    ],
+    "wof:id":1310379125,
+    "wof:lastmodified":1537675547,
+    "wof:name":"Los Cerritos",
+    "wof:parent_id":1108693861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.95042,
+    11.68723,
+    -84.95042,
+    11.68723
+],
+  "geometry": {"coordinates":[-84.95041999999999,11.68723],"type":"Point"}
+}

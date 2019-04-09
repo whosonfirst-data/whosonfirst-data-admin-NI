@@ -1,0 +1,72 @@
+{
+  "id": 1226021167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.40772,14.75268,-83.40772,14.75268",
+    "geom:latitude":14.75268,
+    "geom:longitude":-83.40772,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bismuna Tara",
+    "gn:country_code":"NI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620696,
+    "gn:latitude":14.75268,
+    "gn:longitude":-83.40772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bismuna Tara",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Krak Prakia",
+        "Bismuna",
+        "Bismuna Tara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620696
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a3a236b4c7af499e341d52426297ab2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1226021167,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1226021167,
+    "wof:lastmodified":1537675577,
+    "wof:name":"Bismuna Tara",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.40772,
+    14.75268,
+    -83.40772,
+    14.75268
+],
+  "geometry": {"coordinates":[-83.40772,14.75268],"type":"Point"}
+}

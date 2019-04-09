@@ -1,0 +1,61 @@
+{
+  "id": 1209679319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.55029,14.6549,-84.55029,14.6549",
+    "geom:latitude":14.6549,
+    "geom:longitude":-84.55029,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kauru Tingni",
+    "gn:country_code":"NI",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618864,
+    "gn:latitude":14.6549,
+    "gn:longitude":-84.55029,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kauru Tingni",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618864
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8e79844d35a78739822df468db39f37d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209679319
+        }
+    ],
+    "wof:id":1209679319,
+    "wof:lastmodified":1536279634,
+    "wof:name":"Kauru Tingni",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.55029,
+    14.6549,
+    -84.55029,
+    14.6549
+],
+  "geometry": {"coordinates":[-84.55029,14.6549],"type":"Point"}
+}

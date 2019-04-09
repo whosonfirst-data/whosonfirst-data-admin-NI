@@ -1,0 +1,67 @@
+{
+  "id": 1226560069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.31688,11.99951,-86.31688,11.99951",
+    "geom:latitude":11.99951,
+    "geom:longitude":-86.31688,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Jose del Cardon",
+    "gn:country_code":"NI",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616755,
+    "gn:latitude":11.99951,
+    "gn:longitude":-86.31688,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Jos\u00e9 del Card\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616755
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0da9d92f7df6cbc28da468e4abc17f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1226560069,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1226560069,
+    "wof:lastmodified":1536976886,
+    "wof:name":"San Jose del Cardon",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.31688,
+    11.99951,
+    -86.31688,
+    11.99951
+],
+  "geometry": {"coordinates":[-86.31688,11.99951],"type":"Point"}
+}

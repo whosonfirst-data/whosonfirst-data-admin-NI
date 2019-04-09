@@ -1,0 +1,70 @@
+{
+  "id": 1310014831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.07314,11.73311,-86.07314,11.73311",
+    "geom:latitude":11.73311,
+    "geom:longitude":-86.07314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Idelfonso",
+    "gn:country_code":"NI",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8036058,
+    "gn:latitude":11.73311,
+    "gn:longitude":-86.07314,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"San Idelfonso",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Idelfonso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8036058
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6be67d93ae7ed50cc115f1ddf72e1ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1310014831,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310014831,
+    "wof:lastmodified":1537675588,
+    "wof:name":"San Idelfonso",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.07314000000002,
+    11.73311,
+    -86.07314000000002,
+    11.73311
+],
+  "geometry": {"coordinates":[-86.07314000000002,11.73311],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 421179385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.026,13.56695,-86.026,13.56695",
+    "geom:latitude":13.56695,
+    "geom:longitude":-86.026,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u62c9\u5229"
+    ],
+    "name:dut_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:fra_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:fre_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e9\u30ea"
+    ],
+    "name:pol_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06cc\u0644\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u62c9\u5229"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617109,
+    "qs:gn_pop":13590,
+    "qs:name":"Quilal\u00ed",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Nueva Segovia",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":149462,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153749,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675517,
+        1108693699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617109,
+        "gp:id":153749,
+        "qs:id":149462,
+        "wd:id":"Q2604559",
+        "wk:page":"Quilal\u00ed"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009214,
+    "wof:geomhash":"e7de1a5cfe59eb72a92366a1bfd30bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693699,
+            "locality_id":421179385,
+            "region_id":85675517
+        }
+    ],
+    "wof:id":421179385,
+    "wof:lastmodified":1514491772,
+    "wof:name":"Quilal\u00ed",
+    "wof:parent_id":1108693699,
+    "wof:placetype":"locality",
+    "wof:population":13590,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.026,
+    13.56695,
+    -86.026,
+    13.56695
+],
+  "geometry": {"coordinates":[-86.026,13.56695],"type":"Point"}
+}

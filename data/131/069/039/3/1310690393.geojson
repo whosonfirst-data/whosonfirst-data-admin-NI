@@ -1,0 +1,71 @@
+{
+  "id": 1310690393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.17315,12.1575,-86.17315,12.1575",
+    "geom:latitude":12.1575,
+    "geom:longitude":-86.17315,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Las Mercedes",
+    "gn:country_code":"NI",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618201,
+    "gn:latitude":12.1575,
+    "gn:longitude":-86.17315,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Mercedes",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mercedes",
+        "Las Mercedes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618201
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c7762141f136b0de7dc9f532cd562f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1310690393,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1310690393,
+    "wof:lastmodified":1537675550,
+    "wof:name":"Las Mercedes",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.17315,
+    12.1575,
+    -86.17315,
+    12.1575
+],
+  "geometry": {"coordinates":[-86.17315000000001,12.1575],"type":"Point"}
+}

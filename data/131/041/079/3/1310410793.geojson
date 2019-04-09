@@ -1,0 +1,71 @@
+{
+  "id": 1310410793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.31234,13.0152,-86.31234,13.0152",
+    "geom:latitude":13.0152,
+    "geom:longitude":-86.31234,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"NI",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616521,
+    "gn:latitude":13.0152,
+    "gn:longitude":-86.31234,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Valle Santa Cruz",
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616521
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"afed6348dbc80e411c4f79e38f8bb04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693753,
+            "locality_id":1310410793,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1310410793,
+    "wof:lastmodified":1537675535,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":1108693753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.31234,
+    13.0152,
+    -86.31234,
+    13.0152
+],
+  "geometry": {"coordinates":[-86.31234000000001,13.0152],"type":"Point"}
+}

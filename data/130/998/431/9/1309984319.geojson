@@ -1,0 +1,71 @@
+{
+  "id": 1309984319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.07327,12.0556,-86.07327,12.0556",
+    "geom:latitude":12.0556,
+    "geom:longitude":-86.07327,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Las Pilas Occidentales",
+    "gn:country_code":"NI",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618136,
+    "gn:latitude":12.0556,
+    "gn:longitude":-86.07327,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Pilas Occidentales",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Pilas Occidentales",
+        "Las Pilas Occidentales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        421170019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618136
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f8e1a2a048c9ab395376de9632f17e04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170019,
+            "locality_id":1309984319,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1309984319,
+    "wof:lastmodified":1537675549,
+    "wof:name":"Las Pilas Occidentales",
+    "wof:parent_id":421170019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.07327,
+    12.0556,
+    -86.07327,
+    12.0556
+],
+  "geometry": {"coordinates":[-86.07326999999999,12.0556],"type":"Point"}
+}

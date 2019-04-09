@@ -1,0 +1,71 @@
+{
+  "id": 1242781079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.2644,11.89212,-86.2644,11.89212",
+    "geom:latitude":11.89212,
+    "geom:longitude":-86.2644,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Los Rivera",
+    "gn:country_code":"NI",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617845,
+    "gn:latitude":11.89212,
+    "gn:longitude":-86.2644,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Rivera",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Riveras",
+        "Los Rivera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617845
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e2613636caa4d5a3617745b1faf7ab09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1242781079,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1242781079,
+    "wof:lastmodified":1537675545,
+    "wof:name":"Los Rivera",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2644,
+    11.89212,
+    -86.2644,
+    11.89212
+],
+  "geometry": {"coordinates":[-86.26439999999999,11.89212],"type":"Point"}
+}

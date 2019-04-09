@@ -1,0 +1,91 @@
+{
+  "id": 1108693763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.01843,
+    "geom:area_square_m":222205842.181358,
+    "geom:bbox":"-86.4564668305,12.7342091128,-86.2835544902,12.8982225952",
+    "geom:latitude":12.817503,
+    "geom:longitude":-86.367738,
+    "iso:country":"NI",
+    "lbl:latitude":12.81297,
+    "lbl:longitude":-86.359113,
+    "meso:admin_1":"LEON",
+    "meso:gadm_admin":"Santa Rosa del Pe\u00f1\u00f3n",
+    "meso:gadm_hasc2":"NI.LE.SR",
+    "meso:gaul_admin":"Santa Rosa Del Penon",
+    "meso:local_id":"1665",
+    "meso:mps_x":-86.359113,
+    "meso:mps_y":12.81297,
+    "meso:name_local":"SANTA ROSA DEL PENON",
+    "meso:source":"ISCGM",
+    "mps:latitude":12.81297,
+    "mps:longitude":-86.359113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Santa Rosa Del Penon"
+    ],
+    "name:eng_x_variant":[
+        "Santa Rosa Del Penon",
+        "Santa Rosa del Pe\u00f1\u00f3n",
+        "SANTA ROSA DEL PENON"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"228.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"Santa Rosa Del Pe\u00f1\u00f3n",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.LE",
+    "statoids:name":"Santa Rosa del Pe\u00f1\u00f3n",
+    "statoids:population":"9529",
+    "statoids:statoid":"NI.LE.SR",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.LE.SR"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415097,
+    "wof:geomhash":"5ced5a0208536a04451548c166a781e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693763,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1108693763,
+    "wof:lastmodified":1544032792,
+    "wof:name":"Santa Rosa Del Penon",
+    "wof:parent_id":85675489,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":9529,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.45646683045092,
+    12.73420911283577,
+    -86.2835544902235,
+    12.89822259524244
+],
+  "geometry": {"coordinates":[[[-86.43941010952884,12.89822259524244],[-86.43764628058871,12.89789441426381],[-86.42495378308341,12.89113703730293],[-86.40838801809956,12.88756795194054],[-86.38852964628602,12.87822681367939],[-86.374748777706,12.86858682965748],[-86.36415572690096,12.872068637621],[-86.35855660474309,12.88006985487971],[-86.33036274486729,12.86865016038375],[-86.30425079335393,12.86080700441362],[-86.29375934106251,12.85043131041311],[-86.29166057799677,12.84835612411648],[-86.28988019954697,12.82622279357998],[-86.28852803453617,12.8011631679887],[-86.28859073260558,12.78289351692553],[-86.28459124017257,12.76976242529759],[-86.28355449022349,12.75883885292706],[-86.28393265214254,12.75785427342422],[-86.28465627550344,12.75993933948523],[-86.2869307929939,12.76909171512986],[-86.29945915129755,12.75488480497221],[-86.30955873965027,12.74582839176048],[-86.32638372254198,12.74371743432205],[-86.34518262877164,12.73420911283577],[-86.35882280413426,12.74637850091897],[-86.37025091687102,12.75766825141356],[-86.38596239483707,12.76577217667281],[-86.40181818033545,12.76951030125753],[-86.41737963433422,12.77376226250757],[-86.43072262662031,12.78770545997748],[-86.44076441643163,12.79748941883044],[-86.45437025693674,12.79749872234748],[-86.45580173230103,12.80184998682512],[-86.43654448559741,12.82911543801839],[-86.44531860772528,12.83630362382935],[-86.45646683045092,12.84695519426207],[-86.45491112735088,12.86297405363303],[-86.44391822701162,12.88455331595364],[-86.43941010952884,12.89822259524244]]],"type":"Polygon"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209612589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.97141,11.96805,-85.97141,11.96805",
+    "geom:latitude":11.96805,
+    "geom:longitude":-85.97141,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Cecilia",
+    "gn:country_code":"NI",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016257,
+    "gn:latitude":11.96805,
+    "gn:longitude":-85.97141,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Santa Cecilia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cecilia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016257
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"889edb368ed66499f100c469d445f038",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209612589
+        }
+    ],
+    "wof:id":1209612589,
+    "wof:lastmodified":1537675581,
+    "wof:name":"Santa Cecilia",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.97140999999998,
+    11.96805,
+    -85.97140999999998,
+    11.96805
+],
+  "geometry": {"coordinates":[-85.97140999999998,11.96805],"type":"Point"}
+}

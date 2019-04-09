@@ -1,0 +1,105 @@
+{
+  "id": 1108693741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003082,
+    "geom:area_square_m":37104642.498676,
+    "geom:bbox":"-86.9266558055,13.1378568683,-86.8697616763,13.2183153104",
+    "geom:latitude":13.176739,
+    "geom:longitude":-86.897051,
+    "iso:country":"NI",
+    "lbl:latitude":13.176583,
+    "lbl:longitude":-86.897593,
+    "meso:admin_1":"CHINANDEGA",
+    "meso:gadm_admin":"San Pedro del Norte",
+    "meso:gadm_hasc2":"NI.CI.SP",
+    "meso:gaul_admin":"San Pedro Del Norte",
+    "meso:local_id":"1447",
+    "meso:mps_x":-86.897593,
+    "meso:mps_y":13.176583,
+    "meso:name_local":"SANTO TOMAS DEL NORTE",
+    "meso:source":"ISCGM",
+    "mps:latitude":13.176583,
+    "mps:longitude":-86.897593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5317\u8056\u6258\u99ac\u65af"
+    ],
+    "name:dut_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Del Norte"
+    ],
+    "name:eng_x_variant":[
+        "San Pedro Del Norte",
+        "San Pedro del Norte",
+        "SANTO TOMAS DEL NORTE",
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:fre_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2 \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:spa_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Santo Tom\u00e1s del Norte"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.CI.SP",
+        "wd:id":"Q2216439"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415076,
+    "wof:geomhash":"2f55cedfc124081f8d0bae2cd091772f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693741,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1108693741,
+    "wof:lastmodified":1543954416,
+    "wof:name":"San Pedro Del Norte",
+    "wof:parent_id":85675503,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SP",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.92665580546841,
+    13.13785686832418,
+    -86.869761676349,
+    13.21831531041272
+],
+  "geometry": {"coordinates":[[[-86.90610016346756,13.21831531041272],[-86.89604611770498,13.21632658148489],[-86.88511002343847,13.21295016236914],[-86.87673467131592,13.19085642877268],[-86.87064549930896,13.17656730090419],[-86.86985306346018,13.16668562536612],[-86.869761676349,13.16554621398002],[-86.87449227880992,13.15882540931023],[-86.88038443555045,13.14188466061703],[-86.88949974692807,13.13785686832418],[-86.90966866673803,13.14265845536779],[-86.91283429663181,13.14606408939251],[-86.9124493334815,13.14694674287744],[-86.91231113591961,13.15123175932294],[-86.9134927789126,13.15538158310438],[-86.91483843707229,13.15731714882036],[-86.91585459349621,13.15904348951826],[-86.91887086340769,13.16243204269685],[-86.92240304521852,13.16600721996487],[-86.92520329998034,13.16910626951805],[-86.92665580546841,13.17303682464645],[-86.925541166304,13.17708306151124],[-86.92418103807236,13.18124903382987],[-86.92221164754915,13.18493668678481],[-86.92060714935968,13.18910256278881],[-86.91863764190293,13.19279018537331],[-86.91666523705376,13.19719328387937],[-86.91493922701784,13.20111945185366],[-86.91309087424331,13.20504669549022],[-86.9111211251863,13.20873425424013],[-86.9092697937822,13.2133758282542],[-86.90668974559794,13.21670482131966],[-86.90610016346756,13.21831531041272]]],"type":"Polygon"}
+}

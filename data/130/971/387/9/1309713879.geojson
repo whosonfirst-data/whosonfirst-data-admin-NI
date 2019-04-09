@@ -1,0 +1,71 @@
+{
+  "id": 1309713879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.91094,12.76837,-86.91094,12.76837",
+    "geom:latitude":12.76837,
+    "geom:longitude":-86.91094,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Juan de Las Pencas",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616733,
+    "gn:latitude":12.76837,
+    "gn:longitude":-86.91094,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan de Las Pencas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan de Las Pencas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421171365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616733
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2db267f0f722f3c8e48eed5461ed6b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171365,
+            "locality_id":1309713879,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1309713879,
+    "wof:lastmodified":1537675536,
+    "wof:name":"San Juan de Las Pencas",
+    "wof:parent_id":421171365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.91094,
+    12.76837,
+    -86.91094,
+    12.76837
+],
+  "geometry": {"coordinates":[-86.91094,12.76837],"type":"Point"}
+}

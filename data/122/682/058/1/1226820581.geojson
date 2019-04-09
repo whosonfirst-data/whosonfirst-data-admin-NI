@@ -1,0 +1,73 @@
+{
+  "id": 1226820581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.73333,13.05,-84.73333,13.05",
+    "geom:latitude":13.05,
+    "geom:longitude":-84.73333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"San Pedro del Norte",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616612,
+    "gn:latitude":13.05,
+    "gn:longitude":-84.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Pedro del Norte",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dos Socos",
+        "Pedro del Norte",
+        "San Pedro del Norte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616612
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5b503e0343f9154b749203ad6b695e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":1226820581,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1226820581,
+    "wof:lastmodified":1537675535,
+    "wof:name":"San Pedro del Norte",
+    "wof:parent_id":1108693871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.73333000000002,
+    13.05,
+    -84.73333000000002,
+    13.05
+],
+  "geometry": {"coordinates":[-84.73333000000002,13.05],"type":"Point"}
+}

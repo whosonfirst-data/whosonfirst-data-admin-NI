@@ -1,0 +1,67 @@
+{
+  "id": 1360186307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05,12.53333,-87.05,12.53333",
+    "geom:latitude":12.53333,
+    "geom:longitude":-87.05,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Colonia Adela",
+    "gn:country_code":"NI",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620330,
+    "gn:latitude":12.53333,
+    "gn:longitude":-87.05,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Colonia Adela",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421189527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620330
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"cc722ab1530aee4a075d26663d9937e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189527,
+            "locality_id":1360186307,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1360186307,
+    "wof:lastmodified":1536799675,
+    "wof:name":"Colonia Adela",
+    "wof:parent_id":421189527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05,
+    12.53333,
+    -87.05,
+    12.53333
+],
+  "geometry": {"coordinates":[-87.05,12.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259956961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.38333,12.83333,-85.38333,12.83333",
+    "geom:latitude":12.83333,
+    "geom:longitude":-85.38333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Las Minitas",
+    "gn:country_code":"NI",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618178,
+    "gn:latitude":12.83333,
+    "gn:longitude":-85.38333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Minitas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618178
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2c9407ebe3d0e9e9c45f385345775d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693833,
+            "locality_id":1259956961,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1259956961,
+    "wof:lastmodified":1536673333,
+    "wof:name":"Las Minitas",
+    "wof:parent_id":1108693833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.38333,
+    12.83333,
+    -85.38333,
+    12.83333
+],
+  "geometry": {"coordinates":[-85.38333,12.83333],"type":"Point"}
+}

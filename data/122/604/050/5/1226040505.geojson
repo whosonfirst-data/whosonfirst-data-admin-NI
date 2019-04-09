@@ -1,0 +1,70 @@
+{
+  "id": 1226040505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.93772,11.75602,-85.93772,11.75602",
+    "geom:latitude":11.75602,
+    "geom:longitude":-85.93772,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Luis de Manares",
+    "gn:country_code":"NI",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016392,
+    "gn:latitude":11.75602,
+    "gn:longitude":-85.93772,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"San Luis de Manares",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Luis de Manares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016392
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6d4b159b384b1e79bf97f11a3bb894ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1226040505,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1226040505,
+    "wof:lastmodified":1537675584,
+    "wof:name":"San Luis de Manares",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.93772,
+    11.75602,
+    -85.93772,
+    11.75602
+],
+  "geometry": {"coordinates":[-85.93772,11.75602],"type":"Point"}
+}

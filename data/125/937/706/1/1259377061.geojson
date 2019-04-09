@@ -1,0 +1,67 @@
+{
+  "id": 1259377061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.2588,12.42812,-86.2588,12.42812",
+    "geom:latitude":12.42812,
+    "geom:longitude":-86.2588,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Bocana",
+    "gn:country_code":"NI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618725,
+    "gn:latitude":12.42812,
+    "gn:longitude":-86.2588,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Bocana",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618725
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"daeba1f75ba29c8d597464f617d19c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693775,
+            "locality_id":1259377061,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1259377061,
+    "wof:lastmodified":1537010823,
+    "wof:name":"La Bocana",
+    "wof:parent_id":1108693775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2588,
+    12.42812,
+    -86.2588,
+    12.42812
+],
+  "geometry": {"coordinates":[-86.25879999999999,12.42812],"type":"Point"}
+}

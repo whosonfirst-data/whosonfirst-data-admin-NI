@@ -1,0 +1,67 @@
+{
+  "id": 1226142039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.28089,13.06967,-86.28089,13.06967",
+    "geom:latitude":13.06967,
+    "geom:longitude":-86.28089,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Monte Oscuro",
+    "gn:country_code":"NI",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617590,
+    "gn:latitude":13.06967,
+    "gn:longitude":-86.28089,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Monte Oscuro",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617590
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e7b9e278d008cb86450fed7319d929eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693753,
+            "locality_id":1226142039,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1226142039,
+    "wof:lastmodified":1537079930,
+    "wof:name":"Monte Oscuro",
+    "wof:parent_id":1108693753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.28089,
+    13.06967,
+    -86.28089,
+    13.06967
+],
+  "geometry": {"coordinates":[-86.28089,13.06967],"type":"Point"}
+}

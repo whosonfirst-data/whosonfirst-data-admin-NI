@@ -1,0 +1,61 @@
+{
+  "id": 1209026211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.03333,12.43333,-87.03333,12.43333",
+    "geom:latitude":12.43333,
+    "geom:longitude":-87.03333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Victor",
+    "gn:country_code":"NI",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616338,
+    "gn:latitude":12.43333,
+    "gn:longitude":-87.03333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Victor",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616338
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"84fd0a88af4e2acbab4be60f7a104304",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209026211
+        }
+    ],
+    "wof:id":1209026211,
+    "wof:lastmodified":1536299990,
+    "wof:name":"San Victor",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.03333,
+    12.43333,
+    -87.03333,
+    12.43333
+],
+  "geometry": {"coordinates":[-87.03333000000001,12.43333],"type":"Point"}
+}

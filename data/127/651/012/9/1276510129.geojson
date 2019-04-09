@@ -1,0 +1,67 @@
+{
+  "id": 1276510129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.29644,12.30622,-84.29644,12.30622",
+    "geom:latitude":12.30622,
+    "geom:longitude":-84.29644,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Mataka",
+    "gn:country_code":"NI",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617703,
+    "gn:latitude":12.30622,
+    "gn:longitude":-84.29644,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Mataka",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617703
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"135d8a4c88f8018098a071f3c6daa6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1276510129,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1276510129,
+    "wof:lastmodified":1537037694,
+    "wof:name":"Mataka",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.29644,
+    12.30622,
+    -84.29644,
+    12.30622
+],
+  "geometry": {"coordinates":[-84.29644,12.30622],"type":"Point"}
+}

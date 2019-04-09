@@ -1,0 +1,61 @@
+{
+  "id": 1209686133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8529,11.56777,-85.8529,11.56777",
+    "geom:latitude":11.56777,
+    "geom:longitude":-85.8529,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Nacascolo",
+    "gn:country_code":"NI",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617527,
+    "gn:latitude":11.56777,
+    "gn:longitude":-85.8529,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Nacascolo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617527
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"49df7fd44e270c72eb936cd21f0bb1e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209686133
+        }
+    ],
+    "wof:id":1209686133,
+    "wof:lastmodified":1536279404,
+    "wof:name":"Nacascolo",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.8529,
+    11.56777,
+    -85.8529,
+    11.56777
+],
+  "geometry": {"coordinates":[-85.85290000000001,11.56777],"type":"Point"}
+}

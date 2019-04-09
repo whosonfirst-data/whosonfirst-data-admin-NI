@@ -1,0 +1,72 @@
+{
+  "id": 1259474865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.93931,13.23371,-85.93931,13.23371",
+    "geom:latitude":13.23371,
+    "geom:longitude":-85.93931,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Comarca Tomayunca",
+    "gn:country_code":"NI",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620305,
+    "gn:latitude":13.23371,
+    "gn:longitude":-85.93931,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Comarca Tomayunca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tomayuca",
+        "Tomayunca",
+        "Comarca Tomayunca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620305
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"55a1384b85c28c0a9ff4004fb9c2af7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":1259474865,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1259474865,
+    "wof:lastmodified":1537675573,
+    "wof:name":"Comarca Tomayunca",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.93930999999998,
+    13.23371,
+    -85.93930999999998,
+    13.23371
+],
+  "geometry": {"coordinates":[-85.93930999999998,13.23371],"type":"Point"}
+}

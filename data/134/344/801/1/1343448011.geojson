@@ -1,0 +1,67 @@
+{
+  "id": 1343448011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.53647,12.93728,-85.53647,12.93728",
+    "geom:latitude":12.93728,
+    "geom:longitude":-85.53647,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Guasimon",
+    "gn:country_code":"NI",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619063,
+    "gn:latitude":12.93728,
+    "gn:longitude":-85.53647,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Guasim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619063
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"42e6e6e900f5cfbe428defecdb1a8598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693833,
+            "locality_id":1343448011,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343448011,
+    "wof:lastmodified":1536764601,
+    "wof:name":"Guasimon",
+    "wof:parent_id":1108693833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.53647,
+    12.93728,
+    -85.53647,
+    12.93728
+],
+  "geometry": {"coordinates":[-85.53646999999999,12.93728],"type":"Point"}
+}

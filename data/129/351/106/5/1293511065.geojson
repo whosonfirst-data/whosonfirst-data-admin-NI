@@ -1,0 +1,73 @@
+{
+  "id": 1293511065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.3,14.06667,-85.3,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":-85.3,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Wina",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615692,
+    "gn:latitude":14.06667,
+    "gn:longitude":-85.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wina",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcina",
+        "Wuina",
+        "Wina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615692
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6f978fc5a415690a0361db5a125bdf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":1293511065,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1293511065,
+    "wof:lastmodified":1537675527,
+    "wof:name":"Wina",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.3,
+    14.06667,
+    -85.3,
+    14.06667
+],
+  "geometry": {"coordinates":[-85.3,14.06667],"type":"Point"}
+}

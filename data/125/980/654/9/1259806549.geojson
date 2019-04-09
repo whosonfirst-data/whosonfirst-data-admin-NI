@@ -1,0 +1,71 @@
+{
+  "id": 1259806549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57414,13.18263,-86.57414,13.18263",
+    "geom:latitude":13.18263,
+    "geom:longitude":-86.57414,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Grecia",
+    "gn:country_code":"NI",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618535,
+    "gn:latitude":13.18263,
+    "gn:longitude":-86.57414,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Grecia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Grecia",
+        "La Grecia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618535
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"457a10cfcf653e19c9adc7cf70df247f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693751,
+            "locality_id":1259806549,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1259806549,
+    "wof:lastmodified":1537675554,
+    "wof:name":"La Grecia",
+    "wof:parent_id":1108693751,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57414,
+    13.18263,
+    -86.57414,
+    13.18263
+],
+  "geometry": {"coordinates":[-86.57414,13.18263],"type":"Point"}
+}

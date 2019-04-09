@@ -1,0 +1,67 @@
+{
+  "id": 1276843277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.76667,11.15,-85.76667,11.15",
+    "geom:latitude":11.15,
+    "geom:longitude":-85.76667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Leona",
+    "gn:country_code":"NI",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618484,
+    "gn:latitude":11.15,
+    "gn:longitude":-85.76667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Leona",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618484
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b7933caee58881e47efd3275ee4bc52c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202297,
+            "locality_id":1276843277,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1276843277,
+    "wof:lastmodified":1537087005,
+    "wof:name":"La Leona",
+    "wof:parent_id":421202297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.76666999999998,
+    11.15,
+    -85.76666999999998,
+    11.15
+],
+  "geometry": {"coordinates":[-85.76666999999998,11.15],"type":"Point"}
+}

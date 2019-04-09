@@ -1,0 +1,67 @@
+{
+  "id": 1293218283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78874,12.38786,-85.78874,12.38786",
+    "geom:latitude":12.38786,
+    "geom:longitude":-85.78874,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Agua Caliente",
+    "gn:country_code":"NI",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620969,
+    "gn:latitude":12.38786,
+    "gn:longitude":-85.78874,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Agua Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        421171787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620969
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d991db9b107c1a0b00ac1094864e511a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171787,
+            "locality_id":1293218283,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1293218283,
+    "wof:lastmodified":1536678123,
+    "wof:name":"Agua Caliente",
+    "wof:parent_id":421171787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78874,
+    12.38786,
+    -85.78874,
+    12.38786
+],
+  "geometry": {"coordinates":[-85.78874,12.38786],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343363883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.34805,12.93236,-86.34805,12.93236",
+    "geom:latitude":12.93236,
+    "geom:longitude":-86.34805,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2530",
+    "gn:asciiname":"San Nicolas",
+    "gn:country_code":"NI",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616649,
+    "gn:latitude":12.93236,
+    "gn:longitude":-86.34805,
+    "gn:modification_date":"2016-01-03",
+    "gn:name":"San Nicol\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Nicol\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616649,
+        "wk:page":"San_Nicol%C3%A1s%2C_Estel%C3%AD"
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"11d4aa0eb48e93825ec96c579d165be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693759,
+            "locality_id":1343363883,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1343363883,
+    "wof:lastmodified":1537675536,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":1108693759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.34805,
+    12.93236,
+    -86.34805,
+    12.93236
+],
+  "geometry": {"coordinates":[-86.34805,12.93236],"type":"Point"}
+}

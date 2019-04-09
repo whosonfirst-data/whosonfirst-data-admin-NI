@@ -1,0 +1,66 @@
+{
+  "id": 1243074997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.63333,11.2,-85.63333,11.2",
+    "geom:latitude":11.2,
+    "geom:longitude":-85.63333,
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"NI",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3621606,
+    "gn:latitude":11.2,
+    "gn:longitude":-85.63333,
+    "gn:modification_date":"2018-06-18",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Costa_Rica",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        1108693815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3621606
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1699ed97a94dd3a9855e9bd182e3fafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693815,
+            "locality_id":1243074997,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1243074997,
+    "wof:lastmodified":1536842901,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":1108693815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.63333,
+    11.2,
+    -85.63333,
+    11.2
+],
+  "geometry": {"coordinates":[-85.63333,11.2],"type":"Point"}
+}

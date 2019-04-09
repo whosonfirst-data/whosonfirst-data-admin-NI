@@ -1,0 +1,74 @@
+{
+  "id": 1242799107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.91189,13.06,-85.91189,13.06",
+    "geom:latitude":13.06,
+    "geom:longitude":-85.91189,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1035",
+    "gn:asciiname":"La Fundadora",
+    "gn:country_code":"NI",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618552,
+    "gn:latitude":13.06,
+    "gn:longitude":-85.91189,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"La Fundadora",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fundadora",
+        "Potter",
+        "Fundadera",
+        "La Fundadora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618552
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5487693e2d9e5cd568de4df7c5256782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1242799107,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1242799107,
+    "wof:lastmodified":1537675554,
+    "wof:name":"La Fundadora",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.91189,
+    13.06,
+    -85.91189,
+    13.06
+],
+  "geometry": {"coordinates":[-85.91189,13.06],"type":"Point"}
+}

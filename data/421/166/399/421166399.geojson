@@ -1,0 +1,114 @@
+{
+  "id": 421166399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.85938,12.522,-86.85938,12.522",
+    "geom:latitude":12.522,
+    "geom:longitude":-86.85938,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7279\u5229\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Telica"
+    ],
+    "name:eng_x_preferred":[
+        "Telica"
+    ],
+    "name:est_x_preferred":[
+        "Telica"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b5\u03bb\u03af\u03ba\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Telica"
+    ],
+    "name:spa_x_preferred":[
+        "Telica"
+    ],
+    "name:swe_x_preferred":[
+        "Telica"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0644\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Telica"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5229\u5361"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616092,
+    "qs:gn_pop":8776,
+    "qs:name":"Telica",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Le\u00f3n",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":266481,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154342,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421179703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616092,
+        "gp:id":154342,
+        "qs:id":266481,
+        "wd:id":"Q1647817",
+        "wk:page":"Telica"
+    },
+    "wof:country":"NI",
+    "wof:created":1459008688,
+    "wof:geomhash":"a7230a349b69cbf7edbcaa6ec646f866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179703,
+            "locality_id":421166399,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":421166399,
+    "wof:lastmodified":1514491790,
+    "wof:name":"Telica",
+    "wof:parent_id":421179703,
+    "wof:placetype":"locality",
+    "wof:population":8776,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.85938,
+    12.522,
+    -86.85938,
+    12.522
+],
+  "geometry": {"coordinates":[-86.85938,12.522],"type":"Point"}
+}

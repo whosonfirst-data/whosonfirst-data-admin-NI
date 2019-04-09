@@ -1,0 +1,61 @@
+{
+  "id": 1209426369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.10879,12.48879,-87.10879,12.48879",
+    "geom:latitude":12.48879,
+    "geom:longitude":-87.10879,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Puerto Limon",
+    "gn:country_code":"NI",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617148,
+    "gn:latitude":12.48879,
+    "gn:longitude":-87.10879,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Puerto Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617148
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3cff42cfc0362d1e6a16572093170940",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209426369
+        }
+    ],
+    "wof:id":1209426369,
+    "wof:lastmodified":1536287370,
+    "wof:name":"Puerto Limon",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.10879,
+    12.48879,
+    -87.10879,
+    12.48879
+],
+  "geometry": {"coordinates":[-87.10879,12.48879],"type":"Point"}
+}

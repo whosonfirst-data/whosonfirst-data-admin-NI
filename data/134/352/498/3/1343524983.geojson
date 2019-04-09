@@ -1,0 +1,71 @@
+{
+  "id": 1343524983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.94992,14.38272,-83.94992,14.38272",
+    "geom:latitude":14.38272,
+    "geom:longitude":-83.94992,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Auas Tingni",
+    "gn:country_code":"NI",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620826,
+    "gn:latitude":14.38272,
+    "gn:longitude":-83.94992,
+    "gn:modification_date":"2014-07-02",
+    "gn:name":"Auas Tingni",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Awastingni",
+        "Auas Tingni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620826
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b467c30ec6417adf54870a28542b1c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1343524983,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1343524983,
+    "wof:lastmodified":1537675579,
+    "wof:name":"Auas Tingni",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.94991999999998,
+    14.38272,
+    -83.94991999999998,
+    14.38272
+],
+  "geometry": {"coordinates":[-83.94991999999998,14.38272],"type":"Point"}
+}

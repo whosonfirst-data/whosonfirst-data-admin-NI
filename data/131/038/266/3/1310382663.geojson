@@ -1,0 +1,67 @@
+{
+  "id": 1310382663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78248,12.76806,-85.78248,12.76806",
+    "geom:latitude":12.76806,
+    "geom:longitude":-85.78248,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Obregones",
+    "gn:country_code":"NI",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617453,
+    "gn:latitude":12.76806,
+    "gn:longitude":-85.78248,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Obregones",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617453
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6c46efcfd6a686f4cabfc22859a3fae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1310382663,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1310382663,
+    "wof:lastmodified":1537090980,
+    "wof:name":"Obregones",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78248,
+    12.76806,
+    -85.78248,
+    12.76806
+],
+  "geometry": {"coordinates":[-85.78248000000001,12.76806],"type":"Point"}
+}

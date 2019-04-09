@@ -1,0 +1,67 @@
+{
+  "id": 1293603187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.51895,12.52295,-85.51895,12.52295",
+    "geom:latitude":12.52295,
+    "geom:longitude":-85.51895,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Santa Isabel",
+    "gn:country_code":"NI",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616477,
+    "gn:latitude":12.52295,
+    "gn:longitude":-85.51895,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Santa Isabel",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616477
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"cecf99899e0d242639904b58ebfe32fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693841,
+            "locality_id":1293603187,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1293603187,
+    "wof:lastmodified":1536618097,
+    "wof:name":"Santa Isabel",
+    "wof:parent_id":1108693841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.51895,
+    12.52295,
+    -85.51895,
+    12.52295
+],
+  "geometry": {"coordinates":[-85.51895,12.52295],"type":"Point"}
+}

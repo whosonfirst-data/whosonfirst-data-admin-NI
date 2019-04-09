@@ -1,0 +1,67 @@
+{
+  "id": 1326493725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.0118,13.61174,-84.0118,13.61174",
+    "geom:latitude":13.61174,
+    "geom:longitude":-84.0118,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kakaubila",
+    "gn:country_code":"NI",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618897,
+    "gn:latitude":13.61174,
+    "gn:longitude":-84.0118,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Kakaubila",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618897
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"1178236880d7b130b027279e13fa3cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693681,
+            "locality_id":1326493725,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1326493725,
+    "wof:lastmodified":1537037973,
+    "wof:name":"Kakaubila",
+    "wof:parent_id":1108693681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.0118,
+    13.61174,
+    -84.0118,
+    13.61174
+],
+  "geometry": {"coordinates":[-84.01179999999999,13.61174],"type":"Point"}
+}

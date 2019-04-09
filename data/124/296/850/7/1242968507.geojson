@@ -1,0 +1,71 @@
+{
+  "id": 1242968507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.9486,11.7017,-85.9486,11.7017",
+    "geom:latitude":11.7017,
+    "geom:longitude":-85.9486,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mecatepillo",
+    "gn:country_code":"NI",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617681,
+    "gn:latitude":11.7017,
+    "gn:longitude":-85.9486,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mecatepillo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mecitepio",
+        "Mecatepillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617681
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"27152c16c0164b4614704adb0dc6ec45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1242968507,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1242968507,
+    "wof:lastmodified":1537675544,
+    "wof:name":"Mecatepillo",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.9486,
+    11.7017,
+    -85.9486,
+    11.7017
+],
+  "geometry": {"coordinates":[-85.9486,11.7017],"type":"Point"}
+}

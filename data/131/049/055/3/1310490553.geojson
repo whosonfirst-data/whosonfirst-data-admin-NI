@@ -1,0 +1,67 @@
+{
+  "id": 1310490553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.45758,12.44963,-86.45758,12.44963",
+    "geom:latitude":12.44963,
+    "geom:longitude":-86.45758,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Venecia",
+    "gn:country_code":"NI",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615845,
+    "gn:latitude":12.44963,
+    "gn:longitude":-86.45758,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Venecia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615845
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e54fbc84b10d7fe9bceafb4e6f451ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693771,
+            "locality_id":1310490553,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1310490553,
+    "wof:lastmodified":1536939223,
+    "wof:name":"Venecia",
+    "wof:parent_id":1108693771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.45758000000002,
+    12.44963,
+    -86.45758000000002,
+    12.44963
+],
+  "geometry": {"coordinates":[-86.45758000000002,12.44963],"type":"Point"}
+}

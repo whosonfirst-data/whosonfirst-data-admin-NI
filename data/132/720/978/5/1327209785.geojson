@@ -1,0 +1,72 @@
+{
+  "id": 1327209785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.73333,12.56667,-84.73333,12.56667",
+    "geom:latitude":12.56667,
+    "geom:longitude":-84.73333,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Nauawas",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617497,
+    "gn:latitude":12.56667,
+    "gn:longitude":-84.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nauaw\u00e1s",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nawawas",
+        "Nauaw\u00e1s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617497
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"709fcf791d7dd3c66bf1b1ab1aff42e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1327209785,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1327209785,
+    "wof:lastmodified":1537675543,
+    "wof:name":"Nauawas",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.73333000000002,
+    12.56667,
+    -84.73333000000002,
+    12.56667
+],
+  "geometry": {"coordinates":[-84.73333000000002,12.56667],"type":"Point"}
+}

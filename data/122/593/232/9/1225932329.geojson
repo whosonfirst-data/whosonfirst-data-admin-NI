@@ -1,0 +1,71 @@
+{
+  "id": 1225932329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.14235,11.87477,-86.14235,11.87477",
+    "geom:latitude":11.87477,
+    "geom:longitude":-86.14235,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"NI",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616405,
+    "gn:latitude":11.87477,
+    "gn:longitude":-86.14235,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Crucero",
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        421203777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616405
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ea966b781cdbb8107f4c8a482971cb1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421203777,
+            "locality_id":1225932329,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1225932329,
+    "wof:lastmodified":1537675534,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":421203777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.14235,
+    11.87477,
+    -86.14235,
+    11.87477
+],
+  "geometry": {"coordinates":[-86.14234999999999,11.87477],"type":"Point"}
+}

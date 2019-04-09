@@ -1,0 +1,65 @@
+{
+  "id": 1209295605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.09271,11.86229,-86.09271,11.86229",
+    "geom:latitude":11.86229,
+    "geom:longitude":-86.09271,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"El Palaiso",
+    "gn:country_code":"NI",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619564,
+    "gn:latitude":11.86229,
+    "gn:longitude":-86.09271,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Pala\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Portillo",
+        "El Pala\u00edso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619564
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"02d1ab3aa7d490d3c5f715925f76c075",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209295605
+        }
+    ],
+    "wof:id":1209295605,
+    "wof:lastmodified":1537675565,
+    "wof:name":"El Palaiso",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.09271,
+    11.86229,
+    -86.09271,
+    11.86229
+],
+  "geometry": {"coordinates":[-86.09271,11.86229],"type":"Point"}
+}

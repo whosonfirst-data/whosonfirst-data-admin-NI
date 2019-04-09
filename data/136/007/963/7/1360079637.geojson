@@ -1,0 +1,68 @@
+{
+  "id": 1360079637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.01667,13.11667,-85.01667,13.11667",
+    "geom:latitude":13.11667,
+    "geom:longitude":-85.01667,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"1035",
+    "gn:asciiname":"El Llano de La Cruz",
+    "gn:country_code":"NI",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619651,
+    "gn:latitude":13.11667,
+    "gn:longitude":-85.01667,
+    "gn:modification_date":"2017-01-23",
+    "gn:name":"El Llano de La Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619651
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e492a02bfbe4a6e5f6c65589836f7ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693871,
+            "locality_id":1360079637,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1360079637,
+    "wof:lastmodified":1536953667,
+    "wof:name":"El Llano de La Cruz",
+    "wof:parent_id":1108693871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.01666999999998,
+    13.11667,
+    -85.01666999999998,
+    13.11667
+],
+  "geometry": {"coordinates":[-85.01666999999998,13.11667],"type":"Point"}
+}

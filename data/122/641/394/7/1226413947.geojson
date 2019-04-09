@@ -1,0 +1,71 @@
+{
+  "id": 1226413947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.84328,14.76998,-83.84328,14.76998",
+    "geom:latitude":14.76998,
+    "geom:longitude":-83.84328,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Saklin",
+    "gn:country_code":"NI",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616994,
+    "gn:latitude":14.76998,
+    "gn:longitude":-83.84328,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saklin",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sacl\u00edn",
+        "Saklin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616994
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9f15543912de64e5ab981b726c8e54d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1226413947,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1226413947,
+    "wof:lastmodified":1537675538,
+    "wof:name":"Saklin",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.84328000000002,
+    14.76998,
+    -83.84328000000002,
+    14.76998
+],
+  "geometry": {"coordinates":[-83.84328000000002,14.76998],"type":"Point"}
+}

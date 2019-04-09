@@ -1,0 +1,67 @@
+{
+  "id": 1293611255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.85897,12.13498,-85.85897,12.13498",
+    "geom:latitude":12.13498,
+    "geom:longitude":-85.85897,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Los Puentes",
+    "gn:country_code":"NI",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617853,
+    "gn:latitude":12.13498,
+    "gn:longitude":-85.85897,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Los Puentes",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617853
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7cf3dadf2933c8979e887a59e1caa855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1293611255,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1293611255,
+    "wof:lastmodified":1536605796,
+    "wof:name":"Los Puentes",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.85897,
+    12.13498,
+    -85.85897,
+    12.13498
+],
+  "geometry": {"coordinates":[-85.85897,12.13498],"type":"Point"}
+}

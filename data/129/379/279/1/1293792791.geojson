@@ -1,0 +1,70 @@
+{
+  "id": 1293792791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.13242,11.70249,-86.13242,11.70249",
+    "geom:latitude":11.70249,
+    "geom:longitude":-86.13242,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mata de Pule",
+    "gn:country_code":"NI",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537809,
+    "gn:latitude":11.70249,
+    "gn:longitude":-86.13242,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Mata de Pule",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Mata de Pule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537809
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"defc27f4d3efe9149fa2b61d764644f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693803,
+            "locality_id":1293792791,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1293792791,
+    "wof:lastmodified":1537675590,
+    "wof:name":"Mata de Pule",
+    "wof:parent_id":1108693803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.13242,
+    11.70249,
+    -86.13242,
+    11.70249
+],
+  "geometry": {"coordinates":[-86.13242,11.70249],"type":"Point"}
+}

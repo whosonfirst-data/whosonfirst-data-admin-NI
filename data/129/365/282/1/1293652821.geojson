@@ -1,0 +1,67 @@
+{
+  "id": 1293652821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.58035,13.86556,-83.58035,13.86556",
+    "geom:latitude":13.86556,
+    "geom:longitude":-83.58035,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Iskri",
+    "gn:country_code":"NI",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618969,
+    "gn:latitude":13.86556,
+    "gn:longitude":-83.58035,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Iskri",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        421201657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618969
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2c574d8919bc8b1617c47af4da2c139a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421201657,
+            "locality_id":1293652821,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1293652821,
+    "wof:lastmodified":1537044216,
+    "wof:name":"Iskri",
+    "wof:parent_id":421201657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.58035,
+    13.86556,
+    -83.58035,
+    13.86556
+],
+  "geometry": {"coordinates":[-83.58035,13.86556],"type":"Point"}
+}

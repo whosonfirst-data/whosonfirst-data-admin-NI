@@ -1,0 +1,71 @@
+{
+  "id": 1327146041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.84067,13.24546,-86.84067,13.24546",
+    "geom:latitude":13.24546,
+    "geom:longitude":-86.84067,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"El Aradito",
+    "gn:country_code":"NI",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620095,
+    "gn:latitude":13.24546,
+    "gn:longitude":-86.84067,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Aradito",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araditos",
+        "El Aradito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421185081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620095
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"14020eeb1c718aa3441312984d5b98b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421185081,
+            "locality_id":1327146041,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1327146041,
+    "wof:lastmodified":1537675571,
+    "wof:name":"El Aradito",
+    "wof:parent_id":421185081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.84066999999997,
+    13.24546,
+    -86.84066999999997,
+    13.24546
+],
+  "geometry": {"coordinates":[-86.84066999999997,13.24546],"type":"Point"}
+}

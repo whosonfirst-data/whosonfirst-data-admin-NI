@@ -1,0 +1,123 @@
+{
+  "id": 421194279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.62915,12.76224,-85.62915,12.76224",
+    "geom:latitude":12.76224,
+    "geom:longitude":-85.62915,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:chi_x_preferred":[
+        "\u7a46\u4f0a\u7a46\u4f0a"
+    ],
+    "name:dut_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:eng_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:fra_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:fre_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:ita_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30a4\u30fb\u30e0\u30a4"
+    ],
+    "name:spa_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:swe_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:unk_x_variant":[
+        "Muy Muy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06cc \u0645\u0648\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u4f0a\u7a46\u4f0a"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617532,
+    "qs:gn_pop":4839,
+    "qs:name":"Muymuy",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Matagalpa",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1045732,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":56122920,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421200103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617532,
+        "gp:id":56122920,
+        "qs:id":1045732,
+        "wd:id":"Q2215631",
+        "wk:page":"Muy Muy"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009800,
+    "wof:geomhash":"d8ded96aba9bfe82c6c3412baf589553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200103,
+            "locality_id":421194279,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":421194279,
+    "wof:lastmodified":1514491766,
+    "wof:name":"Muymuy",
+    "wof:parent_id":421200103,
+    "wof:placetype":"locality",
+    "wof:population":4839,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.62915,
+    12.76224,
+    -85.62915,
+    12.76224
+],
+  "geometry": {"coordinates":[-85.62915,12.76224],"type":"Point"}
+}

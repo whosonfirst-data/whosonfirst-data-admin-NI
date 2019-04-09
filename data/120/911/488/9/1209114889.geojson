@@ -1,0 +1,65 @@
+{
+  "id": 1209114889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.14304,11.85065,-86.14304,11.85065",
+    "geom:latitude":11.85065,
+    "geom:longitude":-86.14304,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Jose de Monte Redondo",
+    "gn:country_code":"NI",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616750,
+    "gn:latitude":11.85065,
+    "gn:longitude":-86.14304,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 de Monte Redondo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9",
+        "San Jos\u00e9 de Monte Redondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616750
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"93c93bf3d77a7b1d46ca05ce7c509280",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209114889
+        }
+    ],
+    "wof:id":1209114889,
+    "wof:lastmodified":1537675536,
+    "wof:name":"San Jose de Monte Redondo",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.14304,
+    11.85065,
+    -86.14304,
+    11.85065
+],
+  "geometry": {"coordinates":[-86.14304,11.85065],"type":"Point"}
+}

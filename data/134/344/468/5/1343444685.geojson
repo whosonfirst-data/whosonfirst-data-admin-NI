@@ -1,0 +1,67 @@
+{
+  "id": 1343444685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.26764,12.01413,-86.26764,12.01413",
+    "geom:latitude":12.01413,
+    "geom:longitude":-86.26764,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Historia",
+    "gn:country_code":"NI",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618513,
+    "gn:latitude":12.01413,
+    "gn:longitude":-86.26764,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Historia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421179217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618513
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e9e1826c2db49ad9581c6cccaffab910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179217,
+            "locality_id":1343444685,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1343444685,
+    "wof:lastmodified":1536769532,
+    "wof:name":"La Historia",
+    "wof:parent_id":421179217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.26764,
+    12.01413,
+    -86.26764,
+    12.01413
+],
+  "geometry": {"coordinates":[-86.26764,12.01413],"type":"Point"}
+}

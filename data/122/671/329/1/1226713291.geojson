@@ -1,0 +1,67 @@
+{
+  "id": 1226713291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.94594,11.1084,-83.94594,11.1084",
+    "geom:latitude":11.1084,
+    "geom:longitude":-83.94594,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"San Martin",
+    "gn:country_code":"NI",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616674,
+    "gn:latitude":11.1084,
+    "gn:longitude":-83.94594,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"San Mart\u00edn",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421186279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616674
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f0f0b27c2e07f0593a675b159a3d8f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421186279,
+            "locality_id":1226713291,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1226713291,
+    "wof:lastmodified":1536762781,
+    "wof:name":"San Martin",
+    "wof:parent_id":421186279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.94594000000002,
+    11.1084,
+    -83.94594000000002,
+    11.1084
+],
+  "geometry": {"coordinates":[-83.94594000000002,11.1084],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343341805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.20321,12.9,-86.20321,12.9",
+    "geom:latitude":12.9,
+    "geom:longitude":-86.20321,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Santa Rosa de Lima",
+    "gn:country_code":"NI",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616388,
+    "gn:latitude":12.9,
+    "gn:longitude":-86.20321,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Santa Rosa de Lima",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        1108693823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616388
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a4ffbbff0af9a878a04793ac813e4477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693823,
+            "locality_id":1343341805,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343341805,
+    "wof:lastmodified":1536918131,
+    "wof:name":"Santa Rosa de Lima",
+    "wof:parent_id":1108693823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.20321,
+    12.9,
+    -86.20321,
+    12.9
+],
+  "geometry": {"coordinates":[-86.20321,12.9],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343784251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.10145,11.68578,-86.10145,11.68578",
+    "geom:latitude":11.68578,
+    "geom:longitude":-86.10145,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Guarumo",
+    "gn:country_code":"NI",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619746,
+    "gn:latitude":11.68578,
+    "gn:longitude":-86.10145,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"El Guarumo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619746
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8179c36635273c2e9f947ac2671c59b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1343784251,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1343784251,
+    "wof:lastmodified":1536777254,
+    "wof:name":"El Guarumo",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.10145,
+    11.68578,
+    -86.10145,
+    11.68578
+],
+  "geometry": {"coordinates":[-86.10145,11.68578],"type":"Point"}
+}

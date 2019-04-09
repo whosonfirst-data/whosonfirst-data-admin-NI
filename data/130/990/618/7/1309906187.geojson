@@ -1,0 +1,71 @@
+{
+  "id": 1309906187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.89512,12.56246,-84.89512,12.56246",
+    "geom:latitude":12.56246,
+    "geom:longitude":-84.89512,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"La Cusuca",
+    "gn:country_code":"NI",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618606,
+    "gn:latitude":12.56246,
+    "gn:longitude":-84.89512,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Cusuca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cusuca",
+        "La Cusuca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        421171813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618606
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"495d24bee362223b1a06a0c6a2b39460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171813,
+            "locality_id":1309906187,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1309906187,
+    "wof:lastmodified":1537675555,
+    "wof:name":"La Cusuca",
+    "wof:parent_id":421171813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.89511999999998,
+    12.56246,
+    -84.89511999999998,
+    12.56246
+],
+  "geometry": {"coordinates":[-84.89511999999998,12.56246],"type":"Point"}
+}

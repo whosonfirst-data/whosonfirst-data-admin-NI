@@ -1,0 +1,68 @@
+{
+  "id": 1260163869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.57544,11.5362,-85.57544,11.5362",
+    "geom:latitude":11.5362,
+    "geom:longitude":-85.57544,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"8030",
+    "gn:asciiname":"El Quino",
+    "gn:country_code":"NI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9612997,
+    "gn:latitude":11.5362,
+    "gn:longitude":-85.57544,
+    "gn:modification_date":"2016-02-12",
+    "gn:name":"El Quino",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9612997
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3110cd636428d36bd3c46d8361d1ff95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202291,
+            "locality_id":1260163869,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1260163869,
+    "wof:lastmodified":1536873953,
+    "wof:name":"El Quino",
+    "wof:parent_id":421202291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.57544,
+    11.5362,
+    -85.57544,
+    11.5362
+],
+  "geometry": {"coordinates":[-85.57544,11.5362],"type":"Point"}
+}

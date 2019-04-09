@@ -1,0 +1,67 @@
+{
+  "id": 1293403069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.38337,11.8447,-86.38337,11.8447",
+    "geom:latitude":11.8447,
+    "geom:longitude":-86.38337,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"NI",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616428,
+    "gn:latitude":11.8447,
+    "gn:longitude":-86.38337,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616428
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"76059405e4fcf64e3e8ffcb3868f844c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693779,
+            "locality_id":1293403069,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1293403069,
+    "wof:lastmodified":1536908946,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":1108693779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.38337,
+    11.8447,
+    -86.38337,
+    11.8447
+],
+  "geometry": {"coordinates":[-86.38337,11.8447],"type":"Point"}
+}

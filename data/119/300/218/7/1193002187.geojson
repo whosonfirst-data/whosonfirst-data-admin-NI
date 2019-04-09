@@ -1,0 +1,67 @@
+{
+  "id": 1193002187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.19293,12.1479,-86.19293,12.1479",
+    "geom:latitude":12.1479,
+    "geom:longitude":-86.19293,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Subasta",
+    "gn:country_code":"NI",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9613244,
+    "gn:latitude":12.1479,
+    "gn:longitude":-86.19293,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"La Subasta",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9613244
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"51a254b18944a44ffd0266b0f0d25e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":1193002187,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1193002187,
+    "wof:lastmodified":1536369307,
+    "wof:name":"La Subasta",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.19293,
+    12.1479,
+    -86.19293,
+    12.1479
+],
+  "geometry": {"coordinates":[-86.19293,12.1479],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226716147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.57724,12.93072,-83.57724,12.93072",
+    "geom:latitude":12.93072,
+    "geom:longitude":-83.57724,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Karawala",
+    "gn:country_code":"NI",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618878,
+    "gn:latitude":12.93072,
+    "gn:longitude":-83.57724,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Karawala",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Karawala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618878
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"85aa44ed570bd213fdfaa817385fc2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693879,
+            "locality_id":1226716147,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1226716147,
+    "wof:lastmodified":1537675558,
+    "wof:name":"Karawala",
+    "wof:parent_id":1108693879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.57724,
+    12.93072,
+    -83.57724,
+    12.93072
+],
+  "geometry": {"coordinates":[-83.57724,12.93072],"type":"Point"}
+}

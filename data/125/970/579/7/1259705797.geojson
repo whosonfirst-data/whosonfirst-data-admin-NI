@@ -1,0 +1,70 @@
+{
+  "id": 1259705797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.97483,11.91274,-85.97483,11.91274",
+    "geom:latitude":11.91274,
+    "geom:longitude":-85.97483,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Auroia",
+    "gn:country_code":"NI",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016291,
+    "gn:latitude":11.91274,
+    "gn:longitude":-85.97483,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Auroia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Auroia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016291
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"978a849f4db54cae0b64b14d1816237f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1259705797,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1259705797,
+    "wof:lastmodified":1537675582,
+    "wof:name":"La Auroia",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.97483000000003,
+    11.91274,
+    -85.97483000000003,
+    11.91274
+],
+  "geometry": {"coordinates":[-85.97483000000003,11.91274],"type":"Point"}
+}

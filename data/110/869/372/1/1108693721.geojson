@@ -1,0 +1,120 @@
+{
+  "id": 1108693721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.016006,
+    "geom:area_square_m":192428624.279772,
+    "geom:bbox":"-86.223363016,13.4376248302,-86.0697430529,13.6120233638",
+    "geom:latitude":13.52345,
+    "geom:longitude":-86.148032,
+    "iso:country":"NI",
+    "lbl:latitude":13.527086,
+    "lbl:longitude":-86.146569,
+    "meso:admin_1":"MADRIZ",
+    "meso:gadm_admin":"San Juan del R\u00edo Coco",
+    "meso:gadm_hasc2":"NI.MD.SR",
+    "meso:gaul_admin":"San Juan Del Rio Coco",
+    "meso:local_id":"1337",
+    "meso:mps_x":-86.146569,
+    "meso:mps_y":13.527086,
+    "meso:name_local":"SAN J. DEL RIO COCO",
+    "meso:source":"ISCGM",
+    "mps:latitude":13.527086,
+    "mps:longitude":-86.146569,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u723e\u91cc\u5967\u79d1\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "San Juan del R\u00edo Coco"
+    ],
+    "name:eng_x_preferred":[
+        "San Juan Del Rio Coco"
+    ],
+    "name:eng_x_variant":[
+        "San Juan Del Rio Coco",
+        "San Juan del R\u00edo Coco",
+        "SAN J. DEL RIO COCO",
+        "San Juan de R\u00edo Coco"
+    ],
+    "name:fre_x_preferred":[
+        "San Juan del R\u00edo Coco"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03b4\u03b5\u03bb \u03a1\u03af\u03bf \u039a\u03cc\u03ba\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "San Juan del R\u00edo Coco"
+    ],
+    "name:spa_x_preferred":[
+        "San Juan de R\u00edo Coco"
+    ],
+    "name:swe_x_preferred":[
+        "San Juan de R\u00edo Coco"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062f\u06cc\u0644 \u0631\u06cc\u0648 \u06a9\u0648\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "San Juan de R\u00edo Coco"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"182.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"San Juan de R\u00edo Coco",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.MD",
+    "statoids:name":"San Juan de R\u00edo Coco",
+    "statoids:population":"21114",
+    "statoids:statoid":"NI.MD.SR",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.MD.SR",
+        "wd:id":"Q1647654"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415062,
+    "wof:geomhash":"d3615389c71d8cc9d518fb7c90f74fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693721,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":1108693721,
+    "wof:lastmodified":1543954415,
+    "wof:name":"San Juan Del Rio Coco",
+    "wof:parent_id":85675511,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":21114,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.2233630160085,
+    13.43762483020708,
+    -86.06974305291392,
+    13.61202336377259
+],
+  "geometry": {"coordinates":[[[-86.19440631702071,13.60016990634934],[-86.19039831929145,13.60232121624862],[-86.18270663616794,13.58577619529556],[-86.17335996973766,13.60171597831706],[-86.16057053756019,13.61202336377259],[-86.14319411114666,13.60584652773764],[-86.13490890879079,13.59790894391599],[-86.1259029534632,13.58928031083063],[-86.10328646897528,13.57275834976581],[-86.10234591887927,13.5515756668531],[-86.09743284855169,13.52739953996177],[-86.08790862691612,13.52077841730545],[-86.08237287130798,13.51135184002451],[-86.07250756623527,13.50151475631946],[-86.06974305291392,13.49724380598487],[-86.07878540198617,13.49573111242375],[-86.08374923445092,13.47783388555082],[-86.09338017096071,13.46517023287706],[-86.11045053858454,13.44901995817985],[-86.1222898714319,13.44146783925458],[-86.15220026190597,13.43762483020708],[-86.1655880589837,13.44304586690942],[-86.17723286705072,13.43899740093712],[-86.17845686227825,13.44525138199462],[-86.17873320483061,13.45259968613366],[-86.17934383942817,13.46723770275154],[-86.17984811949111,13.47734102229132],[-86.18151126276254,13.49255545800635],[-86.19107459962663,13.50864540136619],[-86.20427994653365,13.51934542381517],[-86.21268257865688,13.53193073155235],[-86.21699310875404,13.54192615987902],[-86.22336301600851,13.54733254837506],[-86.22089283072305,13.55295324417033],[-86.21353872409613,13.5698164426566],[-86.19860581150459,13.5979162968066],[-86.19440631702071,13.60016990634934]]],"type":"Polygon"}
+}

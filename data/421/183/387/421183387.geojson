@@ -1,0 +1,76 @@
+{
+  "id": 421183387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57117,13.79465,-86.57117,13.79465",
+    "geom:latitude":13.79465,
+    "geom:longitude":-86.57117,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3618213,
+    "qs:gn_pop":0,
+    "qs:name":"Las Manos",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"El Para\u00edso",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":974889,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":104046,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        1108701667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618213,
+        "gp:id":104046,
+        "qs:id":974889
+    },
+    "wof:country":"NI",
+    "wof:created":1459009367,
+    "wof:geomhash":"1bd1bb221d4cb6bdfe28cfd38b625fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701667,
+            "locality_id":421183387,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":421183387,
+    "wof:lastmodified":1500011757,
+    "wof:name":"Las Manos",
+    "wof:parent_id":1108701667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57117,
+    13.79465,
+    -86.57117,
+    13.79465
+],
+  "geometry": {"coordinates":[-86.57117,13.79465],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226631613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.53217,12.61859,-86.53217,12.61859",
+    "geom:latitude":12.61859,
+    "geom:longitude":-86.53217,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"San Claudio",
+    "gn:country_code":"NI",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616902,
+    "gn:latitude":12.61859,
+    "gn:longitude":-86.53217,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Claudio",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo de San Claudio",
+        "San Claudio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616902
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5c36d91e5feb71f07dbd94ebf27f0a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693767,
+            "locality_id":1226631613,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1226631613,
+    "wof:lastmodified":1537675538,
+    "wof:name":"San Claudio",
+    "wof:parent_id":1108693767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.53217,
+    12.61859,
+    -86.53217,
+    12.61859
+],
+  "geometry": {"coordinates":[-86.53216999999999,12.61859],"type":"Point"}
+}

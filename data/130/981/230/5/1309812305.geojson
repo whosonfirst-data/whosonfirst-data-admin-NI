@@ -1,0 +1,70 @@
+{
+  "id": 1309812305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27464,11.70587,-86.27464,11.70587",
+    "geom:latitude":11.70587,
+    "geom:longitude":-86.27464,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Guabina",
+    "gn:country_code":"NI",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017061,
+    "gn:latitude":11.70587,
+    "gn:longitude":-86.27464,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Guabina",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Guabina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017061
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"feed8d2b73e1311205ae8dad591b0f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1309812305,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1309812305,
+    "wof:lastmodified":1537675586,
+    "wof:name":"La Guabina",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27464,
+    11.70587,
+    -86.27464,
+    11.70587
+],
+  "geometry": {"coordinates":[-86.27464000000001,11.70587],"type":"Point"}
+}

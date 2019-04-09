@@ -1,0 +1,71 @@
+{
+  "id": 1225940163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.14372,12.60963,-86.14372,12.60963",
+    "geom:latitude":12.60963,
+    "geom:longitude":-86.14372,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Talpetate",
+    "gn:country_code":"NI",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616147,
+    "gn:latitude":12.60963,
+    "gn:longitude":-86.14372,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Talpetate",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caser\u00edo Telpetate",
+        "Talpetate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616147
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"aad082d96f0355afbc7dfd271fe1a9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171805,
+            "locality_id":1225940163,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1225940163,
+    "wof:lastmodified":1537675533,
+    "wof:name":"Talpetate",
+    "wof:parent_id":421171805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.14372,
+    12.60963,
+    -86.14372,
+    12.60963
+],
+  "geometry": {"coordinates":[-86.14372,12.60963],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310302529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.99763,11.87949,-85.99763,11.87949",
+    "geom:latitude":11.87949,
+    "geom:longitude":-85.99763,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Berlin",
+    "gn:country_code":"NI",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016380,
+    "gn:latitude":11.87949,
+    "gn:longitude":-85.99763,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Berlin",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Berlin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016380
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ed2afba08cb38dba078b9429b0c7ae91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1310302529,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310302529,
+    "wof:lastmodified":1537675583,
+    "wof:name":"Berlin",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.99763,
+    11.87949,
+    -85.99763,
+    11.87949
+],
+  "geometry": {"coordinates":[-85.99763,11.87949],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310676785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.64483,12.02268,-84.64483,12.02268",
+    "geom:latitude":12.02268,
+    "geom:longitude":-84.64483,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Gorra",
+    "gn:country_code":"NI",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618542,
+    "gn:latitude":12.02268,
+    "gn:longitude":-84.64483,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Gorra",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618542
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b8340da04839a1d81d0b589b8c049631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693875,
+            "locality_id":1310676785,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1310676785,
+    "wof:lastmodified":1536669835,
+    "wof:name":"La Gorra",
+    "wof:parent_id":1108693875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.64483,
+    12.02268,
+    -84.64483,
+    12.02268
+],
+  "geometry": {"coordinates":[-84.64483,12.02268],"type":"Point"}
+}

@@ -1,0 +1,150 @@
+{
+  "id": 421181939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.12402,12.73143,-86.12402,12.73143",
+    "geom:latitude":12.73143,
+    "geom:longitude":-86.12402,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:arm_x_preferred":[
+        "\u054d\u0575\u0578\u0582\u0564\u0561\u0564 \u0534\u0561\u0580\u056b\u0578"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u0414\u0430\u0440\u044b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:chi_x_preferred":[
+        "\u9054\u91cc\u5967\u5e02"
+    ],
+    "name:cze_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:deu_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:dut_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:eng_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:fra_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:fre_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e1\u10d8\u10e3\u10d3\u10d0\u10d3-\u10d3\u10d0\u10e0\u10d8\u10dd"
+    ],
+    "name:ger_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:ita_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30a6\u30c0\u30fc\u30fb\u30c0\u30ea\u30aa"
+    ],
+    "name:nah_x_preferred":[
+        "San Pedro Metl\u0101lpan"
+    ],
+    "name:nno_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:nob_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044c\u044e\u0434\u0430\u0434-\u0414\u0430\u0440\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:swe_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "name:unk_x_variant":[
+        "Metapa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0648\u062f\u0627\u062f \u062f\u0627\u0631\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Ciudad Dar\u00edo"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620350,
+    "qs:gn_pop":13318,
+    "qs:name":"Ciudad Dar\u00edo",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Matagalpa",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":517043,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152275,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620350,
+        "gp:id":152275,
+        "qs:id":517043,
+        "wd:id":"Q1015865",
+        "wk:page":"Ciudad Dar\u00edo"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009313,
+    "wof:geomhash":"7ca98ced8141c8a0754da038e124a61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171805,
+            "locality_id":421181939,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":421181939,
+    "wof:lastmodified":1514491735,
+    "wof:name":"Ciudad Dar\u00edo",
+    "wof:parent_id":421171805,
+    "wof:placetype":"locality",
+    "wof:population":13318,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.12402,
+    12.73143,
+    -86.12402,
+    12.73143
+],
+  "geometry": {"coordinates":[-86.12402,12.73143],"type":"Point"}
+}

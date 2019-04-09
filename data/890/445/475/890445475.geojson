@@ -1,0 +1,106 @@
+{
+  "id": 890445475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.56452,13.40708,-83.56452,13.40708",
+    "geom:latitude":13.40708,
+    "geom:longitude":-83.56452,
+    "gn:country":"NI",
+    "gn:fcode":"PPL",
+    "gn:pop":394,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u666e\u6797\u85a9\u6ce2\u5361"
+    ],
+    "name:dut_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:eng_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:fre_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:ger_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:ita_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30f3\u30b5\u30dd\u30eb\u30ab"
+    ],
+    "name:lit_x_preferred":[
+        "Prinsapolka"
+    ],
+    "name:spa_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:swe_x_preferred":[
+        "Prinzapolka"
+    ],
+    "name:unk_x_variant":[
+        "Principulco"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u06cc\u0646\u0633\u0627\u067e\u0648\u0644\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Prinzapolka"
+    ],
+    "qs:name":"Prinzapolka",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617169,
+        "gp:id":153713,
+        "qs:id":584181,
+        "wd:id":"Q1018776",
+        "wk:page":"Prinzapolka"
+    },
+    "wof:country":"NI",
+    "wof:created":1469052511,
+    "wof:geomhash":"dfb92cd838762b8f6d0c5dcc8172b0e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "locality_id":890445475,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":890445475,
+    "wof:lastmodified":1527792872,
+    "wof:name":"Prinzapolka",
+    "wof:parent_id":85675485,
+    "wof:placetype":"locality",
+    "wof:population":394,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.56452,
+    13.40708,
+    -83.56452,
+    13.40708
+],
+  "geometry": {"coordinates":[-83.56452,13.40708],"type":"Point"}
+}

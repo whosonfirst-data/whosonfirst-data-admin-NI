@@ -1,0 +1,67 @@
+{
+  "id": 1226022117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.86774,12.9526,-85.86774,12.9526",
+    "geom:latitude":12.9526,
+    "geom:longitude":-85.86774,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"NI",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616858,
+    "gn:latitude":12.9526,
+    "gn:longitude":-85.86774,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616858
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"658c2ad242eae5e6b7a62f8d41aab1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1226022117,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1226022117,
+    "wof:lastmodified":1536759503,
+    "wof:name":"San Francisco",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.86774,
+    12.9526,
+    -85.86774,
+    12.9526
+],
+  "geometry": {"coordinates":[-85.86774,12.9526],"type":"Point"}
+}

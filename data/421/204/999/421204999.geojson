@@ -1,0 +1,83 @@
+{
+  "id": 421204999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.19277,11.73441,-86.19277,11.73441",
+    "geom:latitude":11.73441,
+    "geom:longitude":-86.19277,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Conquista"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3618635,
+    "qs:gn_pop":919,
+    "qs:name":"La Conquista",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Carazo",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":251745,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153036,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618635,
+        "gp:id":153036,
+        "qs:id":251745,
+        "wd:id":"Q21052164"
+    },
+    "wof:country":"NI",
+    "wof:created":1459010209,
+    "wof:geomhash":"7761abba8293af6bb7e3d7420f4ae06d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":421204999,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":421204999,
+    "wof:lastmodified":1505340791,
+    "wof:name":"La Conquista",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:population":919,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.19277,
+    11.73441,
+    -86.19277,
+    11.73441
+],
+  "geometry": {"coordinates":[-86.19277,11.73441],"type":"Point"}
+}

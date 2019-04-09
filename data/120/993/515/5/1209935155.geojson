@@ -1,0 +1,72 @@
+{
+  "id": 1209935155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.39749,13.41646,-86.39749,13.41646",
+    "geom:latitude":13.41646,
+    "geom:longitude":-86.39749,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Valle Ducuali",
+    "gn:country_code":"NI",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615897,
+    "gn:latitude":13.41646,
+    "gn:longitude":-86.39749,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Valle Ducual\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Decuelito",
+        "Ducual\u00ed",
+        "Valle Ducual\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675511,
+        1108693725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615897
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"f4980dc2960cb20f34902c424c94e3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693725,
+            "locality_id":1209935155,
+            "region_id":85675511
+        }
+    ],
+    "wof:id":1209935155,
+    "wof:lastmodified":1537675531,
+    "wof:name":"Valle Ducuali",
+    "wof:parent_id":1108693725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.39749,
+    13.41646,
+    -86.39749,
+    13.41646
+],
+  "geometry": {"coordinates":[-86.39749,13.41646],"type":"Point"}
+}

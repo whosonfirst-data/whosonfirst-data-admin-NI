@@ -1,0 +1,67 @@
+{
+  "id": 1293381705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.24218,14.17087,-85.24218,14.17087",
+    "geom:latitude":14.17087,
+    "geom:longitude":-85.24218,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Oculi",
+    "gn:country_code":"NI",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617443,
+    "gn:latitude":14.17087,
+    "gn:longitude":-85.24218,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Ocul\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        421200107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617443
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"421876a43657625ff229133c958c5bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421200107,
+            "locality_id":1293381705,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1293381705,
+    "wof:lastmodified":1536940240,
+    "wof:name":"Oculi",
+    "wof:parent_id":421200107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.24218,
+    14.17087,
+    -85.24218,
+    14.17087
+],
+  "geometry": {"coordinates":[-85.24218,14.17087],"type":"Point"}
+}

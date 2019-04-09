@@ -1,0 +1,71 @@
+{
+  "id": 1259371033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.18544,11.95076,-86.18544,11.95076",
+    "geom:latitude":11.95076,
+    "geom:longitude":-86.18544,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"San Juan de La Concepcion",
+    "gn:country_code":"NI",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616734,
+    "gn:latitude":11.95076,
+    "gn:longitude":-86.18544,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Juan de La Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Juan",
+        "San Juan de La Concepci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616734
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d5e4f2bde6fb9d57008ea99e4df8cf56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693785,
+            "locality_id":1259371033,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1259371033,
+    "wof:lastmodified":1537675536,
+    "wof:name":"San Juan de La Concepcion",
+    "wof:parent_id":1108693785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.18544,
+    11.95076,
+    -86.18544,
+    11.95076
+],
+  "geometry": {"coordinates":[-86.18544,11.95076],"type":"Point"}
+}

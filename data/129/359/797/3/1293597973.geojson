@@ -1,0 +1,70 @@
+{
+  "id": 1293597973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36158,11.68715,-86.36158,11.68715",
+    "geom:latitude":11.68715,
+    "geom:longitude":-86.36158,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Carril Guasimo",
+    "gn:country_code":"NI",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016433,
+    "gn:latitude":11.68715,
+    "gn:longitude":-86.36158,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Carril Gu\u00e1simo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Carril Gu\u00e1simo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016433
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b57eb0b0c899a5df2c5a81e2c10d6d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1293597973,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1293597973,
+    "wof:lastmodified":1537675585,
+    "wof:name":"Carril Guasimo",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36158,
+    11.68715,
+    -86.36158,
+    11.68715
+],
+  "geometry": {"coordinates":[-86.36158,11.68715],"type":"Point"}
+}

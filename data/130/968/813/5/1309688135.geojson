@@ -1,0 +1,65 @@
+{
+  "id": 1309688135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.65853,11.59452,-83.65853,11.59452",
+    "geom:latitude":11.59452,
+    "geom:longitude":-83.65853,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Monkey Point",
+    "gn:country_code":"NI",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617615,
+    "gn:latitude":11.59452,
+    "gn:longitude":-83.65853,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Monkey Point",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617615,
+        "wk:page":"Monkey_Point"
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7e251dd80f20174aeb5bfb01f338ee51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "locality_id":1309688135,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309688135,
+    "wof:lastmodified":1537570044,
+    "wof:name":"Monkey Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.65853,
+    11.59452,
+    -83.65853,
+    11.59452
+],
+  "geometry": {"coordinates":[-83.65853,11.59452],"type":"Point"}
+}

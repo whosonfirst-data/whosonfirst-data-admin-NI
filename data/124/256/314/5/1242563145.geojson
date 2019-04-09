@@ -1,0 +1,71 @@
+{
+  "id": 1242563145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.70468,12.05487,-86.70468,12.05487",
+    "geom:latitude":12.05487,
+    "geom:longitude":-86.70468,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Transito",
+    "gn:country_code":"NI",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619304,
+    "gn:latitude":12.05487,
+    "gn:longitude":-86.70468,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tr\u00e1nsito",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Transito",
+        "El Tr\u00e1nsito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421175425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619304
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"77a1236e66582a3cdd202ce0f28b0b94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175425,
+            "locality_id":1242563145,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1242563145,
+    "wof:lastmodified":1537675562,
+    "wof:name":"El Transito",
+    "wof:parent_id":421175425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.70468000000002,
+    12.05487,
+    -86.70468000000002,
+    12.05487
+],
+  "geometry": {"coordinates":[-86.70468000000002,12.05487],"type":"Point"}
+}

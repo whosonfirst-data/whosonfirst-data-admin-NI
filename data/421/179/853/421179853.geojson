@@ -1,0 +1,85 @@
+{
+  "id": 421179853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.51416,11.78687,-86.51416,11.78687",
+    "geom:latitude":11.78687,
+    "geom:longitude":-86.51416,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u0447\u0430\u043f\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Puerto Somoza"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3617730,
+    "qs:gn_pop":5000,
+    "qs:name":"Masachapa",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Managua",
+    "qs:photos":822,
+    "qs:photos_1k":167,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":822,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":219451,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153530,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617730,
+        "gp:id":153530,
+        "qs:id":219451
+    },
+    "wof:country":"NI",
+    "wof:created":1459009235,
+    "wof:geomhash":"9587a7051fc39a17de668d182004ce03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693779,
+            "locality_id":421179853,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":421179853,
+    "wof:lastmodified":1505340645,
+    "wof:name":"Masachapa",
+    "wof:parent_id":1108693779,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.51416,
+    11.78687,
+    -86.51416,
+    11.78687
+],
+  "geometry": {"coordinates":[-86.51416,11.78687],"type":"Point"}
+}

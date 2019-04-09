@@ -1,0 +1,112 @@
+{
+  "id": 421167765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.88934,11.50299,-85.88934,11.50299",
+    "geom:latitude":11.50299,
+    "geom:longitude":-85.88934,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8c9d\u502b"
+    ],
+    "name:dut_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:fra_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:fre_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:vie_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u502b"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3620734,
+    "qs:gn_pop":5415,
+    "qs:name":"Bel\u00e9n",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Rivas",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149483,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152147,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        1108693811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620734,
+        "gp:id":152147,
+        "qs:id":149483,
+        "wd:id":"Q1647916",
+        "wk:page":"Bel\u00e9n, Rivas"
+    },
+    "wof:country":"NI",
+    "wof:created":1459008742,
+    "wof:geomhash":"d35b5e6c9801e722712535178e479273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693811,
+            "locality_id":421167765,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":421167765,
+    "wof:lastmodified":1527716153,
+    "wof:name":"Bel\u00e9n",
+    "wof:parent_id":1108693811,
+    "wof:placetype":"locality",
+    "wof:population":5415,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.88934,
+    11.50299,
+    -85.88934,
+    11.50299
+],
+  "geometry": {"coordinates":[-85.88934,11.50299],"type":"Point"}
+}

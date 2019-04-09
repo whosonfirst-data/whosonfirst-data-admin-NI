@@ -1,0 +1,67 @@
+{
+  "id": 1327221957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.03754,11.99434,-86.03754,11.99434",
+    "geom:latitude":11.99434,
+    "geom:longitude":-86.03754,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"NI",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618249,
+    "gn:latitude":11.99434,
+    "gn:longitude":-86.03754,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        421170019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618249
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"01415bc0a8248128183e1f587e49afd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421170019,
+            "locality_id":1327221957,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1327221957,
+    "wof:lastmodified":1536983935,
+    "wof:name":"Las Flores",
+    "wof:parent_id":421170019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.03754,
+    11.99434,
+    -86.03754,
+    11.99434
+],
+  "geometry": {"coordinates":[-86.03754000000001,11.99434],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209718729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.27927,11.71009,-86.27927,11.71009",
+    "geom:latitude":11.71009,
+    "geom:longitude":-86.27927,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rio Conchas",
+    "gn:country_code":"NI",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017051,
+    "gn:latitude":11.71009,
+    "gn:longitude":-86.27927,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Rio Conchas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Rio Conchas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        421191489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017051
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"999e83e2cb507f23fb383ed3613cfa39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421191489,
+            "locality_id":1209718729,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1209718729,
+    "wof:lastmodified":1537675585,
+    "wof:name":"Rio Conchas",
+    "wof:parent_id":421191489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.27927,
+    11.71009,
+    -86.27927,
+    11.71009
+],
+  "geometry": {"coordinates":[-86.27927,11.71009],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243185137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.31851,11.65863,-86.31851,11.65863",
+    "geom:latitude":11.65863,
+    "geom:longitude":-86.31851,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"La Banqueta",
+    "gn:country_code":"NI",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016419,
+    "gn:latitude":11.65863,
+    "gn:longitude":-86.31851,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Banqueta",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Banqueta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016419
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"deb86f14ab26d77af05ca8fc823db04d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1243185137,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1243185137,
+    "wof:lastmodified":1537675584,
+    "wof:name":"La Banqueta",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.31851,
+    11.65863,
+    -86.31851,
+    11.65863
+],
+  "geometry": {"coordinates":[-86.31851,11.65863],"type":"Point"}
+}

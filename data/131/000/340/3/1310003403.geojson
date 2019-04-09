@@ -1,0 +1,72 @@
+{
+  "id": 1310003403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.04224,11.80767,-86.04224,11.80767",
+    "geom:latitude":11.80767,
+    "geom:longitude":-86.04224,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Caralampio",
+    "gn:country_code":"NI",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616913,
+    "gn:latitude":11.80767,
+    "gn:longitude":-86.04224,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Caralampio",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Coyolar",
+        "San Caralimpio",
+        "San Caralampio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616913
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"fd825e249e150767e4fc8dcebb15ac0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171789,
+            "locality_id":1310003403,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310003403,
+    "wof:lastmodified":1537675538,
+    "wof:name":"San Caralampio",
+    "wof:parent_id":421171789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.04224,
+    11.80767,
+    -86.04224,
+    11.80767
+],
+  "geometry": {"coordinates":[-86.04224000000001,11.80767],"type":"Point"}
+}

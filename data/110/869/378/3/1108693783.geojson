@@ -1,0 +1,116 @@
+{
+  "id": 1108693783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.012272,
+    "geom:area_square_m":148404634.659107,
+    "geom:bbox":"-86.2049893236,11.9627392874,-86.089826874,12.1423725392",
+    "geom:latitude":12.046151,
+    "geom:longitude":-86.137438,
+    "iso:country":"NI",
+    "lbl:latitude":12.051093,
+    "lbl:longitude":-86.142105,
+    "meso:admin_1":"MASAYA",
+    "meso:gadm_admin":"Nindir\u00ed",
+    "meso:gadm_hasc2":"NI.MS.NN",
+    "meso:gaul_admin":"Nindiri",
+    "meso:local_id":"1881",
+    "meso:mps_x":-86.142105,
+    "meso:mps_y":12.051093,
+    "meso:name_local":"NINDIRI",
+    "meso:source":"ISCGM",
+    "mps:latitude":12.051093,
+    "mps:longitude":-86.142105,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5be7\u8fea\u91cc"
+    ],
+    "name:dut_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:eng_x_preferred":[
+        "Nindiri"
+    ],
+    "name:eng_x_variant":[
+        "Nindiri",
+        "Nindir\u00ed",
+        "NINDIRI"
+    ],
+    "name:fre_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:spa_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0646\u062f\u06cc\u0631\u06cc\u060c \u0645\u0627\u0633\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"143.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"Nindir\u00ed",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.MS",
+    "statoids:name":"Nindir\u00ed",
+    "statoids:population":"38355",
+    "statoids:statoid":"NI.MS.NN",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.MS.NN",
+        "wd:id":"Q2215135"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415117,
+    "wof:geomhash":"5a726de09fcd0e8b64fe912bdca34854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693783,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1108693783,
+    "wof:lastmodified":1544032792,
+    "wof:name":"Nindiri",
+    "wof:parent_id":85675499,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":38355,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"NN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.20498932359841,
+    11.96273928736536,
+    -86.08982687401554,
+    12.14237253918999
+],
+  "geometry": {"coordinates":[[[-86.12143680253369,12.14126792325241],[-86.0934920878675,12.14237253918999],[-86.09079166173089,12.14229021462194],[-86.09125799173076,12.13349702399046],[-86.08982687401554,12.11091606222147],[-86.09087589215216,12.09671973945753],[-86.09634039886532,12.08004435886338],[-86.10087719328116,12.06446219365816],[-86.09534748436249,12.03654421328387],[-86.09694044307382,12.02751947154047],[-86.10019278816378,12.01130686396421],[-86.10316536569367,11.99796875146186],[-86.1032131418433,11.9954980768813],[-86.10389409213755,11.9912910319946],[-86.10370214311094,11.98283353447201],[-86.10722981439213,11.98154381955734],[-86.1124290932671,11.97900585228612],[-86.11325974089397,11.98005287828864],[-86.11422172601247,11.98184179439835],[-86.11812919775372,11.97971558412072],[-86.12010297919761,11.97555662109658],[-86.12013216147729,11.97115079210677],[-86.12012014430049,11.97060707864922],[-86.15103585937605,11.96273928736536],[-86.15619103351546,11.96530594749718],[-86.161510041141,11.96857267299215],[-86.18896134644615,11.9831418162235],[-86.17960979797262,12.0009114475192],[-86.17587764392745,12.0233869668125],[-86.20498932359841,12.05669368754166],[-86.16405268005151,12.0892702837491],[-86.13625839250243,12.09973211471391],[-86.12143680253369,12.14126792325241]]],"type":"Polygon"}
+}

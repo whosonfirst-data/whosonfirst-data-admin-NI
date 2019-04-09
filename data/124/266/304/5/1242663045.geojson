@@ -1,0 +1,67 @@
+{
+  "id": 1242663045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.80007,12.6622,-86.80007,12.6622",
+    "geom:latitude":12.6622,
+    "geom:longitude":-86.80007,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Cortesal",
+    "gn:country_code":"NI",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619870,
+    "gn:latitude":12.6622,
+    "gn:longitude":-86.80007,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"El Cortesal",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421179703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619870
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c417ce13e1d7532a3c60d967f54e2feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421179703,
+            "locality_id":1242663045,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1242663045,
+    "wof:lastmodified":1536941391,
+    "wof:name":"El Cortesal",
+    "wof:parent_id":421179703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.80006999999998,
+    12.6622,
+    -86.80006999999998,
+    12.6622
+],
+  "geometry": {"coordinates":[-86.80006999999998,12.6622],"type":"Point"}
+}

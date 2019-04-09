@@ -1,0 +1,66 @@
+{
+  "id": 1209290315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.69292,12.55975,-83.69292,12.55975",
+    "geom:latitude":12.55975,
+    "geom:longitude":-83.69292,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Punta Marshall",
+    "gn:country_code":"NI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617129,
+    "gn:latitude":12.55975,
+    "gn:longitude":-83.69292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Punta Marshall",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marshall Point",
+        "Marshall Ponit",
+        "Punta Marshall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617129
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"643ab329498597a27f91fb22b3c5d88a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209290315
+        }
+    ],
+    "wof:id":1209290315,
+    "wof:lastmodified":1537675540,
+    "wof:name":"Punta Marshall",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.69292,
+    12.55975,
+    -83.69292,
+    12.55975
+],
+  "geometry": {"coordinates":[-83.69292,12.55975],"type":"Point"}
+}

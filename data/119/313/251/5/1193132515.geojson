@@ -1,0 +1,71 @@
+{
+  "id": 1193132515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.04198,12.5745,-86.04198,12.5745",
+    "geom:latitude":12.5745,
+    "geom:longitude":-86.04198,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Las Playitas",
+    "gn:country_code":"NI",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618135,
+    "gn:latitude":12.5745,
+    "gn:longitude":-86.04198,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Playitas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Playitas",
+        "Las Playitas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618135
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"d01efd2aae7975cf68c323cd1358a550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171805,
+            "locality_id":1193132515,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1193132515,
+    "wof:lastmodified":1537675549,
+    "wof:name":"Las Playitas",
+    "wof:parent_id":421171805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.04198000000002,
+    12.5745,
+    -86.04198000000002,
+    12.5745
+],
+  "geometry": {"coordinates":[-86.04198000000002,12.5745],"type":"Point"}
+}

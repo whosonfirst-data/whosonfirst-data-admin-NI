@@ -1,0 +1,70 @@
+{
+  "id": 1243567345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.37451,11.73166,-86.37451,11.73166",
+    "geom:latitude":11.73166,
+    "geom:longitude":-86.37451,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Los Cabros",
+    "gn:country_code":"NI",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016418,
+    "gn:latitude":11.73166,
+    "gn:longitude":-86.37451,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Los Cabros",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Los Cabros"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016418
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2bed09249e3457db866f11b073fb0a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1243567345,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1243567345,
+    "wof:lastmodified":1537675584,
+    "wof:name":"Los Cabros",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.37451,
+    11.73166,
+    -86.37451,
+    11.73166
+],
+  "geometry": {"coordinates":[-86.37451,11.73166],"type":"Point"}
+}

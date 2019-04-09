@@ -1,0 +1,63 @@
+{
+  "id": 1292977157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.5596,14.93702,-83.5596,14.93702",
+    "geom:latitude":14.93702,
+    "geom:longitude":-83.5596,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Auyapura",
+    "gn:country_code":"NI",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620815,
+    "gn:latitude":14.93702,
+    "gn:longitude":-83.5596,
+    "gn:modification_date":"2011-03-06",
+    "gn:name":"Auyapura",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620815
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"e59bf45efc3370e48ac8a8cce199a597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1292977157,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1292977157,
+    "wof:lastmodified":1537024674,
+    "wof:name":"Auyapura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.5596,
+    14.93702,
+    -83.5596,
+    14.93702
+],
+  "geometry": {"coordinates":[-83.5596,14.93702],"type":"Point"}
+}

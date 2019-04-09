@@ -1,0 +1,91 @@
+{
+  "id": 1108693759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.013287,
+    "geom:area_square_m":160139559.018797,
+    "geom:bbox":"-86.4394963982,12.8504313104,-86.2859163929,12.9867198656",
+    "geom:latitude":12.921405,
+    "geom:longitude":-86.362924,
+    "iso:country":"NI",
+    "lbl:latitude":12.926755,
+    "lbl:longitude":-86.36914,
+    "meso:admin_1":"ESTELI",
+    "meso:gadm_admin":"San Nicol\u00e1s",
+    "meso:gadm_hasc2":"NI.ES.SN",
+    "meso:gaul_admin":"San Nicolas",
+    "meso:local_id":"1562",
+    "meso:mps_x":-86.36914,
+    "meso:mps_y":12.926755,
+    "meso:name_local":"SAN NICOLAS",
+    "meso:source":"ISCGM",
+    "mps:latitude":12.926755,
+    "mps:longitude":-86.36914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "San Nicolas"
+    ],
+    "name:eng_x_variant":[
+        "San Nicolas",
+        "San Nicol\u00e1s",
+        "SAN NICOLAS"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"163.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"San Nicol\u00e1s",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.ES",
+    "statoids:name":"San Nicol\u00e1s",
+    "statoids:population":"6768",
+    "statoids:statoid":"NI.ES.SN",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.ES.SN"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415093,
+    "wof:geomhash":"99050657b1fb6c6be131de27d6542fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693759,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1108693759,
+    "wof:lastmodified":1544032791,
+    "wof:name":"San Nicolas",
+    "wof:parent_id":85675505,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6768,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SN",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.43949639817845,
+    12.85043131041311,
+    -86.28591639285722,
+    12.98671986562506
+],
+  "geometry": {"coordinates":[[[-86.4203944898277,12.97511679472458],[-86.41177165580334,12.97348452295295],[-86.4007860695551,12.97363352266663],[-86.38626476416272,12.97863735051781],[-86.38381875845319,12.98671986562506],[-86.36940888515826,12.98322100803448],[-86.35508357595066,12.9757011837725],[-86.33548098539606,12.98026223854577],[-86.31934825055961,12.96336141575428],[-86.31456111159025,12.96372636936047],[-86.31657196688633,12.95914501835571],[-86.31927827029419,12.94733172614301],[-86.31796231559112,12.93416513675698],[-86.2996986344713,12.9221867709846],[-86.28903751638148,12.91785164815373],[-86.28724959331693,12.91000384835543],[-86.28591639285722,12.90415333308856],[-86.28774124413087,12.88446223175935],[-86.29375934106251,12.85043131041311],[-86.30425079335393,12.86080700441362],[-86.33036274486729,12.86865016038375],[-86.35855660474309,12.88006985487971],[-86.36415572690096,12.872068637621],[-86.374748777706,12.86858682965748],[-86.38852964628602,12.87822681367939],[-86.40838801809956,12.88756795194054],[-86.42495378308341,12.89113703730293],[-86.43764628058871,12.89789441426381],[-86.43941010952884,12.89822259524244],[-86.43665905221913,12.90656281072303],[-86.43949639817845,12.92025794834742],[-86.43495270526155,12.94699773431024],[-86.42108679232402,12.95982211881393],[-86.4203944898277,12.97511679472458]]],"type":"Polygon"}
+}

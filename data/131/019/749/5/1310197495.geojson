@@ -1,0 +1,70 @@
+{
+  "id": 1310197495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.97135,11.90453,-85.97135,11.90453",
+    "geom:latitude":11.90453,
+    "geom:longitude":-85.97135,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"La Joya",
+    "gn:country_code":"NI",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016294,
+    "gn:latitude":11.90453,
+    "gn:longitude":-85.97135,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"La Joya",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Joya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016294
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c79cacdc5a4eb8fbfcc1d0f6f52c9814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1310197495,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310197495,
+    "wof:lastmodified":1537675582,
+    "wof:name":"La Joya",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.97135,
+    11.90453,
+    -85.97135,
+    11.90453
+],
+  "geometry": {"coordinates":[-85.97135,11.90453],"type":"Point"}
+}

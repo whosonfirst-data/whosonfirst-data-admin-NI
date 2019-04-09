@@ -1,0 +1,67 @@
+{
+  "id": 1360260973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.66348,12.04674,-84.66348,12.04674",
+    "geom:latitude":12.04674,
+    "geom:longitude":-84.66348,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"La Estrella",
+    "gn:country_code":"NI",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618578,
+    "gn:latitude":12.04674,
+    "gn:longitude":-84.66348,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"La Estrella",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675467,
+        1108693875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618578
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ce950464ae2ecba182943b6a64e60f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693875,
+            "locality_id":1360260973,
+            "region_id":85675467
+        }
+    ],
+    "wof:id":1360260973,
+    "wof:lastmodified":1536692132,
+    "wof:name":"La Estrella",
+    "wof:parent_id":1108693875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.66348,
+    12.04674,
+    -84.66348,
+    12.04674
+],
+  "geometry": {"coordinates":[-84.66348000000001,12.04674],"type":"Point"}
+}

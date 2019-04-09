@@ -1,0 +1,67 @@
+{
+  "id": 1242961661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.0488,12.10574,-86.0488,12.10574",
+    "geom:latitude":12.10574,
+    "geom:longitude":-86.0488,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"NI",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3827999,
+    "gn:latitude":12.10574,
+    "gn:longitude":-86.0488,
+    "gn:modification_date":"2000-07-15",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675499,
+        1108693781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3827999
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"cde06575be8d1fa262fb5dfbd8326a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693781,
+            "locality_id":1242961661,
+            "region_id":85675499
+        }
+    ],
+    "wof:id":1242961661,
+    "wof:lastmodified":1537006789,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":1108693781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.0488,
+    12.10574,
+    -86.0488,
+    12.10574
+],
+  "geometry": {"coordinates":[-86.0488,12.10574],"type":"Point"}
+}

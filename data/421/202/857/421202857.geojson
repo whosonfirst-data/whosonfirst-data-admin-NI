@@ -1,0 +1,115 @@
+{
+  "id": 421202857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.80308,11.45584,-85.80308,11.45584",
+    "geom:latitude":11.45584,
+    "geom:longitude":-85.80308,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Jorge"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u8c6a\u723e\u8d6b"
+    ],
+    "name:dut_x_preferred":[
+        "San Jorge"
+    ],
+    "name:eng_x_preferred":[
+        "San Jorge"
+    ],
+    "name:fra_x_preferred":[
+        "San Jorge"
+    ],
+    "name:fre_x_preferred":[
+        "San Jorge"
+    ],
+    "name:ita_x_preferred":[
+        "San Jorge"
+    ],
+    "name:spa_x_preferred":[
+        "San Jorge"
+    ],
+    "name:swe_x_preferred":[
+        "San Jorge"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u062e\u0648\u0631\u06af\u06d2\u060c \u0631\u06cc\u0648\u0627\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u8c6a\u723e\u8d6b"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616794,
+    "qs:gn_pop":7158,
+    "qs:name":"San Jorge",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Rivas",
+    "qs:photos":211,
+    "qs:photos_1k":43,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":211,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":228599,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153928,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616794,
+        "gp:id":153928,
+        "qs:id":228599,
+        "wd:id":"Q956573",
+        "wk:page":"San Jorge, Rivas"
+    },
+    "wof:country":"NI",
+    "wof:created":1459010132,
+    "wof:geomhash":"9563da19f684350a4693b26fd4596b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202293,
+            "locality_id":421202857,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":421202857,
+    "wof:lastmodified":1527716206,
+    "wof:name":"San Jorge",
+    "wof:parent_id":421202293,
+    "wof:placetype":"locality",
+    "wof:population":7158,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.80308,
+    11.45584,
+    -85.80308,
+    11.45584
+],
+  "geometry": {"coordinates":[-85.80307999999999,11.45584],"type":"Point"}
+}

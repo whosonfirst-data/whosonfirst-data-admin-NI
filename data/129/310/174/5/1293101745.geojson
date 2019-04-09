@@ -1,0 +1,70 @@
+{
+  "id": 1293101745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.17901,11.74093,-86.17901,11.74093",
+    "geom:latitude":11.74093,
+    "geom:longitude":-86.17901,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Pablo",
+    "gn:country_code":"NI",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034252,
+    "gn:latitude":11.74093,
+    "gn:longitude":-86.17901,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"San Pablo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Pablo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034252
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"3bcd83012eb729da434fbf66c162e3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693797,
+            "locality_id":1293101745,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1293101745,
+    "wof:lastmodified":1537675587,
+    "wof:name":"San Pablo",
+    "wof:parent_id":1108693797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.17900999999998,
+    11.74093,
+    -86.17900999999998,
+    11.74093
+],
+  "geometry": {"coordinates":[-86.17900999999998,11.74093],"type":"Point"}
+}

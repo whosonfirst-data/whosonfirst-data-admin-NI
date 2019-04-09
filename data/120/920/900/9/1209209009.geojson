@@ -1,0 +1,61 @@
+{
+  "id": 1209209009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.21667,12.15,-86.21667,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-86.21667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"NI",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616663,
+    "gn:latitude":12.15,
+    "gn:longitude":-86.21667,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616663
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0a775faef70a8ed7b51d17c0911241b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209209009
+        }
+    ],
+    "wof:id":1209209009,
+    "wof:lastmodified":1536294353,
+    "wof:name":"San Miguel",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.21667,
+    12.15,
+    -86.21667,
+    12.15
+],
+  "geometry": {"coordinates":[-86.21666999999999,12.15],"type":"Point"}
+}

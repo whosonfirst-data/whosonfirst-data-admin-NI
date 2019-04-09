@@ -1,0 +1,121 @@
+{
+  "id": 421182655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.66741,12.37781,-85.66741,12.37781",
+    "geom:latitude":12.37781,
+    "geom:longitude":-85.66741,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c3\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:fra_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:fre_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c3\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30ed\u30ec\u30f3\u30bd"
+    ],
+    "name:spa_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:swe_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648\u060c \u0628\u0648\u0627\u06a9\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616708,
+    "qs:gn_pop":8694,
+    "qs:name":"San Lorenzo",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Boaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":329,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":699204,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153985,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":219,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616708,
+        "gp:id":153985,
+        "qs:id":699204,
+        "wd:id":"Q1647826",
+        "wk:page":"San Lorenzo, Boaco"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009337,
+    "wof:geomhash":"120632bce6102a9951bb76ef5c493ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693839,
+            "locality_id":421182655,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":421182655,
+    "wof:lastmodified":1553816372,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":1108693839,
+    "wof:placetype":"locality",
+    "wof:population":8694,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.66741,
+    12.37781,
+    -85.66741,
+    12.37781
+],
+  "geometry": {"coordinates":[-85.66741,12.37781],"type":"Point"}
+}

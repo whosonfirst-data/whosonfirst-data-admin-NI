@@ -1,0 +1,67 @@
+{
+  "id": 1309724907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.35206,11.74556,-86.35206,11.74556",
+    "geom:latitude":11.74556,
+    "geom:longitude":-86.35206,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Lucia",
+    "gn:country_code":"NI",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616463,
+    "gn:latitude":11.74556,
+    "gn:longitude":-86.35206,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Santa Luc\u00eda",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616463
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"265f143ee5840aa1203b8d7a42bfc248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1309724907,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1309724907,
+    "wof:lastmodified":1537045738,
+    "wof:name":"Santa Lucia",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.35206,
+    11.74556,
+    -86.35206,
+    11.74556
+],
+  "geometry": {"coordinates":[-86.35205999999999,11.74556],"type":"Point"}
+}

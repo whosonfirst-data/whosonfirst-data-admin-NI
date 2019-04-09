@@ -1,0 +1,67 @@
+{
+  "id": 1360198513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.64794,12.61855,-85.64794,12.61855",
+    "geom:latitude":12.61855,
+    "geom:longitude":-85.64794,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"El Bejuco",
+    "gn:country_code":"NI",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620060,
+    "gn:latitude":12.61855,
+    "gn:longitude":-85.64794,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Bejuco",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620060
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0bf97cd72bf991d9763d374b6655304c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693841,
+            "locality_id":1360198513,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":1360198513,
+    "wof:lastmodified":1536782449,
+    "wof:name":"El Bejuco",
+    "wof:parent_id":1108693841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.64794,
+    12.61855,
+    -85.64794,
+    12.61855
+],
+  "geometry": {"coordinates":[-85.64794000000001,12.61855],"type":"Point"}
+}

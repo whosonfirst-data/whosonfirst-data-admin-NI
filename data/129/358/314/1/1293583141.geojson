@@ -1,0 +1,74 @@
+{
+  "id": 1293583141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.29942,12.50497,-86.29942,12.50497",
+    "geom:latitude":12.50497,
+    "geom:longitude":-86.29942,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"San Francisco Libre",
+    "gn:country_code":"NI",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616848,
+    "gn:latitude":12.50497,
+    "gn:longitude":-86.29942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Francisco Libre",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Francisco del Carnerico",
+        "San Francisco del Carnicero",
+        "San Francisco",
+        "San Francisco Libre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616848,
+        "wk:page":"San_Francisco_Libre"
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5a5e4a25cbbdbcbced4e0fc2fa35bff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693775,
+            "locality_id":1293583141,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1293583141,
+    "wof:lastmodified":1537675537,
+    "wof:name":"San Francisco Libre",
+    "wof:parent_id":1108693775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.29942,
+    12.50497,
+    -86.29942,
+    12.50497
+],
+  "geometry": {"coordinates":[-86.29942,12.50497],"type":"Point"}
+}

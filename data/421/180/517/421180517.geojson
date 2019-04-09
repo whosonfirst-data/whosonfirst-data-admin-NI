@@ -1,0 +1,118 @@
+{
+  "id": 421180517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71099,12.53268,-85.71099,12.53268",
+    "geom:latitude":12.53268,
+    "geom:longitude":-85.71099,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039b\u03bf\u03c5\u03c3\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:fra_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039b\u03bf\u03c5\u03c3\u03af\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0644\u0648\u0633\u06cc\u0627\u060c \u0628\u0648\u0627\u06a9\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3616459,
+    "qs:gn_pop":1869,
+    "qs:name":"Santa Luc\u00eda",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Boaco",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":222,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1204490,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":154188,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":214,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675521,
+        1108693837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616459,
+        "gp:id":154188,
+        "qs:id":1204490,
+        "wd:id":"Q1647681",
+        "wk:page":"Santa Luc\u00eda, Boaco"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009262,
+    "wof:geomhash":"07a9eaedfbbf7b422d0c9e4cc19e5846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693837,
+            "locality_id":421180517,
+            "region_id":85675521
+        }
+    ],
+    "wof:id":421180517,
+    "wof:lastmodified":1527716237,
+    "wof:name":"Santa Luc\u00eda",
+    "wof:parent_id":1108693837,
+    "wof:placetype":"locality",
+    "wof:population":1869,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71099,
+    12.53268,
+    -85.71099,
+    12.53268
+],
+  "geometry": {"coordinates":[-85.71099,12.53268],"type":"Point"}
+}

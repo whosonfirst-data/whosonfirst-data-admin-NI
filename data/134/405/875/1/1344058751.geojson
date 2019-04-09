@@ -1,0 +1,71 @@
+{
+  "id": 1344058751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.06023,12.57238,-87.06023,12.57238",
+    "geom:latitude":12.57238,
+    "geom:longitude":-87.06023,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"La Concepcion",
+    "gn:country_code":"NI",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618645,
+    "gn:latitude":12.57238,
+    "gn:longitude":-87.06023,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Concepci\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palestina",
+        "La Concepci\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503,
+        421189527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618645
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b61ea75ac6a33c7d42dfa0a446d7d9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421189527,
+            "locality_id":1344058751,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1344058751,
+    "wof:lastmodified":1537675556,
+    "wof:name":"La Concepcion",
+    "wof:parent_id":421189527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.06023,
+    12.57238,
+    -87.06023,
+    12.57238
+],
+  "geometry": {"coordinates":[-87.06023,12.57238],"type":"Point"}
+}

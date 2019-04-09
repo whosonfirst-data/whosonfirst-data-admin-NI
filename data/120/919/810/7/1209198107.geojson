@@ -1,0 +1,61 @@
+{
+  "id": 1209198107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96045,12.39556,-85.96045,12.39556",
+    "geom:latitude":12.39556,
+    "geom:longitude":-85.96045,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Los Menas",
+    "gn:country_code":"NI",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617887,
+    "gn:latitude":12.39556,
+    "gn:longitude":-85.96045,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Los Menas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617887
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"2343a9e62cb4df3ab169fb999f256552",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209198107
+        }
+    ],
+    "wof:id":1209198107,
+    "wof:lastmodified":1536294704,
+    "wof:name":"Los Menas",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96045,
+    12.39556,
+    -85.96045,
+    12.39556
+],
+  "geometry": {"coordinates":[-85.96044999999999,12.39556],"type":"Point"}
+}

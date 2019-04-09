@@ -1,0 +1,70 @@
+{
+  "id": 1310398039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.94107,11.9267,-85.94107,11.9267",
+    "geom:latitude":11.9267,
+    "geom:longitude":-85.94107,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Terazza Cocibolca",
+    "gn:country_code":"NI",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016284,
+    "gn:latitude":11.9267,
+    "gn:longitude":-85.94107,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Terazza Cocibolca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Terazza Cocibolca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016284
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"567b3ee355b2f751caf8ef248eda7689",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1310398039,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1310398039,
+    "wof:lastmodified":1537675582,
+    "wof:name":"Terazza Cocibolca",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.94107,
+    11.9267,
+    -85.94107,
+    11.9267
+],
+  "geometry": {"coordinates":[-85.94107,11.9267],"type":"Point"}
+}

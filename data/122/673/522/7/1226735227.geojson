@@ -1,0 +1,67 @@
+{
+  "id": 1226735227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.39497,13.00433,-86.39497,13.00433",
+    "geom:latitude":13.00433,
+    "geom:longitude":-86.39497,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Potrero Grande",
+    "gn:country_code":"NI",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617181,
+    "gn:latitude":13.00433,
+    "gn:longitude":-86.39497,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Potrero Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505,
+        1108693753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617181
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"290c74b9458ac0105eab95e9c0dc872b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693753,
+            "locality_id":1226735227,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":1226735227,
+    "wof:lastmodified":1536731065,
+    "wof:name":"Potrero Grande",
+    "wof:parent_id":1108693753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.39497,
+    13.00433,
+    -86.39497,
+    13.00433
+],
+  "geometry": {"coordinates":[-86.39497,13.00433],"type":"Point"}
+}

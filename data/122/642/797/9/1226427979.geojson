@@ -1,0 +1,72 @@
+{
+  "id": 1226427979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.82321,12.5025,-86.82321,12.5025",
+    "geom:latitude":12.5025,
+    "geom:longitude":-86.82321,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Comarca El Tololar",
+    "gn:country_code":"NI",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620309,
+    "gn:latitude":12.5025,
+    "gn:longitude":-86.82321,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Comarca El Tololar",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tololar",
+        "Comarca del Tololar",
+        "Comarca El Tololar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        1108693769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620309
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"5ec09b197c1a81302aac9f0ed4e1f36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693769,
+            "locality_id":1226427979,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1226427979,
+    "wof:lastmodified":1537675573,
+    "wof:name":"Comarca El Tololar",
+    "wof:parent_id":1108693769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.82321,
+    12.5025,
+    -86.82321,
+    12.5025
+],
+  "geometry": {"coordinates":[-86.82321,12.5025],"type":"Point"}
+}

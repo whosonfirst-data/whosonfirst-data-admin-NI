@@ -1,0 +1,71 @@
+{
+  "id": 1276968443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.55407,12.11101,-86.55407,12.11101",
+    "geom:latitude":12.11101,
+    "geom:longitude":-86.55407,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"La Calle de Los Besos",
+    "gn:country_code":"NI",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618694,
+    "gn:latitude":12.11101,
+    "gn:longitude":-86.55407,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Calle de Los Besos",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Calle de Los Besos",
+        "La Calle de Los Besos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675489,
+        421175425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618694
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7acb54b2cb9914a622ff819987c31f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421175425,
+            "locality_id":1276968443,
+            "region_id":85675489
+        }
+    ],
+    "wof:id":1276968443,
+    "wof:lastmodified":1537675556,
+    "wof:name":"La Calle de Los Besos",
+    "wof:parent_id":421175425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.55407,
+    12.11101,
+    -86.55407,
+    12.11101
+],
+  "geometry": {"coordinates":[-86.55407,12.11101],"type":"Point"}
+}

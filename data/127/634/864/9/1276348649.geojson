@@ -1,0 +1,70 @@
+{
+  "id": 1276348649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.32221,11.73609,-86.32221,11.73609",
+    "geom:latitude":11.73609,
+    "geom:longitude":-86.32221,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Rosalia",
+    "gn:country_code":"NI",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8017039,
+    "gn:latitude":11.73609,
+    "gn:longitude":-86.32221,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Santa Rosalia",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosalia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8017039
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"7e0c3d1fe7bccb942a7cd11124d33f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693793,
+            "locality_id":1276348649,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1276348649,
+    "wof:lastmodified":1537675585,
+    "wof:name":"Santa Rosalia",
+    "wof:parent_id":1108693793,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.32221,
+    11.73609,
+    -86.32221,
+    11.73609
+],
+  "geometry": {"coordinates":[-86.32221,11.73609],"type":"Point"}
+}

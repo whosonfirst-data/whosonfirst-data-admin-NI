@@ -1,0 +1,71 @@
+{
+  "id": 1209920345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.00335,12.28836,-85.00335,12.28836",
+    "geom:latitude":12.28836,
+    "geom:longitude":-85.00335,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fruta de Pan",
+    "gn:country_code":"NI",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619159,
+    "gn:latitude":12.28836,
+    "gn:longitude":-85.00335,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Fruta de Pan",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Fruita de Pan",
+        "Fruta de Pan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675525,
+        1108693851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619159
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"bdfb3cfb0c038ea3fc78f834abe9a9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693851,
+            "locality_id":1209920345,
+            "region_id":85675525
+        }
+    ],
+    "wof:id":1209920345,
+    "wof:lastmodified":1537675561,
+    "wof:name":"Fruta de Pan",
+    "wof:parent_id":1108693851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.00335,
+    12.28836,
+    -85.00335,
+    12.28836
+],
+  "geometry": {"coordinates":[-85.00335,12.28836],"type":"Point"}
+}

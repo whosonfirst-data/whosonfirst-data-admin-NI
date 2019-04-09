@@ -1,0 +1,67 @@
+{
+  "id": 1226224897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.04977,11.41567,-86.04977,11.41567",
+    "geom:latitude":11.41567,
+    "geom:longitude":-86.04977,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Iguana",
+    "gn:country_code":"NI",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8658906,
+    "gn:latitude":11.41567,
+    "gn:longitude":-86.04977,
+    "gn:modification_date":"2013-12-30",
+    "gn:name":"Iguana",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421190545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8658906
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"49588fb2151bcb602dabf8a7b08085ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421190545,
+            "locality_id":1226224897,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1226224897,
+    "wof:lastmodified":1536963560,
+    "wof:name":"Iguana",
+    "wof:parent_id":421190545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.04977,
+    11.41567,
+    -86.04977,
+    11.41567
+],
+  "geometry": {"coordinates":[-86.04977,11.41567],"type":"Point"}
+}

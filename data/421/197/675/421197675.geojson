@@ -1,0 +1,102 @@
+{
+  "id": 421197675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.67123,12.34294,-83.67123,12.34294",
+    "geom:latitude":12.34294,
+    "geom:longitude":-83.67123,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Laguna de Perlas"
+    ],
+    "name:eng_x_preferred":[
+        "Pearl Lagoon"
+    ],
+    "name:fre_x_preferred":[
+        "Laguna de Perlas"
+    ],
+    "name:ita_x_preferred":[
+        "Laguna de Perlas"
+    ],
+    "name:spa_x_preferred":[
+        "Laguna de Perlas"
+    ],
+    "name:swe_x_preferred":[
+        "Laguna de Perlas"
+    ],
+    "name:unk_x_variant":[
+        "English Bank"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u0644 \u0644\u0627\u06af\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Laguna de Perlas"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3618522,
+    "qs:gn_pop":6809,
+    "qs:name":"Laguna de Perlas",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Regi\u00f3n Aut\u00f3noma del Atl\u00e1ntico Sur",
+    "qs:photos":65,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":65,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":149477,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":153232,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618522,
+        "gp:id":153232,
+        "qs:id":149477,
+        "wd:id":"Q2215086",
+        "wk:page":"Pearl Lagoon"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009921,
+    "wof:geomhash":"6ede5233955263a66784c06bc4154dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":421197675
+        }
+    ],
+    "wof:id":421197675,
+    "wof:lastmodified":1514491752,
+    "wof:name":"Laguna de Perlas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":6809,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.67123,
+    12.34294,
+    -83.67123,
+    12.34294
+],
+  "geometry": {"coordinates":[-83.67122999999999,12.34294],"type":"Point"}
+}

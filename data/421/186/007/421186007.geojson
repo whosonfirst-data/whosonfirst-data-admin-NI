@@ -1,0 +1,75 @@
+{
+  "id": 421186007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-20",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.678009,13.217887,-86.678009,13.217887",
+    "geom:latitude":13.217887,
+    "geom:longitude":-86.678009,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"San Jos\u00e9 de Cusmapa",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Madriz",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":907428,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":26813360,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":26813360,
+        "qs:id":907428,
+        "wd:id":"Q2215949"
+    },
+    "wof:country":"NI",
+    "wof:created":1459009461,
+    "wof:geomhash":"14e0235d2c424e926f8ae68eae69eb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421186007,
+            "region_id":85675505
+        }
+    ],
+    "wof:id":421186007,
+    "wof:lastmodified":1527716313,
+    "wof:name":"San Jos\u00e9 de Cusmapa",
+    "wof:parent_id":85675505,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.678009,
+    13.217887,
+    -86.678009,
+    13.217887
+],
+  "geometry": {"coordinates":[-86.678009,13.217887],"type":"Point"}
+}

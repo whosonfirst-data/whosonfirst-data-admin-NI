@@ -1,0 +1,119 @@
+{
+  "id": 1108693739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.010194,
+    "geom:area_square_m":122711950.930751,
+    "geom:bbox":"-86.8312585042,13.1464992731,-86.7025176376,13.280597325",
+    "geom:latitude":13.211166,
+    "geom:longitude":-86.773238,
+    "iso:country":"NI",
+    "lbl:latitude":13.213207,
+    "lbl:longitude":-86.772024,
+    "meso:admin_1":"CHINANDEGA",
+    "meso:gadm_admin":"San Francisco del Norte",
+    "meso:gadm_hasc2":"NI.CI.SF",
+    "meso:gaul_admin":"San Fco. Del Norte",
+    "meso:local_id":"1445",
+    "meso:mps_x":-86.772024,
+    "meso:mps_y":13.213207,
+    "meso:name_local":"SAN FRANCISCO DEL N",
+    "meso:source":"ISCGM",
+    "mps:latitude":13.213207,
+    "mps:longitude":-86.772024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u5317\u8056\u5f17\u862d\u897f\u65af\u79d1"
+    ],
+    "name:dut_x_preferred":[
+        "San Francisco del Norte"
+    ],
+    "name:eng_x_preferred":[
+        "San Fco. Del Norte"
+    ],
+    "name:eng_x_variant":[
+        "San Fco. Del Norte",
+        "San Francisco del Norte",
+        "SAN FRANCISCO DEL N"
+    ],
+    "name:fre_x_preferred":[
+        "San Francisco del Norte"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco del Norte"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco del Norte"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648 \u0634\u0645\u0627\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "San Francisco del Norte"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"120.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"San Francisco Del Norte",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.CI",
+    "statoids:name":"San Francisco del Norte",
+    "statoids:population":"6758",
+    "statoids:statoid":"NI.CI.SF",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.CI.SF",
+        "wd:id":"Q2214920"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415073,
+    "wof:geomhash":"5e27f8ce4aec1e1e679b090edba05099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693739,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1108693739,
+    "wof:lastmodified":1544032791,
+    "wof:name":"San Fco. Del Norte",
+    "wof:parent_id":85675503,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":6758,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"SF",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.83125850420707,
+    13.1464992731414,
+    -86.70251763756667,
+    13.28059732496901
+],
+  "geometry": {"coordinates":[[[-86.81600342983232,13.25026328607986],[-86.80689782740573,13.25675811045818],[-86.79087690383041,13.26222183073519],[-86.78152532700705,13.28059732496901],[-86.7755301858723,13.28040900099689],[-86.77442717352008,13.27955690501819],[-86.77088121616008,13.27742763186853],[-86.75812950619265,13.26654568229078],[-86.73847868715141,13.24760946892681],[-86.70251763756667,13.22758629445781],[-86.71964871796527,13.20358547288601],[-86.72409174139605,13.19244656879102],[-86.72044039700134,13.18658760039493],[-86.72093450252426,13.1862479151402],[-86.73063890671541,13.19032063745077],[-86.73876370812502,13.17763111358426],[-86.74770676185223,13.16648951204742],[-86.7485813983896,13.15317072858344],[-86.7494047780587,13.1464992731414],[-86.7753534928945,13.15700357377344],[-86.81480933362532,13.15629016977879],[-86.8146355347093,13.16002236254818],[-86.81567139904121,13.16300150192314],[-86.81896647566283,13.17247592679155],[-86.82628016766138,13.18642120988765],[-86.83125850420707,13.20553369227299],[-86.82033052689381,13.21702383082986],[-86.8213879076656,13.22810279034178],[-86.81613165779351,13.24314692948925],[-86.81600342983232,13.25026328607986]]],"type":"Polygon"}
+}

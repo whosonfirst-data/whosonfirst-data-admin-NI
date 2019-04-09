@@ -1,0 +1,61 @@
+{
+  "id": 1209579103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.67788,13.97601,-84.67788,13.97601",
+    "geom:latitude":13.97601,
+    "geom:longitude":-84.67788,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"El Bosque",
+    "gn:country_code":"NI",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620041,
+    "gn:latitude":13.97601,
+    "gn:longitude":-84.67788,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"El Bosque",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620041
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a6b65b4f01c440a0302c9a7682cbdace",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209579103
+        }
+    ],
+    "wof:id":1209579103,
+    "wof:lastmodified":1536282845,
+    "wof:name":"El Bosque",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.67788,
+    13.97601,
+    -84.67788,
+    13.97601
+],
+  "geometry": {"coordinates":[-84.67788,13.97601],"type":"Point"}
+}

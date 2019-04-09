@@ -1,0 +1,61 @@
+{
+  "id": 1209419885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36932,13.17788,-86.36932,13.17788",
+    "geom:latitude":13.17788,
+    "geom:longitude":-86.36932,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"La Sirena",
+    "gn:country_code":"NI",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618240,
+    "gn:latitude":13.17788,
+    "gn:longitude":-86.36932,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"La Sirena",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618240
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"912ae035f368721e2009fcf6e6f09bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209419885
+        }
+    ],
+    "wof:id":1209419885,
+    "wof:lastmodified":1536287566,
+    "wof:name":"La Sirena",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36932,
+    13.177879999999998,
+    -86.36932,
+    13.177879999999998
+],
+  "geometry": {"coordinates":[-86.36932,13.17788],"type":"Point"}
+}

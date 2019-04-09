@@ -1,0 +1,72 @@
+{
+  "id": 1293092753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.90667,13.10717,-85.90667,13.10717",
+    "geom:latitude":13.10717,
+    "geom:longitude":-85.90667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Las Camelias",
+    "gn:country_code":"NI",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618311,
+    "gn:latitude":13.10717,
+    "gn:longitude":-85.90667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Camelias",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camelia",
+        "La Camelia",
+        "Las Camelias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675481,
+        1108693695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618311
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"0b8fcacfc5265919a44981544be73962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693695,
+            "locality_id":1293092753,
+            "region_id":85675481
+        }
+    ],
+    "wof:id":1293092753,
+    "wof:lastmodified":1537675552,
+    "wof:name":"Las Camelias",
+    "wof:parent_id":1108693695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.90666999999998,
+    13.10717,
+    -85.90666999999998,
+    13.10717
+],
+  "geometry": {"coordinates":[-85.90666999999998,13.10717],"type":"Point"}
+}

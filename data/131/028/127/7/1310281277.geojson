@@ -1,0 +1,71 @@
+{
+  "id": 1310281277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.82018,14.78969,-83.82018,14.78969",
+    "geom:latitude":14.78969,
+    "geom:longitude":-83.82018,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bachilaya",
+    "gn:country_code":"NI",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620792,
+    "gn:latitude":14.78969,
+    "gn:longitude":-83.82018,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bachilaya",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batsilaya",
+        "Bachilaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620792
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"b8dbfc2173654904685a641f1b724776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1310281277,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1310281277,
+    "wof:lastmodified":1537675578,
+    "wof:name":"Bachilaya",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.82018000000002,
+    14.78969,
+    -83.82018000000002,
+    14.78969
+],
+  "geometry": {"coordinates":[-83.82018000000002,14.78969],"type":"Point"}
+}

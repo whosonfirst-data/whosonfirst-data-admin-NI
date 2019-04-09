@@ -1,0 +1,65 @@
+{
+  "id": 1209588755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.70602,11.50672,-85.70602,11.50672",
+    "geom:latitude":11.50672,
+    "geom:longitude":-85.70602,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Esquipulas",
+    "gn:country_code":"NI",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3619207,
+    "gn:latitude":11.50672,
+    "gn:longitude":-85.70602,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Esquipulas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esquipula",
+        "Esquipulas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619207
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"cf59088f9e9202ec17419b4aba972e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209588755
+        }
+    ],
+    "wof:id":1209588755,
+    "wof:lastmodified":1537675561,
+    "wof:name":"Esquipulas",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.70602,
+    11.50672,
+    -85.70602,
+    11.50672
+],
+  "geometry": {"coordinates":[-85.70602,11.50672],"type":"Point"}
+}

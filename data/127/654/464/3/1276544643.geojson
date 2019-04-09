@@ -1,0 +1,70 @@
+{
+  "id": 1276544643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.96299,11.75853,-85.96299,11.75853",
+    "geom:latitude":11.75853,
+    "geom:longitude":-85.96299,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Laguna El Cacho",
+    "gn:country_code":"NI",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016393,
+    "gn:latitude":11.75853,
+    "gn:longitude":-85.96299,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Laguna El Cacho",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Laguna El Cacho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421171791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016393
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"398063c100b09cc8c8089e705cbd5e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171791,
+            "locality_id":1276544643,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1276544643,
+    "wof:lastmodified":1537675584,
+    "wof:name":"Laguna El Cacho",
+    "wof:parent_id":421171791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.96299,
+    11.75853,
+    -85.96299,
+    11.75853
+],
+  "geometry": {"coordinates":[-85.96299,11.75853],"type":"Point"}
+}

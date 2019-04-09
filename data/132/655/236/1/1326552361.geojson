@@ -1,0 +1,70 @@
+{
+  "id": 1326552361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.91958,11.7989,-85.91958,11.7989",
+    "geom:latitude":11.7989,
+    "geom:longitude":-85.91958,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Guacual",
+    "gn:country_code":"NI",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8016358,
+    "gn:latitude":11.7989,
+    "gn:longitude":-85.91958,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"El Guacual",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "El Guacual"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675477,
+        421197135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8016358
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"792065f76dbeb56951871ba536803374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421197135,
+            "locality_id":1326552361,
+            "region_id":85675477
+        }
+    ],
+    "wof:id":1326552361,
+    "wof:lastmodified":1537675583,
+    "wof:name":"El Guacual",
+    "wof:parent_id":421197135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.91958000000002,
+    11.7989,
+    -85.91958000000002,
+    11.7989
+],
+  "geometry": {"coordinates":[-85.91958000000002,11.7989],"type":"Point"}
+}

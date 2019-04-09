@@ -1,0 +1,68 @@
+{
+  "id": 1226428811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.74081,13.49318,-86.74081,13.49318",
+    "geom:latitude":13.49318,
+    "geom:longitude":-86.74081,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Oyoto",
+    "gn:country_code":"NI",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617407,
+    "gn:latitude":13.49318,
+    "gn:longitude":-86.74081,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Oyoto",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oyote",
+        "Oyate",
+        "Oyoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617407
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"6a1c2385fa8010d9e22c7145cec28918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1226428811,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226428811,
+    "wof:lastmodified":1537675542,
+    "wof:name":"Oyoto",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.74081,
+    13.49318,
+    -86.74081,
+    13.49318
+],
+  "geometry": {"coordinates":[-86.74081,13.49318],"type":"Point"}
+}

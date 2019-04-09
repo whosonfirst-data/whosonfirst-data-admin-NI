@@ -1,0 +1,74 @@
+{
+  "id": 1310477993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.83333,13.65,-84.83333,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-84.83333,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Amparo",
+    "gn:cc2":"NI",
+    "gn:country_code":"NI",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620903,
+    "gn:latitude":13.65,
+    "gn:longitude":-84.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Amparo",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huailahuas",
+        "Wailawas",
+        "Vailavas",
+        "Amparo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620903
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c109bc60b02e7dfc9d64bc8a105e6f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693679,
+            "locality_id":1310477993,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1310477993,
+    "wof:lastmodified":1537675579,
+    "wof:name":"Amparo",
+    "wof:parent_id":1108693679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.83333,
+    13.65,
+    -84.83333,
+    13.65
+],
+  "geometry": {"coordinates":[-84.83333,13.65],"type":"Point"}
+}

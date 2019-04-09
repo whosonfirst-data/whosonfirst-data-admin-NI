@@ -1,0 +1,65 @@
+{
+  "id": 1209390689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.60627,12.89797,-83.60627,12.89797",
+    "geom:latitude":12.89797,
+    "geom:longitude":-83.60627,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Linsikita",
+    "gn:country_code":"NI",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618001,
+    "gn:latitude":12.89797,
+    "gn:longitude":-83.60627,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Linsikita",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pueblo Nuevo",
+        "Linsikita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618001
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"a5a277d6101026a3e6ed60b0a1e801aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632599,
+            "locality_id":1209390689
+        }
+    ],
+    "wof:id":1209390689,
+    "wof:lastmodified":1537675548,
+    "wof:name":"Linsikita",
+    "wof:parent_id":85632599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.60627,
+    12.89797,
+    -83.60627,
+    12.89797
+],
+  "geometry": {"coordinates":[-83.60626999999999,12.89797],"type":"Point"}
+}

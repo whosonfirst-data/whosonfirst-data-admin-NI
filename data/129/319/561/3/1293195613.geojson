@@ -1,0 +1,71 @@
+{
+  "id": 1293195613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.47367,11.91823,-86.47367,11.91823",
+    "geom:latitude":11.91823,
+    "geom:longitude":-86.47367,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Citalapa",
+    "gn:country_code":"NI",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620355,
+    "gn:latitude":11.91823,
+    "gn:longitude":-86.47367,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Citalapa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sitalapa",
+        "Citalapa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        1108693779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620355
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"ccff362e51267eb6b059ddf745bfc5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693779,
+            "locality_id":1293195613,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":1293195613,
+    "wof:lastmodified":1537675574,
+    "wof:name":"Citalapa",
+    "wof:parent_id":1108693779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.47367,
+    11.91823,
+    -86.47367,
+    11.91823
+],
+  "geometry": {"coordinates":[-86.47367,11.91823],"type":"Point"}
+}

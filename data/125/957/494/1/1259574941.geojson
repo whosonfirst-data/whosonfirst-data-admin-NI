@@ -1,0 +1,67 @@
+{
+  "id": 1259574941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.02802,14.59433,-85.02802,14.59433",
+    "geom:latitude":14.59433,
+    "geom:longitude":-85.02802,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Raiti",
+    "gn:country_code":"NI",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3617098,
+    "gn:latitude":14.59433,
+    "gn:longitude":-85.02802,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Rait\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3617098
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"c7ac93385ed87f46612d0260fef12235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1259574941,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1259574941,
+    "wof:lastmodified":1536727576,
+    "wof:name":"Raiti",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.02802,
+    14.59433,
+    -85.02802,
+    14.59433
+],
+  "geometry": {"coordinates":[-85.02802,14.59433],"type":"Point"}
+}

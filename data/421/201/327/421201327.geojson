@@ -1,0 +1,129 @@
+{
+  "id": 421201327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.30954,11.99008,-86.30954,11.99008",
+    "geom:latitude":11.99008,
+    "geom:longitude":-86.30954,
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u514b\u9b6f\u585e\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "El Crucero"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039a\u03c1\u03bf\u03c5\u03c3\u03ad\u03c1\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "El Crucero"
+    ],
+    "name:fra_x_preferred":[
+        "El Crucero"
+    ],
+    "name:fre_x_preferred":[
+        "El Crucero"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u039a\u03c1\u03bf\u03c5\u03c3\u03ad\u03c1\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "El Crucero"
+    ],
+    "name:nld_x_preferred":[
+        "El Crucero"
+    ],
+    "name:pol_x_preferred":[
+        "El Crucero"
+    ],
+    "name:spa_x_preferred":[
+        "El Crucero"
+    ],
+    "name:swe_x_preferred":[
+        "El Crucero"
+    ],
+    "name:unk_x_variant":[
+        "Crucero"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u06a9\u0631\u0648\u0633\u06cc\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Crucero"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u514b\u9b6f\u585e\u7f85"
+    ],
+    "qs:gn_country":"NI",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3619853,
+    "qs:gn_pop":16469,
+    "qs:name":"El Crucero",
+    "qs:name_adm0":"Nicaragua",
+    "qs:name_adm1":"Managua",
+    "qs:photos":126,
+    "qs:photos_1k":26,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":126,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":211116,
+    "qs:woe_adm0":23424915,
+    "qs:woe_id":152496,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675495,
+        421180305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3619853,
+        "gp:id":152496,
+        "qs:id":211116,
+        "wd:id":"Q2605353",
+        "wk:page":"El Crucero"
+    },
+    "wof:country":"NI",
+    "wof:created":1459010069,
+    "wof:geomhash":"aed026c33f306437efb3acbe3ab62c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421180305,
+            "locality_id":421201327,
+            "region_id":85675495
+        }
+    ],
+    "wof:id":421201327,
+    "wof:lastmodified":1514491740,
+    "wof:name":"El Crucero",
+    "wof:parent_id":421180305,
+    "wof:placetype":"locality",
+    "wof:population":16469,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.30954,
+    11.99008,
+    -86.30954,
+    11.99008
+],
+  "geometry": {"coordinates":[-86.30954,11.99008],"type":"Point"}
+}

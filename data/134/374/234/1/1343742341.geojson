@@ -1,0 +1,67 @@
+{
+  "id": 1343742341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.79188,12.80054,-85.79188,12.80054",
+    "geom:latitude":12.80054,
+    "geom:longitude":-85.79188,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Las Animas",
+    "gn:country_code":"NI",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618332,
+    "gn:latitude":12.80054,
+    "gn:longitude":-85.79188,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Las \u00c1nimas",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618332
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"8491290066da577b8ce2b7274fbfc600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1343742341,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1343742341,
+    "wof:lastmodified":1536835993,
+    "wof:name":"Las Animas",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.79188,
+    12.80054,
+    -85.79188,
+    12.80054
+],
+  "geometry": {"coordinates":[-85.79188000000001,12.80054],"type":"Point"}
+}

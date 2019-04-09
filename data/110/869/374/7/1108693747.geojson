@@ -1,0 +1,123 @@
+{
+  "id": 1108693747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.008129,
+    "geom:area_square_m":98112241.648876,
+    "geom:bbox":"-87.2492882257,12.4988637226,-87.1207903307,12.6126064255",
+    "geom:latitude":12.554979,
+    "geom:longitude":-87.184076,
+    "iso:country":"NI",
+    "lbl:latitude":12.553928,
+    "lbl:longitude":-87.185079,
+    "meso:admin_1":"CHINANDEGA",
+    "meso:gadm_admin":"El Realejo",
+    "meso:gadm_hasc2":"NI.CI.ER",
+    "meso:gaul_admin":"El Realejo",
+    "meso:local_id":"1453",
+    "meso:mps_x":-87.185079,
+    "meso:mps_y":12.553928,
+    "meso:name_local":"EL REALEJO",
+    "meso:source":"ISCGM",
+    "mps:latitude":12.553928,
+    "mps:longitude":-87.185079,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u96f7\u963f\u840a\u970d"
+    ],
+    "name:dut_x_preferred":[
+        "El Realejo"
+    ],
+    "name:eng_x_preferred":[
+        "El Realejo"
+    ],
+    "name:eng_x_variant":[
+        "El Realejo"
+    ],
+    "name:fre_x_preferred":[
+        "El Realejo"
+    ],
+    "name:ger_x_preferred":[
+        "El Realejo"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u03a1\u03b5\u03b1\u03bb\u03ad\u03c7\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "El Realejo"
+    ],
+    "name:pol_x_preferred":[
+        "El Realejo"
+    ],
+    "name:spa_x_preferred":[
+        "El Realejo"
+    ],
+    "name:swe_x_preferred":[
+        "El Realejo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0631\u06cc\u0627\u0644\u06cc\u062e\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Realejo"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2005-05-08",
+    "statoids:area_km":"105.0",
+    "statoids:as_of_date":"2005-05-08",
+    "statoids:capital":"El Realejo",
+    "statoids:country":"NI",
+    "statoids:hasc":"NI.CI",
+    "statoids:name":"El Realejo",
+    "statoids:population":"8838",
+    "statoids:statoid":"NI.CI.ER",
+    "statoids:timezone":"-6",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"NI.CI.ER",
+        "wd:id":"Q368227"
+    },
+    "wof:country":"NI",
+    "wof:created":1474415083,
+    "wof:geomhash":"c2aa0689a1018d9f12e41b7320baeb5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693747,
+            "region_id":85675503
+        }
+    ],
+    "wof:id":1108693747,
+    "wof:lastmodified":1543954416,
+    "wof:name":"El Realejo",
+    "wof:parent_id":85675503,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":8838,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"ER",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.24928822567786,
+    12.49886372264368,
+    -87.12079033071983,
+    12.61260642548573
+],
+  "geometry": {"coordinates":[[[-87.20421508855074,12.60897262875666],[-87.19668794096008,12.60083736892612],[-87.1845741938961,12.58934110997329],[-87.16113798829126,12.58172963386281],[-87.12530830999754,12.55578862773021],[-87.12079033071983,12.52900303953468],[-87.12079581464293,12.52842541413564],[-87.13522356740376,12.509666707152],[-87.13732344316028,12.50906089173659],[-87.14439350951248,12.50564345010793],[-87.15604790107167,12.49886372264368],[-87.15634686254383,12.50100674682993],[-87.15877560477421,12.50457958178196],[-87.15961820850242,12.50862696628776],[-87.16265775331478,12.51184333118369],[-87.16547136851943,12.50839170532021],[-87.16779711593652,12.5049392240952],[-87.17206190655502,12.50589283222665],[-87.17583550288394,12.50815566986166],[-87.1799784241622,12.50910923091335],[-87.18387527215104,12.51101580295988],[-87.18691554464145,12.51399224914326],[-87.19020008251272,12.51696961720726],[-87.19385047201341,12.51982799076042],[-87.19731682385893,12.52226481852794],[-87.20127703515546,12.52423438667003],[-87.20541924063514,12.52566456821736],[-87.2097526352746,12.52657230366975],[-87.22112207581486,12.54346225019559],[-87.23767165124583,12.54680305003419],[-87.23942677091665,12.55221595858697],[-87.23746425775107,12.56343661023818],[-87.24422652744134,12.56844597638109],[-87.24928822567786,12.57492735956217],[-87.23975680778969,12.58675290970698],[-87.23885570955959,12.5963799088988],[-87.23278655206991,12.60485960825251],[-87.20757839836489,12.61260642548573],[-87.20421508855074,12.60897262875666]]],"type":"Polygon"}
+}

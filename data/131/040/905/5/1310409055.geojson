@@ -1,0 +1,67 @@
+{
+  "id": 1310409055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.13333,11.76667,-86.13333,11.76667",
+    "geom:latitude":11.76667,
+    "geom:longitude":-86.13333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Comalcalpa",
+    "gn:country_code":"NI",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3620316,
+    "gn:latitude":11.76667,
+    "gn:longitude":-86.13333,
+    "gn:modification_date":"1993-12-27",
+    "gn:name":"Comalcalpa",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675471,
+        1108693803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3620316
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"9fb95eb8fa4fd556d45434785245f33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693803,
+            "locality_id":1310409055,
+            "region_id":85675471
+        }
+    ],
+    "wof:id":1310409055,
+    "wof:lastmodified":1537053800,
+    "wof:name":"Comalcalpa",
+    "wof:parent_id":1108693803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.13333,
+    11.76667,
+    -86.13333,
+    11.76667
+],
+  "geometry": {"coordinates":[-86.13333,11.76667],"type":"Point"}
+}

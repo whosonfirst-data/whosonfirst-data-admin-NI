@@ -1,0 +1,71 @@
+{
+  "id": 1209889313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.87301,11.30119,-85.87301,11.30119",
+    "geom:latitude":11.30119,
+    "geom:longitude":-85.87301,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"La Cuesta",
+    "gn:country_code":"NI",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618613,
+    "gn:latitude":11.30119,
+    "gn:longitude":-85.87301,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Cuesta",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuesta",
+        "La Cuesta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675461,
+        421202297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618613
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"58d1c97fa14f85bafc86588eda13fe1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421202297,
+            "locality_id":1209889313,
+            "region_id":85675461
+        }
+    ],
+    "wof:id":1209889313,
+    "wof:lastmodified":1537675555,
+    "wof:name":"La Cuesta",
+    "wof:parent_id":421202297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.87301,
+    11.30119,
+    -85.87301,
+    11.30119
+],
+  "geometry": {"coordinates":[-85.87300999999999,11.30119],"type":"Point"}
+}

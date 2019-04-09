@@ -1,0 +1,71 @@
+{
+  "id": 1193124389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.7694,12.84043,-85.7694,12.84043",
+    "geom:latitude":12.84043,
+    "geom:longitude":-85.7694,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Laguna Seca",
+    "gn:country_code":"NI",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3618519,
+    "gn:latitude":12.84043,
+    "gn:longitude":-85.7694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Laguna Seca",
+    "gn:population":0,
+    "gn:timezone":"America/Managua",
+    "iso:country":"NI",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laguna",
+        "Laguna Seca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675513,
+        421171539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3618519
+    },
+    "wof:country":"NI",
+    "wof:geomhash":"038667659b51c50d9c033db69aec5275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":421171539,
+            "locality_id":1193124389,
+            "region_id":85675513
+        }
+    ],
+    "wof:id":1193124389,
+    "wof:lastmodified":1537675554,
+    "wof:name":"Laguna Seca",
+    "wof:parent_id":421171539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.7694,
+    12.84043,
+    -85.7694,
+    12.84043
+],
+  "geometry": {"coordinates":[-85.7694,12.84043],"type":"Point"}
+}
