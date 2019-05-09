@@ -10,6 +10,12 @@
     "geom:latitude":13.730584,
     "geom:longitude":-86.521635,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Dipilto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.734169,
     "lbl:longitude":-86.517006,
     "meso:admin_1":"NUEVA SEGOVIA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108693711,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1554489228,
     "wof:name":"Dipilto",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.925293,
     "geom:longitude":-86.06456,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Catarina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.922931,
     "lbl:longitude":-86.071196,
     "meso:admin_1":"MASAYA",
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":421203775,
-    "wof:lastmodified":1543954361,
+    "wof:lastmodified":1554489043,
     "wof:name":"Catarina",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

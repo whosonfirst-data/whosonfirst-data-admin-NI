@@ -10,6 +10,12 @@
     "geom:latitude":11.708095,
     "geom:longitude":-86.024722,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Nandaime Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.710445,
     "lbl:longitude":-86.022938,
     "meso:admin_1":"GRANADA",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421171791,
-    "wof:lastmodified":1543954355,
+    "wof:lastmodified":1554488765,
     "wof:name":"Nandaime",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

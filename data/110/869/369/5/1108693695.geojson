@@ -10,6 +10,12 @@
     "geom:latitude":13.171293,
     "geom:longitude":-85.929305,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Jinotega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.194635,
     "lbl:longitude":-85.845566,
     "meso:admin_1":"JINOTEGA",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108693695,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1554489230,
     "wof:name":"Jinotega",
     "wof:parent_id":85675481,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"JI",
     "wof:superseded_by":[],

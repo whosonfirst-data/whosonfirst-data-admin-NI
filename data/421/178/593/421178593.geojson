@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003484,
-    "geom:area_square_m":42068988.459209,
+    "geom:area_square_m":42068988.4592,
     "geom:bbox":"-87.2382742075,12.3971118085,-87.0670702554,12.54680305",
     "geom:latitude":12.473728,
     "geom:longitude":-87.140999,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Corinto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.491246,
     "lbl:longitude":-87.138386,
     "meso:admin_1":"CHINANDEGA",
@@ -158,7 +164,7 @@
         }
     ],
     "wof:id":421178593,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1555037132,
     "wof:name":"Corinto",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

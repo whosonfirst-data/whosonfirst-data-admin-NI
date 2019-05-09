@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034902,
-    "geom:area_square_m":420644660.543353,
+    "geom:area_square_m":420644660.543414,
     "geom:bbox":"-85.8751396317,12.819006333,-85.5943982942,13.0138520779",
     "geom:latitude":12.919161,
     "geom:longitude":-85.733381,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Ramon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.928851,
     "lbl:longitude":-85.736032,
     "meso:admin_1":"MATAGALPA",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108693831,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037572,
     "wof:name":"San Ramon",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

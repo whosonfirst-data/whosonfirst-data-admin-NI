@@ -10,6 +10,12 @@
     "geom:latitude":13.072151,
     "geom:longitude":-84.392252,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "La Cruz De Rio Grande Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.082452,
     "lbl:longitude":-84.468536,
     "meso:admin_1":"ATLANTICO SUR",
@@ -81,10 +87,11 @@
         }
     ],
     "wof:id":1108693869,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489231,
     "wof:name":"La Cruz De Rio Grande",
     "wof:parent_id":85675467,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"LC",
     "wof:superseded_by":[],

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002552,
-    "geom:area_square_m":30930570.682951,
+    "geom:area_square_m":30930570.682963,
     "geom:bbox":"-85.8197816188,11.3780323204,-85.7642169487,11.4684463194",
     "geom:latitude":11.423049,
     "geom:longitude":-85.793533,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Jorge Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.404752,
     "lbl:longitude":-85.789324,
     "meso:admin_1":"RIVAS",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":421202293,
-    "wof:lastmodified":1553816388,
+    "wof:lastmodified":1555037056,
     "wof:name":"San Jorge",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

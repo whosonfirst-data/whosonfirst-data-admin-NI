@@ -10,6 +10,12 @@
     "geom:latitude":12.818107,
     "geom:longitude":-87.209103,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Tonala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.829512,
     "lbl:longitude":-87.216506,
     "meso:admin_1":"CHINANDEGA",
@@ -102,7 +108,7 @@
         }
     ],
     "wof:id":1108693745,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489227,
     "wof:name":"Tonala",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

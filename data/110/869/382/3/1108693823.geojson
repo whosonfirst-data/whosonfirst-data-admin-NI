@@ -10,6 +10,12 @@
     "geom:latitude":12.873242,
     "geom:longitude":-86.210996,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Ciudad Dario Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.867316,
     "lbl:longitude":-86.220279,
     "meso:admin_1":"MATAGALPA",
@@ -111,10 +117,11 @@
         }
     ],
     "wof:id":1108693823,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489230,
     "wof:name":"Ciudad Dario",
     "wof:parent_id":85675513,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"CD",
     "wof:superseded_by":[],

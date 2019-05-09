@@ -10,6 +10,12 @@
     "geom:latitude":13.270617,
     "geom:longitude":-86.840983,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Del Norte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.274261,
     "lbl:longitude":-86.825196,
     "meso:admin_1":"CHINANDEGA",
@@ -56,10 +62,11 @@
         }
     ],
     "wof:id":1108693735,
-    "wof:lastmodified":1543954416,
+    "wof:lastmodified":1554489228,
     "wof:name":"San Pedro Del Norte",
     "wof:parent_id":85675503,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"SP",
     "wof:superseded_by":[],

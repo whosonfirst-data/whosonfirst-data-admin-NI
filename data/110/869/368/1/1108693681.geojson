@@ -10,6 +10,12 @@
     "geom:latitude":13.492512,
     "geom:longitude":-84.043016,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Prinzapolka Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.545971,
     "lbl:longitude":-84.002173,
     "meso:admin_1":"ATLANTICO NORTE",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108693681,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1554489228,
     "wof:name":"Prinzapolka",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

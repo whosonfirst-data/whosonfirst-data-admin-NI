@@ -10,6 +10,12 @@
     "geom:latitude":12.608024,
     "geom:longitude":-86.811157,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Telica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.601252,
     "lbl:longitude":-86.812864,
     "meso:admin_1":"LEON",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421179703,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1554488786,
     "wof:name":"Telica",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

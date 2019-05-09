@@ -10,6 +10,12 @@
     "geom:latitude":12.554979,
     "geom:longitude":-87.184076,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "El Realejo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.553928,
     "lbl:longitude":-87.185079,
     "meso:admin_1":"CHINANDEGA",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108693747,
-    "wof:lastmodified":1543954416,
+    "wof:lastmodified":1554489227,
     "wof:name":"El Realejo",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

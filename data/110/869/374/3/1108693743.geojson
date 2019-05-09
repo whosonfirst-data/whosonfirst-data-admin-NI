@@ -10,6 +10,12 @@
     "geom:latitude":12.906066,
     "geom:longitude":-86.793337,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Villanueva Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.905618,
     "lbl:longitude":-86.796068,
     "meso:admin_1":"CHINANDEGA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693743,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489227,
     "wof:name":"Villanueva",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

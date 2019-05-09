@@ -10,6 +10,12 @@
     "geom:latitude":11.856984,
     "geom:longitude":-86.068045,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Diria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.855356,
     "lbl:longitude":-86.073175,
     "meso:admin_1":"GRANADA",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108693805,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489229,
     "wof:name":"Diria",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

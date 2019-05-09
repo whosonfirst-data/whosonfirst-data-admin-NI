@@ -10,6 +10,12 @@
     "geom:latitude":12.358562,
     "geom:longitude":-84.956026,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Santo Domingo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.350292,
     "lbl:longitude":-84.953501,
     "meso:admin_1":"CHONTALES",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693851,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489230,
     "wof:name":"Santo Domingo",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

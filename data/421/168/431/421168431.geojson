@@ -10,6 +10,12 @@
     "geom:latitude":12.878691,
     "geom:longitude":-86.542381,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "El Sauce Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.86999,
     "lbl:longitude":-86.555516,
     "meso:admin_1":"LEON",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421168431,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1554488746,
     "wof:name":"El Sauce",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.107012,
     "geom:longitude":-85.395009,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Juigalpa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.115449,
     "lbl:longitude":-85.380737,
     "meso:admin_1":"CHONTALES",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693847,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489231,
     "wof:name":"Juigalpa",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

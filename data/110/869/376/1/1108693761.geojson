@@ -10,6 +10,12 @@
     "geom:latitude":13.05087,
     "geom:longitude":-86.602568,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Achuapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.062206,
     "lbl:longitude":-86.600003,
     "meso:admin_1":"LEON",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693761,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489227,
     "wof:name":"Achuapa",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

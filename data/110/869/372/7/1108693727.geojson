@@ -10,6 +10,12 @@
     "geom:latitude":13.475292,
     "geom:longitude":-86.49447,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Yalaguina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.472049,
     "lbl:longitude":-86.501425,
     "meso:admin_1":"MADRIZ",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108693727,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489227,
     "wof:name":"Yalaguina",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.851165,
     "geom:longitude":-86.458143,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Del Sur Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.844875,
     "lbl:longitude":-86.460063,
     "meso:admin_1":"MANAGUA",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1108693779,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489228,
     "wof:name":"San Rafael Del Sur",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

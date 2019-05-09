@@ -10,6 +10,12 @@
     "geom:latitude":12.600297,
     "geom:longitude":-86.950376,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Posoltega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.589765,
     "lbl:longitude":-86.96048,
     "meso:admin_1":"CHINANDEGA",
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1108693749,
-    "wof:lastmodified":1543954416,
+    "wof:lastmodified":1554489228,
     "wof:name":"Posoltega",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

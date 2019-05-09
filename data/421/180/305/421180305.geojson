@@ -10,6 +10,12 @@
     "geom:latitude":12.063527,
     "geom:longitude":-86.304173,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Managua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.083179,
     "lbl:longitude":-86.293021,
     "meso:admin_1":"MANAGUA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421180305,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1554488791,
     "wof:name":"Managua",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

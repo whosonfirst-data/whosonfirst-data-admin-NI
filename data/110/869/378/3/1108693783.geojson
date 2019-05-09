@@ -10,6 +10,12 @@
     "geom:latitude":12.046151,
     "geom:longitude":-86.137438,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Nindiri Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.051093,
     "lbl:longitude":-86.142105,
     "meso:admin_1":"MASAYA",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":1108693783,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489229,
     "wof:name":"Nindiri",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

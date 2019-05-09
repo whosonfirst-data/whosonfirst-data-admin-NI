@@ -10,6 +10,12 @@
     "geom:latitude":13.340361,
     "geom:longitude":-86.349915,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Condega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.339056,
     "lbl:longitude":-86.349927,
     "meso:admin_1":"ESTELI",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421170061,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1554488752,
     "wof:name":"Condega",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

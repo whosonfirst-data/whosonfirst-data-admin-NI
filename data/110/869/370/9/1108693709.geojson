@@ -10,6 +10,12 @@
     "geom:latitude":13.67079,
     "geom:longitude":-86.41729,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Mosonte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.697232,
     "lbl:longitude":-86.409628,
     "meso:admin_1":"NUEVA SEGOVIA",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108693709,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489228,
     "wof:name":"Mosonte",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

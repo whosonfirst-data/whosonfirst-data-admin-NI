@@ -10,6 +10,12 @@
     "geom:latitude":12.352852,
     "geom:longitude":-85.141327,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "La Libertad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.306177,
     "lbl:longitude":-85.183829,
     "meso:admin_1":"CHONTALES",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693849,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489231,
     "wof:name":"La Libertad",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

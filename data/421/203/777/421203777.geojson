@@ -10,6 +10,12 @@
     "geom:latitude":11.903591,
     "geom:longitude":-86.143072,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Masatepe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.912178,
     "lbl:longitude":-86.153111,
     "meso:admin_1":"MASAYA",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421203777,
-    "wof:lastmodified":1543954361,
+    "wof:lastmodified":1554489043,
     "wof:name":"Masatepe",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

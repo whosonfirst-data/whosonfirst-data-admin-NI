@@ -10,6 +10,12 @@
     "geom:latitude":11.774745,
     "geom:longitude":-86.324151,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Diriamba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.759562,
     "lbl:longitude":-86.337931,
     "meso:admin_1":"CARAZO",
@@ -55,10 +61,11 @@
         }
     ],
     "wof:id":1108693793,
-    "wof:lastmodified":1543954417,
+    "wof:lastmodified":1554489229,
     "wof:name":"Diriamba",
     "wof:parent_id":85675471,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"DI",
     "wof:superseded_by":[],

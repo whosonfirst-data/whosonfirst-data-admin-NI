@@ -10,6 +10,12 @@
     "geom:latitude":13.042081,
     "geom:longitude":-85.235576,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Rio Blanco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.07133,
     "lbl:longitude":-85.219441,
     "meso:admin_1":"MATAGALPA",
@@ -111,10 +117,11 @@
         }
     ],
     "wof:id":421200101,
-    "wof:lastmodified":1543954360,
+    "wof:lastmodified":1554489028,
     "wof:name":"Rio Blanco",
     "wof:parent_id":85675513,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"RB",
     "wof:superseded_by":[],

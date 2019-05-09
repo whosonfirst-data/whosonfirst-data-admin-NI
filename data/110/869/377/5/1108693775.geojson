@@ -10,6 +10,12 @@
     "geom:latitude":12.494652,
     "geom:longitude":-86.222189,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Libre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.530109,
     "lbl:longitude":-86.212588,
     "meso:admin_1":"MANAGUA",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108693775,
-    "wof:lastmodified":1543954417,
+    "wof:lastmodified":1554489227,
     "wof:name":"San Francisco Libre",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

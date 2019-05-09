@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213984,
-    "geom:area_square_m":2590983435.722178,
+    "geom:area_square_m":2590983435.721749,
     "geom:bbox":"-84.6107318381,11.3783156023,-84.0138623894,11.99693474",
     "geom:latitude":11.694841,
     "geom:longitude":-84.344091,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Nueva Guinea Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.688766,
     "lbl:longitude":-84.324047,
     "meso:admin_1":"ATLANTICO SUR",
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421192911,
-    "wof:lastmodified":1553816381,
+    "wof:lastmodified":1555037075,
     "wof:name":"Nueva Guinea",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.202086,
     "geom:longitude":-83.609967,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Puerto Cabezas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.212108,
     "lbl:longitude":-83.603194,
     "meso:admin_1":"ATLANTICO NORTE",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421201657,
-    "wof:lastmodified":1544032799,
+    "wof:lastmodified":1554489032,
     "wof:name":"Puerto Cabezas",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

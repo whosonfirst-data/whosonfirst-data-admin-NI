@@ -10,6 +10,12 @@
     "geom:latitude":12.241271,
     "geom:longitude":-85.712632,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Lorenzo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.222233,
     "lbl:longitude":-85.730563,
     "meso:admin_1":"BOACO",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693839,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489230,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

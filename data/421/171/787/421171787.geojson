@@ -10,6 +10,12 @@
     "geom:latitude":12.425683,
     "geom:longitude":-85.837413,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Teustepe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.457904,
     "lbl:longitude":-85.826609,
     "meso:admin_1":"BOACO",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421171787,
-    "wof:lastmodified":1543954355,
+    "wof:lastmodified":1554488765,
     "wof:name":"Teustepe",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

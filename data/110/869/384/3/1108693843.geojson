@@ -10,6 +10,12 @@
     "geom:latitude":12.189804,
     "geom:longitude":-85.558142,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Comalapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.190114,
     "lbl:longitude":-85.560353,
     "meso:admin_1":"CHONTALES",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693843,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489232,
     "wof:name":"Comalapa",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

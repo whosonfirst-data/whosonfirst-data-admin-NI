@@ -10,6 +10,12 @@
     "geom:latitude":12.715484,
     "geom:longitude":-87.019624,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Chinandega Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.752798,
     "lbl:longitude":-87.02256,
     "meso:admin_1":"CHINANDEGA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171365,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1554488762,
     "wof:name":"Chinandega",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032044,
-    "geom:area_square_m":385492738.210043,
+    "geom:area_square_m":385492738.210027,
     "geom:bbox":"-86.2579286773,13.2489487527,-86.015366131,13.5090876946",
     "geom:latitude":13.370242,
     "geom:longitude":-86.136443,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Sebastian De Yali Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.365946,
     "lbl:longitude":-86.154805,
     "meso:admin_1":"JINOTEGA",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1108693689,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037573,
     "wof:name":"San Sebastian De Yali",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

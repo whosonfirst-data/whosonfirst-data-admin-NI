@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153918,
-    "geom:area_square_m":1846253561.893127,
+    "geom:area_square_m":1846253561.893066,
     "geom:bbox":"-84.9354622296,13.8303956734,-84.3410449723,14.2432792036",
     "geom:latitude":14.054018,
     "geom:longitude":-84.629282,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Bonanza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.059464,
     "lbl:longitude":-84.634916,
     "meso:admin_1":"ATLANTICO NORTE",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108693675,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037574,
     "wof:name":"Bonanza",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

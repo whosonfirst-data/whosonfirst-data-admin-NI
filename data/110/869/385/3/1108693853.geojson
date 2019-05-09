@@ -10,6 +10,12 @@
     "geom:latitude":12.147273,
     "geom:longitude":-85.105959,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Pedro De Lovago Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.17318,
     "lbl:longitude":-85.108899,
     "meso:admin_1":"CHONTALES",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108693853,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489230,
     "wof:name":"San Pedro De Lovago",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.921405,
     "geom:longitude":-86.362924,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Nicolas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.926755,
     "lbl:longitude":-86.36914,
     "meso:admin_1":"ESTELI",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108693759,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489228,
     "wof:name":"San Nicolas",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

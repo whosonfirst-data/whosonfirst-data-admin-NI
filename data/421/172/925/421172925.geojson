@@ -10,6 +10,12 @@
     "geom:latitude":12.542431,
     "geom:longitude":-86.918963,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Quezalguaque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.525701,
     "lbl:longitude":-86.917983,
     "meso:admin_1":"LEON",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421172925,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1554488772,
     "wof:name":"Quezalguaque",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

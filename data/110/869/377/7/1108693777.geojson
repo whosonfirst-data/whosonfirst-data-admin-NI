@@ -10,6 +10,12 @@
     "geom:latitude":12.02118,
     "geom:longitude":-86.528278,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Villa Carlos Fonseca A Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.015846,
     "lbl:longitude":-86.530614,
     "meso:admin_1":"MANAGUA",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108693777,
-    "wof:lastmodified":1543954417,
+    "wof:lastmodified":1554489228,
     "wof:name":"Villa Carlos Fonseca A",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

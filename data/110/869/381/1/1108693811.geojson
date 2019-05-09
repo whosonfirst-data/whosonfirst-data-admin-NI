@@ -10,6 +10,12 @@
     "geom:latitude":11.558612,
     "geom:longitude":-85.9707,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Belen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.564043,
     "lbl:longitude":-85.96853,
     "meso:admin_1":"RIVAS",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108693811,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489229,
     "wof:name":"Belen",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

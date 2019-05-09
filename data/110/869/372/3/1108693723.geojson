@@ -10,6 +10,12 @@
     "geom:latitude":13.515305,
     "geom:longitude":-86.270887,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Telpaneca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.512286,
     "lbl:longitude":-86.283311,
     "meso:admin_1":"MADRIZ",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108693723,
-    "wof:lastmodified":1543954416,
+    "wof:lastmodified":1554489229,
     "wof:name":"Telpaneca",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

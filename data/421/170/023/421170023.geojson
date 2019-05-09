@@ -10,6 +10,12 @@
     "geom:latitude":13.917086,
     "geom:longitude":-86.094426,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Jalapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.916964,
     "lbl:longitude":-86.09171,
     "meso:admin_1":"NUEVA SEGOVIA",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421170023,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1554488751,
     "wof:name":"Jalapa",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041459,
-    "geom:area_square_m":501242337.562181,
+    "geom:area_square_m":501242337.562117,
     "geom:bbox":"-85.1649835164,11.9480882217,-84.7783177708,12.2956740949",
     "geom:latitude":12.118027,
     "geom:longitude":-84.987834,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Santo Tomas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.106698,
     "lbl:longitude":-85.04937,
     "meso:admin_1":"CHONTALES",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108693855,
-    "wof:lastmodified":1553816461,
+    "wof:lastmodified":1555037571,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

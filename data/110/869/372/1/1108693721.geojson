@@ -10,6 +10,12 @@
     "geom:latitude":13.52345,
     "geom:longitude":-86.148032,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Juan Del Rio Coco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.527086,
     "lbl:longitude":-86.146569,
     "meso:admin_1":"MADRIZ",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108693721,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1554489229,
     "wof:name":"San Juan Del Rio Coco",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

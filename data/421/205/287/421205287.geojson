@@ -10,6 +10,12 @@
     "geom:latitude":11.443284,
     "geom:longitude":-84.709024,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Miguelito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.467748,
     "lbl:longitude":-84.729712,
     "meso:admin_1":"RIO SAN JUAN",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421205287,
-    "wof:lastmodified":1544032800,
+    "wof:lastmodified":1554489053,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":12.647578,
     "geom:longitude":-86.617989,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Malpaisillo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.648411,
     "lbl:longitude":-86.632329,
     "meso:admin_1":"LEON",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108693767,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1554489228,
     "wof:name":"Malpaisillo",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

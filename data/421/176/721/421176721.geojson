@@ -10,6 +10,12 @@
     "geom:latitude":13.942713,
     "geom:longitude":-84.284366,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Rosita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.91399,
     "lbl:longitude":-84.25619,
     "meso:admin_1":"ATLANTICO NORTE",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421176721,
-    "wof:lastmodified":1544032797,
+    "wof:lastmodified":1554488779,
     "wof:name":"Rosita",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

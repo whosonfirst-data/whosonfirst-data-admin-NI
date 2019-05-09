@@ -10,6 +10,12 @@
     "geom:latitude":13.874124,
     "geom:longitude":-85.262278,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "El Cua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.991043,
     "lbl:longitude":-85.096825,
     "meso:admin_1":"JINOTEGA",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1108693685,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489229,
     "wof:name":"El Cua",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

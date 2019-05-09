@@ -10,6 +10,12 @@
     "geom:latitude":13.406083,
     "geom:longitude":-85.91855,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Las Praderas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.386142,
     "lbl:longitude":-85.944535,
     "meso:admin_1":"JINOTEGA",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108693687,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489229,
     "wof:name":"Las Praderas",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

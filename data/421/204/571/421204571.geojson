@@ -10,6 +10,12 @@
     "geom:latitude":11.156458,
     "geom:longitude":-84.732449,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Carlos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.18393,
     "lbl:longitude":-84.664061,
     "meso:admin_1":"RIO SAN JUAN",
@@ -158,10 +164,11 @@
         }
     ],
     "wof:id":421204571,
-    "wof:lastmodified":1543954361,
+    "wof:lastmodified":1554489051,
     "wof:name":"San Carlos",
     "wof:parent_id":85675465,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"SC",
     "wof:superseded_by":[],

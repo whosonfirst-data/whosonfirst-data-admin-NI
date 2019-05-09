@@ -10,6 +10,12 @@
     "geom:latitude":13.674854,
     "geom:longitude":-86.602505,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Macuelizo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.685873,
     "lbl:longitude":-86.612103,
     "meso:admin_1":"NUEVA SEGOVIA",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1108693715,
-    "wof:lastmodified":1543954415,
+    "wof:lastmodified":1554489228,
     "wof:name":"Macuelizo",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

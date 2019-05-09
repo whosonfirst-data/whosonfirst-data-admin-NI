@@ -10,6 +10,12 @@
     "geom:latitude":11.829216,
     "geom:longitude":-86.150875,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "El Rosario Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.825836,
     "lbl:longitude":-86.153003,
     "meso:admin_1":"CARAZO",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693799,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489229,
     "wof:name":"El Rosario",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

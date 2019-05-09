@@ -10,6 +10,12 @@
     "geom:latitude":13.338268,
     "geom:longitude":-86.647413,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Las Sabanas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.335114,
     "lbl:longitude":-86.642542,
     "meso:admin_1":"MADRIZ",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1108693731,
-    "wof:lastmodified":1543954416,
+    "wof:lastmodified":1554489228,
     "wof:name":"Las Sabanas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

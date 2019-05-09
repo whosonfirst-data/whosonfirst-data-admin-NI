@@ -10,6 +10,12 @@
     "geom:latitude":12.003465,
     "geom:longitude":-84.810919,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Villa Sandino Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.03269,
     "lbl:longitude":-84.850259,
     "meso:admin_1":"CHONTALES",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693857,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489230,
     "wof:name":"Villa Sandino",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

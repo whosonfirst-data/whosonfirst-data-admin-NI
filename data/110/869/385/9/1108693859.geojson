@@ -10,6 +10,12 @@
     "geom:latitude":11.861253,
     "geom:longitude":-85.121734,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Acoyapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.845298,
     "lbl:longitude":-85.117123,
     "meso:admin_1":"CHONTALES",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693859,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489231,
     "wof:name":"Acoyapa",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

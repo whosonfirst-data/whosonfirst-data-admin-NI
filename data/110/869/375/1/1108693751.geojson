@@ -10,6 +10,12 @@
     "geom:latitude":13.189494,
     "geom:longitude":-86.594513,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Juan De Limay Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.196201,
     "lbl:longitude":-86.579936,
     "meso:admin_1":"ESTELI",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108693751,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489228,
     "wof:name":"San Juan De Limay",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

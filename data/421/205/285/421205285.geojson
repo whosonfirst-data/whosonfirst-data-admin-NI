@@ -10,6 +10,12 @@
     "geom:latitude":13.347233,
     "geom:longitude":-86.527064,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Plueblo Nuevo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.347706,
     "lbl:longitude":-86.525387,
     "meso:admin_1":"ESTELI",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421205285,
-    "wof:lastmodified":1544032800,
+    "wof:lastmodified":1554489053,
     "wof:name":"Plueblo Nuevo",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

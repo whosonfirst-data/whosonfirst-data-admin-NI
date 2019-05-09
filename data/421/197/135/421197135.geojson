@@ -10,6 +10,12 @@
     "geom:latitude":11.978483,
     "geom:longitude":-85.922613,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Granada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.833677,
     "lbl:longitude":-85.960748,
     "meso:admin_1":"GRANADA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421197135,
-    "wof:lastmodified":1544032799,
+    "wof:lastmodified":1554489022,
     "wof:name":"Granada",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

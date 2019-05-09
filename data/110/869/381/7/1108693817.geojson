@@ -10,6 +10,12 @@
     "geom:latitude":13.210927,
     "geom:longitude":-85.495037,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Rancho Grande Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.205539,
     "lbl:longitude":-85.492345,
     "meso:admin_1":"MATAGALPA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1108693817,
-    "wof:lastmodified":1543954418,
+    "wof:lastmodified":1554489229,
     "wof:name":"Rancho Grande",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

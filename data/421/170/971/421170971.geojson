@@ -10,6 +10,12 @@
     "geom:latitude":13.639488,
     "geom:longitude":-86.490039,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Ocotal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.63981,
     "lbl:longitude":-86.491018,
     "meso:admin_1":"NUEVA SEGOVIA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421170971,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1554488760,
     "wof:name":"Ocotal",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

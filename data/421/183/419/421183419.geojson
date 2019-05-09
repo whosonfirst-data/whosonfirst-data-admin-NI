@@ -10,6 +10,12 @@
     "geom:latitude":12.577468,
     "geom:longitude":-83.773109,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Isla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.659517,
     "lbl:longitude":-83.800177,
     "meso:admin_1":"ATLANTICO SUR",
@@ -103,10 +109,11 @@
         }
     ],
     "wof:id":421183419,
-    "wof:lastmodified":1543954356,
+    "wof:lastmodified":1554488940,
     "wof:name":"Isla",
     "wof:parent_id":85675467,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"LP",
     "wof:superseded_by":[],

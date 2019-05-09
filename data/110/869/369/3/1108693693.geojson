@@ -10,6 +10,12 @@
     "geom:latitude":13.232607,
     "geom:longitude":-86.090199,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "San Rafael Del Norte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.232868,
     "lbl:longitude":-86.08901,
     "meso:admin_1":"JINOTEGA",
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1108693693,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489229,
     "wof:name":"San Rafael Del Norte",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

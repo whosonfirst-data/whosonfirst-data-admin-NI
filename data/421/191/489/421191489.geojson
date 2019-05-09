@@ -10,6 +10,12 @@
     "geom:latitude":11.697174,
     "geom:longitude":-86.245274,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Jinotepe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.635282,
     "lbl:longitude":-86.26482,
     "meso:admin_1":"CARAZO",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421191489,
-    "wof:lastmodified":1544032798,
+    "wof:lastmodified":1554489001,
     "wof:name":"Jinotepe",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.449558,
     "geom:longitude":-86.398199,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Palacaguina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.455231,
     "lbl:longitude":-86.398163,
     "meso:admin_1":"MADRIZ",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1108693725,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489227,
     "wof:name":"Palacaguina",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

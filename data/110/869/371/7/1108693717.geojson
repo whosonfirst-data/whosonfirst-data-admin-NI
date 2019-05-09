@@ -10,6 +10,12 @@
     "geom:latitude":13.549216,
     "geom:longitude":-86.463387,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Totolgalpa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.539276,
     "lbl:longitude":-86.432486,
     "meso:admin_1":"MADRIZ",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1108693717,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489229,
     "wof:name":"Totolgalpa",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

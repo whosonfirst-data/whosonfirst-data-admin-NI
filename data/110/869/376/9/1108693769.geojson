@@ -10,6 +10,12 @@
     "geom:latitude":12.396194,
     "geom:longitude":-86.873268,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Isla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.380239,
     "lbl:longitude":-86.869935,
     "meso:admin_1":"LEON",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108693769,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489228,
     "wof:name":"Isla",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

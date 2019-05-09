@@ -10,6 +10,12 @@
     "geom:latitude":12.817503,
     "geom:longitude":-86.367738,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Santa Rosa Del Penon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.81297,
     "lbl:longitude":-86.359113,
     "meso:admin_1":"LEON",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1108693763,
-    "wof:lastmodified":1544032792,
+    "wof:lastmodified":1554489227,
     "wof:name":"Santa Rosa Del Penon",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

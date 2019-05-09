@@ -10,6 +10,12 @@
     "geom:latitude":12.805145,
     "geom:longitude":-87.405187,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "El Viejo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.806271,
     "lbl:longitude":-87.381197,
     "meso:admin_1":"CHINANDEGA",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421170189,
-    "wof:lastmodified":1543954354,
+    "wof:lastmodified":1554488752,
     "wof:name":"El Viejo",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

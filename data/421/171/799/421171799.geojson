@@ -10,6 +10,12 @@
     "geom:latitude":13.531238,
     "geom:longitude":-86.648404,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Somoto Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.529761,
     "lbl:longitude":-86.658636,
     "meso:admin_1":"MADRIZ",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171799,
-    "wof:lastmodified":1544032796,
+    "wof:lastmodified":1554488766,
     "wof:name":"Somoto",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

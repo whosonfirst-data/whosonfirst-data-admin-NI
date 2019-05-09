@@ -10,6 +10,12 @@
     "geom:latitude":13.109037,
     "geom:longitude":-85.688203,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "La Dalia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.113931,
     "lbl:longitude":-85.690618,
     "meso:admin_1":"MATAGALPA",
@@ -69,7 +75,7 @@
         }
     ],
     "wof:id":1108693819,
-    "wof:lastmodified":1543954418,
+    "wof:lastmodified":1554489229,
     "wof:name":"La Dalia",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

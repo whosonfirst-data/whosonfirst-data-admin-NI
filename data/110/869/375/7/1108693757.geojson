@@ -10,6 +10,12 @@
     "geom:latitude":13.012083,
     "geom:longitude":-86.211036,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "La Trinidad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.019261,
     "lbl:longitude":-86.209334,
     "meso:admin_1":"ESTELI",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693757,
-    "wof:lastmodified":1544032791,
+    "wof:lastmodified":1554489228,
     "wof:name":"La Trinidad",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":11.642159,
     "geom:longitude":-84.942792,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Morrito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":11.641053,
     "lbl:longitude":-84.940447,
     "meso:admin_1":"RIO SAN JUAN",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1108693861,
-    "wof:lastmodified":1544032793,
+    "wof:lastmodified":1554489231,
     "wof:name":"Morrito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

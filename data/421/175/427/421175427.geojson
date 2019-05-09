@@ -10,6 +10,12 @@
     "geom:latitude":12.335751,
     "geom:longitude":-86.010984,
     "iso:country":"NI",
+    "label:eng_x_preferred_longname":[
+        "Tipitapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":12.280611,
     "lbl:longitude":-85.999625,
     "meso:admin_1":"MANAGUA",
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":421175427,
-    "wof:lastmodified":1543954355,
+    "wof:lastmodified":1554488777,
     "wof:name":"Tipitapa",
     "wof:parent_id":85675495,
     "wof:placetype":"county",
