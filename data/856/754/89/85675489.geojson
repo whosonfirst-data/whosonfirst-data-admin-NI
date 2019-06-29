@@ -26,12 +26,6 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
-    "name:arm_x_preferred":[
-        "\u053c\u0565\u0578\u0576"
-    ],
-    "name:baq_x_preferred":[
-        "Leongo departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041b\u0435\u043e\u043d"
     ],
@@ -47,17 +41,8 @@
     "name:ces_x_preferred":[
         "Le\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u6602\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Le\u00f3n"
-    ],
     "name:deu_x_preferred":[
         "Departamento Le\u00f3n"
-    ],
-    "name:dut_x_preferred":[
-        "Le\u00f3n"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b5\u03cc\u03bd"
@@ -71,23 +56,20 @@
     "name:est_x_preferred":[
         "Le\u00f3ni departemang"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
+        "Leongo departamendua"
+    ],
+    "name:fra_x_preferred":[
         "d\u00e9partement de Le\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d4\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Le\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Departamento de Le\u00f3n"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03cc\u03bd"
-    ],
     "name:hun_x_preferred":[
         "Le\u00f3n megye"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0578\u0576"
     ],
     "name:ind_x_preferred":[
         "Departemen Le\u00f3n"
@@ -98,20 +80,26 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30aa\u30f3\u770c"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub808\uc628 \uc8fc"
     ],
     "name:lit_x_preferred":[
         "Leono departamentas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0435\u043e\u043d"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Le\u00f3n"
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl Le\u00f3n"
+    ],
+    "name:nld_x_preferred":[
+        "Le\u00f3n"
     ],
     "name:nob_x_preferred":[
         "Le\u00f3n"
@@ -125,7 +113,7 @@
     "name:que_x_preferred":[
         "Le\u00f3n suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Le\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -152,6 +140,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u0646 \u0645\u062d\u06a9\u0645\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u6602\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NIC",
@@ -276,7 +267,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550527,
+    "wof:lastmodified":1561767253,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

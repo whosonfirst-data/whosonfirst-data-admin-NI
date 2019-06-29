@@ -31,11 +31,8 @@
     "mps:longitude":-86.398163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5e15\u62c9\u5361\u572d\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Palacag\u00fcina"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03b1\u03ba\u03b1\u03b3\u03bf\u03c5\u03af\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Palacaguina"
@@ -45,13 +42,13 @@
         "Palacag\u00fcina",
         "PALACAGUINA"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Palacag\u00fcina"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bb\u03b1\u03ba\u03b1\u03b3\u03bf\u03c5\u03af\u03bd\u03b1"
-    ],
     "name:ita_x_preferred":[
+        "Palacag\u00fcina"
+    ],
+    "name:nld_x_preferred":[
         "Palacag\u00fcina"
     ],
     "name:spa_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Palacag\u00fcina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u62c9\u5361\u572d\u7d0d"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108693725,
-    "wof:lastmodified":1554489227,
+    "wof:lastmodified":1561767267,
     "wof:name":"Palacaguina",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

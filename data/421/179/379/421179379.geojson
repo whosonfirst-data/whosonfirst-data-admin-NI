@@ -16,10 +16,7 @@
     "name:ceb_x_preferred":[
         "Tisma"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u65af\u99ac"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tisma"
     ],
     "name:eng_x_preferred":[
@@ -28,13 +25,10 @@
     "name:fra_x_preferred":[
         "Tisma"
     ],
-    "name:fre_x_preferred":[
-        "Tisma"
-    ],
-    "name:ger_x_preferred":[
-        "Tisma"
-    ],
     "name:ita_x_preferred":[
+        "Tisma"
+    ],
+    "name:nld_x_preferred":[
         "Tisma"
     ],
     "name:spa_x_preferred":[
@@ -99,7 +93,7 @@
         }
     ],
     "wof:id":421179379,
-    "wof:lastmodified":1514491790,
+    "wof:lastmodified":1561767275,
     "wof:name":"Tisma",
     "wof:parent_id":1108693781,
     "wof:placetype":"locality",

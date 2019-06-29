@@ -31,12 +31,6 @@
     "mps:longitude":-84.918704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6d3e\u74e6\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Bocana de Paiwas"
-    ],
     "name:eng_x_preferred":[
         "Rio Blanco"
     ],
@@ -46,11 +40,14 @@
         "BOCANA DE PAIWAS",
         "Bocana de Paiwas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bocana de Paiwas"
     ],
     "name:ita_x_preferred":[
         "Paiwas"
+    ],
+    "name:nld_x_preferred":[
+        "Bocana de Paiwas"
     ],
     "name:spa_x_preferred":[
         "Paiwas"
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Paiwas"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d3e\u74e6\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":1108693871,
-    "wof:lastmodified":1554489231,
+    "wof:lastmodified":1561767266,
     "wof:name":"Rio Blanco",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

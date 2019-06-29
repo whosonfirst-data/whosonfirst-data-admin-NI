@@ -22,13 +22,7 @@
     "name:ceb_x_preferred":[
         "San Jos\u00e9 de Bocay"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f55\u585e\u5fb7\u535a\u51f1"
-    ],
     "name:dan_x_preferred":[
-        "San Jos\u00e9 de Bocay"
-    ],
-    "name:dut_x_preferred":[
         "San Jos\u00e9 de Bocay"
     ],
     "name:ell_x_preferred":[
@@ -42,12 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "San Jos\u00e9 de Bocay"
-    ],
-    "name:fre_x_preferred":[
-        "San Jos\u00e9 de Bocay"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03b4\u03b5 \u039c\u03c0\u03bf\u03ba\u03ac\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8 \u0a9c\u0acb\u0ab8 \u0aa1\u0ac7 \u0aac\u0ac9\u0a95\u0ac7"
@@ -79,8 +67,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0939\u094b\u091d \u0921\u0940 \u092c\u094b\u0915\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Jose de Bocay"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 de Bocay"
     ],
     "name:nob_x_preferred":[
         "San Jose de Bocay"
@@ -175,7 +166,7 @@
         }
     ],
     "wof:id":421177691,
-    "wof:lastmodified":1527716485,
+    "wof:lastmodified":1561767275,
     "wof:name":"San Jos\u00e9 de Bocay",
     "wof:parent_id":1108693685,
     "wof:placetype":"locality",

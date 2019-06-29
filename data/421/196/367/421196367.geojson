@@ -16,11 +16,8 @@
     "name:ceb_x_preferred":[
         "Mateare"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7279\u963f\u96f7"
-    ],
-    "name:dut_x_preferred":[
-        "Mateare"
+    "name:deu_x_preferred":[
+        "Meteare"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c4\u03b5\u03ac\u03c1\u03b5"
@@ -31,16 +28,10 @@
     "name:fra_x_preferred":[
         "Mateare"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Mateare"
     ],
-    "name:ger_x_preferred":[
-        "Meteare"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c4\u03b5\u03ac\u03c1\u03b5"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Mateare"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421196367,
-    "wof:lastmodified":1514491766,
+    "wof:lastmodified":1561767273,
     "wof:name":"Mateare",
     "wof:parent_id":421202283,
     "wof:placetype":"locality",

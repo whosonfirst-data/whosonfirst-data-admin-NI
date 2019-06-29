@@ -25,17 +25,11 @@
     "name:afr_x_preferred":[
         "Managua"
     ],
-    "name:alb_x_preferred":[
-        "Managua"
-    ],
     "name:amh_x_preferred":[
         "\u121b\u1293\u1313"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0627\u063a\u0648\u0627"
-    ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u0576\u0561\u0563\u0578\u0582\u0561"
     ],
     "name:ast_x_preferred":[
         "Managua"
@@ -45,9 +39,6 @@
     ],
     "name:aze_x_preferred":[
         "Manaqua"
-    ],
-    "name:baq_x_preferred":[
-        "Managua"
     ],
     "name:bar_x_preferred":[
         "Managua"
@@ -82,19 +73,13 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0433\u0443\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u7d0d\u74dc"
-    ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Managua"
     ],
     "name:dan_x_preferred":[
         "Managua"
     ],
     "name:deu_x_preferred":[
-        "Managua"
-    ],
-    "name:dut_x_preferred":[
         "Managua"
     ],
     "name:ell_x_preferred":[
@@ -124,17 +109,8 @@
     "name:fra_x_preferred":[
         "Managua"
     ],
-    "name:fre_x_preferred":[
-        "Managua"
-    ],
     "name:fry_x_preferred":[
         "Manag\u00fba"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d0\u10d2\u10e3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Managua"
     ],
     "name:gla_x_preferred":[
         "Managua"
@@ -144,9 +120,6 @@
     ],
     "name:glg_x_preferred":[
         "Managua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0abe\u0a97\u0ac1\u0a86"
@@ -174,9 +147,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0576\u0561\u0563\u0578\u0582\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Managva"
     ],
     "name:ido_x_preferred":[
         "Managua"
@@ -241,23 +211,20 @@
     "name:lmo_x_preferred":[
         "Managua"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043d\u0430\u0433\u0432\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d28\u0d3e\u0d17\u0d4d\u0d35"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0928\u093e\u0917\u094d\u0935\u093e"
     ],
-    "name:may_x_preferred":[
-        "Managua"
-    ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0433\u0432\u0430"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0433\u0443\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Managua"
     ],
     "name:nah_x_preferred":[
         "M\u0101n\u0101huac"
@@ -292,9 +259,6 @@
     "name:pap_x_preferred":[
         "Managua"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0646\u0627\u06af\u0648\u0622"
-    ],
     "name:pih_x_preferred":[
         "Managua"
     ],
@@ -310,7 +274,7 @@
     "name:que_x_preferred":[
         "Managua"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Managua"
     ],
     "name:rus_x_preferred":[
@@ -328,9 +292,6 @@
     "name:slk_x_preferred":[
         "Managua"
     ],
-    "name:slo_x_preferred":[
-        "Managua"
-    ],
     "name:slv_x_preferred":[
         "Managua"
     ],
@@ -341,6 +302,9 @@
         "Managua"
     ],
     "name:spa_x_preferred":[
+        "Managua"
+    ],
+    "name:sqi_x_preferred":[
         "Managua"
     ],
     "name:srd_x_preferred":[
@@ -367,9 +331,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e19\u0e32\u0e01\u0e31\u0e27"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f0b\u0f53\u0f0b\u0f42\u0f74\u0f0b\u0f60\u0f0d"
-    ],
     "name:tuk_x_preferred":[
         "Managua"
     ],
@@ -395,9 +356,6 @@
         "Managua"
     ],
     "name:war_x_preferred":[
-        "Managua"
-    ],
-    "name:wel_x_preferred":[
         "Managua"
     ],
     "name:yid_x_preferred":[
@@ -546,7 +504,7 @@
         }
     ],
     "wof:id":890451731,
-    "wof:lastmodified":1552519486,
+    "wof:lastmodified":1561767277,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",

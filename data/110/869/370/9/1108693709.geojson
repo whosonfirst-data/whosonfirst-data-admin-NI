@@ -34,12 +34,6 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0437\u043e\u043d\u0442\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u677e\u7279"
-    ],
-    "name:dut_x_preferred":[
-        "Mozonte"
-    ],
     "name:eng_x_preferred":[
         "Mosonte"
     ],
@@ -48,10 +42,13 @@
         "Mozonte",
         "MOSONTE"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mozonte"
     ],
     "name:ita_x_preferred":[
+        "Mozonte"
+    ],
+    "name:nld_x_preferred":[
         "Mozonte"
     ],
     "name:spa_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Mozonte"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u677e\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108693709,
-    "wof:lastmodified":1554489228,
+    "wof:lastmodified":1561767264,
     "wof:name":"Mosonte",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

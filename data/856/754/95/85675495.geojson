@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0645\u0627\u0646\u0627\u063a\u0648\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Managuako departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041c\u0430\u043d\u0430\u0433\u0443\u0430"
     ],
@@ -44,38 +41,32 @@
     "name:cat_x_preferred":[
         "Departament de Managua"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62ff\u74dc\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Managua"
     ],
     "name:dan_x_preferred":[
         "Managua Department"
     ],
-    "name:dut_x_preferred":[
-        "Managua"
+    "name:deu_x_preferred":[
+        "Departamento Managua"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Managua"
     ],
+    "name:eus_x_preferred":[
+        "Managuako departamendua"
+    ],
     "name:fin_x_preferred":[
         "Managuan departmentti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Managua"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10dc\u10d0\u10d2\u10e3\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Managua"
     ],
     "name:glg_x_preferred":[
         "Departamento de Managua"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0aa8\u0abe\u0a97\u0ac1\u0a86 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -98,6 +89,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ca8\u0cbe\u0c97\u0cc1\u0cb5\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10dc\u10d0\u10d2\u10e3\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub098\uacfc"
     ],
@@ -107,17 +101,20 @@
     "name:lit_x_preferred":[
         "Managvos departamentas"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043d\u0430\u0433\u0432\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u0928\u093e\u0917\u0941\u0906 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0433\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
         "Pentadbiran Managua"
     ],
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl Man\u0101huac"
+    ],
+    "name:nld_x_preferred":[
+        "Managua"
     ],
     "name:nob_x_preferred":[
         "Managua"
@@ -134,7 +131,7 @@
     "name:que_x_preferred":[
         "Manawa suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Managua"
     ],
     "name:rus_x_preferred":[
@@ -178,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u90a3\u74dc"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u62ff\u74dc\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NIC",
@@ -302,7 +302,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550497,
+    "wof:lastmodified":1561767253,
     "wof:name":"Managua",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

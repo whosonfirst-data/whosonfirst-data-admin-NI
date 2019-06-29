@@ -13,26 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u5fb7\u8f9b\u79d1\u76ae\u8afe\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "San Juan de Cinco Pinos"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03b4\u03b5 \u03a3\u03af\u03bd\u03ba\u03bf \u03a0\u03af\u03bd\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "San Juan de Cinco Pinos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cinco Pinos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03b4\u03b5 \u03a3\u03af\u03bd\u03ba\u03bf \u03a0\u03af\u03bd\u03bf\u03c2"
     ],
     "name:ita_x_preferred":[
         "Cinco Pinos"
     ],
     "name:lit_x_preferred":[
         "San Chuan de Sinko Pinosas"
+    ],
+    "name:nld_x_preferred":[
+        "San Juan de Cinco Pinos"
     ],
     "name:sco_x_preferred":[
         "San Juan de Cinco Pinos"
@@ -45,6 +42,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062f\u06d2 \u0633\u06cc\u0646\u06a9\u0648 \u067e\u06cc\u0646\u0648\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u8f9b\u79d1\u76ae\u8afe\u65af"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":421169503,
-    "wof:lastmodified":1514491735,
+    "wof:lastmodified":1561767271,
     "wof:name":"Cinco Pinos",
     "wof:parent_id":421185081,
     "wof:placetype":"locality",

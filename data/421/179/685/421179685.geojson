@@ -19,19 +19,10 @@
     "name:ceb_x_preferred":[
         "Moyogalpa"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u7d04\u52a0\u723e\u5e15"
-    ],
-    "name:dut_x_preferred":[
-        "Moyogalpa"
-    ],
     "name:eng_x_preferred":[
         "Moyogalpa"
     ],
     "name:fra_x_preferred":[
-        "Moyogalpa"
-    ],
-    "name:fre_x_preferred":[
         "Moyogalpa"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +30,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30e8\u30ac\u30eb\u30d1"
+    ],
+    "name:nld_x_preferred":[
+        "Moyogalpa"
     ],
     "name:spa_x_preferred":[
         "Moyogalpa"
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421179685,
-    "wof:lastmodified":1514491766,
+    "wof:lastmodified":1561767275,
     "wof:name":"Moyogalpa",
     "wof:parent_id":421202289,
     "wof:placetype":"locality",

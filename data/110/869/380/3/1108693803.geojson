@@ -31,11 +31,8 @@
     "mps:longitude":-86.152069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u7279\u96f7\u838e"
-    ],
-    "name:dut_x_preferred":[
-        "Santa Teresa"
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a4\u03b5\u03c1\u03ad\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Diriamba"
@@ -45,13 +42,13 @@
         "SANTA TERESA",
         "Santa Teresa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Santa Teresa"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a4\u03b5\u03c1\u03ad\u03c3\u03b1"
-    ],
     "name:ita_x_preferred":[
+        "Santa Teresa"
+    ],
+    "name:nld_x_preferred":[
         "Santa Teresa"
     ],
     "name:spa_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "Santa Teresa"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7279\u96f7\u838e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -90,7 +90,7 @@
         }
     ],
     "wof:id":1108693803,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1561767266,
     "wof:name":"Diriamba",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

@@ -31,11 +31,8 @@
     "mps:longitude":-86.642542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u85a9\u74e6\u7d0d\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Las Sabanas"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Las Sabanas"
@@ -43,13 +40,13 @@
     "name:eng_x_variant":[
         "Las Sabanas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Sabanas"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1\u03c2"
-    ],
     "name:ita_x_preferred":[
+        "Las Sabanas"
+    ],
+    "name:nld_x_preferred":[
         "Las Sabanas"
     ],
     "name:spa_x_preferred":[
@@ -63,6 +60,9 @@
     ],
     "name:vie_x_preferred":[
         "Las Sabanas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u85a9\u74e6\u7d0d\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":1108693731,
-    "wof:lastmodified":1554489228,
+    "wof:lastmodified":1561767266,
     "wof:name":"Las Sabanas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

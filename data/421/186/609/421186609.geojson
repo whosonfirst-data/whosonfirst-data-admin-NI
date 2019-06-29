@@ -16,19 +16,13 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u064a\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Estel\u00ed"
-    ],
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u099f\u09c7\u09b2\u09bf"
-    ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u7279\u5229"
     ],
     "name:dan_x_preferred":[
         "Esteli"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Estel\u00ed"
     ],
     "name:ell_x_preferred":[
@@ -37,20 +31,14 @@
     "name:eng_x_preferred":[
         "Estel\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Estel\u00ed"
+    ],
     "name:fin_x_preferred":[
         "Estel\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Estel\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e1\u10e2\u10d4\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Estel\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c3\u03c4\u03b5\u03bb\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab8\u0acd\u0a9f\u0ac7\u0ab2\u0ac0"
@@ -88,8 +76,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0938\u094d\u091f\u0947\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Esteli"
+    ],
+    "name:nld_x_preferred":[
+        "Estel\u00ed"
     ],
     "name:nob_x_preferred":[
         "Estel\u00ed"
@@ -190,7 +181,7 @@
         }
     ],
     "wof:id":421186609,
-    "wof:lastmodified":1553816376,
+    "wof:lastmodified":1561767273,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":1108693753,
     "wof:placetype":"locality",

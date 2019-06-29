@@ -31,12 +31,6 @@
     "mps:longitude":-84.582359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7a46\u57c3\u723e\u840a\u5fb7\u6d1b\u65af\u5e03\u57c3\u8036\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Muelle de los Bueyes"
-    ],
     "name:eng_x_preferred":[
         "Muelle De Los Bueyes"
     ],
@@ -45,10 +39,13 @@
         "Muelle de los Bueyes",
         "MUELLE DE L BUEYES"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Muelle de los Bueyes"
     ],
     "name:ita_x_preferred":[
+        "Muelle de los Bueyes"
+    ],
+    "name:nld_x_preferred":[
         "Muelle de los Bueyes"
     ],
     "name:spa_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "Muelle de los Bueyes"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u57c3\u723e\u840a\u5fb7\u6d1b\u65af\u5e03\u57c3\u8036\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108693875,
-    "wof:lastmodified":1554489231,
+    "wof:lastmodified":1561767266,
     "wof:name":"Muelle De Los Bueyes",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

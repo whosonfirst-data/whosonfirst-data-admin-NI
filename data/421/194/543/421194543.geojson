@@ -19,13 +19,7 @@
     "name:ceb_x_preferred":[
         "Masatepe"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u85a9\u7279\u4f69"
-    ],
-    "name:cze_x_preferred":[
-        "Masatepe"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Masatepe"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +28,10 @@
     "name:fra_x_preferred":[
         "Masatepe"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Masatepe"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Masatepe"
     ],
     "name:oss_x_preferred":[
@@ -111,7 +105,7 @@
         }
     ],
     "wof:id":421194543,
-    "wof:lastmodified":1514491763,
+    "wof:lastmodified":1561767271,
     "wof:name":"Masatepe",
     "wof:parent_id":421203777,
     "wof:placetype":"locality",

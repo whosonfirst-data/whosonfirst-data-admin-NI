@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b8\u09c7\u09ac\u09be\u09b8\u09cd\u09a4\u09bf\u09af\u09bc\u09be\u09a8 \u09a1\u09c7\u09b2 \u0987\u09af\u09bc\u09be\u09b2\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u585e\u74e6\u65af\u8482\u5b89\u5fb7\u4e9e\u5229"
-    ],
     "name:dan_x_preferred":[
         "San Sebasti\u00e1n de Yali"
     ],
-    "name:dut_x_preferred":[
-        "San Sebasti\u00e1n de Yal\u00ed"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a3\u03b5\u03bc\u03c0\u03b1\u03c3\u03c4\u03b9\u03ac\u03bd \u03b4\u03b5 \u0393\u03b9\u03b1\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "San Sebastian De Yali"
@@ -57,11 +54,8 @@
     "name:fin_x_preferred":[
         "San Sebasti\u00e1n de Yal\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Sebasti\u00e1n de Yal\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a3\u03b5\u03bc\u03c0\u03b1\u03c3\u03c4\u03b9\u03ac\u03bd \u03b4\u03b5 \u0393\u03b9\u03b1\u03bb\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8"
@@ -93,8 +87,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0945\u0928 \u0938\u0947\u092c\u093e\u0938\u094d\u091f\u093f\u092f\u0928 \u0926\u0947 \u092f\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "San Sebastian de Yali"
+    ],
+    "name:nld_x_preferred":[
+        "San Sebasti\u00e1n de Yal\u00ed"
     ],
     "name:nob_x_preferred":[
         "San Sebastian del Yali"
@@ -138,6 +135,9 @@
     "name:vie_x_preferred":[
         "San Sebasti\u00e1n de Yal\u00ed"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u585e\u74e6\u65af\u8482\u5b89\u5fb7\u4e9e\u5229"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1108693689,
-    "wof:lastmodified":1555037573,
+    "wof:lastmodified":1561767265,
     "wof:name":"San Sebastian De Yali",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

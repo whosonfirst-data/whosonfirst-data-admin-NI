@@ -32,11 +32,8 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7279\u70cf\u65af\u7279\u4f69"
-    ],
-    "name:dut_x_preferred":[
-        "Teustepe"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bf\u03c5\u03c3\u03c4\u03ad\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Teustepe"
@@ -44,13 +41,13 @@
     "name:eng_x_variant":[
         "Teustepe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Teustepe"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bf\u03c5\u03c3\u03c4\u03ad\u03c0\u03b5"
-    ],
     "name:ita_x_preferred":[
+        "Teustepe"
+    ],
+    "name:nld_x_preferred":[
         "Teustepe"
     ],
     "name:spa_x_preferred":[
@@ -64,6 +61,9 @@
     ],
     "name:vie_x_preferred":[
         "Teustepe"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u70cf\u65af\u7279\u4f69"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -125,7 +125,7 @@
         }
     ],
     "wof:id":421171787,
-    "wof:lastmodified":1554488765,
+    "wof:lastmodified":1561767276,
     "wof:name":"Teustepe",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

@@ -20,19 +20,13 @@
     "name:ast_x_preferred":[
         "Greytown"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u5fb7\u5c3c\u52a0\u62c9\u74dc"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "San Juan de Nicaragua"
     ],
     "name:eng_x_preferred":[
         "San Juan de Nicaragua"
     ],
-    "name:fre_x_preferred":[
-        "San Juan de Nicaragua"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "San Juan de Nicaragua"
     ],
     "name:ita_x_preferred":[
@@ -40,6 +34,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30d5\u30a1\u30f3\u30c7\u30eb\u30ce\u30eb\u30c6"
+    ],
+    "name:nld_x_preferred":[
+        "San Juan de Nicaragua"
     ],
     "name:por_x_preferred":[
         "San Juan de Nicar\u00e1gua"
@@ -55,6 +52,9 @@
     ],
     "name:vie_x_preferred":[
         "San Juan de Nicaragua"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u5fb7\u5c3c\u52a0\u62c9\u74dc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nicaragua",
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":1141907045,
-    "wof:lastmodified":1514491784,
+    "wof:lastmodified":1561767285,
     "wof:name":"San Juan de Nicaragua",
     "wof:parent_id":421175429,
     "wof:placetype":"locality",

@@ -35,13 +35,7 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0442\u0435\u043f\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u85a9\u7279\u4f69"
-    ],
-    "name:cze_x_preferred":[
-        "Masatepe"
-    ],
-    "name:dut_x_preferred":[
+    "name:ces_x_preferred":[
         "Masatepe"
     ],
     "name:eng_x_preferred":[
@@ -50,10 +44,13 @@
     "name:eng_x_variant":[
         "Masatepe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Masatepe"
     ],
     "name:ita_x_preferred":[
+        "Masatepe"
+    ],
+    "name:nld_x_preferred":[
         "Masatepe"
     ],
     "name:oss_x_preferred":[
@@ -76,6 +73,9 @@
     ],
     "name:vie_x_preferred":[
         "Masatepe"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u85a9\u7279\u4f69"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -137,7 +137,7 @@
         }
     ],
     "wof:id":421203777,
-    "wof:lastmodified":1554489043,
+    "wof:lastmodified":1561767271,
     "wof:name":"Masatepe",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

@@ -31,12 +31,6 @@
     "mps:longitude":-86.142105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5be7\u8fea\u91cc"
-    ],
-    "name:dut_x_preferred":[
-        "Nindir\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Nindiri"
     ],
@@ -45,10 +39,13 @@
         "Nindir\u00ed",
         "NINDIRI"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nindir\u00ed"
     ],
     "name:ita_x_preferred":[
+        "Nindir\u00ed"
+    ],
+    "name:nld_x_preferred":[
         "Nindir\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:vie_x_preferred":[
         "Nindir\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u5be7\u8fea\u91cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108693783,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1561767265,
     "wof:name":"Nindiri",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

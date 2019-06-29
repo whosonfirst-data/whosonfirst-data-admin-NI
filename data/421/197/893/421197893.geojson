@@ -17,23 +17,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0643\u0627\u0628\u064a\u0632\u0627\u0633"
     ],
-    "name:baq_x_preferred":[
-        "Puerto Cabezas"
-    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u0995\u09be\u09ac\u09c7\u099c\u09be\u09b8"
     ],
     "name:cat_x_preferred":[
         "Puerto Cabezas"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u8c9d\u85a9\u65af\u6e2f"
-    ],
     "name:dan_x_preferred":[
         "Puerto Cabezas"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Puerto Cabezas"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039a\u03b1\u03bc\u03c0\u03ad\u03c3\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Puerto Cabezas"
@@ -41,20 +38,14 @@
     "name:epo_x_preferred":[
         "Bilwi"
     ],
+    "name:eus_x_preferred":[
+        "Puerto Cabezas"
+    ],
     "name:fin_x_preferred":[
         "Puerto Cabezas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Puerto Cabezas"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10da\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Puerto Cabezas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039a\u03b1\u03bc\u03c0\u03ad\u03c3\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0a95\u0abe\u0aac\u0ac7\u0a9d\u0abe\u0ab8"
@@ -74,6 +65,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0cca \u0c95\u0ccd\u0caf\u0cbe\u0cac\u0cbf\u0caf\u0cbe\u0cb8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10da\u10d5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud478\uc5d0\ub974\ud1a0\uce74\ubca0\uc0ac\uc2a4"
     ],
@@ -86,7 +80,10 @@
     "name:mar_x_preferred":[
         "\u092a\u094d\u0935\u0947\u0930\u094d\u091f\u094b \u0915\u094d\u092f\u093e\u092c\u093f\u091c\u093e\u0938"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Puerto Cabezas"
+    ],
+    "name:nld_x_preferred":[
         "Puerto Cabezas"
     ],
     "name:nob_x_preferred":[
@@ -133,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Puerto Cabezas"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u8c9d\u85a9\u65af\u6e2f"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nicaragua",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":421197893,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561767274,
     "wof:name":"Puerto Cabezas",
     "wof:parent_id":421201657,
     "wof:placetype":"locality",

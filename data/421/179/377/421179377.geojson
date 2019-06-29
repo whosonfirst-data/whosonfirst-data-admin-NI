@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Tola"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Tola"
-    ],
     "name:eng_x_preferred":[
         "Tola"
     ],
     "name:fra_x_preferred":[
-        "Tola"
-    ],
-    "name:fre_x_preferred":[
         "Tola"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +88,7 @@
         }
     ],
     "wof:id":421179377,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561767275,
     "wof:name":"Tola",
     "wof:parent_id":421190545,
     "wof:placetype":"locality",

@@ -38,13 +38,7 @@
     "name:cat_x_preferred":[
         "Catarina"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5854\u91cc\u7d0d"
-    ],
     "name:deu_x_preferred":[
-        "Catarina"
-    ],
-    "name:dut_x_preferred":[
         "Catarina"
     ],
     "name:eng_x_preferred":[
@@ -54,9 +48,6 @@
         "Catarina"
     ],
     "name:fra_x_preferred":[
-        "Catarina"
-    ],
-    "name:fre_x_preferred":[
         "Catarina"
     ],
     "name:ita_x_preferred":[
@@ -88,6 +79,9 @@
     ],
     "name:vol_x_preferred":[
         "Catarina"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5854\u91cc\u7d0d"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -149,7 +143,7 @@
         }
     ],
     "wof:id":421203775,
-    "wof:lastmodified":1554489043,
+    "wof:lastmodified":1561767271,
     "wof:name":"Catarina",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

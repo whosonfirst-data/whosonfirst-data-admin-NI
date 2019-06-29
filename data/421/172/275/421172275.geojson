@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Somotillo"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u83ab\u8482\u7d04"
-    ],
-    "name:dut_x_preferred":[
-        "Somotillo"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bc\u03bf\u03c4\u03af\u03bb\u03bb\u03b9\u03bf"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Somotillo"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Somotillo"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03bc\u03bf\u03c4\u03af\u03bb\u03bb\u03b9\u03bf"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Somotillo"
     ],
     "name:pol_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421172275,
-    "wof:lastmodified":1514491787,
+    "wof:lastmodified":1561767272,
     "wof:name":"Somotillo",
     "wof:parent_id":421193389,
     "wof:placetype":"locality",

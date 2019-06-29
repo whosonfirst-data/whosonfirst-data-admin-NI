@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Telpaneca"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u723e\u5e15\u5167\u5361"
-    ],
-    "name:dut_x_preferred":[
-        "Telpaneca"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bb\u03c0\u03b1\u03bd\u03ad\u03ba\u03b1"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Telpaneca"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Telpaneca"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bb\u03c0\u03b1\u03bd\u03ad\u03ba\u03b1"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Telpaneca"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421201767,
-    "wof:lastmodified":1527716436,
+    "wof:lastmodified":1561767274,
     "wof:name":"Telpaneca",
     "wof:parent_id":1108693723,
     "wof:placetype":"locality",

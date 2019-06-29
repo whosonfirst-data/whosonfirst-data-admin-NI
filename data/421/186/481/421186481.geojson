@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Dipilto"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u76ae\u723e\u6258"
-    ],
-    "name:dut_x_preferred":[
-        "Dipilto"
-    ],
     "name:eng_x_preferred":[
         "Dipilto"
     ],
     "name:fra_x_preferred":[
         "Dipilto"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Dipilto"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Dipilto"
     ],
     "name:spa_x_preferred":[
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421186481,
-    "wof:lastmodified":1527716316,
+    "wof:lastmodified":1561767273,
     "wof:name":"Dipilto",
     "wof:parent_id":1108693711,
     "wof:placetype":"locality",

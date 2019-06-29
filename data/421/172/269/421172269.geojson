@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Teustepe"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u70cf\u65af\u7279\u4f69"
-    ],
-    "name:dut_x_preferred":[
-        "Teustepe"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b5\u03bf\u03c5\u03c3\u03c4\u03ad\u03c0\u03b5"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Teustepe"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Teustepe"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bf\u03c5\u03c3\u03c4\u03ad\u03c0\u03b5"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Teustepe"
     ],
     "name:spa_x_preferred":[
@@ -105,7 +96,7 @@
         }
     ],
     "wof:id":421172269,
-    "wof:lastmodified":1514491790,
+    "wof:lastmodified":1561767273,
     "wof:name":"Teustepe",
     "wof:parent_id":421171787,
     "wof:placetype":"locality",

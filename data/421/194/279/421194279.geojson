@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Muy Muy"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u4f0a\u7a46\u4f0a"
-    ],
-    "name:dut_x_preferred":[
-        "Muy Muy"
-    ],
     "name:eng_x_preferred":[
         "Muy Muy"
     ],
     "name:fra_x_preferred":[
-        "Muy Muy"
-    ],
-    "name:fre_x_preferred":[
         "Muy Muy"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +27,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e0\u30a4\u30fb\u30e0\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Muy Muy"
     ],
     "name:spa_x_preferred":[
         "Muy Muy"
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421194279,
-    "wof:lastmodified":1514491766,
+    "wof:lastmodified":1561767271,
     "wof:name":"Muymuy",
     "wof:parent_id":421200103,
     "wof:placetype":"locality",
