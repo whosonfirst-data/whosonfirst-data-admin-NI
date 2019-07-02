@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Yalag\u00fcina"
     ],
-    "name:chi_x_preferred":[
-        "\u4e9e\u62c9\u572d\u7d0d"
-    ],
-    "name:dut_x_preferred":[
-        "Yalag\u00fcina"
-    ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03b1\u03bb\u03b1\u03b3\u03bf\u03c5\u03af\u03bd\u03b1"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Yalag\u00fcina"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Yalag\u00fcina"
     ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03b1\u03bb\u03b1\u03b3\u03bf\u03c5\u03af\u03bd\u03b1"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Yalag\u00fcina"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +94,7 @@
         }
     ],
     "wof:id":421166697,
-    "wof:lastmodified":1527716106,
+    "wof:lastmodified":1561767270,
     "wof:name":"Yalag\u00fcina",
     "wof:parent_id":1108693727,
     "wof:placetype":"locality",

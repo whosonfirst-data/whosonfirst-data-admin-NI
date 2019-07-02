@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "S\u00e9baco"
     ],
-    "name:chi_x_preferred":[
-        "\u585e\u74e6\u79d1"
-    ],
-    "name:dut_x_preferred":[
-        "S\u00e9baco"
-    ],
     "name:eng_x_preferred":[
         "S\u00e9baco"
     ],
     "name:fra_x_preferred":[
-        "S\u00e9baco"
-    ],
-    "name:fre_x_preferred":[
         "S\u00e9baco"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +45,9 @@
     ],
     "name:vie_x_preferred":[
         "S\u00e9baco"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u74e6\u79d1"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -101,7 +95,7 @@
         }
     ],
     "wof:id":421179875,
-    "wof:lastmodified":1514491788,
+    "wof:lastmodified":1561767275,
     "wof:name":"S\u00e9baco",
     "wof:parent_id":1108693821,
     "wof:placetype":"locality",

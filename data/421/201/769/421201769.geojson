@@ -13,25 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4f11\u7d0d"
-    ],
     "name:deu_x_preferred":[
-        "Siuna"
-    ],
-    "name:dut_x_preferred":[
         "Siuna"
     ],
     "name:eng_x_preferred":[
         "Siuna"
     ],
     "name:fra_x_preferred":[
-        "Siuna"
-    ],
-    "name:fre_x_preferred":[
-        "Siuna"
-    ],
-    "name:ger_x_preferred":[
         "Siuna"
     ],
     "name:ita_x_preferred":[
@@ -115,7 +103,7 @@
         }
     ],
     "wof:id":421201769,
-    "wof:lastmodified":1527716436,
+    "wof:lastmodified":1561767274,
     "wof:name":"Siuna",
     "wof:parent_id":1108693679,
     "wof:placetype":"locality",

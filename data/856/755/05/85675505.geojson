@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0625\u0633\u062a\u064a\u0644\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Esteliko departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u042d\u0441\u0442\u044d\u043b\u0456"
     ],
@@ -50,23 +47,17 @@
     "name:ces_x_preferred":[
         "Estel\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u65af\u7279\u5229\u7701"
-    ],
-    "name:cze_x_preferred":[
-        "Estel\u00ed"
-    ],
     "name:dan_x_preferred":[
         "Estel\u00ed Department"
     ],
     "name:deu_x_preferred":[
         "Departamento Estel\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Estel\u00ed"
-    ],
     "name:ell_x_preferred":[
         "\u0395\u03c3\u03c4\u03b5\u03bb\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0395\u03c3\u03c4\u03b5\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Estel\u00ed"
@@ -77,23 +68,17 @@
     "name:eus_x_preferred":[
         "Estel\u00edko departamendua"
     ],
+    "name:eus_x_variant":[
+        "Esteliko departamendua"
+    ],
     "name:fin_x_preferred":[
         "Estel\u00edn departmentti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement d'Estel\u00ed"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e1\u10e2\u10d4\u10da\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Estel\u00ed"
     ],
     "name:glg_x_preferred":[
         "Departamento de Estel\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b1\u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u0395\u03c3\u03c4\u03b5\u03bb\u03af"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab8\u0acd\u0a9f\u0ac7\u0ab2\u0ac0 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -116,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb8\u0ccd\u0c9f\u0cc6\u0cb2\u0cbf \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e1\u10e2\u10d4\u10da\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\uc2a4\ud154\ub9ac \uc8fc"
     ],
@@ -128,8 +116,11 @@
     "name:mar_x_preferred":[
         "\u090f\u0938\u094d\u091f\u0947\u0932\u0940 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Estel\u00ed"
+    ],
+    "name:nld_x_preferred":[
+        "Estel\u00ed"
     ],
     "name:nob_x_preferred":[
         "Estel\u00ed"
@@ -143,7 +134,7 @@
     "name:que_x_preferred":[
         "Estel\u00ed suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Estel\u00ed"
     ],
     "name:rus_x_preferred":[
@@ -188,6 +179,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Estel\u00ed"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u65af\u7279\u5229\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NIC",
@@ -312,7 +306,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550505,
+    "wof:lastmodified":1561767252,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

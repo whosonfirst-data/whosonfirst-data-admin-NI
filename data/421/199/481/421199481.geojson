@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Ciudad Antigua"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u8482\u74dc\u5e02"
-    ],
-    "name:dut_x_preferred":[
-        "Ciudad Antigua"
-    ],
     "name:eng_x_preferred":[
         "Ciudad Antigua"
     ],
     "name:fra_x_preferred":[
         "Ciudad Antigua"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Ciudad Antigua"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Ciudad Antigua"
     ],
     "name:por_x_preferred":[
@@ -100,7 +94,7 @@
         }
     ],
     "wof:id":421199481,
-    "wof:lastmodified":1527716416,
+    "wof:lastmodified":1561767274,
     "wof:name":"Ciudad Antigua",
     "wof:parent_id":1108693703,
     "wof:placetype":"locality",

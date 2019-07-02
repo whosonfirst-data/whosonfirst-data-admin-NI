@@ -16,16 +16,7 @@
     "name:ces_x_preferred":[
         "Corn Islands"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u4f0a\u65af\u7fa4\u5c9b"
-    ],
-    "name:cze_x_preferred":[
-        "Corn Islands"
-    ],
     "name:deu_x_preferred":[
-        "Corn Islands"
-    ],
-    "name:dut_x_preferred":[
         "Corn Islands"
     ],
     "name:eng_x_preferred":[
@@ -40,16 +31,7 @@
     "name:fra_x_preferred":[
         "\u00celes du Ma\u00efs"
     ],
-    "name:fre_x_preferred":[
-        "\u00celes du Ma\u00efs"
-    ],
     "name:frr_x_preferred":[
-        "Corn Islands"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d8\u10e1\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Corn Islands"
     ],
     "name:hrv_x_preferred":[
@@ -149,7 +131,7 @@
         }
     ],
     "wof:id":421194289,
-    "wof:lastmodified":1527716129,
+    "wof:lastmodified":1561767270,
     "wof:name":"Corn Island",
     "wof:parent_id":85675467,
     "wof:placetype":"locality",

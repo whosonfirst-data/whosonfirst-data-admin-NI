@@ -16,22 +16,16 @@
     "name:ceb_x_preferred":[
         "Nindir\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u5be7\u8fea\u91cc"
-    ],
-    "name:dut_x_preferred":[
-        "Nindir\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Nindir\u00ed"
     ],
     "name:fra_x_preferred":[
         "Nindir\u00ed"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Nindir\u00ed"
     ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Nindir\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421179389,
-    "wof:lastmodified":1514491768,
+    "wof:lastmodified":1561767275,
     "wof:name":"Nindir\u00ed",
     "wof:parent_id":1108693783,
     "wof:placetype":"locality",

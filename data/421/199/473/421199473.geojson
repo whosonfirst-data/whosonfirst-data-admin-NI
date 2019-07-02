@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Camoapa"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u83ab\u963f\u5e15"
-    ],
-    "name:dut_x_preferred":[
-        "Camoapa"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03bc\u03bf\u03ac\u03c0\u03b1"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Camoapa"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Camoapa"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03bf\u03ac\u03c0\u03b1"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Camoapa"
     ],
     "name:pol_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421199473,
-    "wof:lastmodified":1514491728,
+    "wof:lastmodified":1561767274,
     "wof:name":"Camoapa",
     "wof:parent_id":421189523,
     "wof:placetype":"locality",

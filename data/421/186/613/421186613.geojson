@@ -16,38 +16,29 @@
     "name:ara_x_preferred":[
         "\u062e\u064a\u0646\u0648\u062a\u0628\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Jinotepe"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09cb\u09a4\u09c7\u09aa\u09c7"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u8afe\u7279\u4f69"
     ],
     "name:dan_x_preferred":[
         "Jinotepe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jinotepe"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03b9\u03bd\u03bf\u03c4\u03ad\u03c0\u03b5"
+    ],
     "name:eng_x_preferred":[
+        "Jinotepe"
+    ],
+    "name:eus_x_preferred":[
         "Jinotepe"
     ],
     "name:fin_x_preferred":[
         "Jinotepe"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jinotepe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10d8\u10dc\u10dd\u10e2\u10d4\u10de\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Jinotepe"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b9\u03bd\u03bf\u03c4\u03ad\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0aa8\u0acb\u0a9f\u0ac7\u0aaa\u0ac7"
@@ -67,6 +58,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cbf\u0ca8\u0cca\u0c9f\u0cc6\u0caa\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d8\u10dc\u10dd\u10e2\u10d4\u10de\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\ud788\ub178\ud14c\ud398"
     ],
@@ -79,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0928\u094b\u091f\u0947\u092a\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Jinotepe"
+    ],
+    "name:nld_x_preferred":[
         "Jinotepe"
     ],
     "name:nob_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Jinotepe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u8afe\u7279\u4f69"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":421186613,
-    "wof:lastmodified":1527716316,
+    "wof:lastmodified":1561767273,
     "wof:name":"Jinotepe",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

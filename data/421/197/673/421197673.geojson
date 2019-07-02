@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Puerto Moraz\u00e1n"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u62c9\u6851\u6e2f"
-    ],
-    "name:dut_x_preferred":[
-        "Puerto Moraz\u00e1n"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03bf\u03c1\u03b1\u03c3\u03ac\u03bd"
     ],
@@ -30,12 +24,6 @@
     ],
     "name:fra_x_preferred":[
         "Puerto Moraz\u00e1n"
-    ],
-    "name:fre_x_preferred":[
-        "Puerto Moraz\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03bf\u03c1\u03b1\u03c3\u03ac\u03bd"
     ],
     "name:ita_x_preferred":[
         "Puerto Moraz\u00e1n"
@@ -63,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Puerto Moraz\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u62c9\u6851\u6e2f"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -110,7 +101,7 @@
         }
     ],
     "wof:id":421197673,
-    "wof:lastmodified":1527716400,
+    "wof:lastmodified":1561767273,
     "wof:name":"Puerto Morazan",
     "wof:parent_id":85675503,
     "wof:placetype":"locality",

@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Ticuantepe"
     ],
-    "name:chi_x_preferred":[
-        "\u8482\u5eab\u5b89\u7279\u4f69"
-    ],
-    "name:dut_x_preferred":[
-        "Ticuantepe"
-    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b9\u03ba\u03bf\u03c5\u03b1\u03bd\u03c4\u03ad\u03c0\u03b5"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Ticuantepe"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Ticuantepe"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b9\u03ba\u03bf\u03c5\u03b1\u03bd\u03c4\u03ad\u03c0\u03b5"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Ticuantepe"
     ],
     "name:spa_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421173743,
-    "wof:lastmodified":1514491790,
+    "wof:lastmodified":1561767272,
     "wof:name":"Ticuantepe",
     "wof:parent_id":421179217,
     "wof:placetype":"locality",

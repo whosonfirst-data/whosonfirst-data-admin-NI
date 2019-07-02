@@ -16,13 +16,7 @@
     "name:ceb_x_preferred":[
         "El Realejo"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u96f7\u963f\u840a\u970d"
-    ],
     "name:deu_x_preferred":[
-        "El Realejo"
-    ],
-    "name:dut_x_preferred":[
         "El Realejo"
     ],
     "name:ell_x_preferred":[
@@ -33,15 +27,6 @@
     ],
     "name:fra_x_preferred":[
         "El Realejo"
-    ],
-    "name:fre_x_preferred":[
-        "El Realejo"
-    ],
-    "name:ger_x_preferred":[
-        "El Realejo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb \u03a1\u03b5\u03b1\u03bb\u03ad\u03c7\u03bf"
     ],
     "name:ita_x_preferred":[
         "El Realejo"
@@ -117,7 +102,7 @@
         }
     ],
     "wof:id":421180165,
-    "wof:lastmodified":1514491740,
+    "wof:lastmodified":1561767272,
     "wof:name":"El Realejo",
     "wof:parent_id":1108693747,
     "wof:placetype":"locality",

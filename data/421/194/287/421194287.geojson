@@ -16,12 +16,6 @@
     "name:ceb_x_preferred":[
         "Diriomo"
     ],
-    "name:chi_x_preferred":[
-        "\u8fea\u91cc\u5967\u83ab"
-    ],
-    "name:dut_x_preferred":[
-        "Diriomo"
-    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b9\u03c1\u03b9\u03cc\u03bc\u03bf"
     ],
@@ -31,13 +25,10 @@
     "name:fra_x_preferred":[
         "Diriomo"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Diriomo"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b9\u03c1\u03b9\u03cc\u03bc\u03bf"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Diriomo"
     ],
     "name:spa_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421194287,
-    "wof:lastmodified":1514491737,
+    "wof:lastmodified":1561767270,
     "wof:name":"Diriomo",
     "wof:parent_id":421171789,
     "wof:placetype":"locality",

@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Potos\u00ed"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u6258\u897f"
-    ],
-    "name:dut_x_preferred":[
-        "Potos\u00ed"
-    ],
     "name:eng_x_preferred":[
         "Potos\u00ed"
     ],
     "name:fra_x_preferred":[
-        "Potos\u00ed"
-    ],
-    "name:fre_x_preferred":[
         "Potos\u00ed"
     ],
     "name:ita_x_preferred":[
@@ -36,6 +27,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30c8\u30b7\uff08\u30cb\u30ab\u30e9\u30b0\u30a2\uff09"
+    ],
+    "name:nld_x_preferred":[
+        "Potos\u00ed"
     ],
     "name:spa_x_preferred":[
         "Potos\u00ed"
@@ -97,7 +91,7 @@
         }
     ],
     "wof:id":421168607,
-    "wof:lastmodified":1527716099,
+    "wof:lastmodified":1561767270,
     "wof:name":"Potos\u00ed",
     "wof:parent_id":1108693813,
     "wof:placetype":"locality",

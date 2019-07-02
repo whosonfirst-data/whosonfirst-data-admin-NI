@@ -13,12 +13,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u591a\u660e\u6208"
-    ],
-    "name:dut_x_preferred":[
-        "Santo Domingo"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf"
     ],
@@ -28,13 +22,10 @@
     "name:fra_x_preferred":[
         "Santo Domingo"
     ],
-    "name:fre_x_preferred":[
+    "name:ita_x_preferred":[
         "Santo Domingo"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf"
-    ],
-    "name:ita_x_preferred":[
+    "name:nld_x_preferred":[
         "Santo Domingo"
     ],
     "name:spa_x_preferred":[
@@ -100,7 +91,7 @@
         }
     ],
     "wof:id":421180513,
-    "wof:lastmodified":1527716242,
+    "wof:lastmodified":1561767272,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108693851,
     "wof:placetype":"locality",

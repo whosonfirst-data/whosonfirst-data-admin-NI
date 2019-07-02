@@ -31,11 +31,8 @@
     "mps:longitude":-86.212588,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5229\u4f2f\u96f7"
-    ],
-    "name:dut_x_preferred":[
-        "San Francisco Libre"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u039b\u03af\u03bc\u03c0\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "San Francisco Libre"
@@ -43,17 +40,17 @@
     "name:eng_x_variant":[
         "San Francisco Libre"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Francisco Libre"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u039b\u03af\u03bc\u03c0\u03c1\u03b5"
     ],
     "name:ita_x_preferred":[
         "San Francisco Libre"
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3\u30fb\u30ea\u30d6\u30ec"
+    ],
+    "name:nld_x_preferred":[
+        "San Francisco Libre"
     ],
     "name:spa_x_preferred":[
         "San Francisco Libre"
@@ -66,6 +63,9 @@
     ],
     "name:vie_x_preferred":[
         "San Francisco Libre"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5229\u4f2f\u96f7"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1108693775,
-    "wof:lastmodified":1554489227,
+    "wof:lastmodified":1561767264,
     "wof:name":"San Francisco Libre",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

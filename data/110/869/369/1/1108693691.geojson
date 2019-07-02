@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be \u0995\u09a8\u0995\u09b0\u09cd\u09a1\u09bf\u09af\u09bc\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5b54\u79d1\u8fea\u4e9e"
-    ],
     "name:dan_x_preferred":[
         "La Concordia"
     ],
-    "name:dut_x_preferred":[
-        "La Concordia"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u039a\u03bf\u03bd\u03ba\u03cc\u03c1\u03b4\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Concordia"
@@ -55,11 +52,8 @@
     "name:fin_x_preferred":[
         "La Concordia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Concordia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u039a\u03bf\u03bd\u03ba\u03cc\u03c1\u03b4\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0a95\u0acb\u0aa8\u0acd\u0a95\u0acb\u0ab0\u0acd\u0aa1\u0abf\u0aaf\u0abe"
@@ -91,7 +85,10 @@
     "name:mar_x_preferred":[
         "\u0932\u093e \u0915\u0949\u0928\u0915\u0949\u0930\u094d\u0921\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "La Concordia"
+    ],
+    "name:nld_x_preferred":[
         "La Concordia"
     ],
     "name:nob_x_preferred":[
@@ -136,6 +133,9 @@
     "name:vie_x_preferred":[
         "La Concordia"
     ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5b54\u79d1\u8fea\u4e9e"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -172,7 +172,7 @@
         }
     ],
     "wof:id":1108693691,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1561767266,
     "wof:name":"La Concordia",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

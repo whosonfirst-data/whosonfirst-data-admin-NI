@@ -17,20 +17,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0643\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Boaco"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09af\u09bc\u09be\u0995\u09c1"
-    ],
-    "name:chi_x_preferred":[
-        "\u535a\u963f\u79d1"
     ],
     "name:dan_x_preferred":[
         "Boaco"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Boaco"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03ac\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Boaco"
@@ -38,20 +35,17 @@
     "name:epo_x_preferred":[
         "Boaco"
     ],
+    "name:eus_x_preferred":[
+        "Boaco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0622\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Boaco"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Boaco"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10d0\u10d9\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Boaco"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03ac\u03ba\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a95\u0acb"
@@ -71,6 +65,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0ccb\u0c86\u0c95\u0cca"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10dd\u10d0\u10d9\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubcf4\uc544\ucf54"
     ],
@@ -83,19 +80,19 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0915\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Boaco"
+    ],
+    "name:nld_x_preferred":[
         "Boaco"
     ],
     "name:nob_x_preferred":[
         "Boaco"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0622\u06a9\u0648"
-    ],
     "name:pol_x_preferred":[
         "Boaco"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Boaco"
     ],
     "name:rus_x_preferred":[
@@ -133,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Boaco"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u963f\u79d1"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nicaragua",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":421179765,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561767275,
     "wof:name":"Boaco",
     "wof:parent_id":1108693841,
     "wof:placetype":"locality",

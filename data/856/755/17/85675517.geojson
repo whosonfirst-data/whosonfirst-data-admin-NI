@@ -29,9 +29,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0646\u0648\u064a\u0641\u0627 \u0633\u064a\u063a\u0648\u0641\u064a\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Nueva Segoviako departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041d\u0443\u044d\u0432\u0430-\u0421\u0435\u0433\u043e\u0432\u0456\u044f"
     ],
@@ -44,17 +41,17 @@
     "name:cat_x_preferred":[
         "Departament de Nueva Segovia"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u585e\u54e5\u7dad\u4e9e\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nueva Segovia"
     ],
     "name:dan_x_preferred":[
         "Nueva Segovia Department"
     ],
-    "name:dut_x_preferred":[
-        "Nueva Segovia"
+    "name:deu_x_preferred":[
+        "Departamento Nueva Segovia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u03a3\u03b5\u03b3\u03ba\u03cc\u03b2\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Nueva Segovia"
@@ -62,23 +59,17 @@
     "name:epo_x_preferred":[
         "Nova Segovio"
     ],
+    "name:eus_x_preferred":[
+        "Nueva Segoviako departamendua"
+    ],
     "name:fin_x_preferred":[
         "Nueva Segovian departmentti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Nueva Segovia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10e3\u10d4\u10d5\u10d0 \u10e1\u10d4\u10d2\u10dd\u10d5\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Nueva Segovia"
     ],
     "name:glg_x_preferred":[
         "Departamento de Nueva Segovia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03bf\u03c5\u03ad\u03b2\u03b1 \u03a3\u03b5\u03b3\u03ba\u03cc\u03b2\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac1\u0a8f\u0ab5\u0abe \u0ab8\u0ac7\u0a97\u0acb\u0ab5\u0abf\u0a86 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -101,6 +92,9 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0cc1\u0cb5\u0cbe \u0cb8\u0cc6\u0c97\u0ccb\u0cb5\u0cbf\u0caf\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10e3\u10d4\u10d5\u10d0 \u10e1\u10d4\u10d2\u10dd\u10d5\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub204\uc5d0\ubc14\uc138\uace0\ube44\uc544 \uc8fc"
     ],
@@ -113,8 +107,11 @@
     "name:mar_x_preferred":[
         "\u0928\u0942\u0935\u094d\u0939\u0947 \u0938\u0947\u0917\u094b\u0935\u093f\u092f\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Nueva Segovia"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Segovia"
     ],
     "name:nob_x_preferred":[
         "Nueva Segovia"
@@ -128,7 +125,7 @@
     "name:que_x_preferred":[
         "Musuq Segovia suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Nueva Segovia"
     ],
     "name:rus_x_preferred":[
@@ -169,6 +166,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Nueva Segovia"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u585e\u54e5\u7dad\u4e9e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NIC",
@@ -293,7 +293,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550497,
+    "wof:lastmodified":1561767252,
     "wof:name":"Nueva Segovia",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

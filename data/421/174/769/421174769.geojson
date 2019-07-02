@@ -16,19 +16,10 @@
     "name:ceb_x_preferred":[
         "Nueva Guinea"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u5e7e\u5167\u4e9e"
-    ],
-    "name:dut_x_preferred":[
-        "Nueva Guinea"
-    ],
     "name:eng_x_preferred":[
         "Nueva Guinea"
     ],
     "name:fra_x_preferred":[
-        "Nueva Guinea"
-    ],
-    "name:fre_x_preferred":[
         "Nueva Guinea"
     ],
     "name:ita_x_preferred":[
@@ -111,7 +102,7 @@
         }
     ],
     "wof:id":421174769,
-    "wof:lastmodified":1514491768,
+    "wof:lastmodified":1561767272,
     "wof:name":"Nueva Guinea",
     "wof:parent_id":421192911,
     "wof:placetype":"locality",

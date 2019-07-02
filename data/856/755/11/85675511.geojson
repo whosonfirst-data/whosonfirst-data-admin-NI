@@ -30,9 +30,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0645\u062f\u0631\u064a\u0632"
     ],
-    "name:baq_x_preferred":[
-        "Madrizko departamendua"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u041c\u0430\u0434\u0440\u044b\u0441"
     ],
@@ -45,17 +42,17 @@
     "name:cat_x_preferred":[
         "Departament de Madriz"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5fb7\u91cc\u65af\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Madriz"
     ],
     "name:dan_x_preferred":[
         "Madriz Department"
     ],
-    "name:dut_x_preferred":[
-        "Madriz"
+    "name:deu_x_preferred":[
+        "Departamento Madriz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03b4\u03c1\u03af\u03b8"
     ],
     "name:eng_x_preferred":[
         "Madriz"
@@ -63,23 +60,17 @@
     "name:epo_x_preferred":[
         "Madriz"
     ],
+    "name:eus_x_preferred":[
+        "Madrizko departamendua"
+    ],
     "name:fin_x_preferred":[
         "Madrizin depatermentti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de Madriz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10d3\u10e0\u10d8\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Madriz"
     ],
     "name:glg_x_preferred":[
         "Departamento de Madriz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03b4\u03c1\u03af\u03b8"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0aa1\u0acd\u0ab0\u0abf\u0a9d \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -102,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0ca6\u0ccd\u0cb0\u0cbf\u0c9c\u0ccd \u0ca1\u0cbf\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10d3\u10e0\u10d8\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub4dc\ub9ac\uc2a4 \uc8fc"
     ],
@@ -114,8 +108,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0926\u094d\u0930\u093f\u091d \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Pentadbiran Madriz"
+    ],
+    "name:nld_x_preferred":[
+        "Madriz"
     ],
     "name:nob_x_preferred":[
         "Madriz"
@@ -129,7 +126,7 @@
     "name:que_x_preferred":[
         "Madriz suyu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Departamentul Madriz"
     ],
     "name:rus_x_preferred":[
@@ -170,6 +167,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Madriz"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5fb7\u91cc\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"NIC",
@@ -295,7 +295,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550503,
+    "wof:lastmodified":1561767252,
     "wof:name":"Madriz",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

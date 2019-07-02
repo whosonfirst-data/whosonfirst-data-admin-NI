@@ -136,9 +136,6 @@
     "name:cym_x_preferred":[
         "Nicaragwa"
     ],
-    "name:cze_x_preferred":[
-        "Nikaragua"
-    ],
     "name:dan_x_preferred":[
         "Nicaragua"
     ],
@@ -896,7 +893,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1544059313,
+    "wof:lastmodified":1561767253,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

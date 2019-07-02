@@ -31,11 +31,8 @@
     "mps:longitude":-86.107619,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u62c9\u5df4\u65af\u5fb7\u5361\u62c9\u7d22"
-    ],
-    "name:dut_x_preferred":[
-        "La Paz de Carazo"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03b4\u03b5 \u039a\u03b1\u03c1\u03ac\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "La Paz De Carazo"
@@ -45,13 +42,13 @@
         "La Paz de Carazo",
         "LA PAZ DE CARAZO"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "La Paz de Oriente"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03b4\u03b5 \u039a\u03b1\u03c1\u03ac\u03c3\u03bf"
-    ],
     "name:ita_x_preferred":[
+        "La Paz de Carazo"
+    ],
+    "name:nld_x_preferred":[
         "La Paz de Carazo"
     ],
     "name:spa_x_preferred":[
@@ -65,6 +62,9 @@
     ],
     "name:vie_x_preferred":[
         "La Paz de Carazo"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5df4\u65af\u5fb7\u5361\u62c9\u7d22"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -102,7 +102,7 @@
         }
     ],
     "wof:id":1108693801,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1561767266,
     "wof:name":"La Paz De Carazo",
     "wof:parent_id":85675471,
     "wof:placetype":"county",
