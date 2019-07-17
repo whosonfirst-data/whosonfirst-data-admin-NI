@@ -15,6 +15,12 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:ceb_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
     "name:deu_x_preferred":[
         "Santo Tom\u00e1s"
     ],
@@ -25,6 +31,9 @@
         "Santo Tom\u00e1s"
     ],
     "name:fra_x_preferred":[
+        "Santo Tom\u00e1s"
+    ],
+    "name:glg_x_preferred":[
         "Santo Tom\u00e1s"
     ],
     "name:ita_x_preferred":[
@@ -48,8 +57,14 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633\u060c \u0686\u0648\u0646\u062a\u0627\u0644\u06cc\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062a\u0648\u0645\u0627\u0633"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u6258\u99ac\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u65af\u6f58"
     ],
     "qs:name":"Santo Tom\u00e1s",
     "qs:photos_9r":0,
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":890430715,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335895,
     "wof:name":"Santo Tom\u00e1s",
     "wof:parent_id":1108693855,
     "wof:placetype":"locality",

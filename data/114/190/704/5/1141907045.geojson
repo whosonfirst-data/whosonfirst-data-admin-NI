@@ -20,6 +20,9 @@
     "name:ast_x_preferred":[
         "Greytown"
     ],
+    "name:ceb_x_preferred":[
+        "San Juan del Norte"
+    ],
     "name:deu_x_preferred":[
         "San Juan de Nicaragua"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1141907045,
-    "wof:lastmodified":1561767285,
+    "wof:lastmodified":1563336114,
     "wof:name":"San Juan de Nicaragua",
     "wof:parent_id":421175429,
     "wof:placetype":"locality",

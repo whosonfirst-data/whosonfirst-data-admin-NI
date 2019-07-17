@@ -34,11 +34,17 @@
     "name:aze_x_preferred":[
         "Manaqua"
     ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u0433\u0443\u0430"
+    ],
     "name:bar_x_preferred":[
         "Managua"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043d\u0430\u0433\u0443\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043d\u0430\u0433\u0443\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a8\u09be\u0997\u09c1\u09af\u09bc\u09be"
@@ -59,6 +65,9 @@
         "Managua"
     ],
     "name:cdo_x_preferred":[
+        "Managua"
+    ],
+    "name:ceb_x_preferred":[
         "Managua"
     ],
     "name:ces_x_preferred":[
@@ -110,6 +119,9 @@
         "Managua"
     ],
     "name:glg_x_preferred":[
+        "Managua"
+    ],
+    "name:gsw_x_preferred":[
         "Managua"
     ],
     "name:guj_x_preferred":[
@@ -238,6 +250,9 @@
     "name:oci_x_preferred":[
         "Managua"
     ],
+    "name:olo_x_preferred":[
+        "Managua"
+    ],
     "name:oss_x_preferred":[
         "\u041c\u0430\u043d\u0430\u0433\u0443\u00e6"
     ],
@@ -307,6 +322,9 @@
     "name:swe_x_preferred":[
         "Managua"
     ],
+    "name:szl_x_preferred":[
+        "Managua"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0ba9\u0bbe\u0b95\u0bc1\u0bb5\u0bbe"
     ],
@@ -345,6 +363,9 @@
     ],
     "name:war_x_preferred":[
         "Managua"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u90a3\u74dc"
     ],
     "name:yid_x_preferred":[
         "\u05de\u05d0\u05e0\u05d0\u05d2\u05d5\u05e2"
@@ -408,7 +429,7 @@
         }
     ],
     "wof:id":421180763,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1563335835,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",

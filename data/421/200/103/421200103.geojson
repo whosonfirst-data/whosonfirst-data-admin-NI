@@ -32,10 +32,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_preferred":[
+    "name:ast_x_preferred":[
         "Muy Muy"
     ],
-    "name:eng_x_variant":[
+    "name:ceb_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:deu_x_preferred":[
+        "Muy Muy"
+    ],
+    "name:eng_x_preferred":[
         "Muy Muy"
     ],
     "name:fra_x_preferred":[
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421200103,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335866,
     "wof:name":"Muy Muy",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

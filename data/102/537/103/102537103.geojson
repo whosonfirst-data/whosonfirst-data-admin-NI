@@ -15,6 +15,21 @@
     "name:ceb_x_preferred":[
         "Le\u00f3n Airport"
     ],
+    "name:eng_x_preferred":[
+        "Leon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30aa\u30f3\u7a7a\u6e2f"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Leon"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Le\u00f3n-Fanor Urroz"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Leon"
+    ],
     "name:spa_x_preferred":[
         "Aeropuerto de Le\u00f3n"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":102537103,
-    "wof:lastmodified":1543792155,
+    "wof:lastmodified":1563335260,
     "wof:name":"Fanor Urroz Airport",
     "wof:parent_id":85675489,
     "wof:placetype":"campus",

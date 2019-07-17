@@ -57,6 +57,9 @@
     "name:eng_x_preferred":[
         "Madriz"
     ],
+    "name:eng_x_variant":[
+        "Madriz Department"
+    ],
     "name:epo_x_preferred":[
         "Madriz"
     ],
@@ -68,6 +71,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Madriz"
+    ],
+    "name:fra_x_variant":[
+        "Madriz"
+    ],
+    "name:frr_x_preferred":[
+        "Madriz"
     ],
     "name:glg_x_preferred":[
         "Departamento de Madriz"
@@ -98,6 +107,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub4dc\ub9ac\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub4dc\ub9ac\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Madriz"
     ],
     "name:lav_x_preferred":[
         "Madrisas departaments"
@@ -152,6 +167,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e01\u0e23\u0e21\u0e41\u0e21\u0e40\u0e14\u0e23\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e14\u0e23\u0e34\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Madriz Departman\u0131"
@@ -295,7 +313,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767252,
+    "wof:lastmodified":1563335330,
     "wof:name":"Madriz",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

@@ -31,11 +31,16 @@
     "mps:longitude":-83.88011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kukra Hill"
+    ],
+    "name:ceb_x_preferred":[
+        "Kukra Hill"
+    ],
     "name:eng_x_preferred":[
         "Kukra Hill"
     ],
     "name:eng_x_variant":[
-        "Kukra Hill",
         "KUKRA HILL",
         "Kukra - Hill"
     ],
@@ -53,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "Kukra Hill"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0443\u043a\u0440\u0430-\u04ba\u0438\u043b\u043b"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u06a9\u0631\u0627 \u06c1\u0644"
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1108693873,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1563335689,
     "wof:name":"Kukra Hill",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

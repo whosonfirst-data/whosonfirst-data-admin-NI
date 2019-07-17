@@ -16,6 +16,9 @@
     "name:afr_x_preferred":[
         "El Viejo"
     ],
+    "name:ceb_x_preferred":[
+        "El Viejo"
+    ],
     "name:deu_x_preferred":[
         "El Viejo"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421181353,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335849,
     "wof:name":"El Viejo",
     "wof:parent_id":421170189,
     "wof:placetype":"locality",

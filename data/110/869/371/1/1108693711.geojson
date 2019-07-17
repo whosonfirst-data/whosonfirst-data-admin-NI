@@ -31,10 +31,13 @@
     "mps:longitude":-86.517006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:eng_x_preferred":[
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u043f\u0438\u043b\u0442\u043e"
+    ],
+    "name:ceb_x_preferred":[
         "Dipilto"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
         "Dipilto"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108693711,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1563335676,
     "wof:name":"Dipilto",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

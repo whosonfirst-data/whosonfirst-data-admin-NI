@@ -32,13 +32,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0414\u0438\u0440\u0438\u043e\u043c\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Diriomo"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b9\u03c1\u03b9\u03cc\u03bc\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Diriomo"
-    ],
-    "name:eng_x_variant":[
         "Diriomo"
     ],
     "name:fra_x_preferred":[
@@ -64,6 +67,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8fea\u91cc\u5967\u83ab"
+    ],
+    "name:zho_x_variant":[
+        "\u7279\u70cf\u65af\u7279\u4f69"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -125,7 +131,7 @@
         }
     ],
     "wof:id":421171789,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335892,
     "wof:name":"Diriomo",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

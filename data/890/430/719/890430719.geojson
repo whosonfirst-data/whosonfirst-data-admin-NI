@@ -48,6 +48,9 @@
     "name:zho_x_preferred":[
         "\u62c9\u5df4\u65af\u5fb7\u5361\u62c9\u7d22"
     ],
+    "name:zho_x_variant":[
+        "Valle San Francisco"
+    ],
     "qs:name":"La Paz de Oriente",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":890430719,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335896,
     "wof:name":"La Paz de Oriente",
     "wof:parent_id":1108693799,
     "wof:placetype":"locality",

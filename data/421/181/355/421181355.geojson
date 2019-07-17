@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u8fea\u91cc\u4e9e"
     ],
+    "name:zho_x_variant":[
+        "\u9054\u91cc\u5967\u5e02"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3620172,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421181355,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335850,
     "wof:name":"Diri\u00e1",
     "wof:parent_id":1108693805,
     "wof:placetype":"locality",

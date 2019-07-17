@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Rivas"
     ],
+    "name:eng_x_variant":[
+        "Rivas Department"
+    ],
     "name:epo_x_preferred":[
         "Rivas"
     ],
@@ -58,6 +61,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Rivas"
+    ],
+    "name:fra_x_variant":[
+        "Rivas"
+    ],
+    "name:frr_x_preferred":[
+        "Rivas"
     ],
     "name:glg_x_preferred":[
         "Departamento de Rivas"
@@ -79,6 +88,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ubc14\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\ubc14\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Rivas"
     ],
     "name:lit_x_preferred":[
         "Rivaso departamentas"
@@ -118,6 +133,9 @@
     ],
     "name:swe_x_preferred":[
         "Rivas"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e34\u0e1a\u0e31\u0e2a"
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u0430\u0441"
@@ -254,7 +272,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767253,
+    "wof:lastmodified":1563335335,
     "wof:name":"Rivas",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

@@ -31,6 +31,9 @@
     "mps:longitude":-86.460063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Rafael del Sur"
+    ],
     "name:deu_x_preferred":[
         "San Rafael del Sur"
     ],
@@ -41,9 +44,11 @@
         "San Rafael Del Sur"
     ],
     "name:eng_x_variant":[
-        "San Rafael Del Sur",
         "San Rafael del Sur",
         "SAN RAFAEL DEL SUR"
+    ],
+    "name:fin_x_preferred":[
+        "San Rafael del Sur"
     ],
     "name:fra_x_preferred":[
         "San Rafael del Sur"
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":1108693779,
-    "wof:lastmodified":1561767264,
+    "wof:lastmodified":1563335668,
     "wof:name":"San Rafael Del Sur",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

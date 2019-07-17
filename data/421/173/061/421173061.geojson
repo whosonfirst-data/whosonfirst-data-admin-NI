@@ -23,6 +23,9 @@
     "name:ben_x_preferred":[
         "\u0993\u0995\u09cb\u099f\u09be\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Ocotal"
+    ],
     "name:dan_x_preferred":[
         "Ocotal"
     ],
@@ -121,6 +124,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e2d\u0e42\u0e04\u0e17\u0e2d\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e2d\u0e42\u0e01\u0e15\u0e31\u0e25"
     ],
     "name:tur_x_preferred":[
         "Ocotal"
@@ -280,7 +286,7 @@
         }
     ],
     "wof:id":421173061,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1563335841,
     "wof:name":"Ocotal",
     "wof:parent_id":421170971,
     "wof:placetype":"locality",

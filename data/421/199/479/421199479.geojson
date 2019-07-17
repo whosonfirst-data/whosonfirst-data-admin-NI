@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Condega"
+    ],
     "name:deu_x_preferred":[
         "Condega"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421199479,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335864,
     "wof:name":"Condega",
     "wof:parent_id":421170061,
     "wof:placetype":"locality",

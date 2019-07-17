@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Corn Island"
+    ],
     "name:ces_x_preferred":[
         "Corn Islands"
     ],
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421194289,
-    "wof:lastmodified":1561767270,
+    "wof:lastmodified":1563335815,
     "wof:name":"Corn Island",
     "wof:parent_id":85675467,
     "wof:placetype":"locality",

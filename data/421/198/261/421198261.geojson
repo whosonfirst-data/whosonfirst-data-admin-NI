@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Sauce"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u03a3\u03ac\u03bf\u03c5\u03c3\u03b5"
     ],
@@ -40,8 +43,17 @@
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u0633\u0627\u0648\u0633\u06d2\u060c \u0644\u06cc\u0648\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u06cc\u0644 \u0633\u0627\u0648\u0633\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "El Sauce"
+    ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u7d39\u585e"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u723e\u963f\u723e\u9580\u5fb7\u7f85"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421198261,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335856,
     "wof:name":"El Sauce",
     "wof:parent_id":421168431,
     "wof:placetype":"locality",

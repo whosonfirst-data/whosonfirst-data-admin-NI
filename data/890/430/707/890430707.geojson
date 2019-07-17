@@ -15,6 +15,9 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Waspam"
+    ],
     "name:eng_x_preferred":[
         "Waspam"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890430707,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335895,
     "wof:name":"Waspam",
     "wof:parent_id":1108693673,
     "wof:placetype":"locality",

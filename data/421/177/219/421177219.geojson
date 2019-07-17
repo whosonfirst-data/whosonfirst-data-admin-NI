@@ -16,10 +16,16 @@
     "name:ceb_x_preferred":[
         "Morrito"
     ],
+    "name:eng_x_preferred":[
+        "Morrito"
+    ],
     "name:fra_x_preferred":[
         "Morrito"
     ],
     "name:ita_x_preferred":[
+        "Morrito"
+    ],
+    "name:nld_x_preferred":[
         "Morrito"
     ],
     "name:sco_x_preferred":[
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421177219,
-    "wof:lastmodified":1527716478,
+    "wof:lastmodified":1563335874,
     "wof:name":"Morrito",
     "wof:parent_id":1108693861,
     "wof:placetype":"locality",

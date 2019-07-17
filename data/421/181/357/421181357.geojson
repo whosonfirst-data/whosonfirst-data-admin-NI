@@ -34,6 +34,9 @@
     "name:urd_x_preferred":[
         "\u0628\u0648\u06cc\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633\u060c \u0631\u06cc\u0648\u0627\u0632"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u0648\u06cc\u0646\u0648\u0633 \u0622\u06cc\u0631\u0633"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u57c3\u8afe\u65af\u827e\u96f7\u65af"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421181357,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335853,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421202287,
     "wof:placetype":"locality",

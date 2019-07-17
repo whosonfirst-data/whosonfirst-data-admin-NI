@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santo Domingo"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03bf \u039d\u03c4\u03bf\u03bc\u03af\u03bd\u03b3\u03ba\u03bf"
     ],
@@ -40,8 +43,14 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u06cc\u0646\u06af\u0648\u060c \u0686\u0648\u0646\u062a\u0627\u0644\u06cc\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646\u062a\u0648 \u062f\u0648\u0645\u06cc\u0646\u06af\u0648"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u591a\u660e\u6208"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u62ff\u74dc"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":421180513,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1563335839,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108693851,
     "wof:placetype":"locality",

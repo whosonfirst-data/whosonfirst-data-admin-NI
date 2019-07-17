@@ -49,6 +49,9 @@
     "name:zho_x_preferred":[
         "\u6258\u6258\u52a0\u723e\u5e15"
     ],
+    "name:zho_x_variant":[
+        "\u514b\u85a9\u723e\u74dc\u514b"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3615998,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179375,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1563335883,
     "wof:name":"Totogalpa",
     "wof:parent_id":1108693717,
     "wof:placetype":"locality",

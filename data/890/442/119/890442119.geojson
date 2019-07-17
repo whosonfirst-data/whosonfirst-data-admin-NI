@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09cb\u09a4\u09c7\u09aa\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Jinotepe"
+    ],
     "name:dan_x_preferred":[
         "Jinotepe"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0abf\u0aa8\u0acb\u0a9f\u0ac7\u0aaa\u0ac7"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d9\u05e0\u05d5\u05d8\u05e4\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u0928\u094b\u091f\u0947\u092a\u0947"
@@ -91,6 +97,9 @@
     "name:por_x_preferred":[
         "Jinotepe"
     ],
+    "name:ron_x_preferred":[
+        "Jinotepe"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0438\u043d\u043e\u0442\u0435\u043f\u0435"
     ],
@@ -112,6 +121,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e34\u0e42\u0e19\u0e40\u0e15\u0e40\u0e1b"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e34\u0e42\u0e19\u0e40\u0e15\u0e40\u0e1b"
+    ],
     "name:tur_x_preferred":[
         "Jinotepe"
     ],
@@ -120,6 +132,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u06cc\u0646\u0648\u062a\u06cc\u067e\u06d2\u060c \u06a9\u0627\u0631\u0627\u0633\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u062e\u06cc\u0646\u0648\u062a\u06cc\u067e\u06d2"
     ],
     "name:vie_x_preferred":[
         "Jinotepe"
@@ -250,7 +265,7 @@
         }
     ],
     "wof:id":890442119,
-    "wof:lastmodified":1561767277,
+    "wof:lastmodified":1563335902,
     "wof:name":"Jinotepe",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

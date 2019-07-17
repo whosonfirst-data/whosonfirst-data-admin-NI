@@ -50,6 +50,9 @@
     "name:eng_x_preferred":[
         "Le\u00f3n"
     ],
+    "name:eng_x_variant":[
+        "Le\u00f3n Department"
+    ],
     "name:epo_x_preferred":[
         "Leono"
     ],
@@ -61,6 +64,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Le\u00f3n"
+    ],
+    "name:fra_x_variant":[
+        "Le\u00f3n"
+    ],
+    "name:frr_x_preferred":[
+        "Le\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Departamento de Le\u00f3n"
@@ -85,6 +94,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub808\uc628 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub808\uc628\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Leon"
     ],
     "name:lit_x_preferred":[
         "Leono departamentas"
@@ -131,6 +146,9 @@
     ],
     "name:swe_x_preferred":[
         "Le\u00f3n"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e25\u0e2d\u0e2d\u0e19"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043e\u043d"
@@ -267,7 +285,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767253,
+    "wof:lastmodified":1563335337,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

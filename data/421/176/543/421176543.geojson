@@ -25,6 +25,9 @@
     "name:eus_x_preferred":[
         "Ciudad Sandino"
     ],
+    "name:fin_x_preferred":[
+        "Ciudad Sandino"
+    ],
     "name:fra_x_preferred":[
         "Ciudad Sandino"
     ],
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":421176543,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1563335887,
     "wof:name":"Ciudad Sandino",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",

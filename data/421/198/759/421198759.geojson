@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Cuapa"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u03b4\u03b5 \u039a\u03bf\u03c5\u03ac\u03c0\u03b1"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:zho_x_preferred":[
         "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u5eab\u963f\u5e15"
+    ],
+    "name:zho_x_variant":[
+        "\u591a\u840a\u96f7\u65af"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421198759,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335857,
     "wof:name":"Cuapa",
     "wof:parent_id":1108693847,
     "wof:placetype":"locality",

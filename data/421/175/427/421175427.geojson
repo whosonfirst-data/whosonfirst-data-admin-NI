@@ -35,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0438\u043f\u0438\u0442\u0430\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Tipitapa"
+    ],
     "name:deu_x_preferred":[
         "Tipitapa"
     ],
@@ -44,13 +47,13 @@
     "name:eng_x_preferred":[
         "Tipitapa"
     ],
-    "name:eng_x_variant":[
-        "Tipitapa"
-    ],
     "name:est_x_preferred":[
         "Tipitapa"
     ],
     "name:eus_x_preferred":[
+        "Tipitapa"
+    ],
+    "name:fin_x_preferred":[
         "Tipitapa"
     ],
     "name:fra_x_preferred":[
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421175427,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335855,
     "wof:name":"Tipitapa",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

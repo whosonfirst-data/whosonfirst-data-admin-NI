@@ -32,12 +32,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Telica"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb\u03af\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Telica"
     ],
     "name:eng_x_variant":[
-        "Telica",
         "TELICA"
+    ],
+    "name:est_x_preferred":[
+        "Telica"
+    ],
+    "name:fra_x_preferred":[
+        "Telica"
+    ],
+    "name:ita_x_preferred":[
+        "Telica"
+    ],
+    "name:nld_x_preferred":[
+        "Telica"
+    ],
+    "name:spa_x_preferred":[
+        "Telica"
+    ],
+    "name:swe_x_preferred":[
+        "Telica"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0644\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Telica"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5229\u5361"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -99,7 +131,7 @@
         }
     ],
     "wof:id":421179703,
-    "wof:lastmodified":1554488786,
+    "wof:lastmodified":1563335881,
     "wof:name":"Telica",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "San Rafael del Sur"
     ],
+    "name:fin_x_preferred":[
+        "San Rafael del Sur"
+    ],
     "name:fra_x_preferred":[
         "San Rafael del Sur"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421194273,
-    "wof:lastmodified":1561767270,
+    "wof:lastmodified":1563335814,
     "wof:name":"San Rafael del Sur",
     "wof:parent_id":1108693779,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0625\u0633\u062a\u064a\u0644\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Departamentu d'Estel\u00ed"
+    ],
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u042d\u0441\u0442\u044d\u043b\u0456"
     ],
@@ -62,6 +65,9 @@
     "name:eng_x_preferred":[
         "Estel\u00ed"
     ],
+    "name:eng_x_variant":[
+        "Estel\u00ed Department"
+    ],
     "name:epo_x_preferred":[
         "Estelio"
     ],
@@ -76,6 +82,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement d'Estel\u00ed"
+    ],
+    "name:fra_x_variant":[
+        "Estel\u00ed"
+    ],
+    "name:frr_x_preferred":[
+        "Estel\u00ed"
     ],
     "name:glg_x_preferred":[
         "Departamento de Estel\u00ed"
@@ -106,6 +118,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d0\uc2a4\ud154\ub9ac \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d0\uc2a4\ud154\ub9ac\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Estel\u00ed"
     ],
     "name:lav_x_preferred":[
         "Esteli departaments"
@@ -164,6 +182,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2a\u0e1b\u0e23\u0e34\u0e17 \u0e14\u0e32\u0e25\u0e21\u0e32\u0e40\u0e17\u0e35\u0e22 \u0e04\u0e31\u0e19\u0e17\u0e23\u0e35\u0e48"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e2a\u0e40\u0e15\u0e25\u0e35"
     ],
     "name:tur_x_preferred":[
         "Estel\u00ed \u0130li"
@@ -306,7 +327,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767252,
+    "wof:lastmodified":1563335329,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

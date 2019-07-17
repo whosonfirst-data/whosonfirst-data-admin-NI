@@ -15,6 +15,9 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "La Concepci\u00f3n"
+    ],
     "name:deu_x_preferred":[
         "La Concepci\u00f3n"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u06a9\u0648\u0646\u0633\u067e\u0633\u06cc\u0648\u0646\u060c \u0645\u0627\u0633\u0627\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u06a9\u0648\u0646\u0633\u067e\u0633\u06cc\u0648\u0646"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5eb7\u585e\u666e\u897f\u7fc1"
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890441005,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335894,
     "wof:name":"La Concepci\u00f3n",
     "wof:parent_id":1108693785,
     "wof:placetype":"locality",

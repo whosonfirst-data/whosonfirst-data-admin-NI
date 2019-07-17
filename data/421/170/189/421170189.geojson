@@ -35,6 +35,9 @@
     "name:afr_x_preferred":[
         "El Viejo"
     ],
+    "name:ceb_x_preferred":[
+        "El Viejo"
+    ],
     "name:deu_x_preferred":[
         "El Viejo"
     ],
@@ -42,9 +45,6 @@
         "\u0395\u03bb \u0392\u03b9\u03ad\u03c7\u03bf"
     ],
     "name:eng_x_preferred":[
-        "El Viejo"
-    ],
-    "name:eng_x_variant":[
         "El Viejo"
     ],
     "name:fra_x_preferred":[
@@ -61,6 +61,9 @@
     ],
     "name:pol_x_preferred":[
         "El Viejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0412\u044c\u0435\u0445\u043e"
     ],
     "name:spa_x_preferred":[
         "El Viejo"
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421170189,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335872,
     "wof:name":"El Viejo",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

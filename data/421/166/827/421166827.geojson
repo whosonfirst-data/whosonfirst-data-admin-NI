@@ -49,6 +49,9 @@
     "name:zho_x_preferred":[
         "\u62c9\u65af\u85a9\u74e6\u7d0d\u65af"
     ],
+    "name:zho_x_variant":[
+        "\u7279\u5229\u5361"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3618124,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421166827,
-    "wof:lastmodified":1561767270,
+    "wof:lastmodified":1563335808,
     "wof:name":"Las Sabanas",
     "wof:parent_id":1108693731,
     "wof:placetype":"locality",

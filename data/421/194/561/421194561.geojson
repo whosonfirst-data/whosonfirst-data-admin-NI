@@ -19,10 +19,19 @@
     "name:ell_x_preferred":[
         "\u0392\u03af\u03bb\u03bb\u03b9\u03b1 \u03a3\u03b1\u03bd\u03c4\u03af\u03bd\u03bf"
     ],
+    "name:eng_x_preferred":[
+        "Villa Sandino"
+    ],
     "name:fra_x_preferred":[
         "Villa Sandino"
     ],
+    "name:fra_x_variant":[
+        "villa Sandino"
+    ],
     "name:ita_x_preferred":[
+        "Villa Sandino"
+    ],
+    "name:nld_x_preferred":[
         "Villa Sandino"
     ],
     "name:spa_x_preferred":[
@@ -42,6 +51,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6851\u8fea\u8afe\u93ae"
+    ],
+    "name:zho_x_variant":[
+        "\u683c\u62c9\u7eb3\u8fbe"
     ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -91,7 +103,7 @@
         }
     ],
     "wof:id":421194561,
-    "wof:lastmodified":1527716127,
+    "wof:lastmodified":1563335812,
     "wof:name":"Villa Sandino",
     "wof:parent_id":1108693857,
     "wof:placetype":"locality",
