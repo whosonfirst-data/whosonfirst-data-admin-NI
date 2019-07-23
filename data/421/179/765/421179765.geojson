@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09af\u09bc\u09be\u0995\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Boaco"
+    ],
     "name:dan_x_preferred":[
         "Boaco"
     ],
@@ -118,6 +121,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1a\u0e0b\u0e42\u0e04"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1a\u0e2d\u0e32\u0e42\u0e01"
     ],
     "name:tur_x_preferred":[
         "Boaco"
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":421179765,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1563335878,
     "wof:name":"Boaco",
     "wof:parent_id":1108693841,
     "wof:placetype":"locality",

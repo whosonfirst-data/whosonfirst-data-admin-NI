@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Carazo"
     ],
+    "name:eng_x_variant":[
+        "Carazo Department"
+    ],
     "name:epo_x_preferred":[
         "Karazo"
     ],
@@ -67,6 +70,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Carazo"
+    ],
+    "name:fra_x_variant":[
+        "Carazo"
+    ],
+    "name:frr_x_preferred":[
+        "Carazo"
     ],
     "name:glg_x_preferred":[
         "Departamento de Carazo"
@@ -100,6 +109,12 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub77c\uc18c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub77c\uc18c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Carazo"
     ],
     "name:lav_x_preferred":[
         "Karaso departaments"
@@ -299,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767253,
+    "wof:lastmodified":1563335341,
     "wof:name":"Carazo",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

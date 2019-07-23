@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Masaya"
     ],
+    "name:eng_x_variant":[
+        "Masaya Department"
+    ],
     "name:epo_x_preferred":[
         "Masajo"
     ],
@@ -67,6 +70,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Masaya"
+    ],
+    "name:fra_x_variant":[
+        "Masaya"
+    ],
+    "name:frr_x_preferred":[
+        "Masaya"
     ],
     "name:glg_x_preferred":[
         "Departamento de Masaya"
@@ -97,6 +106,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc0ac\uc57c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc0ac\uc57c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Masaya"
     ],
     "name:lav_x_preferred":[
         "Masajas departaments"
@@ -151,6 +166,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e02\u0e15\u0e21\u0e32\u0e0b\u0e32\u0e22\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e0b\u0e32\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Masaya Departman\u0131"
@@ -293,7 +311,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767253,
+    "wof:lastmodified":1563335339,
     "wof:name":"Masaya",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

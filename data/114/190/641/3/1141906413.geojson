@@ -20,6 +20,12 @@
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u099f\u09c7\u09b2\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Estel\u00ed"
+    ],
+    "name:cym_x_preferred":[
+        "Estel\u00ed"
+    ],
     "name:dan_x_preferred":[
         "Esteli"
     ],
@@ -104,6 +110,9 @@
     "name:swe_x_preferred":[
         "Estel\u00ed"
     ],
+    "name:szl_x_preferred":[
+        "Estel\u00ed"
+    ],
     "name:tam_x_preferred":[
         "\u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0bb2\u0bbf"
     ],
@@ -112,6 +121,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e2a\u0e40\u0e17\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e40\u0e2d\u0e2a\u0e40\u0e15\u0e25\u0e35"
     ],
     "name:tur_x_preferred":[
         "Estel\u00ed"
@@ -247,7 +259,7 @@
         }
     ],
     "wof:id":1141906413,
-    "wof:lastmodified":1561767285,
+    "wof:lastmodified":1563336114,
     "wof:name":"Esteli",
     "wof:parent_id":1108693753,
     "wof:placetype":"locality",

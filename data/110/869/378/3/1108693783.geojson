@@ -31,11 +31,13 @@
     "mps:longitude":-86.142105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nindir\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Nindiri"
     ],
     "name:eng_x_variant":[
-        "Nindiri",
         "Nindir\u00ed",
         "NINDIRI"
     ],
@@ -44,6 +46,9 @@
     ],
     "name:ita_x_preferred":[
         "Nindir\u00ed"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cb\u30f3\u30c7\u30a3\u30ea"
     ],
     "name:nld_x_preferred":[
         "Nindir\u00ed"
@@ -56,6 +61,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0646\u062f\u06cc\u0631\u06cc\u060c \u0645\u0627\u0633\u0627\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u06cc\u0646\u062f\u06cc\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
         "Nindir\u00ed"
@@ -99,7 +107,7 @@
         }
     ],
     "wof:id":1108693783,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1563335681,
     "wof:name":"Nindiri",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

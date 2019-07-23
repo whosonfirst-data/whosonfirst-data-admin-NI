@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Chontales"
     ],
+    "name:eng_x_variant":[
+        "Chontales Department"
+    ],
     "name:epo_x_preferred":[
         "\u0108ontales"
     ],
@@ -67,6 +70,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Chontales"
+    ],
+    "name:fra_x_variant":[
+        "Chontales"
+    ],
+    "name:frr_x_preferred":[
+        "Chontales"
     ],
     "name:glg_x_preferred":[
         "Departamento de Chontales"
@@ -97,6 +106,12 @@
     ],
     "name:kor_x_preferred":[
         "\ucd0c\ud0c8\ub808\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucd0c\ud0c8\ub808\uc2a4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Chontales"
     ],
     "name:lav_x_preferred":[
         "\u010contalesas departaments"
@@ -293,7 +308,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767252,
+    "wof:lastmodified":1563335334,
     "wof:name":"Chontales",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

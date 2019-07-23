@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "El Ostional"
+    ],
     "name:unk_x_variant":[
         "Ostinal"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":421202847,
-    "wof:lastmodified":1527716211,
+    "wof:lastmodified":1563335831,
     "wof:name":"El Ostional",
     "wof:parent_id":421202297,
     "wof:placetype":"locality",

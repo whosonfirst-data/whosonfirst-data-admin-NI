@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u7279\u723e\u5e15\u5167\u5361"
     ],
+    "name:zho_x_variant":[
+        "\u99ac\u8482\u74dc\u65af"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3616088,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421201767,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335868,
     "wof:name":"Telpaneca",
     "wof:parent_id":1108693723,
     "wof:placetype":"locality",

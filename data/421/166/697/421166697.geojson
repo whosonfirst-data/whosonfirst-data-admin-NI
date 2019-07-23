@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u4e9e\u62c9\u572d\u7d0d"
     ],
+    "name:zho_x_variant":[
+        "\u5e03\u76e7\u83f2\u723e\u8332"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3615669,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421166697,
-    "wof:lastmodified":1561767270,
+    "wof:lastmodified":1563335810,
     "wof:name":"Yalag\u00fcina",
     "wof:parent_id":1108693727,
     "wof:placetype":"locality",

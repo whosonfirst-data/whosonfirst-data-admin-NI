@@ -15,6 +15,12 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u0441\u043e\u043b\u0442\u0435\u0433\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Posoltega"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c3\u03bf\u03bb\u03c4\u03ad\u03b3\u03b1"
     ],
@@ -47,6 +53,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0633\u0648\u0644\u062a\u06cc\u06af\u0627\u060c \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0648\u0633\u0648\u0644\u062a\u06cc\u06af\u0627"
     ],
     "name:vie_x_preferred":[
         "Posoltega"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890444879,
-    "wof:lastmodified":1561767277,
+    "wof:lastmodified":1563335901,
     "wof:name":"Posoltega",
     "wof:parent_id":1108693749,
     "wof:placetype":"locality",

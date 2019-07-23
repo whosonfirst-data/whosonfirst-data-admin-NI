@@ -15,6 +15,9 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Prinzapolka"
+    ],
     "name:deu_x_preferred":[
         "Prinzapolka"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890445475,
-    "wof:lastmodified":1561767277,
+    "wof:lastmodified":1563335903,
     "wof:name":"Prinzapolka",
     "wof:parent_id":85675485,
     "wof:placetype":"locality",

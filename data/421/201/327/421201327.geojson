@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Crucero"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u039a\u03c1\u03bf\u03c5\u03c3\u03ad\u03c1\u03bf"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421201327,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335869,
     "wof:name":"El Crucero",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",

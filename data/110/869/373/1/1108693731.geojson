@@ -31,13 +31,13 @@
     "mps:longitude":-86.642542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Las Sabanas"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03c2 \u03a3\u03b1\u03bc\u03c0\u03ac\u03bd\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Las Sabanas"
-    ],
-    "name:eng_x_variant":[
         "Las Sabanas"
     ],
     "name:fra_x_preferred":[
@@ -51,6 +51,9 @@
     ],
     "name:spa_x_preferred":[
         "Las Sabanas"
+    ],
+    "name:spa_x_variant":[
+        "San Fco. Del Norte"
     ],
     "name:swe_x_preferred":[
         "Las Sabanas"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108693731,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1563335687,
     "wof:name":"Las Sabanas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

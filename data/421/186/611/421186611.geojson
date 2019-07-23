@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Jinotega"
     ],
+    "name:ceb_x_preferred":[
+        "Jinotega"
+    ],
     "name:dan_x_preferred":[
         "Jinotega"
     ],
@@ -175,6 +178,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e34\u0e42\u0e19\u0e40\u0e15\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e34\u0e42\u0e19\u0e40\u0e15\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Jinotega"
@@ -337,7 +343,7 @@
         }
     ],
     "wof:id":421186611,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335846,
     "wof:name":"Jinotega",
     "wof:parent_id":1108693695,
     "wof:placetype":"locality",

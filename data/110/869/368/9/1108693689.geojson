@@ -60,6 +60,9 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0aa8"
     ],
+    "name:guj_x_variant":[
+        "\u0ab8\u0abe\u0aa8 "
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0938\u0947\u092c\u0947\u0938\u094d\u091f\u093f\u092f\u0928 \u0926\u0947 \u092f\u093e\u0932\u0940"
     ],
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1108693689,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1563335682,
     "wof:name":"San Sebastian De Yali",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

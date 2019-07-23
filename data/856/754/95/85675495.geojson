@@ -56,6 +56,9 @@
     "name:eng_x_preferred":[
         "Managua"
     ],
+    "name:eng_x_variant":[
+        "Managua Department"
+    ],
     "name:eus_x_preferred":[
         "Managuako departamendua"
     ],
@@ -64,6 +67,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Managua"
+    ],
+    "name:fra_x_variant":[
+        "Managua"
+    ],
+    "name:frr_x_preferred":[
+        "Managua"
     ],
     "name:glg_x_preferred":[
         "Departamento de Managua"
@@ -86,6 +95,9 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ca\u30b0\u30a2"
     ],
+    "name:jpn_x_variant":[
+        "\u30de\u30ca\u30b0\u30a2\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0ca8\u0cbe\u0c97\u0cc1\u0cb5\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
@@ -94,6 +106,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\ub098\uacfc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub098\uacfc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Managua"
     ],
     "name:lav_x_preferred":[
         "Managvas departaments"
@@ -157,6 +175,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e19\u0e32\u0e01\u0e31\u0e27"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e21\u0e32\u0e19\u0e32\u0e01\u0e31\u0e27"
     ],
     "name:tur_x_preferred":[
         "Managua Departman\u0131"
@@ -302,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767253,
+    "wof:lastmodified":1563335336,
     "wof:name":"Managua",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

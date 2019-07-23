@@ -48,6 +48,9 @@
     "name:ita_x_preferred":[
         "Santa Mar\u00eda de Pantasma"
     ],
+    "name:mar_x_preferred":[
+        "San Sebastian De Yali"
+    ],
     "name:nld_x_preferred":[
         "Santa Mar\u00eda de Pantasma"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108693687,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1563335682,
     "wof:name":"Las Praderas",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

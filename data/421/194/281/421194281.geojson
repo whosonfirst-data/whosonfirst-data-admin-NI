@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Murra"
+    ],
     "name:eng_x_preferred":[
         "Murra"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0627\u060c \u0646\u0648\u06cc\u0628\u0627 \u0633\u06cc\u06af\u0648\u0628\u06cc\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0631\u0627"
     ],
     "name:vie_x_preferred":[
         "Murra"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421194281,
-    "wof:lastmodified":1561767270,
+    "wof:lastmodified":1563335816,
     "wof:name":"Murra",
     "wof:parent_id":1108693697,
     "wof:placetype":"locality",

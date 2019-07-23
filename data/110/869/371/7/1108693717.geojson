@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043e\u0433\u0430\u043b\u043f\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Totogalpa"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03bf\u03c4\u03bf\u03b3\u03ac\u03bb\u03c0\u03b1"
     ],
@@ -41,7 +44,6 @@
         "Totolgalpa"
     ],
     "name:eng_x_variant":[
-        "Totolgalpa",
         "Totogalpa",
         "TOTOGALPA"
     ],
@@ -65,6 +67,9 @@
     ],
     "name:vie_x_preferred":[
         "Totogalpa"
+    ],
+    "name:war_x_preferred":[
+        "Santo Tomas"
     ],
     "name:zho_x_preferred":[
         "\u6258\u6258\u52a0\u723e\u5e15"
@@ -105,7 +110,7 @@
         }
     ],
     "wof:id":1108693717,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1563335675,
     "wof:name":"Totolgalpa",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

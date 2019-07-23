@@ -14,6 +14,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Juan del Sur"
+    ],
     "name:ceb_x_preferred":[
         "San Juan del Sur"
     ],
@@ -27,6 +30,9 @@
         "San Juan del Sur"
     ],
     "name:fra_x_preferred":[
+        "San Juan del Sur"
+    ],
+    "name:glg_x_preferred":[
         "San Juan del Sur"
     ],
     "name:heb_x_preferred":[
@@ -207,7 +213,7 @@
         }
     ],
     "wof:id":421176291,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1563335888,
     "wof:name":"San Juan del Sur",
     "wof:parent_id":421202297,
     "wof:placetype":"locality",

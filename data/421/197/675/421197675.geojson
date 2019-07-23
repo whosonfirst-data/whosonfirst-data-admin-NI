@@ -40,6 +40,9 @@
     "name:vie_x_preferred":[
         "Laguna de Perlas"
     ],
+    "name:zho_x_preferred":[
+        "\u73cd\u73e0\u6f5f\u6e56"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3618522,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421197675,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1563335860,
     "wof:name":"Laguna de Perlas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:bel_x_preferred":[
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0427\u044b\u043d\u0430\u043d\u0434\u044d\u0433\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0434\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u0427\u044b\u043d\u0430\u043d\u0434\u044d\u0433\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a8\u09be\u09a8\u09cd\u09a1\u09c7\u0997\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -56,6 +59,9 @@
     "name:eng_x_preferred":[
         "Chinandega"
     ],
+    "name:eng_x_variant":[
+        "Chinandega Department"
+    ],
     "name:epo_x_preferred":[
         "\u0108inandego"
     ],
@@ -67,6 +73,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Chinandega"
+    ],
+    "name:fra_x_variant":[
+        "Chinandega"
+    ],
+    "name:frr_x_preferred":[
+        "Chinandega"
     ],
     "name:glg_x_preferred":[
         "Departamento de Chinandega"
@@ -97,6 +109,12 @@
     ],
     "name:kor_x_preferred":[
         "\uce58\ub09c\ub370\uac00 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce58\ub09c\ub370\uac00\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Chinandega"
     ],
     "name:lav_x_preferred":[
         "\u010cinandegas departaments"
@@ -154,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e0a\u0e34\u0e19\u0e31\u0e19\u0e40\u0e14\u0e01\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e34\u0e19\u0e31\u0e19\u0e40\u0e14\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Chinandega"
@@ -296,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767252,
+    "wof:lastmodified":1563335327,
     "wof:name":"Chinandega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

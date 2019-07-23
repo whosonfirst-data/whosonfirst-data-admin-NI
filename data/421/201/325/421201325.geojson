@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Matigu\u00e1s"
+    ],
     "name:ceb_x_preferred":[
         "Matigu\u00e1s"
     ],
@@ -21,6 +24,9 @@
     ],
     "name:fra_x_preferred":[
         "Matiguas"
+    ],
+    "name:fra_x_variant":[
+        "Matigu\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Matigu\u00e1s"
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421201325,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335868,
     "wof:name":"Matigu\u00e1s",
     "wof:parent_id":1108693833,
     "wof:placetype":"locality",

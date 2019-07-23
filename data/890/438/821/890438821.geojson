@@ -15,6 +15,12 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0427\u0438\u0447\u0438\u0433\u0430\u043b\u043f\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Chichigalpa"
+    ],
     "name:deu_x_preferred":[
         "Chichigalpa"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":890438821,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335900,
     "wof:name":"Chichigalpa",
     "wof:parent_id":421189527,
     "wof:placetype":"locality",

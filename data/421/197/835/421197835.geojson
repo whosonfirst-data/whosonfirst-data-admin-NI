@@ -53,14 +53,14 @@
     "name:eng_x_preferred":[
         "Rivas"
     ],
-    "name:eng_x_variant":[
-        "Rivas"
-    ],
     "name:epo_x_preferred":[
         "Rivas"
     ],
     "name:eus_x_preferred":[
         "Rivas"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0648\u0627\u0633"
     ],
     "name:fin_x_preferred":[
         "Rivas"
@@ -140,6 +140,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e27\u0e32\u0e2a"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e34\u0e1a\u0e31\u0e2a"
+    ],
     "name:tur_x_preferred":[
         "Ricas"
     ],
@@ -148,6 +151,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0648\u0627\u0632\u060c \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u06cc\u0648\u0627\u0632"
     ],
     "name:vie_x_preferred":[
         "Rivas"
@@ -215,7 +221,7 @@
         }
     ],
     "wof:id":421197835,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335861,
     "wof:name":"Rivas",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

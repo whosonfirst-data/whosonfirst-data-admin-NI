@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Puerto Cabezas"
     ],
+    "name:ceb_x_preferred":[
+        "Puerto Cabezas"
+    ],
     "name:dan_x_preferred":[
         "Puerto Cabezas"
     ],
@@ -104,6 +107,9 @@
     "name:spa_x_preferred":[
         "Bilwi"
     ],
+    "name:spa_x_variant":[
+        "Puerto Cabezas"
+    ],
     "name:swe_x_preferred":[
         "Puerto Cabezas"
     ],
@@ -115,6 +121,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e23\u0e42\u0e15 \u0e04\u0e32\u0e40\u0e1a\u0e0b\u0e32\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e01\u0e32\u0e40\u0e1a\u0e0b\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
         "Puerto Cabezas"
@@ -276,7 +285,7 @@
         }
     ],
     "wof:id":421197893,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1563335862,
     "wof:name":"Puerto Cabezas",
     "wof:parent_id":421201657,
     "wof:placetype":"locality",

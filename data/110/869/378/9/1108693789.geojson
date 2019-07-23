@@ -40,9 +40,6 @@
     "name:eng_x_preferred":[
         "San Marcos"
     ],
-    "name:eng_x_variant":[
-        "San Marcos"
-    ],
     "name:fra_x_preferred":[
         "San Marcos"
     ],
@@ -72,6 +69,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0645\u0627\u0631\u06a9\u0648\u0633\u060c \u06a9\u0627\u0631\u0627\u0633\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Marcos"
     ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u79d1\u65af"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108693789,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1563335680,
     "wof:name":"San Marcos",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09cb\u09af\u09bc\u09c7\u09ad\u09be \u09b8\u09c7\u0997\u09c1\u09ad\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:ben_x_variant":[
+        "\u09a8\u09c1\u09af\u09bc\u09c7\u09ac\u09be \u09b8\u09c7\u0997\u09cb\u09ac\u09bf\u09af\u09bc\u09be \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
     "name:bul_x_preferred":[
         "\u041d\u0443\u0435\u0432\u0430 \u0421\u0435\u0433\u043e\u0432\u0438\u044f"
     ],
@@ -56,6 +59,9 @@
     "name:eng_x_preferred":[
         "Nueva Segovia"
     ],
+    "name:eng_x_variant":[
+        "Nueva Segovia Department"
+    ],
     "name:epo_x_preferred":[
         "Nova Segovio"
     ],
@@ -67,6 +73,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Nueva Segovia"
+    ],
+    "name:fra_x_variant":[
+        "Nueva Segovia"
+    ],
+    "name:frr_x_preferred":[
+        "Nueva Segovia"
     ],
     "name:glg_x_preferred":[
         "Departamento de Nueva Segovia"
@@ -97,6 +109,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub204\uc5d0\ubc14\uc138\uace0\ube44\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub204\uc5d0\ubc14\uc138\uace0\ube44\uc544\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Mueva Segovia"
     ],
     "name:lav_x_preferred":[
         "Nuevasegovijas departaments"
@@ -151,6 +169,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e19\u0e27\u0e32\u0e40\u0e0b\u0e42\u0e01\u0e40\u0e27\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e39\u0e40\u0e2d\u0e1a\u0e32\u0e40\u0e0b\u0e42\u0e01\u0e40\u0e1a\u0e35\u0e22"
     ],
     "name:tur_x_preferred":[
         "Nueva Segovia District"
@@ -293,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767252,
+    "wof:lastmodified":1563335331,
     "wof:name":"Nueva Segovia",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

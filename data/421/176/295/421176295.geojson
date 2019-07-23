@@ -46,6 +46,9 @@
     "name:zho_x_preferred":[
         "\u5e15\u62c9\u5361\u572d\u7d0d"
     ],
+    "name:zho_x_variant":[
+        "\u8fea\u91cc\u5b89\u5df4"
+    ],
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3617388,
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421176295,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1563335886,
     "wof:name":"Palacag\u00fcina",
     "wof:parent_id":1108693725,
     "wof:placetype":"locality",

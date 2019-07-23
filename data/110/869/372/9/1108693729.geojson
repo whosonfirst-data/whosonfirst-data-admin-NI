@@ -31,13 +31,13 @@
     "mps:longitude":-86.679347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "San Lucas"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u039b\u03bf\u03cd\u03ba\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
-        "San Lucas"
-    ],
-    "name:eng_x_variant":[
         "San Lucas"
     ],
     "name:fra_x_preferred":[
@@ -58,8 +58,14 @@
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u0644\u0648\u06a9\u0627\u0633\u060c \u0645\u0627\u062f\u0631\u06cc\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0646 \u0644\u0648\u06a9\u0627\u0633"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u76e7\u5361\u65af"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u723e\u963f\u723e\u9580\u5fb7\u7f85"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1108693729,
-    "wof:lastmodified":1561767267,
+    "wof:lastmodified":1563335697,
     "wof:name":"San Lucas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

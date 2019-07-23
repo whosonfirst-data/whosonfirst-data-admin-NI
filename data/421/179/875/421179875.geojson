@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "S\u00e9baco"
     ],
+    "name:deu_x_preferred":[
+        "S\u00e9baco"
+    ],
     "name:eng_x_preferred":[
         "S\u00e9baco"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421179875,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1563335879,
     "wof:name":"S\u00e9baco",
     "wof:parent_id":1108693821,
     "wof:placetype":"locality",

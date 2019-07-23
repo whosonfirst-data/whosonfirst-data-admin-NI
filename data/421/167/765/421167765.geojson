@@ -31,6 +31,9 @@
     "name:swe_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc\u0646"
+    ],
     "name:vie_x_preferred":[
         "Bel\u00e9n"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":421167765,
-    "wof:lastmodified":1561767271,
+    "wof:lastmodified":1563335819,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":1108693811,
     "wof:placetype":"locality",

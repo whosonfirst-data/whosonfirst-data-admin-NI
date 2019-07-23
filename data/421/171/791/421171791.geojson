@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Nandaime"
+    ],
     "name:deu_x_preferred":[
         "Nandaime"
     ],
@@ -39,9 +42,6 @@
         "\u039d\u03b1\u03bd\u03c4\u03ac\u03b9\u03bc\u03b5"
     ],
     "name:eng_x_preferred":[
-        "Nandaime"
-    ],
-    "name:eng_x_variant":[
         "Nandaime"
     ],
     "name:fra_x_preferred":[
@@ -70,6 +70,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5357\u4ee3\u6885"
+    ],
+    "name:zho_x_variant":[
+        "\u5947\u5357\u5fb7\u52a0"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421171791,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1563335890,
     "wof:name":"Nandaime",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

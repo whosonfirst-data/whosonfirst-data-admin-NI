@@ -50,6 +50,9 @@
     "name:spa_x_preferred":[
         "G\u00fcig\u00fcil\u00ed"
     ],
+    "name:spa_x_variant":[
+        "Wiwil\u00ed"
+    ],
     "name:swe_x_preferred":[
         "Wiwil\u00ed de Nueva Segovia"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421200107,
-    "wof:lastmodified":1554489028,
+    "wof:lastmodified":1563335867,
     "wof:name":"Wiwili",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

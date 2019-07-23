@@ -25,7 +25,16 @@
     "name:deu_x_preferred":[
         "Le\u00f3n Viejo"
     ],
+    "name:eng_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
     "name:fin_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:fra_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:glg_x_preferred":[
         "Le\u00f3n Viejo"
     ],
     "name:heb_x_preferred":[
@@ -40,8 +49,35 @@
     "name:lit_x_preferred":[
         "Senasis Leonas"
     ],
+    "name:nld_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:pol_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:por_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u043e\u043d-\u0412\u044c\u0435\u0445\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
     "name:spa_x_preferred":[
         "Le\u00f3n Viejo"
+    ],
+    "name:swe_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:tur_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0442\u0430\u0440\u0438\u0439 \u041b\u0435\u043e\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u6602\u53e4\u57ce"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -90,7 +126,7 @@
         }
     ],
     "wof:id":421186615,
-    "wof:lastmodified":1527716317,
+    "wof:lastmodified":1563335848,
     "wof:name":"Leon Viejo",
     "wof:parent_id":1108693771,
     "wof:placetype":"locality",

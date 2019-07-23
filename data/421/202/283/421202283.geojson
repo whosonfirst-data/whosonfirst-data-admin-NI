@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0442\u0435\u0430\u0440\u0435"
+    ],
+    "name:ceb_x_preferred":[
+        "Mateare"
+    ],
     "name:deu_x_preferred":[
         "Meteare"
     ],
@@ -41,7 +47,7 @@
     "name:eng_x_preferred":[
         "Mateare"
     ],
-    "name:eng_x_variant":[
+    "name:fin_x_preferred":[
         "Mateare"
     ],
     "name:fra_x_preferred":[
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421202283,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1563335830,
     "wof:name":"Mateare",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

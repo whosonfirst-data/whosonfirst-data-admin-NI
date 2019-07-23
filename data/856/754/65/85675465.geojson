@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09bf\u0993 \u09b8\u09be\u09a8 \u099c\u09c1\u09af\u09bc\u09be\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:ben_x_variant":[
+        "\u09b0\u09bf\u0993 \u09b8\u09be\u09a8 \u09b9\u09c1\u09af\u09bc\u09be\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u043e \u0421\u0430\u043d \u0425\u0443\u0430\u043d"
     ],
@@ -59,6 +62,9 @@
     "name:eng_x_preferred":[
         "Rio San Juan"
     ],
+    "name:eng_x_variant":[
+        "R\u00edo San Juan Department"
+    ],
     "name:epo_x_preferred":[
         "R\u00edo San Juan"
     ],
@@ -71,11 +77,20 @@
     "name:fra_x_preferred":[
         "d\u00e9partement du R\u00edo San Juan"
     ],
+    "name:fra_x_variant":[
+        "R\u00edo San Juan"
+    ],
+    "name:frr_x_preferred":[
+        "R\u00edo San Juan"
+    ],
     "name:glg_x_preferred":[
         "Departamento de R\u00edo San Juan"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abf\u0aaf\u0acb \u0ab8\u0abe\u0aa8 \u0a9c\u0ac1\u0a86\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d9\u05d5 \u05e1\u05df \u05d7\u05d5\u05d0\u05df"
     ],
     "name:hin_x_preferred":[
         "\u0930\u093f\u0913 \u0938\u0948\u0928 \u091c\u0941\u0906\u0928 \u0935\u093f\u092d\u093e\u0917"
@@ -100,6 +115,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\uc624\uc0b0\ud6c4\uc548 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\uc624\uc0b0\ud6c4\uc548\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "R\u00edo San Juan"
     ],
     "name:lav_x_preferred":[
         "Riosanhuanas departaments"
@@ -164,6 +185,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e42\u0e2d \u0e0b\u0e32\u0e19 \u0e08\u0e27\u0e19 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e34\u0e42\u0e2d\u0e0b\u0e32\u0e19\u0e2e\u0e27\u0e19"
     ],
     "name:tur_x_preferred":[
         "Rio San Juan Departman\u0131"
@@ -306,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561767253,
+    "wof:lastmodified":1563335338,
     "wof:name":"Rio San Juan",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
