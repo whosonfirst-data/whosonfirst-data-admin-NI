@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:deu_x_preferred":[
+        "San Miguelito"
+    ],
     "name:eng_x_preferred":[
         "San Miguelito"
     ],
@@ -52,6 +58,9 @@
         "San Miguelito"
     ],
     "name:spa_x_preferred":[
+        "San Miguelito"
+    ],
+    "name:swe_x_preferred":[
         "San Miguelito"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":421205287,
-    "wof:lastmodified":1554489053,
+    "wof:lastmodified":1564231572,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

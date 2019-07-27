@@ -25,10 +25,85 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Momotombo"
+    ],
+    "name:ceb_x_preferred":[
+        "Momotombo"
+    ],
+    "name:ces_x_preferred":[
+        "Momotombo"
+    ],
+    "name:deu_x_preferred":[
+        "Momotombo"
+    ],
+    "name:epo_x_preferred":[
+        "Momotombo"
+    ],
+    "name:est_x_preferred":[
+        "Momotombo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0645\u0648\u062a\u0648\u0645\u0628\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Momotombo"
+    ],
+    "name:glg_x_preferred":[
+        "Momotombo"
+    ],
+    "name:hrv_x_preferred":[
+        "Momotombo"
+    ],
+    "name:hun_x_preferred":[
+        "Momotombo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30e2\u30c8\u30f3\u30dc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10dd\u10db\u10dd\u10e2\u10dd\u10db\u10d1\u10dd"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ubaa8\ud1b0\ubcf4\uc0b0"
+    ],
+    "name:lit_x_preferred":[
+        "Momotombas"
+    ],
+    "name:nld_x_preferred":[
+        "Momotombo"
+    ],
+    "name:nor_x_preferred":[
+        "Momotombo"
+    ],
+    "name:pol_x_preferred":[
+        "Momotombo"
+    ],
+    "name:por_x_preferred":[
+        "Vulc\u00e3o Momotombo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043c\u043e\u0442\u043e\u043c\u0431\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Momotombo"
+    ],
+    "name:spa_x_preferred":[
+        "Momotombo"
+    ],
+    "name:swe_x_preferred":[
+        "Momotombo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u043c\u043e\u0442\u043e\u043c\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Momotombi",
         "Momotombo",
         "Puerto Momotombo"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u83ab\u901a\u535a\u706b\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +129,7 @@
         }
     ],
     "wof:id":1243259641,
-    "wof:lastmodified":1537675540,
+    "wof:lastmodified":1564231628,
     "wof:name":"Puerto Momotombo",
     "wof:parent_id":1108693771,
     "wof:placetype":"locality",

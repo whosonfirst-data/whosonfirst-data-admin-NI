@@ -25,6 +25,15 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "La Guinea"
+    ],
+    "name:spa_x_preferred":[
+        "La Guinea"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5e7e\u5167\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226140395,
-    "wof:lastmodified":1537082299,
+    "wof:lastmodified":1564231790,
     "wof:name":"La Guinea",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Gallo"
+    ],
+    "name:fra_x_preferred":[
+        "El Gallo"
+    ],
+    "name:spa_x_preferred":[
+        "El Gallo"
+    ],
+    "name:swe_x_preferred":[
+        "El Gallo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1343624681,
-    "wof:lastmodified":1537006057,
+    "wof:lastmodified":1564231040,
     "wof:name":"El Gallo",
     "wof:parent_id":1108693869,
     "wof:placetype":"locality",

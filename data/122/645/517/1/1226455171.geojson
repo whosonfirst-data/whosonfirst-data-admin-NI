@@ -25,7 +25,16 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cerro Grande"
+    ],
+    "name:deu_x_preferred":[
+        "Cerro Grande"
+    ],
     "name:spa_x_preferred":[
+        "Cerro Grande"
+    ],
+    "name:swe_x_preferred":[
         "Cerro Grande"
     ],
     "src:geom":"geonames",
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226455171,
-    "wof:lastmodified":1537675586,
+    "wof:lastmodified":1564231751,
     "wof:name":"Cerro Grande",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

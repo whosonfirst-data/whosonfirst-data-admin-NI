@@ -25,6 +25,12 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Juan Romero"
+    ],
+    "name:spa_x_preferred":[
+        "Juan Romero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1225852581,
-    "wof:lastmodified":1537003008,
+    "wof:lastmodified":1564231822,
     "wof:name":"Juan Romero",
     "wof:parent_id":421189527,
     "wof:placetype":"locality",

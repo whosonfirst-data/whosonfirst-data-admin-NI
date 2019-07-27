@@ -31,12 +31,39 @@
     "mps:longitude":-85.317893,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Waslala"
+    ],
+    "name:deu_x_preferred":[
+        "Waslala"
+    ],
     "name:eng_x_preferred":[
         "Waslala"
     ],
     "name:eng_x_variant":[
         "Waslala",
         "WASLALA"
+    ],
+    "name:fra_x_preferred":[
+        "Waslala"
+    ],
+    "name:ita_x_preferred":[
+        "Waslala"
+    ],
+    "name:spa_x_preferred":[
+        "Waslala"
+    ],
+    "name:swe_x_preferred":[
+        "Waslala"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0633\u0644\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Waslala"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u65af\u62c9\u62c9"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +100,7 @@
         }
     ],
     "wof:id":1108693677,
-    "wof:lastmodified":1554489231,
+    "wof:lastmodified":1564231441,
     "wof:name":"Waslala",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

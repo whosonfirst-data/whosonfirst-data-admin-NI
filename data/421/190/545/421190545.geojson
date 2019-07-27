@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tola"
+    ],
     "name:deu_x_preferred":[
         "Tola"
     ],
@@ -41,6 +44,9 @@
     "name:eng_x_variant":[
         "Tola",
         "TOLA"
+    ],
+    "name:fra_x_preferred":[
+        "Tola"
     ],
     "name:ita_x_preferred":[
         "Tola"
@@ -54,8 +60,17 @@
     "name:por_x_preferred":[
         "Tola"
     ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
         "Tola"
+    ],
+    "name:swe_x_preferred":[
+        "Tola"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u043b\u0430"
     ],
     "name:vie_x_preferred":[
         "Tola"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":421190545,
-    "wof:lastmodified":1554488988,
+    "wof:lastmodified":1564231577,
     "wof:name":"Tola",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

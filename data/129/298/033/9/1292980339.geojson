@@ -25,10 +25,34 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:ita_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:por_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:sco_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:spa_x_preferred":[
+        "El J\u00edcaro"
+    ],
+    "name:swe_x_preferred":[
+        "El J\u00edcaro"
+    ],
     "name:und_x_variant":[
         "J\u00edcaro",
         "El J\u00edcaro",
         "Ciudad Sandino"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u062e\u06cc\u06a9\u0627\u0631\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u5e0c\u5361\u7f85"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +78,7 @@
         }
     ],
     "wof:id":1292980339,
-    "wof:lastmodified":1537675574,
+    "wof:lastmodified":1564231168,
     "wof:name":"Ciudad Sandino",
     "wof:parent_id":1108693705,
     "wof:placetype":"locality",
