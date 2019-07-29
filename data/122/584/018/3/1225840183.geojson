@@ -25,6 +25,18 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Socorro"
+    ],
+    "name:fra_x_preferred":[
+        "El Socorro"
+    ],
+    "name:spa_x_preferred":[
+        "El Socorro"
+    ],
+    "name:swe_x_preferred":[
+        "El Socorro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1225840183,
-    "wof:lastmodified":1537020802,
+    "wof:lastmodified":1564231823,
     "wof:name":"El Socorro",
     "wof:parent_id":421172641,
     "wof:placetype":"locality",

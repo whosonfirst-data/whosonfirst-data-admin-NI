@@ -25,6 +25,102 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631 \u062a\u0648\u0631\u064a\u062e\u0648\u0633"
+    ],
+    "name:aym_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u0430\u0440 \u0422\u0430\u0440\u044b\u0445\u0430\u0441"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09ae\u09b0 \u09a4\u09b0\u09bf\u099c\u09cb\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:dan_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:deu_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:epo_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:eus_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0645\u0631 \u062a\u0648\u0631\u06cc\u062e\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:fra_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:hrv_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:ido_x_preferred":[
+        "Omar Torrijos Herrera"
+    ],
+    "name:ind_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:ita_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30de\u30eb\u30fb\u30c8\u30ea\u30db\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub9c8\ub974 \ud1a0\ub9ac\uc694\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Om\u0101rs Torihoss"
+    ],
+    "name:nld_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:nor_x_preferred":[
+        "Omar Efra\u00edn Torrijos Herrera"
+    ],
+    "name:pol_x_preferred":[
+        "Omar Torrijos Herrera"
+    ],
+    "name:por_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:que_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u0440\u0438\u0445\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Omar Torrijos Herrera"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043c\u0430\u0440 \u0422\u043e\u0440\u0438\u0445\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Omar Torrijos"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e2d\u0e21\u0e32\u0e23\u0e4c \u0e15\u0e2d\u0e23\u0e4c\u0e23\u0e35\u0e04\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Omar Torrijos Herrera"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043c\u0430\u0440 \u0422\u043e\u0440\u0440\u0456\u0445\u043e\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Omar Torrijos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +144,7 @@
         }
     ],
     "wof:id":1276970165,
-    "wof:lastmodified":1536920947,
+    "wof:lastmodified":1564231266,
     "wof:name":"Omar Torrijos",
     "wof:parent_id":1108693769,
     "wof:placetype":"locality",

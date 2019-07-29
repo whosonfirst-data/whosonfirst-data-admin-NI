@@ -25,7 +25,22 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Santa Gertrudis"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Gertrudis"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Gertrudis"
+    ],
+    "name:sco_x_preferred":[
+        "Santa Gertrudis"
+    ],
     "name:spa_x_preferred":[
+        "Santa Gertrudis"
+    ],
+    "name:swe_x_preferred":[
         "Santa Gertrudis"
     ],
     "src:geom":"geonames",
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1327440139,
-    "wof:lastmodified":1537675587,
+    "wof:lastmodified":1564231028,
     "wof:name":"Santa Gertrudis",
     "wof:parent_id":1108693803,
     "wof:placetype":"locality",

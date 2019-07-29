@@ -31,12 +31,42 @@
     "mps:longitude":-86.538963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03c2 \u03a3\u03ad\u03bd\u03c4\u03c1\u03bf"
+    ],
     "name:eng_x_preferred":[
         "La Paz Centro"
     ],
     "name:eng_x_variant":[
         "La Paz Centro",
         "LA PAZ CENTRO"
+    ],
+    "name:fra_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:ita_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:pol_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:spa_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:swe_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632 \u0633\u06cc\u0646\u0679\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "La Paz Centro"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u62c9\u5df4\u65af"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +103,7 @@
         }
     ],
     "wof:id":1108693771,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1564231432,
     "wof:name":"La Paz Centro",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

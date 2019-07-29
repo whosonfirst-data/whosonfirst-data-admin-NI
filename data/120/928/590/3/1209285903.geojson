@@ -25,6 +25,33 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:deu_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:epo_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:fra_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:por_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:sco_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:spa_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:srp_x_preferred":[
+        "San Bartolo"
+    ],
+    "name:swe_x_preferred":[
+        "San Bartolo"
+    ],
     "name:und_x_variant":[
         "Bartolo",
         "San Bartolo"
@@ -46,7 +73,7 @@
         }
     ],
     "wof:id":1209285903,
-    "wof:lastmodified":1537675538,
+    "wof:lastmodified":1564231357,
     "wof:name":"San Bartolo",
     "wof:parent_id":85632599,
     "wof:placetype":"locality",

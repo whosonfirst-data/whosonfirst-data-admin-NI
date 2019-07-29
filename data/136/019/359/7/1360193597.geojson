@@ -26,11 +26,17 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Esquinas"
+    ],
     "name:und_x_variant":[
         "Cuatro Esquiras",
         "Santa Clara",
         "Esquinas",
         "Las Esquinas"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633 \u0627\u06cc\u0633\u06a9\u0648\u06cc\u0646\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360193597,
-    "wof:lastmodified":1537675551,
+    "wof:lastmodified":1564231532,
     "wof:name":"Las Esquinas",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",

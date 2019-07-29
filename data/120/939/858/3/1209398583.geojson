@@ -25,6 +25,66 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0423\u0446\u0456\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "\u00datila"
+    ],
+    "name:ceb_x_preferred":[
+        "Utila"
+    ],
+    "name:deu_x_preferred":[
+        "Utila"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03cd\u03c4\u03b9\u03bb\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Insulo \u00datila"
+    ],
+    "name:fra_x_preferred":[
+        "\u00datila"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d8\u05d9\u05dc\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "\u00datila"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ud2f8\ub77c\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Utila"
+    ],
+    "name:mar_x_preferred":[
+        "\u0909\u0924\u093f\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Utila"
+    ],
+    "name:nor_x_preferred":[
+        "\u00datila"
+    ],
+    "name:por_x_preferred":[
+        "\u00datila"
+    ],
+    "name:slk_x_preferred":[
+        "Utila"
+    ],
+    "name:spa_x_preferred":[
+        "\u00datila"
+    ],
+    "name:swe_x_preferred":[
+        "Utila"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u0442\u0456\u043b\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u63d0\u62c9\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632599
@@ -42,7 +102,7 @@
         }
     ],
     "wof:id":1209398583,
-    "wof:lastmodified":1536288220,
+    "wof:lastmodified":1564231289,
     "wof:name":"Utila",
     "wof:parent_id":85632599,
     "wof:placetype":"locality",

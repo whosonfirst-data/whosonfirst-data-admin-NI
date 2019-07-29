@@ -25,6 +25,21 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Puerto Nuevo"
+    ],
+    "name:deu_x_preferred":[
+        "Puerto Nuevo"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Nuevo"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u041d\u0443\u0435\u0432\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Nuevo"
+    ],
     "name:und_x_variant":[
         "Costa Rica",
         "Puerto Nuevo"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1243347145,
-    "wof:lastmodified":1537675540,
+    "wof:lastmodified":1564231635,
     "wof:name":"Puerto Nuevo",
     "wof:parent_id":1108693775,
     "wof:placetype":"locality",

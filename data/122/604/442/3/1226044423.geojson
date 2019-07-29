@@ -25,6 +25,15 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:ita_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:swe_x_preferred":[
+        "Las Delicias"
+    ],
     "name:und_x_variant":[
         "Delicitas",
         "Las Delicitas",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1226044423,
-    "wof:lastmodified":1537675551,
+    "wof:lastmodified":1564231776,
     "wof:name":"Las Delicias",
     "wof:parent_id":1108693743,
     "wof:placetype":"locality",

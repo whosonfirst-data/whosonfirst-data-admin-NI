@@ -25,6 +25,21 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Orosi"
+    ],
+    "name:pol_x_preferred":[
+        "Orosi"
+    ],
+    "name:por_x_preferred":[
+        "Orosi"
+    ],
+    "name:spa_x_preferred":[
+        "Oros\u00ed"
+    ],
+    "name:swe_x_preferred":[
+        "Orosi"
+    ],
     "name:und_x_variant":[
         "Hacienda Orosi",
         "Oros\u00ed"
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276410403,
-    "wof:lastmodified":1537675542,
+    "wof:lastmodified":1564231256,
     "wof:name":"Orosi",
     "wof:parent_id":421172641,
     "wof:placetype":"locality",

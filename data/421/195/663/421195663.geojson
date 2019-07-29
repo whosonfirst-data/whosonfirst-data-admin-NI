@@ -13,6 +13,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Brito"
+    ],
+    "name:ceb_x_preferred":[
+        "Brito"
+    ],
+    "name:deu_x_preferred":[
+        "Brito"
+    ],
+    "name:fin_x_preferred":[
+        "Brito"
+    ],
+    "name:fra_x_preferred":[
+        "Brito"
+    ],
+    "name:ita_x_preferred":[
+        "Brito"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ea\u30c8\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Brito"
+    ],
+    "name:por_x_preferred":[
+        "Brito"
+    ],
     "name:unk_x_variant":[
         "La Boca de Brito"
     ],
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":421195663,
-    "wof:lastmodified":1527716124,
+    "wof:lastmodified":1564231570,
     "wof:name":"Brito",
     "wof:parent_id":421190545,
     "wof:placetype":"locality",

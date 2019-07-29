@@ -38,6 +38,30 @@
         "Morrito",
         "MORRITO"
     ],
+    "name:fra_x_preferred":[
+        "Morrito"
+    ],
+    "name:ita_x_preferred":[
+        "Morrito"
+    ],
+    "name:sco_x_preferred":[
+        "Morrito"
+    ],
+    "name:spa_x_preferred":[
+        "Morrito"
+    ],
+    "name:swe_x_preferred":[
+        "Morrito"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0631\u06cc\u062a\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Morrito"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u91cc\u6258"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -73,7 +97,7 @@
         }
     ],
     "wof:id":1108693861,
-    "wof:lastmodified":1554489231,
+    "wof:lastmodified":1564231445,
     "wof:name":"Morrito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

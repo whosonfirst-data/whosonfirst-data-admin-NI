@@ -25,7 +25,16 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Estancia"
+    ],
+    "name:deu_x_preferred":[
+        "La Estancia"
+    ],
     "name:spa_x_preferred":[
+        "La Estancia"
+    ],
+    "name:swe_x_preferred":[
         "La Estancia"
     ],
     "src:geom":"geonames",
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209637565,
-    "wof:lastmodified":1537675581,
+    "wof:lastmodified":1564231293,
     "wof:name":"La Estancia",
     "wof:parent_id":85632599,
     "wof:placetype":"locality",

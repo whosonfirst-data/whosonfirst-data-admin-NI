@@ -25,6 +25,30 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Isidro"
+    ],
+    "name:fra_x_preferred":[
+        "San Isidro"
+    ],
+    "name:ita_x_preferred":[
+        "San Isidro"
+    ],
+    "name:spa_x_preferred":[
+        "San Isidro"
+    ],
+    "name:swe_x_preferred":[
+        "San Isidro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u0633\u06cc\u062f\u0631\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "San Isidro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u897f\u5fb7\u7f85"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1277056351,
-    "wof:lastmodified":1537570044,
+    "wof:lastmodified":1564231240,
     "wof:name":"San Isidro",
     "wof:parent_id":1108693823,
     "wof:placetype":"locality",

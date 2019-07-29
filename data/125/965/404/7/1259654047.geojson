@@ -25,6 +25,9 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La flor"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259654047,
-    "wof:lastmodified":1536610553,
+    "wof:lastmodified":1564231680,
     "wof:name":"La Flor",
     "wof:parent_id":1108693803,
     "wof:placetype":"locality",
