@@ -14,6 +14,9 @@
     "itu:country_code":[
         "505"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":12.793313,
     "lbl:longitude":-85.039545,
     "mps:latitude":12.793313,
@@ -955,16 +958,13 @@
         }
     ],
     "wof:id":85632599,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335344,
+    "wof:lastmodified":1565731575,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

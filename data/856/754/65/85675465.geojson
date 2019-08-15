@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SJ"
+    ],
     "lbl:latitude":11.250011,
     "lbl:longitude":-84.563456,
     "meso:name_local":"Rio San Juan",
@@ -321,16 +324,13 @@
         }
     ],
     "wof:id":85675465,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335338,
+    "wof:lastmodified":1565731574,
     "wof:name":"Rio San Juan",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

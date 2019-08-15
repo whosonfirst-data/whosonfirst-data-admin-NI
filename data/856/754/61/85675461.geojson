@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RI"
+    ],
     "lbl:latitude":11.493948,
     "lbl:longitude":-85.953008,
     "meso:name_local":"Rivas",
@@ -263,16 +266,13 @@
         }
     ],
     "wof:id":85675461,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335335,
+    "wof:lastmodified":1565731574,
     "wof:name":"Rivas",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

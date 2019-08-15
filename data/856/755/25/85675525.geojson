@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":12.080649,
     "lbl:longitude":-85.09277,
     "meso:name_local":"Chontales",
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85675525,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335334,
+    "wof:lastmodified":1565731574,
     "wof:name":"Chontales",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

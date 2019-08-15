@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":13.999653,
     "lbl:longitude":-84.249152,
     "meso:name_local":"Atl\u00e1ntico Norte",
@@ -156,24 +159,21 @@
         }
     ],
     "wof:id":85675485,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550550,
+    "wof:lastmodified":1565900266,
     "wof:name":"Atl\u00e1ntico Norte",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous region",
     "wof:population":314130,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-ni",
+    "wof:shortcode":"AN",
     "wof:subdivision":"NI-AN",
     "wof:superseded_by":[],
     "wof:supersedes":[],

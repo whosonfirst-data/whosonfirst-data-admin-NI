@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MD"
+    ],
     "lbl:latitude":13.490786,
     "lbl:longitude":-86.41792,
     "meso:name_local":"Madriz",
@@ -304,16 +307,13 @@
         }
     ],
     "wof:id":85675511,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335330,
+    "wof:lastmodified":1565731573,
     "wof:name":"Madriz",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

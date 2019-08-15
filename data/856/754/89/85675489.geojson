@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LE"
+    ],
     "lbl:latitude":12.608942,
     "lbl:longitude":-86.609066,
     "meso:name_local":"Le\u00f3n",
@@ -276,16 +279,13 @@
         }
     ],
     "wof:id":85675489,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335337,
+    "wof:lastmodified":1565731574,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

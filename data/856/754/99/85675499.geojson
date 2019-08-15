@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MS"
+    ],
     "lbl:latitude":12.05437,
     "lbl:longitude":-86.06353,
     "meso:name_local":"Masaya",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85675499,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335339,
+    "wof:lastmodified":1565731574,
     "wof:name":"Masaya",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

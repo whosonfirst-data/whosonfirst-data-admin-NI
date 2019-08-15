@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GR"
+    ],
     "lbl:latitude":11.792831,
     "lbl:longitude":-85.986779,
     "meso:name_local":"Granada",
@@ -260,16 +263,13 @@
         }
     ],
     "wof:id":85675477,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335340,
+    "wof:lastmodified":1565731574,
     "wof:name":"Granada",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

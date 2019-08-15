@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "autonomous region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":12.350063,
     "lbl:longitude":-84.26376,
     "meso:name_local":"Atl\u00e1ntico Sur",
@@ -155,16 +158,13 @@
         }
     ],
     "wof:id":85675467,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550531,
+    "wof:lastmodified":1565731574,
     "wof:name":"Atl\u00e1ntico Sur",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

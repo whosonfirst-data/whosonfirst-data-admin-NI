@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":12.517851,
     "lbl:longitude":-85.500488,
     "meso:name_local":"Boaco",
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85675521,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335332,
+    "wof:lastmodified":1565731574,
     "wof:name":"Boaco",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

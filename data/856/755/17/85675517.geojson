@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":13.775425,
     "lbl:longitude":-86.100709,
     "meso:name_local":"Nueva Segovia",
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85675517,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335331,
+    "wof:lastmodified":1565731573,
     "wof:name":"Nueva Segovia",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

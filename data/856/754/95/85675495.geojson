@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":12.006762,
     "lbl:longitude":-86.442542,
     "meso:name_local":"Managua",
@@ -314,16 +317,13 @@
         }
     ],
     "wof:id":85675495,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335336,
+    "wof:lastmodified":1565731574,
     "wof:name":"Managua",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

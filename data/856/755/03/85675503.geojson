@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CI"
+    ],
     "lbl:latitude":12.83601,
     "lbl:longitude":-86.965402,
     "meso:name_local":"Chinandega",
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85675503,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335327,
+    "wof:lastmodified":1565731573,
     "wof:name":"Chinandega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

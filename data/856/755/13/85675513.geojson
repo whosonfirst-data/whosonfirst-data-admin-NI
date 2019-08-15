@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MT"
+    ],
     "lbl:latitude":12.942894,
     "lbl:longitude":-85.625732,
     "meso:name_local":"Matagalpa",
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85675513,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335333,
+    "wof:lastmodified":1565731574,
     "wof:name":"Matagalpa",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

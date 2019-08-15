@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JI"
+    ],
     "lbl:latitude":13.824047,
     "lbl:longitude":-85.526907,
     "meso:name_local":"Jinotega",
@@ -302,16 +305,13 @@
         }
     ],
     "wof:id":85675481,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563335337,
+    "wof:lastmodified":1565731574,
     "wof:name":"Jinotega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
