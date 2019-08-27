@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.176583,
     "lbl:longitude":-86.897593,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHINANDEGA",
     "meso:gadm_admin":"San Pedro del Norte",
     "meso:gadm_hasc2":"NI.CI.SP",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.897593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03bf \u03a4\u03bf\u03bc\u03ac\u03c2 \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
     ],
@@ -68,7 +71,7 @@
         "\u5317\u8056\u6258\u99ac\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108693741,
-    "wof:lastmodified":1561767267,
+    "wof:lastmodified":1566657011,
     "wof:name":"San Pedro Del Norte",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.867316,
     "lbl:longitude":-86.220279,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MATAGALPA",
     "meso:gadm_admin":"Ciudad Dar\u00edo",
     "meso:gadm_hasc2":"NI.MT.CD",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.220279,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0421\u044c\u044e\u0434\u0430\u0434-\u0414\u0430\u0440\u044b\u0430"
     ],
@@ -94,7 +97,7 @@
         "\u9054\u91cc\u5967\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108693823,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1566657006,
     "wof:name":"Ciudad Dario",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

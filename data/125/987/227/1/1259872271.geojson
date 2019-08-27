@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.95696,11.76416,-85.91696,11.80416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "San Juan de Mombacho"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259872271,
-    "wof:lastmodified":1537675583,
+    "wof:lastmodified":1566657167,
     "wof:name":"San Juan de Mombacho",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":12.53268,
     "geom:longitude":-85.71099,
     "iso:country":"NI",
+    "lbl:bbox":"-85.73099,12.51268,-85.69099,12.55268",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santa Luc\u00eda"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3616459,
         "gp:id":154188,
-        "qs:id":1204490,
+        "qs_pg:id":1204490,
         "wd:id":"Q1647681",
         "wk:page":"Santa Luc\u00eda, Boaco"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421180517,
-    "wof:lastmodified":1563335837,
+    "wof:lastmodified":1566657079,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":1108693837,
     "wof:placetype":"locality",

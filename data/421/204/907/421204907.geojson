@@ -10,8 +10,12 @@
     "geom:latitude":14.02885,
     "geom:longitude":-84.59103,
     "iso:country":"NI",
+    "lbl:bbox":"-84.61103,14.00885,-84.57103,14.04885",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bonanza"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Bonanza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bonanza Bodega"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3620645,
         "gp:id":152170,
-        "qs:id":251592,
+        "qs_pg:id":251592,
         "wd:id":"Q892092",
         "wk:page":"Bonanza, North Caribbean Coast Autonomous Region"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421204907,
-    "wof:lastmodified":1563335821,
+    "wof:lastmodified":1566657074,
     "wof:name":"Bonanza",
     "wof:parent_id":1108693675,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.594402,
     "lbl:longitude":-85.820301,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BOACO",
     "meso:gadm_admin":"San Jos\u00e9 de los Remates",
     "meso:gadm_hasc2":"NI.BO.SJ",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.820301,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03b4\u03b5 \u03bb\u03bf\u03c2 \u03a1\u03b5\u03bc\u03ac\u03c4\u03b5\u03c2"
     ],
@@ -67,9 +70,9 @@
         "\u8056\u4f55\u585e\u5fb7\u6d1b\u65af\u96f7\u99ac\u7279\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"280.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"San Jos\u00e9 de Los Remates",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108693835,
-    "wof:lastmodified":1561767264,
+    "wof:lastmodified":1566657000,
     "wof:name":"San Jose De Los Remates",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

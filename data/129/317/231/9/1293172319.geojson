@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.27,13.41333,-85.23,13.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cusul\u00ed",
         "Casul\u00ed"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293172319,
-    "wof:lastmodified":1537675575,
+    "wof:lastmodified":1566656894,
     "wof:name":"Casuli",
     "wof:parent_id":1108693677,
     "wof:placetype":"locality",

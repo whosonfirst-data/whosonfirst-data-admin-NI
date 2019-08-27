@@ -10,8 +10,12 @@
     "geom:latitude":13.65328,
     "geom:longitude":-86.61297,
     "iso:country":"NI",
+    "lbl:bbox":"-86.63297,13.63328,-86.59297,13.67328",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Macuelizo"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3617804,
         "gp:id":153513,
-        "qs:id":281014,
+        "qs_pg:id":281014,
         "wd:id":"Q1647684",
         "wk:page":"Macuelizo, Nueva Segovia"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421197955,
-    "wof:lastmodified":1563335860,
+    "wof:lastmodified":1566657087,
     "wof:name":"Macuelizo",
     "wof:parent_id":1108693715,
     "wof:placetype":"locality",

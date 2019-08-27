@@ -10,8 +10,12 @@
     "geom:latitude":12.34294,
     "geom:longitude":-83.67123,
     "iso:country":"NI",
+    "lbl:bbox":"-83.69123,12.32294,-83.65123,12.36294",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pearl Lagoon"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Laguna de Perlas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "English Bank"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3618522,
         "gp:id":153232,
-        "qs:id":149477,
+        "qs_pg:id":149477,
         "wd:id":"Q2215086",
         "wk:page":"Pearl Lagoon"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421197675,
-    "wof:lastmodified":1563335860,
+    "wof:lastmodified":1566657087,
     "wof:name":"Laguna de Perlas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.478867,
     "lbl:longitude":-86.538963,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LEON",
     "meso:gadm_admin":"La Paz Centro",
     "meso:gadm_hasc2":"NI.LE.LP",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.538963,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "La Paz Centro"
     ],
@@ -69,9 +72,9 @@
         "\u4e2d\u62c9\u5df4\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"692.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"La Paz Centro",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108693771,
-    "wof:lastmodified":1564231432,
+    "wof:lastmodified":1566657001,
     "wof:name":"La Paz Centro",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

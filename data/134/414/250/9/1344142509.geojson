@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.55915,12.61415,-86.51915,12.65415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Calle Real de Tolapa",
         "Caser\u00edo La Calle Real de Tolape",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344142509,
-    "wof:lastmodified":1537675556,
+    "wof:lastmodified":1566656824,
     "wof:name":"Calle Real de Tolapa",
     "wof:parent_id":1108693767,
     "wof:placetype":"locality",

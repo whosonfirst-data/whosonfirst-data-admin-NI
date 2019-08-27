@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":13.245419,
     "lbl:longitude":-86.399605,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Estel\u00ed",
     "mps:latitude":13.24891,
     "mps:longitude":-86.392258,
@@ -39,7 +40,7 @@
         "\u0414\u044d\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u042d\u0441\u0442\u044d\u043b\u0456"
     ],
     "name:ben_x_preferred":[
-        "\u098f\u09b8\u09cd\u09a4\u09c7\u09b2\u09bf  \u09ac\u09bf\u09ad\u09be\u0997"
+        "\u098f\u09b8\u09cd\u09a4\u09c7\u09b2\u09bf \u09ac\u09bf\u09ad\u09be\u0997"
     ],
     "name:bul_x_preferred":[
         "\u0415\u0441\u0442\u0435\u043b\u0438"
@@ -178,7 +179,7 @@
         "Estel\u00ed"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0bb2\u0bbf  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0bb2\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c38\u0c4d\u0c1f\u0c46\u0c32\u0c3f \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -194,9 +195,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0441\u0442\u0435\u043b\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Estel\u00ed"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0633\u062a\u0627\u0644\u06cc \u0645\u062d\u06a9\u0645\u06c1"
@@ -279,9 +277,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-28",
+    "src:population_date":"2005-05-28",
     "statoids:area_km":"2,230",
     "statoids:area_mi":"861",
     "statoids:as_of_date":"2005-05-28",
@@ -306,7 +304,7 @@
         "gp:id":2346421,
         "hasc:id":"NI.ES",
         "iso:id":"NI-ES",
-        "qs:id":1222704,
+        "qs_pg:id":1222704,
         "unlc:id":"NI-ES",
         "wd:id":"Q728015",
         "wk:page":"Estel\u00ed Department"
@@ -327,11 +325,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565731573,
+    "wof:lastmodified":1566656854,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":201548,
     "wof:population_rank":10,

@@ -10,6 +10,9 @@
     "geom:latitude":11.25292,
     "geom:longitude":-85.87049,
     "iso:country":"NI",
+    "lbl:bbox":"-85.89049,11.23292,-85.85049,11.27292",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -196,7 +199,7 @@
     "wof:concordances":{
         "gn:id":3616726,
         "gp:id":153976,
-        "qs:id":1045717,
+        "qs_pg:id":1045717,
         "wd:id":"Q240247",
         "wk:page":"San Juan del Sur"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421176291,
-    "wof:lastmodified":1563335888,
+    "wof:lastmodified":1566657097,
     "wof:name":"San Juan del Sur",
     "wof:parent_id":421202297,
     "wof:placetype":"locality",

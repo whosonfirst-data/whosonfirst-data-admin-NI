@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.350063,
     "lbl:longitude":-84.26376,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Atl\u00e1ntico Sur",
     "mps:latitude":12.383034,
     "mps:longitude":-84.279166,
@@ -43,7 +44,7 @@
         "Regi\u00f3n Aut\u00f3noma de la Costa Caribe Sur",
         "Costa Caribe Sur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Regi\u00f3n Aut\u00f3noma Atl\u00e1ntico Sur"
     ],
     "ne:abbrev":"",
@@ -118,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-28",
+    "src:population_date":"2005-05-28",
     "statoids:area_km":"27,546",
     "statoids:area_mi":"10,636",
     "statoids:as_of_date":"2005-05-28",
@@ -145,7 +146,7 @@
         "gp:id":20069832,
         "hasc:id":"NI.AS",
         "iso:id":"NI-AS",
-        "qs:id":236283,
+        "qs_pg:id":236283,
         "unlc:id":"NI-AS"
     },
     "wof:country":"NI",
@@ -164,11 +165,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565731574,
+    "wof:lastmodified":1566656856,
     "wof:name":"Atl\u00e1ntico Sur",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"autonomous region",
     "wof:population":306510,
     "wof:population_rank":10,

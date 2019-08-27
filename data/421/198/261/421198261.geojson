@@ -10,8 +10,12 @@
     "geom:latitude":12.88687,
     "geom:longitude":-86.53903,
     "iso:country":"NI",
+    "lbl:bbox":"-86.55903,12.86687,-86.51903,12.90687",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Sauce"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "El Sauce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sauce"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3619382,
         "gp:id":152738,
-        "qs:id":1117592,
+        "qs_pg:id":1117592,
         "wd:id":"Q1647835",
         "wk:page":"El Sauce, Le\u00f3n"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421198261,
-    "wof:lastmodified":1563335856,
+    "wof:lastmodified":1566657086,
     "wof:name":"El Sauce",
     "wof:parent_id":421168431,
     "wof:placetype":"locality",

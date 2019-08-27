@@ -10,8 +10,12 @@
     "geom:latitude":13.72232,
     "geom:longitude":-86.50761,
     "iso:country":"NI",
+    "lbl:bbox":"-86.52761,13.70232,-86.48761,13.74232",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0414\u0438\u043f\u0438\u043b\u0442\u043e"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3620177,
         "gp:id":152339,
-        "qs:id":924502,
+        "qs_pg:id":924502,
         "wd:id":"Q2215450",
         "wk:page":"Dipilto"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421186481,
-    "wof:lastmodified":1563335848,
+    "wof:lastmodified":1566657083,
     "wof:name":"Dipilto",
     "wof:parent_id":1108693711,
     "wof:placetype":"locality",

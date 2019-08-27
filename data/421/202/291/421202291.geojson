@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.523329,
     "lbl:longitude":-85.605192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIVAS",
     "meso:gadm_admin":"Altagracia",
     "meso:gadm_hasc2":"NI.RI.AL",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.605192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Altagracia"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"211.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Altagracia",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26813413,
         "hasc:id":"NI.RI.AL",
-        "qs:id":220318,
+        "qs_pg:id":220318,
         "wd:id":"Q1647907"
     },
     "wof:country":"NI",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421202291,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1566657077,
     "wof:name":"Altagracia",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

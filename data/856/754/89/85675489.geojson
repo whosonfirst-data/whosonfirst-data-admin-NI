@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.608942,
     "lbl:longitude":-86.609066,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Le\u00f3n",
     "mps:latitude":12.519839,
     "mps:longitude":-86.637589,
@@ -156,9 +157,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Le\u00f3n"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u0646 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -237,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-28",
+    "src:population_date":"2005-05-28",
     "statoids:area_km":"5,138",
     "statoids:area_mi":"1,984",
     "statoids:as_of_date":"2005-05-28",
@@ -264,7 +262,7 @@
         "gp:id":2346424,
         "hasc:id":"NI.LE",
         "iso:id":"NI-LE",
-        "qs:id":318539,
+        "qs_pg:id":318539,
         "unlc:id":"NI-LE",
         "wd:id":"Q586818",
         "wk:page":"Le\u00f3n Department"
@@ -285,11 +283,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565731574,
+    "wof:lastmodified":1566656856,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":355779,
     "wof:population_rank":10,

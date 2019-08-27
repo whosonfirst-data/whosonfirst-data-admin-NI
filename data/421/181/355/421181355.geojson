@@ -10,8 +10,12 @@
     "geom:latitude":11.8842,
     "geom:longitude":-86.05508,
     "iso:country":"NI",
+    "lbl:bbox":"-86.07508,11.8642,-86.03508,11.9042",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Diri\u00e1"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3620172,
         "gp:id":152341,
-        "qs:id":489292,
+        "qs_pg:id":489292,
         "wd:id":"Q1647847",
         "wk:page":"Diria"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421181355,
-    "wof:lastmodified":1563335850,
+    "wof:lastmodified":1566657084,
     "wof:name":"Diri\u00e1",
     "wof:parent_id":1108693805,
     "wof:placetype":"locality",

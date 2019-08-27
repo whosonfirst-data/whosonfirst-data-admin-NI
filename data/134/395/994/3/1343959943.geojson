@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.84037,13.15547,-86.80037,13.19547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerro Colorado"
     ],
@@ -38,8 +42,7 @@
         "Cerro Colorado"
     ],
     "name:und_x_variant":[
-        "Colorado",
-        "Cerro Colorado"
+        "Colorado"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343959943,
-    "wof:lastmodified":1564231074,
+    "wof:lastmodified":1566656836,
     "wof:name":"Cerro Colorado",
     "wof:parent_id":1108693739,
     "wof:placetype":"locality",

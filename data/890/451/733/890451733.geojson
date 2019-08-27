@@ -11,8 +11,11 @@
     "geom:longitude":-85.36452,
     "gn:country":"NI",
     "gn:fcode":"PPLA",
-    "gn:pop":54731,
+    "gn:population":54731,
     "iso:country":"NI",
+    "lbl:bbox":"-85.38452,12.08629,-85.34452,12.12629",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -258,9 +261,11 @@
     "wof:concordances":{
         "gn:id":3618908,
         "gp:id":152924,
-        "qs:id":149471,
-        "qs_pg:id":1074597,
+        "qs_pg:id":149471,
         "wd:id":"Q1025801"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074597
     },
     "wof:country":"NI",
     "wof:created":1469052791,
@@ -275,7 +280,7 @@
         }
     ],
     "wof:id":890451733,
-    "wof:lastmodified":1563335905,
+    "wof:lastmodified":1566657104,
     "wof:name":"Juigalpa",
     "wof:parent_id":1108693847,
     "wof:placetype":"locality",

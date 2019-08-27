@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.734169,
     "lbl:longitude":-86.517006,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NUEVA SEGOVIA",
     "meso:gadm_admin":"Dipilto",
     "meso:gadm_hasc2":"NI.NS.DI",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.517006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0414\u0438\u043f\u0438\u043b\u0442\u043e"
     ],
@@ -65,9 +68,9 @@
         "\u8fea\u76ae\u723e\u6258"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"105.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Dipilto",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108693711,
-    "wof:lastmodified":1563335676,
+    "wof:lastmodified":1566657004,
     "wof:name":"Dipilto",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

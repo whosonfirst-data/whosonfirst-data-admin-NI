@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.083179,
     "lbl:longitude":-86.293021,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MANAGUA",
     "meso:gadm_admin":"Managua",
     "meso:gadm_hasc2":"NI.MN.MN",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.293021,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Managua"
@@ -391,9 +394,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"267.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Managua",
@@ -413,7 +416,7 @@
     "wof:concordances":{
         "gp:id":26813365,
         "hasc:id":"NI.MN.MN",
-        "qs:id":425490
+        "qs_pg:id":425490
     },
     "wof:country":"NI",
     "wof:created":1459009251,
@@ -427,7 +430,7 @@
         }
     ],
     "wof:id":421180305,
-    "wof:lastmodified":1564231574,
+    "wof:lastmodified":1566657079,
     "wof:name":"Managua",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

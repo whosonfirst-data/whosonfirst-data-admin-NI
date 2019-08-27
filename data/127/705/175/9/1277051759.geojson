@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.30302,12.17785,-84.26302,12.21785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1277051759,
-    "wof:lastmodified":1564231241,
+    "wof:lastmodified":1566656917,
     "wof:name":"La Esperanza",
     "wof:parent_id":421171813,
     "wof:placetype":"locality",

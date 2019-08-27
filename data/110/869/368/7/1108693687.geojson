@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.386142,
     "lbl:longitude":-85.944535,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JINOTEGA",
     "meso:gadm_admin":"Santa Mar\u00eda de Pantasma",
     "meso:gadm_hasc2":"NI.JI.SM",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.944535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039c\u03b1\u03c1\u03af\u03b1 \u03b4\u03b5 \u03a0\u03b1\u03bd\u03c4\u03ac\u03c3\u03bc\u03b1"
     ],
@@ -70,9 +73,9 @@
         "\u8056\u746a\u5229\u4e9e\u5fb7\u4f69\u5854\u65af\u99ac"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"560.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Pantasma",
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108693687,
-    "wof:lastmodified":1563335682,
+    "wof:lastmodified":1566657007,
     "wof:name":"Las Praderas",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

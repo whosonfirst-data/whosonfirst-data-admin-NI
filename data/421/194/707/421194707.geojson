@@ -10,8 +10,12 @@
     "geom:latitude":11.90949,
     "geom:longitude":-86.20351,
     "iso:country":"NI",
+    "lbl:bbox":"-86.22351,11.88949,-86.18351,11.92949",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Marcos"
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3616682,
         "gp:id":154008,
-        "qs:id":898756,
+        "qs_pg:id":898756,
         "wd:id":"Q1013654"
     },
     "wof:country":"NI",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":421194707,
-    "wof:lastmodified":1563335813,
+    "wof:lastmodified":1566657071,
     "wof:name":"San Marcos",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",

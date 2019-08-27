@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.347706,
     "lbl:longitude":-86.525387,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ESTELI",
     "meso:gadm_admin":"Pueblo Nuevo",
     "meso:gadm_hasc2":"NI.ES.PN",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.525387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Plueblo Nuevo"
@@ -62,9 +65,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"203.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Pueblo Nuevo",
@@ -85,7 +88,7 @@
     "wof:concordances":{
         "gp:id":26813326,
         "hasc:id":"NI.ES.PN",
-        "qs:id":260430
+        "qs_pg:id":260430
     },
     "wof:country":"NI",
     "wof:created":1459010217,
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421205285,
-    "wof:lastmodified":1554489053,
+    "wof:lastmodified":1566657078,
     "wof:name":"Plueblo Nuevo",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

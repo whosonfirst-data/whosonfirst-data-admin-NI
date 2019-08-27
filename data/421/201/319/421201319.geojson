@@ -10,8 +10,12 @@
     "geom:latitude":12.19732,
     "geom:longitude":-86.09706,
     "iso:country":"NI",
+    "lbl:bbox":"-86.11706,12.17732,-86.07706,12.21732",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0422\u0438\u043f\u0438\u0442\u0430\u043f\u0430"
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3616035,
         "gp:id":154365,
-        "qs:id":211113,
+        "qs_pg:id":211113,
         "wd:id":"Q1365146",
         "wk:page":"Tipitapa"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":421201319,
-    "wof:lastmodified":1563335870,
+    "wof:lastmodified":1566657090,
     "wof:name":"Tipitapa",
     "wof:parent_id":421175427,
     "wof:placetype":"locality",

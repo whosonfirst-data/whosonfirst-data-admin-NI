@@ -10,8 +10,12 @@
     "geom:latitude":12.85042,
     "geom:longitude":-87.17167,
     "iso:country":"NI",
+    "lbl:bbox":"-87.19167,12.83042,-87.15167,12.87042",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Puerto Moraz\u00e1n"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Puerto Moraz\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moraz\u00e1n"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3617146,
         "gp:id":56122948,
-        "qs:id":149464,
+        "qs_pg:id":149464,
         "wd:id":"Q2605034",
         "wk:page":"Puerto Moraz\u00e1n"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421197673,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1566657087,
     "wof:name":"Puerto Morazan",
     "wof:parent_id":85675503,
     "wof:placetype":"locality",

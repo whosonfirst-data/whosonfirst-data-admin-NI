@@ -10,8 +10,12 @@
     "geom:latitude":11.9184,
     "geom:longitude":-86.14467,
     "iso:country":"NI",
+    "lbl:bbox":"-86.16467,11.8984,-86.12467,11.9384",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0442\u0435\u043f\u0435"
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":3617725,
         "gp:id":153532,
-        "qs:id":489301,
+        "qs_pg:id":489301,
         "wd:id":"Q2720586",
         "wk:page":"Masatepe"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421194543,
-    "wof:lastmodified":1561767271,
+    "wof:lastmodified":1566657072,
     "wof:name":"Masatepe",
     "wof:parent_id":421203777,
     "wof:placetype":"locality",

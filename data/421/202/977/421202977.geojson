@@ -10,8 +10,12 @@
     "geom:latitude":13.62679,
     "geom:longitude":-85.8254,
     "iso:country":"NI",
+    "lbl:bbox":"-85.8454,13.60679,-85.8054,13.64679",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Wiwil\u00ed"
@@ -49,7 +53,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0456\u0432\u0456\u043b\u0456-\u0434\u0435-\u0425\u0456\u043d\u043e\u0442\u0435\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guiquili"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":3615683,
         "gp:id":154492,
-        "qs:id":53647,
+        "qs_pg:id":53647,
         "wd:id":"Q1014671",
         "wk:page":"Wiwil\u00ed"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421202977,
-    "wof:lastmodified":1563335829,
+    "wof:lastmodified":1566657077,
     "wof:name":"Wiwil\u00ed",
     "wof:parent_id":421200107,
     "wof:placetype":"locality",

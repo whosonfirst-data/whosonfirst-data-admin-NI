@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.751834,
     "lbl:longitude":-85.606215,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MATAGALPA",
     "meso:gadm_admin":"Muy Muy",
     "meso:gadm_hasc2":"NI.MT.MM",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.606215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Muy Muy"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"375.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Muy Muy",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26813385,
         "hasc:id":"NI.MT.MM",
-        "qs:id":772975,
+        "qs_pg:id":772975,
         "wd:id":"Q2215631"
     },
     "wof:country":"NI",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421200103,
-    "wof:lastmodified":1563335866,
+    "wof:lastmodified":1566657089,
     "wof:name":"Muy Muy",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

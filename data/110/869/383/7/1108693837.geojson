@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.516164,
     "lbl:longitude":-85.722906,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BOACO",
     "meso:gadm_admin":"Santa Luc\u00eda",
     "meso:gadm_hasc2":"NI.BO.SL",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.722906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:arg_x_preferred":[
         "Santa Lucia"
     ],
@@ -103,9 +106,9 @@
         "\u6851\u5854\u9732\u742a\u5a05"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"121.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Santa Lucia",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1108693837,
-    "wof:lastmodified":1564231432,
+    "wof:lastmodified":1566657000,
     "wof:name":"Santa Lucia",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

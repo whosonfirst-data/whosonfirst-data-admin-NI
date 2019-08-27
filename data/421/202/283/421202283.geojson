@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.20842,
     "lbl:longitude":-86.391486,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MANAGUA",
     "meso:gadm_admin":"Mateare",
     "meso:gadm_hasc2":"NI.MN.MT",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.391486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0435\u0430\u0440\u0435"
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"298.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Mateare",
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gp:id":26813363,
         "hasc:id":"NI.MN.MT",
-        "qs:id":220314,
+        "qs_pg:id":220314,
         "wd:id":"Q2605008"
     },
     "wof:country":"NI",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421202283,
-    "wof:lastmodified":1563335830,
+    "wof:lastmodified":1566657077,
     "wof:name":"Mateare",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

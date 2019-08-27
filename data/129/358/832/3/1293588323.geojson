@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.25534,12.94881,-86.21534,12.98881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "La Trinidad"
     ],
@@ -47,8 +51,7 @@
         "La Trinidad"
     ],
     "name:und_x_variant":[
-        "Trinidad",
-        "La Trinidad"
+        "Trinidad"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293588323,
-    "wof:lastmodified":1564231159,
+    "wof:lastmodified":1566656883,
     "wof:name":"La Trinidad",
     "wof:parent_id":1108693757,
     "wof:placetype":"locality",

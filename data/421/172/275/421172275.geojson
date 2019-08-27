@@ -10,8 +10,12 @@
     "geom:latitude":13.04328,
     "geom:longitude":-86.90645,
     "iso:country":"NI",
+    "lbl:bbox":"-86.92645,13.02328,-86.88645,13.06328",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Somotillo"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Somotillo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Poyas"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3616234,
         "gp:id":154304,
-        "qs:id":149456,
+        "qs_pg:id":149456,
         "wd:id":"Q2604179",
         "wk:page":"Somotillo"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421172275,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1566657081,
     "wof:name":"Somotillo",
     "wof:parent_id":421193389,
     "wof:placetype":"locality",

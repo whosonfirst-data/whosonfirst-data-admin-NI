@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.928851,
     "lbl:longitude":-85.736032,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MATAGALPA",
     "meso:gadm_admin":"San Ram\u00f3n",
     "meso:gadm_hasc2":"NI.MT.SR",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.736032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "San Ram\u00f3n"
     ],
@@ -78,9 +81,9 @@
         "\u8056\u62c9\u8499"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"424.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"San Ram\u00f3n",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108693831,
-    "wof:lastmodified":1563335667,
+    "wof:lastmodified":1566657000,
     "wof:name":"San Ramon",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

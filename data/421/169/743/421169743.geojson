@@ -10,8 +10,12 @@
     "geom:latitude":11.89869,
     "geom:longitude":-85.92973,
     "iso:country":"NI",
+    "lbl:bbox":"-85.94973,11.87869,-85.90973,11.91869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3620843,
         "gp:id":153723,
-        "qs:id":238574
+        "qs_pg:id":238574
     },
     "wof:country":"NI",
     "wof:created":1459008822,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421169743,
-    "wof:lastmodified":1500017585,
+    "wof:lastmodified":1566657074,
     "wof:name":"Puerto de Aseses",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

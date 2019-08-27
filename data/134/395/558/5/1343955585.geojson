@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.36081,12.85344,-86.32081,12.89344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343955585,
-    "wof:lastmodified":1537025927,
+    "wof:lastmodified":1566656835,
     "wof:name":"Los Limones",
     "wof:parent_id":1108693759,
     "wof:placetype":"locality",

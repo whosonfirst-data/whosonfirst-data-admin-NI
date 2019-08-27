@@ -10,8 +10,12 @@
     "geom:latitude":13.37984,
     "geom:longitude":-86.48075,
     "iso:country":"NI",
+    "lbl:bbox":"-86.50075,13.35984,-86.46075,13.39984",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pueblo Nuevo"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3617162,
         "gp:id":153717,
-        "qs:id":1045728,
+        "qs_pg:id":1045728,
         "wd:id":"Q1647679",
         "wk:page":"Pueblo Nuevo, Estel\u00ed"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421176293,
-    "wof:lastmodified":1563335886,
+    "wof:lastmodified":1566657097,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421205285,
     "wof:placetype":"locality",

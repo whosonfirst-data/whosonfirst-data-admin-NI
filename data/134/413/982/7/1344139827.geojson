@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.50917,11.44789,-85.46917,11.48789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344139827,
-    "wof:lastmodified":1536761353,
+    "wof:lastmodified":1566656824,
     "wof:name":"Las Cuchillas",
     "wof:parent_id":421202291,
     "wof:placetype":"locality",

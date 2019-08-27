@@ -12,6 +12,7 @@
     "iso:country":"NI",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "Le\u00f3n Airport"
     ],
@@ -67,7 +68,7 @@
         }
     ],
     "wof:id":102537103,
-    "wof:lastmodified":1563335260,
+    "wof:lastmodified":1566656817,
     "wof:name":"Fanor Urroz Airport",
     "wof:parent_id":85675489,
     "wof:placetype":"campus",

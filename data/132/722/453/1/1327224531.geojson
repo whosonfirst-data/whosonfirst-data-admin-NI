@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.65128,13.00961,-86.61128,13.04961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Carao",
         "Los Caraos"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1327224531,
-    "wof:lastmodified":1537675547,
+    "wof:lastmodified":1566656794,
     "wof:name":"Los Caraos",
     "wof:parent_id":1108693761,
     "wof:placetype":"locality",

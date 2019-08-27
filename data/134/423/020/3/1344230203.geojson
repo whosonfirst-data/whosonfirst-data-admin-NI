@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.84648,11.43627,-85.80648,11.47627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344230203,
-    "wof:lastmodified":1536629037,
+    "wof:lastmodified":1566656826,
     "wof:name":"Popoyuapa",
     "wof:parent_id":421197835,
     "wof:placetype":"locality",

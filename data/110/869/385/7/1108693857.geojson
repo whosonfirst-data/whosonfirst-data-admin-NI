@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.03269,
     "lbl:longitude":-84.850259,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHONTALES",
     "meso:gadm_admin":"Villa Sandino",
     "meso:gadm_hasc2":"NI.CO.VS",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.850259,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Villa Sandino"
     ],
@@ -66,9 +69,9 @@
         "\u6851\u8fea\u8afe\u93ae"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"677.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Villa Sandino",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108693857,
-    "wof:lastmodified":1564231435,
+    "wof:lastmodified":1566657003,
     "wof:name":"Villa Sandino",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.53586,11.90142,-86.49586,11.94142",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La California"
     ],
@@ -38,8 +42,7 @@
         "\u041b\u0430 \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u0458\u0430"
     ],
     "name:und_x_variant":[
-        "California",
-        "La California"
+        "California"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1326919291,
-    "wof:lastmodified":1564231026,
+    "wof:lastmodified":1566656811,
     "wof:name":"La California",
     "wof:parent_id":1108693777,
     "wof:placetype":"locality",

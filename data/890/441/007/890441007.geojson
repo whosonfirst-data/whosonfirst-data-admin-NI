@@ -11,10 +11,14 @@
     "geom:longitude":-85.17113,
     "gn:country":"NI",
     "gn:fcode":"PPL",
-    "gn:pop":10563,
+    "gn:population":10563,
     "iso:country":"NI",
+    "lbl:bbox":"-85.19113,11.95028,-85.15113,11.99028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Acoyapa"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Acoyapa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Sebastian de Acoyapa"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3620978,
         "gp:id":152053,
-        "qs:id":149484,
+        "qs_pg:id":149484,
         "wd:id":"Q1186803",
         "wk:page":"Acoyapa"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890441007,
-    "wof:lastmodified":1563335894,
+    "wof:lastmodified":1566657100,
     "wof:name":"Acoyapa",
     "wof:parent_id":1108693859,
     "wof:placetype":"locality",

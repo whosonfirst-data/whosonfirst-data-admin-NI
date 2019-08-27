@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.019261,
     "lbl:longitude":-86.209334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ESTELI",
     "meso:gadm_admin":"La Trinidad",
     "meso:gadm_hasc2":"NI.ES.LT",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.209334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "La Trinidad"
     ],
@@ -60,9 +63,9 @@
         "La Trinidad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"270.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"La Trinidad",
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1108693757,
-    "wof:lastmodified":1564231443,
+    "wof:lastmodified":1566657012,
     "wof:name":"La Trinidad",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

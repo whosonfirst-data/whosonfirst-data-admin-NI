@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.72189,14.64402,-84.68189,14.68402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "San Carlos"
     ],
@@ -110,8 +114,7 @@
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
     ],
     "name:und_x_variant":[
-        "San Carlos de R\u00edo Coco",
-        "San Carlos"
+        "San Carlos de R\u00edo Coco"
     ],
     "name:vol_x_preferred":[
         "San Carlos"
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":1276833163,
-    "wof:lastmodified":1564231259,
+    "wof:lastmodified":1566656925,
     "wof:name":"San Carlos",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.87915,12.55827,-85.83915,12.59827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jocote",
         "Tomatoyo",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277091877,
-    "wof:lastmodified":1537675578,
+    "wof:lastmodified":1566656900,
     "wof:name":"Bajos de Tomatoya",
     "wof:parent_id":1108693835,
     "wof:placetype":"locality",

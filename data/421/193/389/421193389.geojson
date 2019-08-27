@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.916144,
     "lbl:longitude":-87.003656,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHINANDEGA",
     "meso:gadm_admin":"Somotillo",
     "meso:gadm_hasc2":"NI.CI.SO",
@@ -31,6 +33,7 @@
     "mps:longitude":-87.003656,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u03a3\u03bf\u03bc\u03bf\u03c4\u03af\u03bb\u03bb\u03b9\u03bf"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"725.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Somotillo",
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26813313,
         "hasc:id":"NI.CI.SO",
-        "qs:id":893652,
+        "qs_pg:id":893652,
         "wd:id":"Q2604179"
     },
     "wof:country":"NI",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421193389,
-    "wof:lastmodified":1561767271,
+    "wof:lastmodified":1566657073,
     "wof:name":"Isla Mangles Altos",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

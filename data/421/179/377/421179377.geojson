@@ -10,8 +10,12 @@
     "geom:latitude":11.43927,
     "geom:longitude":-85.93891,
     "iso:country":"NI",
+    "lbl:bbox":"-85.95891,11.41927,-85.91891,11.45927",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tola"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3616019,
         "gp:id":154368,
-        "qs:id":149445,
+        "qs_pg:id":149445,
         "wd:id":"Q942590",
         "wk:page":"Tola, Rivas"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421179377,
-    "wof:lastmodified":1563335880,
+    "wof:lastmodified":1566657095,
     "wof:name":"Tola",
     "wof:parent_id":421190545,
     "wof:placetype":"locality",

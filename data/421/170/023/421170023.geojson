@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.916964,
     "lbl:longitude":-86.09171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NUEVA SEGOVIA",
     "meso:gadm_admin":"Jalapa",
     "meso:gadm_hasc2":"NI.NS.JA",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.09171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Jalapa"
@@ -61,9 +64,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"687.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Jalapa",
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gp:id":26813390,
         "hasc:id":"NI.NS.JA",
-        "qs:id":772980
+        "qs_pg:id":772980
     },
     "wof:country":"NI",
     "wof:created":1459008834,
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421170023,
-    "wof:lastmodified":1554488751,
+    "wof:lastmodified":1566657091,
     "wof:name":"Jalapa",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

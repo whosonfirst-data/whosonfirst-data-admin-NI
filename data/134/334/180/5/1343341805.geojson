@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.22321,12.88,-86.18321,12.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u043e\u0441\u0430 \u0434\u0435 \u041b\u0438\u043c\u0430"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343341805,
-    "wof:lastmodified":1564231083,
+    "wof:lastmodified":1566656841,
     "wof:name":"Santa Rosa de Lima",
     "wof:parent_id":1108693823,
     "wof:placetype":"locality",

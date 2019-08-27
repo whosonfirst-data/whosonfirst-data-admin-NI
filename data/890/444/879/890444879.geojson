@@ -11,10 +11,14 @@
     "geom:longitude":-86.97992,
     "gn:country":"NI",
     "gn:fcode":"PPL",
-    "gn:pop":6403,
+    "gn:population":6403,
     "iso:country":"NI",
+    "lbl:bbox":"-86.99992,12.52481,-86.95992,12.56481",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0441\u043e\u043b\u0442\u0435\u0433\u0430"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "Posoltega"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Posoletega"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3617191,
         "gp:id":153702,
-        "qs:id":1045729,
+        "qs_pg:id":1045729,
         "wd:id":"Q2604656",
         "wk:page":"Posoltega, Nicaragua"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890444879,
-    "wof:lastmodified":1563335901,
+    "wof:lastmodified":1566657103,
     "wof:name":"Posoltega",
     "wof:parent_id":1108693749,
     "wof:placetype":"locality",

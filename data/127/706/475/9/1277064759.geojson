@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.05333,12.09667,-86.01333,12.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277064759,
-    "wof:lastmodified":1536793493,
+    "wof:lastmodified":1566656899,
     "wof:name":"El Balsamo",
     "wof:parent_id":1108693781,
     "wof:placetype":"locality",

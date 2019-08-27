@@ -10,8 +10,12 @@
     "geom:latitude":13.19528,
     "geom:longitude":-86.16674,
     "iso:country":"NI",
+    "lbl:bbox":"-86.18674,13.17528,-86.14674,13.21528",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0643\u0648\u0646\u0643\u0648\u0631\u062f\u064a\u0627"
@@ -109,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041a\u043e\u043d\u043a\u043e\u0440\u0434\u0456\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concordia"
     ],
     "name:urd_x_preferred":[
@@ -155,7 +159,7 @@
     "wof:concordances":{
         "gn:id":3618637,
         "gp:id":153035,
-        "qs:id":149479,
+        "qs_pg:id":149479,
         "wd:id":"Q2395382",
         "wk:page":"La Concordia, Jinotega"
     },
@@ -172,7 +176,7 @@
         }
     ],
     "wof:id":421179393,
-    "wof:lastmodified":1563335882,
+    "wof:lastmodified":1566657095,
     "wof:name":"La Concordia",
     "wof:parent_id":1108693691,
     "wof:placetype":"locality",

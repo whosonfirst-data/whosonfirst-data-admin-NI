@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.685873,
     "lbl:longitude":-86.612103,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NUEVA SEGOVIA",
     "meso:gadm_admin":"Macuelizo",
     "meso:gadm_hasc2":"NI.NS.MA",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.612103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Macuelizo"
     ],
@@ -62,9 +65,9 @@
         "\u99ac\u5eab\u57c3\u5229\u7d22"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"255.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Macuelizo",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108693715,
-    "wof:lastmodified":1563335677,
+    "wof:lastmodified":1566657004,
     "wof:name":"Macuelizo",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

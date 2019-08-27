@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.989024,
     "lbl:longitude":-86.061497,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MASAYA",
     "meso:gadm_admin":"Masaya",
     "meso:gadm_hasc2":"NI.MS.MY",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.061497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0633\u0627\u064a\u0627"
@@ -148,9 +151,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"147.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Masaya",
@@ -170,7 +173,7 @@
     "wof:concordances":{
         "gp:id":26813369,
         "hasc:id":"NI.MS.MY",
-        "qs:id":772979
+        "qs_pg:id":772979
     },
     "wof:country":"NI",
     "wof:created":1459008834,
@@ -184,7 +187,7 @@
         }
     ],
     "wof:id":421170019,
-    "wof:lastmodified":1564231583,
+    "wof:lastmodified":1566657092,
     "wof:name":"Masaya",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

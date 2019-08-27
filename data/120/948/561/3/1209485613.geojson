@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.07424,11.56571,-86.03424,11.60571",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0435\u0440\u043b\u0438\u043d"
     ],
@@ -744,7 +748,7 @@
         }
     ],
     "wof:id":1209485613,
-    "wof:lastmodified":1564231301,
+    "wof:lastmodified":1566656943,
     "wof:name":"Berlin",
     "wof:parent_id":85632599,
     "wof:placetype":"locality",

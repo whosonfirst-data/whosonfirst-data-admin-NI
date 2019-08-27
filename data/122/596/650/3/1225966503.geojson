@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.00386,11.8957,-85.96386,11.9357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "La Quinta"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225966503,
-    "wof:lastmodified":1537675582,
+    "wof:lastmodified":1566657194,
     "wof:name":"La Quinta",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

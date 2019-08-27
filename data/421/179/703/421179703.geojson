@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.601252,
     "lbl:longitude":-86.812864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LEON",
     "meso:gadm_admin":"Telica",
     "meso:gadm_hasc2":"NI.LE.TE",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.812864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Telica"
@@ -93,9 +96,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"394.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Telica",
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gp:id":26813348,
         "hasc:id":"NI.LE.TE",
-        "qs:id":485304,
+        "qs_pg:id":485304,
         "wd:id":"Q1647817"
     },
     "wof:country":"NI",
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421179703,
-    "wof:lastmodified":1563335881,
+    "wof:lastmodified":1566657095,
     "wof:name":"Telica",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

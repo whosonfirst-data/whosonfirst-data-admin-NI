@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.641053,
     "lbl:longitude":-84.940447,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIO SAN JUAN",
     "meso:gadm_admin":"Morrito",
     "meso:gadm_hasc2":"NI.SJ.MO",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.940447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Morrito"
     ],
@@ -63,9 +66,9 @@
         "\u83ab\u91cc\u6258"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"679.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Morrito",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1108693861,
-    "wof:lastmodified":1564231445,
+    "wof:lastmodified":1566657014,
     "wof:name":"Morrito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.194635,
     "lbl:longitude":-85.845566,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JINOTEGA",
     "meso:gadm_admin":"Jinotega",
     "meso:gadm_hasc2":"NI.JI.JI",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.845566,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0646\u0648\u062a\u064a\u063a\u0627"
     ],
@@ -129,7 +132,7 @@
         "\u5e0c\u8afe\u7279\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1108693695,
-    "wof:lastmodified":1564231440,
+    "wof:lastmodified":1566657008,
     "wof:name":"Jinotega",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

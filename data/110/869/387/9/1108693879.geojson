@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.985104,
     "lbl:longitude":-83.765473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ATLANTICO SUR",
     "meso:gadm_admin":"Laguna de Perlas",
     "meso:gadm_hasc2":"NI.AS.LP",
@@ -31,6 +33,7 @@
     "mps:longitude":-83.765473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Isla"
     ],
@@ -62,7 +65,7 @@
         "Laguna de Perlas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108693879,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657010,
     "wof:name":"Isla",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

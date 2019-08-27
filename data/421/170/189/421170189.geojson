@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.806271,
     "lbl:longitude":-87.381197,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHINANDEGA",
     "meso:gadm_admin":"El Viejo",
     "meso:gadm_hasc2":"NI.CI.EV",
@@ -31,6 +33,7 @@
     "mps:longitude":-87.381197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "El Viejo"
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"1,275.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"El Viejo",
@@ -125,7 +128,7 @@
     "wof:concordances":{
         "gp:id":26813311,
         "hasc:id":"NI.CI.EV",
-        "qs:id":224873,
+        "qs_pg:id":224873,
         "wd:id":"Q516482"
     },
     "wof:country":"NI",
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421170189,
-    "wof:lastmodified":1563335872,
+    "wof:lastmodified":1566657091,
     "wof:name":"El Viejo",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.98045,12.37556,-85.94045,12.41556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632599
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209198107,
-    "wof:lastmodified":1536294704,
+    "wof:lastmodified":1566656968,
     "wof:name":"Los Menas",
     "wof:parent_id":85632599,
     "wof:placetype":"locality",

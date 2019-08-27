@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.97411,11.88416,-85.93411,11.92416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "El Charco"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1242770365,
-    "wof:lastmodified":1564231640,
+    "wof:lastmodified":1566657128,
     "wof:name":"El Charco",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

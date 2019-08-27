@@ -10,8 +10,12 @@
     "geom:latitude":12.6633,
     "geom:longitude":-87.16722,
     "iso:country":"NI",
+    "lbl:bbox":"-87.18722,12.6433,-87.14722,12.6833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "El Viejo"
@@ -52,7 +56,7 @@
     "name:swe_x_preferred":[
         "El Viejo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Viejo"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":3619267,
         "gp:id":152802,
-        "qs:id":489291,
+        "qs_pg:id":489291,
         "wd:id":"Q516482",
         "wk:page":"El Viejo"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421181353,
-    "wof:lastmodified":1563335849,
+    "wof:lastmodified":1566657084,
     "wof:name":"El Viejo",
     "wof:parent_id":421170189,
     "wof:placetype":"locality",

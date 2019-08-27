@@ -10,8 +10,12 @@
     "geom:latitude":11.68758,
     "geom:longitude":-84.45616,
     "iso:country":"NI",
+    "lbl:bbox":"-84.47616,11.66758,-84.43616,11.70758",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nueva Guinea"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Nueva Guinea"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colonia Nueva Guinea"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3617459,
         "gp:id":153618,
-        "qs:id":898739,
+        "qs_pg:id":898739,
         "wd:id":"Q2554341",
         "wk:page":"Nueva Guinea"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421174769,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1566657078,
     "wof:name":"Nueva Guinea",
     "wof:parent_id":421192911,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":12.26356,
     "geom:longitude":-85.08078,
     "iso:country":"NI",
+    "lbl:bbox":"-85.10078,12.24356,-85.06078,12.28356",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santo Domingo"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Santo Domingo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Domingo"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3616356,
         "gp:id":154269,
-        "qs:id":1204489,
+        "qs_pg:id":1204489,
         "wd:id":"Q1647902",
         "wk:page":"Santo Domingo, Chontales"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421180513,
-    "wof:lastmodified":1563335839,
+    "wof:lastmodified":1566657079,
     "wof:name":"Santo Domingo",
     "wof:parent_id":1108693851,
     "wof:placetype":"locality",

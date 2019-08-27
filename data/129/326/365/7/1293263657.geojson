@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-83.7621,14.77993,-83.7221,14.81993",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Wasla"
     ],
@@ -40,8 +44,7 @@
     "name:und_x_variant":[
         "Huasla",
         "Waska",
-        "Wasta",
-        "Wasla"
+        "Wasta"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1293263657,
-    "wof:lastmodified":1564231195,
+    "wof:lastmodified":1566656896,
     "wof:name":"Wasla",
     "wof:parent_id":1108693673,
     "wof:placetype":"locality",

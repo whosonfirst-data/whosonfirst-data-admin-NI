@@ -10,8 +10,12 @@
     "geom:latitude":12.00386,
     "geom:longitude":-86.12128,
     "iso:country":"NI",
+    "lbl:bbox":"-86.14128,11.98386,-86.10128,12.02386",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nindir\u00ed"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3617473,
         "gp:id":153615,
-        "qs:id":149466,
+        "qs_pg:id":149466,
         "wd:id":"Q2215135",
         "wk:page":"Nindir\u00ed, Masaya"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421179389,
-    "wof:lastmodified":1563335882,
+    "wof:lastmodified":1566657095,
     "wof:name":"Nindir\u00ed",
     "wof:parent_id":1108693783,
     "wof:placetype":"locality",

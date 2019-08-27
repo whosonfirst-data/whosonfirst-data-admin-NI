@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.062206,
     "lbl:longitude":-86.600003,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LEON",
     "meso:gadm_admin":"Achuapa",
     "meso:gadm_hasc2":"NI.LE.AC",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.600003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Achuapa"
     ],
@@ -39,9 +42,9 @@
         "ACHUAPA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"416.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Achuapa",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108693761,
-    "wof:lastmodified":1554489227,
+    "wof:lastmodified":1566657005,
     "wof:name":"Achuapa",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

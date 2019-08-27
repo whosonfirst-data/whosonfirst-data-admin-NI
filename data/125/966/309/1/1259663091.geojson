@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.447,13.64601,-86.407,13.68601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259663091,
-    "wof:lastmodified":1537093175,
+    "wof:lastmodified":1566657162,
     "wof:name":"Quisuli",
     "wof:parent_id":1108693709,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":11.439853,
     "geom:longitude":-85.82468,
     "iso:country":"NI",
+    "lbl:bbox":"-85.8446795,11.419853,-85.8046795,11.459853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -131,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0432\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nicaragua"
     ],
     "name:urd_x_preferred":[
@@ -270,9 +273,11 @@
     "wof:concordances":{
         "gn:id":3617052,
         "gp:id":153774,
-        "qs:id":1074606,
         "qs_pg:id":149448,
         "wd:id":"Q1757609"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074606
     },
     "wof:country":"NI",
     "wof:created":1459009486,
@@ -287,7 +292,7 @@
         }
     ],
     "wof:id":421186619,
-    "wof:lastmodified":1563335845,
+    "wof:lastmodified":1566657082,
     "wof:name":"Rivas",
     "wof:parent_id":421197835,
     "wof:placetype":"locality",

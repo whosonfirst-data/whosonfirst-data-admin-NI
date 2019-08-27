@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.04903,11.54741,-85.00903,11.58741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La flor"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243155763,
-    "wof:lastmodified":1564231625,
+    "wof:lastmodified":1566657121,
     "wof:name":"La Flor",
     "wof:parent_id":1108693861,
     "wof:placetype":"locality",

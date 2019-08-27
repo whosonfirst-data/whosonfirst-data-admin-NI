@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.98842,11.92629,-85.94842,11.96629",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Santa Teresita"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1243356277,
-    "wof:lastmodified":1564231630,
+    "wof:lastmodified":1566657124,
     "wof:name":"Santa Teresita",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

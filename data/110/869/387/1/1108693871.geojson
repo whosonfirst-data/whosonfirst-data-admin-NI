@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.917138,
     "lbl:longitude":-84.918704,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ATLANTICO SUR",
     "meso:gadm_admin":"R\u00edo Blanco",
     "meso:gadm_hasc2":"NI.MT.RB",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.918704,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Rio Blanco"
     ],
@@ -65,7 +68,7 @@
         "\u6d3e\u74e6\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1108693871,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657010,
     "wof:name":"Rio Blanco",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

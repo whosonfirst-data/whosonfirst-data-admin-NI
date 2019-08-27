@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.220761,
     "lbl:longitude":-85.78254,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RIVAS",
     "meso:gadm_admin":"Tola",
     "meso:gadm_hasc2":"NI.RI.TO",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.78254,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "San Juan del Sur"
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":847,
     "wof:belongsto":[
         102191575,
@@ -118,7 +121,7 @@
     "wof:concordances":{
         "gp:id":26813416,
         "hasc:id":"NI.RI.TO",
-        "qs:id":220320,
+        "qs_pg:id":220320,
         "wd:id":"Q240247"
     },
     "wof:country":"NI",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421202297,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1566657077,
     "wof:name":"Tola",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

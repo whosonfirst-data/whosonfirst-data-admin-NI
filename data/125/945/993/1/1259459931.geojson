@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.97118,12.72856,-85.93118,12.76856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259459931,
-    "wof:lastmodified":1536892363,
+    "wof:lastmodified":1566657168,
     "wof:name":"Canada Grande",
     "wof:parent_id":421200105,
     "wof:placetype":"locality",

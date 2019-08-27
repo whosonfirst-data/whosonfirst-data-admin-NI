@@ -10,8 +10,12 @@
     "geom:latitude":12.31667,
     "geom:longitude":-86.06667,
     "iso:country":"NI",
+    "lbl:bbox":"-86.08667,12.29667,-86.04667,12.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Benito"
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":3616926,
         "gp:id":153840,
-        "qs:id":988306
+        "qs_pg:id":988306
     },
     "wof:country":"NI",
     "wof:created":1459009397,
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421184001,
-    "wof:lastmodified":1564231581,
+    "wof:lastmodified":1566657091,
     "wof:name":"San Benito",
     "wof:parent_id":421175427,
     "wof:placetype":"locality",

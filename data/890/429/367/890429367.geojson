@@ -11,14 +11,18 @@
     "geom:longitude":-87.4516,
     "gn:country":"NI",
     "gn:fcode":"PPL",
-    "gn:pop":4142,
+    "gn:population":4142,
     "iso:country":"NI",
+    "lbl:bbox":"-87.4716,12.72593,-87.4316,12.76593",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0425\u0438\u043a\u0438\u043b\u0438\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tiguilillo"
     ],
     "qs:name":"Jiquilillo",
@@ -35,7 +39,7 @@
     "wof:concordances":{
         "gn:id":3618924,
         "gp:id":153680,
-        "qs:id":96122
+        "qs_pg:id":96122
     },
     "wof:country":"NI",
     "wof:created":1469051812,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890429367,
-    "wof:lastmodified":1505343512,
+    "wof:lastmodified":1566657103,
     "wof:name":"Jiquilillo",
     "wof:parent_id":85675503,
     "wof:placetype":"locality",

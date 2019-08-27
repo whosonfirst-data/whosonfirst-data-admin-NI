@@ -10,8 +10,12 @@
     "geom:latitude":13.7585,
     "geom:longitude":-86.01843,
     "iso:country":"NI",
+    "lbl:bbox":"-86.03843,13.7385,-85.99843,13.7785",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Murra"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Murra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3617543,
         "gp:id":153596,
-        "qs:id":1045733,
+        "qs_pg:id":1045733,
         "wd:id":"Q2215609",
         "wk:page":"Murra, Nueva Segovia"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421194281,
-    "wof:lastmodified":1563335816,
+    "wof:lastmodified":1566657072,
     "wof:name":"Murra",
     "wof:parent_id":1108693697,
     "wof:placetype":"locality",

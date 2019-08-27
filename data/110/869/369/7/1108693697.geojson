@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.768088,
     "lbl:longitude":-85.981984,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NUEVA SEGOVIA",
     "meso:gadm_admin":"Murra",
     "meso:gadm_hasc2":"NI.NS.MU",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.981984,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Murra"
     ],
@@ -68,9 +71,9 @@
         "\u7a46\u62c9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"429.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Murra",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108693697,
-    "wof:lastmodified":1563335684,
+    "wof:lastmodified":1566657008,
     "wof:name":"Murra",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

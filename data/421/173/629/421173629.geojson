@@ -10,6 +10,9 @@
     "geom:latitude":11.976104,
     "geom:longitude":-86.099853,
     "iso:country":"NI",
+    "lbl:bbox":"-86.119853,11.956104,-86.079853,11.996104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":8.0,
@@ -291,9 +294,11 @@
     "wof:concordances":{
         "gn:id":3617723,
         "gp:id":153533,
-        "qs:id":457247,
-        "qs_pg:id":1045726,
+        "qs_pg:id":457247,
         "wd:id":"Q1001914"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045726
     },
     "wof:country":"NI",
     "wof:created":1459008992,
@@ -308,7 +313,7 @@
         }
     ],
     "wof:id":421173629,
-    "wof:lastmodified":1563335840,
+    "wof:lastmodified":1566657079,
     "wof:name":"Masaya",
     "wof:parent_id":421170019,
     "wof:placetype":"locality",

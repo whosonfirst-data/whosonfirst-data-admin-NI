@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.580826,
     "lbl:longitude":-85.512443,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BOACO",
     "meso:gadm_admin":"Boaco",
     "meso:gadm_hasc2":"NI.BO.BO",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.512443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0643\u0648"
     ],
@@ -108,9 +111,9 @@
         "\u535a\u963f\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"1,087.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Boaco",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1108693841,
-    "wof:lastmodified":1564231434,
+    "wof:lastmodified":1566657002,
     "wof:name":"Boaco",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

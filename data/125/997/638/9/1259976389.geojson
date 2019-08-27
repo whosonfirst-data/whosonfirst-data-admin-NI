@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.79948,13.27787,-85.75948,13.31787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259976389,
-    "wof:lastmodified":1536644816,
+    "wof:lastmodified":1566657151,
     "wof:name":"Abisinia",
     "wof:parent_id":1108693685,
     "wof:placetype":"locality",

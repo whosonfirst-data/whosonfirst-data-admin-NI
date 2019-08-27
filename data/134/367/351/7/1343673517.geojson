@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-87.62545,12.82839,-87.58545,12.86839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Santa Elena"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1343673517,
-    "wof:lastmodified":1564231079,
+    "wof:lastmodified":1566656839,
     "wof:name":"Santa Elena",
     "wof:parent_id":421170189,
     "wof:placetype":"locality",

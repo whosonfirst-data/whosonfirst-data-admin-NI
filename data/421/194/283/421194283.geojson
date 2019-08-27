@@ -10,8 +10,12 @@
     "geom:latitude":11.01844,
     "geom:longitude":-84.39811,
     "iso:country":"NI",
+    "lbl:bbox":"-84.41811,10.99844,-84.37811,11.03844",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "El Castillo"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "El Castillo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castillo"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3619954,
         "gp:id":152450,
-        "qs:id":1045740,
+        "qs_pg:id":1045740,
         "wd:id":"Q581121",
         "wk:page":"El Castillo (municipality)"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421194283,
-    "wof:lastmodified":1561767271,
+    "wof:lastmodified":1566657072,
     "wof:name":"El Castillo de La Concepci\u00f3n",
     "wof:parent_id":1108693867,
     "wof:placetype":"locality",

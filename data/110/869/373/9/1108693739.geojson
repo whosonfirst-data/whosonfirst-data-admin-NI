@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.213207,
     "lbl:longitude":-86.772024,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHINANDEGA",
     "meso:gadm_admin":"San Francisco del Norte",
     "meso:gadm_hasc2":"NI.CI.SF",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.772024,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a6\u03c1\u03b1\u03bd\u03c3\u03af\u03c3\u03ba\u03bf \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
     ],
@@ -67,9 +70,9 @@
         "\u5317\u8056\u5f17\u862d\u897f\u65af\u79d1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"120.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"San Francisco Del Norte",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108693739,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657009,
     "wof:name":"San Fco. Del Norte",
     "wof:parent_id":85675503,
     "wof:placetype":"county",
