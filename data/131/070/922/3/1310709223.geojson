@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.89844,13.25623,-86.85844,13.29623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "San Pedro del Norte"
     ],
@@ -46,8 +50,7 @@
     "name:und_x_variant":[
         "San Pedro de Potrero Grande",
         "San Pedro",
-        "San Pedro de Potrero",
-        "San Pedro del Norte"
+        "San Pedro de Potrero"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u067e\u06cc\u062f\u0631\u0648 \u0634\u0645\u0627\u0644\u06cc"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1310709223,
-    "wof:lastmodified":1564231450,
+    "wof:lastmodified":1566657017,
     "wof:name":"San Pedro del Norte",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

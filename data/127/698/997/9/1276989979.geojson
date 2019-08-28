@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.32873,11.72026,-86.28873,11.76026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "No More"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1276989979,
-    "wof:lastmodified":1564231274,
+    "wof:lastmodified":1566656931,
     "wof:name":"La Paloma",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",

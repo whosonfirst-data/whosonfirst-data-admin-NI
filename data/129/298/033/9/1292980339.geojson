@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.15852,13.7029,-86.11852,13.7429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "El J\u00edcaro"
     ],
@@ -45,7 +49,6 @@
     ],
     "name:und_x_variant":[
         "J\u00edcaro",
-        "El J\u00edcaro",
         "Ciudad Sandino"
     ],
     "name:urd_x_preferred":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1292980339,
-    "wof:lastmodified":1564231168,
+    "wof:lastmodified":1566656885,
     "wof:name":"Ciudad Sandino",
     "wof:parent_id":1108693705,
     "wof:placetype":"locality",

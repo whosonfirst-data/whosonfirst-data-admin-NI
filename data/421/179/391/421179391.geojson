@@ -10,8 +10,12 @@
     "geom:latitude":12.34,
     "geom:longitude":-86.67528,
     "iso:country":"NI",
+    "lbl:bbox":"-86.69528,12.32,-86.65528,12.36",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Paz Centro"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "La Paz Centro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Paz"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":3618411,
         "gp:id":153151,
-        "qs:id":149470,
+        "qs_pg:id":149470,
         "wd:id":"Q2604553"
     },
     "wof:country":"NI",
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421179391,
-    "wof:lastmodified":1563335878,
+    "wof:lastmodified":1566657094,
     "wof:name":"La Paz Centro",
     "wof:parent_id":1108693771,
     "wof:placetype":"locality",

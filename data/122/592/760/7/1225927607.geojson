@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.13224,12.13329,-86.09224,12.17329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "El Zapotal"
     ],
@@ -32,8 +36,7 @@
         "El Zapotal"
     ],
     "name:und_x_variant":[
-        "Zapotal",
-        "El Zapotal"
+        "Zapotal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1225927607,
-    "wof:lastmodified":1564231734,
+    "wof:lastmodified":1566657175,
     "wof:name":"El Zapotal",
     "wof:parent_id":421175427,
     "wof:placetype":"locality",

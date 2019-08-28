@@ -10,8 +10,12 @@
     "geom:latitude":13.66034,
     "geom:longitude":-86.43841,
     "iso:country":"NI",
+    "lbl:bbox":"-86.45841,13.64034,-86.41841,13.68034",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u043e\u0437\u043e\u043d\u0442\u0435"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Mozonte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mosonte"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3617565,
         "gp:id":153590,
-        "qs:id":1117604,
+        "qs_pg:id":1117604,
         "wd:id":"Q2215922",
         "wk:page":"Mozonte"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421177217,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1566657092,
     "wof:name":"Mozonte",
     "wof:parent_id":1108693709,
     "wof:placetype":"locality",

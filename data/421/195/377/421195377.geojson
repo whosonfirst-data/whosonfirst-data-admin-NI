@@ -10,8 +10,12 @@
     "geom:latitude":12.09654,
     "geom:longitude":-86.34614,
     "iso:country":"NI",
+    "lbl:bbox":"-86.36614,12.07654,-86.32614,12.11654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Santa Ana"
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":3616560,
         "gp:id":154112,
-        "qs:id":149458
+        "qs_pg:id":149458
     },
     "wof:country":"NI",
     "wof:created":1459009841,
@@ -171,7 +175,7 @@
         }
     ],
     "wof:id":421195377,
-    "wof:lastmodified":1564231570,
+    "wof:lastmodified":1566657071,
     "wof:name":"Santa Ana",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",

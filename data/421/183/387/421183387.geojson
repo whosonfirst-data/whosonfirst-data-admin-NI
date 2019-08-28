@@ -10,8 +10,12 @@
     "geom:latitude":13.79465,
     "geom:longitude":-86.57117,
     "iso:country":"NI",
+    "lbl:bbox":"-86.59117,13.77465,-86.55117,13.81465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3618213,
         "gp:id":104046,
-        "qs:id":974889
+        "qs_pg:id":974889
     },
     "wof:country":"NI",
     "wof:created":1459009367,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421183387,
-    "wof:lastmodified":1500011757,
+    "wof:lastmodified":1566657093,
     "wof:name":"Las Manos",
     "wof:parent_id":1108701667,
     "wof:placetype":"locality",

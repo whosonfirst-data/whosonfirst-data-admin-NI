@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.622053,
     "lbl:longitude":-86.152069,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CARAZO",
     "meso:gadm_admin":"Diriamba",
     "meso:gadm_hasc2":"NI.CA.DI",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.152069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a4\u03b5\u03c1\u03ad\u03c3\u03b1"
     ],
@@ -67,7 +70,7 @@
         "\u8056\u7279\u96f7\u838e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108693803,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657010,
     "wof:name":"Diriamba",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

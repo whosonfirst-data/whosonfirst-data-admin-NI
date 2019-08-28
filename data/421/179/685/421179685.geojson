@@ -10,8 +10,12 @@
     "geom:latitude":11.54006,
     "geom:longitude":-85.69795,
     "iso:country":"NI",
+    "lbl:bbox":"-85.71795,11.52006,-85.67795,11.56006",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u043e\u0439\u043e\u0433\u0430\u043b\u043f\u0430"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3617569,
         "gp:id":153589,
-        "qs:id":433531,
+        "qs_pg:id":433531,
         "wd:id":"Q2215641",
         "wk:page":"Moyogalpa"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421179685,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1566657095,
     "wof:name":"Moyogalpa",
     "wof:parent_id":421202289,
     "wof:placetype":"locality",

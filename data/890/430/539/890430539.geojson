@@ -11,10 +11,14 @@
     "geom:longitude":-86.28333,
     "gn:country":"NI",
     "gn:fcode":"PPL",
-    "gn:pop":2219,
+    "gn:population":2219,
     "iso:country":"NI",
+    "lbl:bbox":"-86.30333,12.49667,-86.26333,12.53667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Valle San Francisco",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3615865,
         "gp:id":153892,
-        "qs:id":149442
+        "qs_pg:id":149442
     },
     "wof:country":"NI",
     "wof:created":1469051857,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890430539,
-    "wof:lastmodified":1505343519,
+    "wof:lastmodified":1566657102,
     "wof:name":"Valle San Francisco",
     "wof:parent_id":1108693775,
     "wof:placetype":"locality",

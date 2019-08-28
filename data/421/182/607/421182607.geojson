@@ -10,8 +10,12 @@
     "geom:latitude":13.74665,
     "geom:longitude":-86.70996,
     "iso:country":"NI",
+    "lbl:bbox":"-86.72996,13.72665,-86.68996,13.76665",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Santa Mar\u00eda"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3616441,
         "gp:id":154204,
-        "qs:id":924509,
+        "qs_pg:id":924509,
         "wd:id":"Q1647660",
         "wk:page":"Santa Mar\u00eda, Nueva Segovia"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421182607,
-    "wof:lastmodified":1563335885,
+    "wof:lastmodified":1566657096,
     "wof:name":"Santa Mar\u00eda",
     "wof:parent_id":1108693713,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.248976,
     "lbl:longitude":-83.88011,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ATLANTICO SUR",
     "meso:gadm_admin":"Kukra Hill",
     "meso:gadm_hasc2":"NI.AS.KH",
@@ -31,6 +33,7 @@
     "mps:longitude":-83.88011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kukra Hill"
     ],
@@ -72,9 +75,9 @@
         "\u5eab\u514b\u62c9\u5e0c\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"1,193.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Kukra Hill",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108693873,
-    "wof:lastmodified":1563335689,
+    "wof:lastmodified":1566657010,
     "wof:name":"Kukra Hill",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

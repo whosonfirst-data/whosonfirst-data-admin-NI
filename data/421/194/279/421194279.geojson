@@ -10,8 +10,12 @@
     "geom:latitude":12.76224,
     "geom:longitude":-85.62915,
     "iso:country":"NI",
+    "lbl:bbox":"-85.64915,12.74224,-85.60915,12.78224",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Muy Muy"
@@ -41,9 +45,6 @@
         "Muy Muy"
     ],
     "name:swe_x_preferred":[
-        "Muy Muy"
-    ],
-    "name:unk_x_variant":[
         "Muy Muy"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3617532,
         "gp:id":56122920,
-        "qs:id":1045732,
+        "qs_pg:id":1045732,
         "wd:id":"Q2215631",
         "wk:page":"Muy Muy"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":421194279,
-    "wof:lastmodified":1563335817,
+    "wof:lastmodified":1566657073,
     "wof:name":"Muymuy",
     "wof:parent_id":421200103,
     "wof:placetype":"locality",

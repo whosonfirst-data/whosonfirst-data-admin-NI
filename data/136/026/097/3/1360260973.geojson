@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.68348,12.02674,-84.64348,12.06674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360260973,
-    "wof:lastmodified":1536692132,
+    "wof:lastmodified":1566657052,
     "wof:name":"La Estrella",
     "wof:parent_id":1108693875,
     "wof:placetype":"locality",

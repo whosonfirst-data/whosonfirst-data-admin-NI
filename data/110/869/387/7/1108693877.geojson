@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.734002,
     "lbl:longitude":-84.263922,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ATLANTICO SUR",
     "meso:gadm_admin":"La Cruz de R\u00edo Grande",
     "meso:gadm_hasc2":"NI.AS.LC",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.263922,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "La Cruz De Rio Grande"
     ],
@@ -64,7 +67,7 @@
         "\u62c9\u514b\u9b6f\u65af\u5fb7\u91cc\u5967\u683c\u862d\u5fb7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632599,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108693877,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657010,
     "wof:name":"La Cruz De Rio Grande",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.080649,
     "lbl:longitude":-85.09277,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Chontales",
     "mps:latitude":12.024184,
     "mps:longitude":-85.176903,
@@ -176,9 +177,6 @@
     "name:ukr_x_preferred":[
         "\u0427\u043e\u043d\u0442\u0430\u043b\u0435\u0441"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Chontales"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0648\u0646\u062a\u0627\u0644\u06cc\u0633 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -260,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-28",
+    "src:population_date":"2005-05-28",
     "statoids:area_km":"6,481",
     "statoids:area_mi":"2,502",
     "statoids:as_of_date":"2005-05-28",
@@ -287,7 +285,7 @@
         "gp:id":2346420,
         "hasc:id":"NI.CO",
         "iso:id":"NI-CO",
-        "qs:id":1175856,
+        "qs_pg:id":1175856,
         "unlc:id":"NI-CO",
         "wd:id":"Q498443",
         "wk:page":"Chontales Department"
@@ -308,11 +306,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565731574,
+    "wof:lastmodified":1566656855,
     "wof:name":"Chontales",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":153932,
     "wof:population_rank":9,

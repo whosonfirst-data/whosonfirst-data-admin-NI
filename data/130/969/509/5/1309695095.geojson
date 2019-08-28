@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.04876,11.62476,-86.00876,11.66476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309695095,
-    "wof:lastmodified":1537087577,
+    "wof:lastmodified":1566657064,
     "wof:name":"Cebadilla",
     "wof:parent_id":421171791,
     "wof:placetype":"locality",

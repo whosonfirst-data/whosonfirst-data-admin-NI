@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.18667,11.73,-86.14667,11.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Francisco"
     ],
@@ -525,7 +529,7 @@
         }
     ],
     "wof:id":1327440319,
-    "wof:lastmodified":1564231031,
+    "wof:lastmodified":1566656813,
     "wof:name":"San Francisco",
     "wof:parent_id":1108693797,
     "wof:placetype":"locality",

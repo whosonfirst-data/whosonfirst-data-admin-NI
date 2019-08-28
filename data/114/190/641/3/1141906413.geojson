@@ -10,10 +10,14 @@
     "geom:latitude":13.089988,
     "geom:longitude":-86.359985,
     "iso:country":"NI",
+    "lbl:bbox":"-86.3799847837,13.0699878122,-86.3399847837,13.1099878122",
     "lbl:latitude":13.089988,
     "lbl:longitude":-86.359985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u064a\u0644\u064a"
     ],
@@ -259,7 +263,7 @@
         }
     ],
     "wof:id":1141906413,
-    "wof:lastmodified":1563336114,
+    "wof:lastmodified":1566657216,
     "wof:name":"Esteli",
     "wof:parent_id":1108693753,
     "wof:placetype":"locality",

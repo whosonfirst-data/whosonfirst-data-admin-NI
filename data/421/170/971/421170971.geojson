@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.63981,
     "lbl:longitude":-86.491018,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NUEVA SEGOVIA",
     "meso:gadm_admin":"Ocotal",
     "meso:gadm_hasc2":"NI.NS.OC",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.491018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0410\u043a\u0430\u0442\u0430\u043b\u044c"
@@ -118,9 +121,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"85.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Ocotal",
@@ -140,7 +143,7 @@
     "wof:concordances":{
         "gp:id":26813398,
         "hasc:id":"NI.NS.OC",
-        "qs:id":1203947
+        "qs_pg:id":1203947
     },
     "wof:country":"NI",
     "wof:created":1459008876,
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":421170971,
-    "wof:lastmodified":1564231582,
+    "wof:lastmodified":1566657091,
     "wof:name":"Ocotal",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

@@ -9,16 +9,19 @@
     "geom:bbox":"-86.09007,11.96468,-86.09007,11.96468",
     "geom:latitude":11.96468,
     "geom:longitude":-86.09007,
-    "gn:gn_country":"NI",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NI",
+    "gn:fcode":"PPLX",
     "gn:latitude":11.96468,
     "gn:longitude":-86.09007,
+    "gn:population":0,
     "iso:country":"NI",
+    "lbl:bbox":"-86.09507,11.95968,-86.08507,11.96968",
     "lbl:latitude":11.96468,
     "lbl:longitude":-86.09007,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:spa_x_colloquial":[
         "Barrio Monimbo",
@@ -29,10 +32,6 @@
     ],
     "name:spa_x_variant":[
         "Barrio Monimb\u00f3"
-    ],
-    "name:unk_x_variant":[
-        "Barrio Monimb\u00f3",
-        "Monimb\u00f3"
     ],
     "qs_pg:aaroncc":"NI",
     "qs_pg:gn_country":"NI",
@@ -55,7 +54,7 @@
     "qs_pg:woe_adm0":23424915,
     "qs_pg:woe_id":153567,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424915,
     "woe:name_adm0":"Nicaragua",
     "woe:name_adm1":"Masaya",
@@ -70,7 +69,6 @@
     "wof:concordances":{
         "gn:id":3617617,
         "gp:id":153567,
-        "qs:id":222192,
         "qs_pg:id":222192
     },
     "wof:country":"NI",
@@ -87,7 +85,7 @@
         }
     ],
     "wof:id":1126093071,
-    "wof:lastmodified":1534379386,
+    "wof:lastmodified":1566657105,
     "wof:name":"Monimb\u00f3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

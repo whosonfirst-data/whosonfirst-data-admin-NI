@@ -10,8 +10,12 @@
     "geom:latitude":11.92411,
     "geom:longitude":-86.12072,
     "iso:country":"NI",
+    "lbl:bbox":"-86.14072,11.90411,-86.10072,11.94411",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d\u0434\u0430\u0441\u043c\u043e"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Nandasmo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nandasma"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3617510,
         "gp:id":153609,
-        "qs:id":1045731,
+        "qs_pg:id":1045731,
         "wd:id":"Q641207",
         "wk:page":"Nandasmo"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421176297,
-    "wof:lastmodified":1561767276,
+    "wof:lastmodified":1566657097,
     "wof:name":"Nandasmo",
     "wof:parent_id":421193737,
     "wof:placetype":"locality",

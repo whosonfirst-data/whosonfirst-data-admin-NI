@@ -11,8 +11,11 @@
     "geom:longitude":-86.87804,
     "gn:country":"NI",
     "gn:fcode":"PPLA",
-    "gn:pop":144538,
+    "gn:population":144538,
     "iso:country":"NI",
+    "lbl:bbox":"-86.89804,12.41787,-86.85804,12.45787",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -318,7 +321,7 @@
     "wof:concordances":{
         "gn:id":3618030,
         "gp:id":153382,
-        "qs:id":274450,
+        "qs_pg:id":274450,
         "wd:id":"Q208151"
     },
     "wof:country":"NI",
@@ -334,7 +337,7 @@
         }
     ],
     "wof:id":890442115,
-    "wof:lastmodified":1563335902,
+    "wof:lastmodified":1566657104,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":1108693769,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.120669,
     "lbl:longitude":-84.582359,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ATLANTICO SUR",
     "meso:gadm_admin":"Muelle de los Bueyes",
     "meso:gadm_hasc2":"NI.AS.MB",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.582359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Muelle De Los Bueyes"
     ],
@@ -64,9 +67,9 @@
         "\u7a46\u57c3\u723e\u840a\u5fb7\u6d1b\u65af\u5e03\u57c3\u8036\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"1,380.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Muelle de Los Bueyes",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1108693875,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657010,
     "wof:name":"Muelle De Los Bueyes",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-87.06095,12.53386,-87.02095,12.57386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Benito"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1242875981,
-    "wof:lastmodified":1564231603,
+    "wof:lastmodified":1566657111,
     "wof:name":"San Benito",
     "wof:parent_id":421189527,
     "wof:placetype":"locality",

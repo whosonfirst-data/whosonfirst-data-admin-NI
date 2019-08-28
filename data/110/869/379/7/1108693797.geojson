@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.697295,
     "lbl:longitude":-86.186585,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CARAZO",
     "meso:gadm_admin":"La Conquista",
     "meso:gadm_hasc2":"NI.CA.LC",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.186585,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "La Conquista"
     ],
@@ -39,9 +42,9 @@
         "LA CONQUISTA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"88.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"La Conquista",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108693797,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1566656999,
     "wof:name":"La Conquista",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.92887,12.19412,-84.88887,12.23412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310106413,
-    "wof:lastmodified":1536994354,
+    "wof:lastmodified":1566657031,
     "wof:name":"Bulun",
     "wof:parent_id":1108693853,
     "wof:placetype":"locality",

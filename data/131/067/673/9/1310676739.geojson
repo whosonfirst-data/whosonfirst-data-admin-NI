@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-83.77,12.21333,-83.73,12.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cukra Hill",
         "Cukra"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310676739,
-    "wof:lastmodified":1537675572,
+    "wof:lastmodified":1566657039,
     "wof:name":"Cukra",
     "wof:parent_id":1108693873,
     "wof:placetype":"locality",

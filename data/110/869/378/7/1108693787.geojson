@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.89919,
     "lbl:longitude":-86.072273,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MASAYA",
     "meso:gadm_admin":"San Juan de Oriente",
     "meso:gadm_hasc2":"NI.MS.SJ",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.072273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Juan De Oriente"
     ],
@@ -40,9 +43,9 @@
         "NIQUINOHOMO"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"9.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"San Juan De Oriente",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108693787,
-    "wof:lastmodified":1554489228,
+    "wof:lastmodified":1566657006,
     "wof:name":"San Juan De Oriente",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

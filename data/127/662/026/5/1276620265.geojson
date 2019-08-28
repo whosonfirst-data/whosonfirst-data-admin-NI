@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.22892,12.07743,-84.18892,12.11743",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Santa Ana"
     ],
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":1276620265,
-    "wof:lastmodified":1564231269,
+    "wof:lastmodified":1566656929,
     "wof:name":"Santa Ana",
     "wof:parent_id":421171813,
     "wof:placetype":"locality",

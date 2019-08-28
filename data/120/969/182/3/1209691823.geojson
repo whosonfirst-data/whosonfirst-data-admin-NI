@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-83.54451,12.88702,-83.50451,12.92702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Barra"
     ],
@@ -45,8 +49,7 @@
         "Barra Rio Grande",
         "R\u00edo Grande",
         "Barra de R\u00edo Grande",
-        "La Barra de R\u00edo Grande",
-        "La Barra"
+        "La Barra de R\u00edo Grande"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0628\u0627\u0631\u0627"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209691823,
-    "wof:lastmodified":1564231340,
+    "wof:lastmodified":1566656960,
     "wof:name":"La Barra",
     "wof:parent_id":85632599,
     "wof:placetype":"locality",

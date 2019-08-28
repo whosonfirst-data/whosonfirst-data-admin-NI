@@ -10,8 +10,12 @@
     "geom:latitude":13.34302,
     "geom:longitude":-86.62184,
     "iso:country":"NI",
+    "lbl:bbox":"-86.64184,13.32302,-86.60184,13.36302",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Las Sabanas"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Las Sabanas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sabanas"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3618124,
         "gp:id":153370,
-        "qs:id":214525,
+        "qs_pg:id":214525,
         "wd:id":"Q2215117",
         "wk:page":"Las Sabanas"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421166827,
-    "wof:lastmodified":1563335808,
+    "wof:lastmodified":1566657070,
     "wof:name":"Las Sabanas",
     "wof:parent_id":1108693731,
     "wof:placetype":"locality",

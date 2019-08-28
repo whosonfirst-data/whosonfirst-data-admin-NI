@@ -11,10 +11,14 @@
     "geom:longitude":-85.28737,
     "gn:country":"NI",
     "gn:fcode":"PPL",
-    "gn:pop":5406,
+    "gn:population":5406,
     "iso:country":"NI",
+    "lbl:bbox":"-85.30737,12.17046,-85.26737,12.21046",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Ayote"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3620084,
         "gp:id":152315,
-        "qs:id":1045741,
+        "qs_pg:id":1045741,
         "wd:id":"Q2215912",
         "wk:page":"El Ayote"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890438813,
-    "wof:lastmodified":1563335901,
+    "wof:lastmodified":1566657103,
     "wof:name":"El Ayote",
     "wof:parent_id":1108693847,
     "wof:placetype":"locality",

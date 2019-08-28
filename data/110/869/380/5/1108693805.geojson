@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.855356,
     "lbl:longitude":-86.073175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"GRANADA",
     "meso:gadm_admin":"Diri\u00e1",
     "meso:gadm_hasc2":"NI.GR.DA",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.073175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Diri\u00e1"
     ],
@@ -72,9 +75,9 @@
         "\u8fea\u91cc\u5b89\u5df4"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"26.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Diri\u00e1",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1108693805,
-    "wof:lastmodified":1563335691,
+    "wof:lastmodified":1566657011,
     "wof:name":"Diria",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

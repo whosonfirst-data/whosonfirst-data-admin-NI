@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.99483,11.89153,-85.95483,11.93153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Joya"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1209811091,
-    "wof:lastmodified":1564231359,
+    "wof:lastmodified":1566656971,
     "wof:name":"La Joya",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.545971,
     "lbl:longitude":-84.002173,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ATLANTICO NORTE",
     "meso:gadm_admin":"Prinzapolka",
     "meso:gadm_hasc2":"NI.AN.PR",
@@ -31,6 +33,7 @@
     "mps:longitude":-84.002173,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Prinzapolka"
     ],
@@ -71,9 +74,9 @@
         "\u666e\u6797\u85a9\u6ce2\u5361"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"7,020.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Prinzapolka",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1108693681,
-    "wof:lastmodified":1561767265,
+    "wof:lastmodified":1566657007,
     "wof:name":"Prinzapolka",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

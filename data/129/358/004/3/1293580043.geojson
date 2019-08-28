@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.86537,12.39526,-86.82537,12.43526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Convento",
         "El Convento"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293580043,
-    "wof:lastmodified":1537675569,
+    "wof:lastmodified":1566656883,
     "wof:name":"El Convento",
     "wof:parent_id":1108693769,
     "wof:placetype":"locality",

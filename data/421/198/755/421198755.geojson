@@ -10,8 +10,12 @@
     "geom:latitude":11.67859,
     "geom:longitude":-84.70269,
     "iso:country":"NI",
+    "lbl:bbox":"-84.72269,11.65859,-84.68269,11.69859",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Almendro"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "El Almendro"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Almendro"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3620106,
         "gp:id":152359,
-        "qs:id":1204435,
+        "qs_pg:id":1204435,
         "wd:id":"Q2621532",
         "wk:page":"El Almendro"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421198755,
-    "wof:lastmodified":1561767273,
+    "wof:lastmodified":1566657086,
     "wof:name":"El Almendro",
     "wof:parent_id":1108693865,
     "wof:placetype":"locality",

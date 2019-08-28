@@ -11,10 +11,14 @@
     "geom:longitude":-86.18976,
     "gn:country":"NI",
     "gn:fcode":"PPL",
-    "gn:pop":6946,
+    "gn:population":6946,
     "iso:country":"NI",
+    "lbl:bbox":"-86.20976,11.91711,-86.16976,11.95711",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Concepci\u00f3n"
     ],
@@ -39,7 +43,7 @@
     "name:swe_x_preferred":[
         "La Concepci\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepci\u00f3n"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3618648,
         "gp:id":153030,
-        "qs:id":149480,
+        "qs_pg:id":149480,
         "wd:id":"Q538269",
         "wk:page":"La Concepci\u00f3n"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890441005,
-    "wof:lastmodified":1563335894,
+    "wof:lastmodified":1566657101,
     "wof:name":"La Concepci\u00f3n",
     "wof:parent_id":1108693785,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":11.56615,
     "geom:longitude":-85.5784,
     "iso:country":"NI",
+    "lbl:bbox":"-85.5984,11.54615,-85.5584,11.58615",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Altagracia"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3620930,
         "gp:id":152069,
-        "qs:id":489295,
+        "qs_pg:id":489295,
         "wd:id":"Q1647907",
         "wk:page":"Altagracia"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421170411,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1566657091,
     "wof:name":"Altagracia",
     "wof:parent_id":421202291,
     "wof:placetype":"locality",

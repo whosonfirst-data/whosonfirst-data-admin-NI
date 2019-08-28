@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.920621,
     "lbl:longitude":-86.090494,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MATAGALPA",
     "meso:gadm_admin":"S\u00e9baco",
     "meso:gadm_hasc2":"NI.MT.SE",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.090494,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sebaco"
     ],
@@ -40,9 +43,9 @@
         "SEBACO"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"290.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"S\u00e9baco",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1108693821,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1566657005,
     "wof:name":"Sebaco",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

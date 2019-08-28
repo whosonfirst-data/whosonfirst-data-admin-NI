@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.912178,
     "lbl:longitude":-86.153111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MASAYA",
     "meso:gadm_admin":"Masatepe",
     "meso:gadm_hasc2":"NI.MS.MT",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.153111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0442\u0435\u043f\u0435"
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"59.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Masatepe",
@@ -122,7 +125,7 @@
     "wof:concordances":{
         "gp:id":26813372,
         "hasc:id":"NI.MS.MT",
-        "qs:id":116364,
+        "qs_pg:id":116364,
         "wd:id":"Q2720586"
     },
     "wof:country":"NI",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421203777,
-    "wof:lastmodified":1561767271,
+    "wof:lastmodified":1566657075,
     "wof:name":"Masatepe",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

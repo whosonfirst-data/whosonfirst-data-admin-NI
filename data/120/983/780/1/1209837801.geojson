@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.98527,11.95904,-85.94527,11.99904",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "El C\u00f3bano"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209837801,
-    "wof:lastmodified":1537675581,
+    "wof:lastmodified":1566656944,
     "wof:name":"El Cobano",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

@@ -19,6 +19,8 @@
     ],
     "lbl:latitude":12.793313,
     "lbl:longitude":-85.039545,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":12.793313,
     "mps:longitude":-85.039545,
     "mz:hierarchy_label":1,
@@ -733,10 +735,6 @@
     "name:ukr_x_variant":[
         "\u041d\u0456\u043a\u0430\u0440\u0430\u0491\u0443\u0430"
     ],
-    "name:und_x_preferred":[
-        "Nikaragva",
-        "N\u00edkaragva"
-    ],
     "name:und_x_variant":[
         "Republika Nikaragva"
     ],
@@ -897,7 +895,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"505",
     "statoids:ds":"NIC",
@@ -942,7 +940,7 @@
         "mzb:id":"nicaragua",
         "ne:adm0_a3":"NIC",
         "nyt:id":"30264698533144106301",
-        "qs:id":584188,
+        "qs_pg:id":584188,
         "uncrt:id":"NIC",
         "wd:id":"Q811",
         "wk:page":"Nicaragua",
@@ -964,7 +962,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565731575,
+    "wof:lastmodified":1566656859,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

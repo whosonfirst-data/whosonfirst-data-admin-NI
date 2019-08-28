@@ -10,8 +10,12 @@
     "geom:latitude":13.091684,
     "geom:longitude":-86.35837,
     "iso:country":"NI",
+    "lbl:bbox":"-86.37837,13.071684,-86.33837,13.111684",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u064a\u0644\u064a"
@@ -176,9 +180,11 @@
     "wof:concordances":{
         "gn:id":3619194,
         "gp:id":152837,
-        "qs:id":1074593,
         "qs_pg:id":1045736,
         "wd:id":"Q1007634"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1074593
     },
     "wof:country":"NI",
     "wof:created":1459009486,
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":421186609,
-    "wof:lastmodified":1563335849,
+    "wof:lastmodified":1566657084,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":1108693753,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.919614,
     "lbl:longitude":-86.119428,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MASAYA",
     "meso:gadm_admin":"Nandasmo",
     "meso:gadm_hasc2":"NI.MS.NA",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.119428,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041d\u0430\u043d\u0434\u0430\u0441\u043c\u043e"
@@ -90,9 +93,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"18.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Nandasmo",
@@ -113,7 +116,7 @@
     "wof:concordances":{
         "gp:id":26813373,
         "hasc:id":"NI.MS.NA",
-        "qs:id":116369,
+        "qs_pg:id":116369,
         "wd:id":"Q641207"
     },
     "wof:country":"NI",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421193737,
-    "wof:lastmodified":1561767271,
+    "wof:lastmodified":1566657073,
     "wof:name":"Nandasmo",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

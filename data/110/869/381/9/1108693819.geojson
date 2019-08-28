@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.113931,
     "lbl:longitude":-85.690618,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MATAGALPA",
     "meso:gadm_admin":"Tuma-La Dalia",
     "meso:gadm_hasc2":"NI.MT.TD",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.690618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "La Dalia"
     ],
@@ -41,9 +44,9 @@
         "El Tuma - La Dalia"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"652.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"La Dalia",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1108693819,
-    "wof:lastmodified":1554489229,
+    "wof:lastmodified":1566657013,
     "wof:name":"La Dalia",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

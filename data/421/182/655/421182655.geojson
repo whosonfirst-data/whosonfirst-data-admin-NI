@@ -10,8 +10,12 @@
     "geom:latitude":12.37781,
     "geom:longitude":-85.66741,
     "iso:country":"NI",
+    "lbl:bbox":"-85.68741,12.35781,-85.64741,12.39781",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Lorenzo"
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3616708,
         "gp:id":153985,
-        "qs:id":699204,
+        "qs_pg:id":699204,
         "wd:id":"Q1647826",
         "wk:page":"San Lorenzo, Boaco"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421182655,
-    "wof:lastmodified":1563335884,
+    "wof:lastmodified":1566657096,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108693839,
     "wof:placetype":"locality",

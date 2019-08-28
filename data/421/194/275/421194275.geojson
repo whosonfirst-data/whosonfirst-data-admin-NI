@@ -10,8 +10,12 @@
     "geom:latitude":11.40255,
     "geom:longitude":-84.89991,
     "iso:country":"NI",
+    "lbl:bbox":"-84.91991,11.38255,-84.87991,11.42255",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Miguelito"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "San Miguelito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Miguellito"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3616659,
         "gp:id":154026,
-        "qs:id":1045722,
+        "qs_pg:id":1045722,
         "wd:id":"Q1015364",
         "wk:page":"San Miguelito, R\u00edo San Juan"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421194275,
-    "wof:lastmodified":1563335815,
+    "wof:lastmodified":1566657072,
     "wof:name":"San Miguelito",
     "wof:parent_id":421205287,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":12.626267,
     "geom:longitude":-87.128791,
     "iso:country":"NI",
+    "lbl:bbox":"-87.148791,12.606267,-87.108791,12.646267",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -290,9 +293,11 @@
     "wof:concordances":{
         "gn:id":3620381,
         "gp:id":152266,
-        "qs:id":1052257,
         "qs_pg:id":1045737,
         "wd:id":"Q974354"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1052257
     },
     "wof:country":"NI",
     "wof:created":1459009114,
@@ -307,7 +312,7 @@
         }
     ],
     "wof:id":421176615,
-    "wof:lastmodified":1563335887,
+    "wof:lastmodified":1566657097,
     "wof:name":"Chinandega",
     "wof:parent_id":421171365,
     "wof:placetype":"locality",

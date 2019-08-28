@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.58773,12.45813,-85.54773,12.49813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Tule"
     ],
@@ -35,8 +39,7 @@
         "El Tule"
     ],
     "name:und_x_variant":[
-        "Tule",
-        "El Tule"
+        "Tule"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343776001,
-    "wof:lastmodified":1564231060,
+    "wof:lastmodified":1566656829,
     "wof:name":"El Tule",
     "wof:parent_id":1108693841,
     "wof:placetype":"locality",

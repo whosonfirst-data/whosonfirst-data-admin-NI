@@ -10,8 +10,12 @@
     "geom:latitude":11.35918,
     "geom:longitude":-85.95078,
     "iso:country":"NI",
+    "lbl:bbox":"-85.97078,11.33918,-85.93078,11.37918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Brito"
@@ -40,7 +44,7 @@
     "name:por_x_preferred":[
         "Brito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Boca de Brito"
     ],
     "qs:gn_country":"NI",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3620625,
         "gp:id":152174,
-        "qs:id":489294
+        "qs_pg:id":489294
     },
     "wof:country":"NI",
     "wof:created":1459009855,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421195663,
-    "wof:lastmodified":1564231570,
+    "wof:lastmodified":1566657071,
     "wof:name":"Brito",
     "wof:parent_id":421190545,
     "wof:placetype":"locality",

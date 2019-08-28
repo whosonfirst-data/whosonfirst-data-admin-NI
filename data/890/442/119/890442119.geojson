@@ -11,8 +11,11 @@
     "geom:longitude":-86.19903,
     "gn:country":"NI",
     "gn:fcode":"PPLA",
-    "gn:pop":29507,
+    "gn:population":29507,
     "iso:country":"NI",
+    "lbl:bbox":"-86.21903,11.82962,-86.17903,11.86962",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -249,7 +252,7 @@
     "wof:concordances":{
         "gn:id":3618926,
         "gp:id":152915,
-        "qs:id":274451,
+        "qs_pg:id":274451,
         "wd:id":"Q477580"
     },
     "wof:country":"NI",
@@ -265,7 +268,7 @@
         }
     ],
     "wof:id":890442119,
-    "wof:lastmodified":1563335902,
+    "wof:lastmodified":1566657103,
     "wof:name":"Jinotepe",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

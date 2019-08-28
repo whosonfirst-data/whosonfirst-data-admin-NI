@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.90223,12.71329,-86.86223,12.75329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Grietas",
         "Las Grietas"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226154579,
-    "wof:lastmodified":1537675551,
+    "wof:lastmodified":1566657205,
     "wof:name":"Las Grietas",
     "wof:parent_id":421171365,
     "wof:placetype":"locality",

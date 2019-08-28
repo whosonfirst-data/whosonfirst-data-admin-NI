@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.589765,
     "lbl:longitude":-86.96048,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHINANDEGA",
     "meso:gadm_admin":"Posoltega",
     "meso:gadm_hasc2":"NI.CI.PO",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.96048,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041f\u043e\u0441\u043e\u043b\u0442\u0435\u0433\u0430"
     ],
@@ -77,9 +80,9 @@
         "\u6ce2\u7d22\u723e\u7279\u52a0"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"149.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Posoltega",
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108693749,
-    "wof:lastmodified":1563335692,
+    "wof:lastmodified":1566657011,
     "wof:name":"Posoltega",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

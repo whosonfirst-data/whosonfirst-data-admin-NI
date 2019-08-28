@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.115449,
     "lbl:longitude":-85.380737,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHONTALES",
     "meso:gadm_admin":"Juigalpa",
     "meso:gadm_hasc2":"NI.CO.JU",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.380737,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Juigalpa"
     ],
@@ -39,9 +42,9 @@
         "JUIGALPA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"727.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Juigalpa",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108693847,
-    "wof:lastmodified":1554489231,
+    "wof:lastmodified":1566657002,
     "wof:name":"Juigalpa",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

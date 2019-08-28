@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.30775,12.27319,-86.30775,12.27319",
     "geom:latitude":12.27319,
     "geom:longitude":-86.30775,
     "iso:country":"NI",
+    "lbl:bbox":"-86.32775,12.25319,-86.28775,12.29319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NI",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":3619356,
         "gp:id":152754,
-        "qs:id":228603
+        "qs_pg:id":228603
     },
     "wof:country":"NI",
     "wof:created":1459010132,
-    "wof:geomhash":"44dcadf4dfdd5246354132c9475642f8",
+    "wof:geomhash":"c459b001cbd54115a88a0ad89bc0a375",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421202859,
-    "wof:lastmodified":1466635895,
+    "wof:lastmodified":1566657076,
     "wof:name":"El Tamag\u00e1s",
     "wof:parent_id":85675495,
     "wof:placetype":"locality",

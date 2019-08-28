@@ -10,6 +10,9 @@
     "geom:latitude":13.48082,
     "geom:longitude":-86.58208,
     "iso:country":"NI",
+    "lbl:bbox":"-86.60208,13.46082,-86.56208,13.50082",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -281,7 +284,7 @@
     "wof:concordances":{
         "gn:id":3616232,
         "gp:id":154305,
-        "qs:id":211110,
+        "qs_pg:id":211110,
         "wd:id":"Q1010954",
         "wk:page":"Somoto, Madriz"
     },
@@ -298,7 +301,7 @@
         }
     ],
     "wof:id":421201329,
-    "wof:lastmodified":1563335870,
+    "wof:lastmodified":1566657090,
     "wof:name":"Somoto",
     "wof:parent_id":421171799,
     "wof:placetype":"locality",

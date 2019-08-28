@@ -10,8 +10,12 @@
     "geom:latitude":11.98009,
     "geom:longitude":-86.50571,
     "iso:country":"NI",
+    "lbl:bbox":"-86.52571,11.96009,-86.48571,12.00009",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Carlos Fonseca"
@@ -67,9 +71,6 @@
     "name:tur_x_preferred":[
         "Carlos Fonseca Amador"
     ],
-    "name:unk_x_variant":[
-        "Villa El Carmen"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0627 \u0627\u06cc\u0644 \u06a9\u0627\u0631\u0645\u06cc\u0646"
     ],
@@ -107,7 +108,7 @@
     "wof:concordances":{
         "gn:id":3620473,
         "gp:id":152231,
-        "qs:id":1204422,
+        "qs_pg:id":1204422,
         "wd:id":"Q629477"
     },
     "wof:country":"NI",
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":421177685,
-    "wof:lastmodified":1563335875,
+    "wof:lastmodified":1566657093,
     "wof:name":"Carlos Fonseca Amador",
     "wof:parent_id":1108693777,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":13.56695,
     "geom:longitude":-86.026,
     "iso:country":"NI",
+    "lbl:bbox":"-86.046,13.54695,-86.006,13.58695",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quilal\u00ed"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3617109,
         "gp:id":153749,
-        "qs:id":149462,
+        "qs_pg:id":149462,
         "wd:id":"Q2604559",
         "wk:page":"Quilal\u00ed"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421179385,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1566657095,
     "wof:name":"Quilal\u00ed",
     "wof:parent_id":1108693699,
     "wof:placetype":"locality",

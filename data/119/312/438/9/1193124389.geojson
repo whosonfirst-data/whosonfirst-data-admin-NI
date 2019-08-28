@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.7894,12.82043,-85.7494,12.86043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Laguna Seca"
     ],
@@ -41,8 +45,7 @@
         "Laguna Seca"
     ],
     "name:und_x_variant":[
-        "Laguna",
-        "Laguna Seca"
+        "Laguna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1193124389,
-    "wof:lastmodified":1564231375,
+    "wof:lastmodified":1566656978,
     "wof:name":"Laguna Seca",
     "wof:parent_id":421171539,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":12.08194,
     "geom:longitude":-86.01739,
     "iso:country":"NI",
+    "lbl:bbox":"-86.03739,12.06194,-85.99739,12.10194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tisma"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3616028,
         "gp:id":154366,
-        "qs:id":149446,
+        "qs_pg:id":149446,
         "wd:id":"Q2216452",
         "wk:page":"Tisma"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421179379,
-    "wof:lastmodified":1561767275,
+    "wof:lastmodified":1566657094,
     "wof:name":"Tisma",
     "wof:parent_id":1108693781,
     "wof:placetype":"locality",

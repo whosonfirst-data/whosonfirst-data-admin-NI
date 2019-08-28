@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.09882,14.73684,-84.05882,14.77684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Luis"
     ],
@@ -122,8 +126,7 @@
         "\u0421\u0430\u043d-\u041b\u0443\u0457\u0441"
     ],
     "name:und_x_variant":[
-        "Laguntara",
-        "San Luis"
+        "Laguntara"
     ],
     "name:vol_x_preferred":[
         "San Luis"
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1293164535,
-    "wof:lastmodified":1564231180,
+    "wof:lastmodified":1566656890,
     "wof:name":"San Luis",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.833677,
     "lbl:longitude":-85.960748,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"GRANADA",
     "meso:gadm_admin":"Granada",
     "meso:gadm_hasc2":"NI.GR.GR",
@@ -31,6 +33,7 @@
     "mps:longitude":-85.960748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Granada"
@@ -355,9 +358,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"592.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Granada",
@@ -377,7 +380,7 @@
     "wof:concordances":{
         "gp:id":26813333,
         "hasc:id":"NI.GR.GR",
-        "qs:id":1315009
+        "qs_pg:id":1315009
     },
     "wof:country":"NI",
     "wof:created":1459009904,
@@ -391,7 +394,7 @@
         }
     ],
     "wof:id":421197135,
-    "wof:lastmodified":1564231579,
+    "wof:lastmodified":1566657087,
     "wof:name":"Granada",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

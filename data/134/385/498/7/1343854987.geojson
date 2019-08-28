@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.72082,12.63227,-86.68082,12.67227",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo El Pi\u00f1uelar",
         "El Pi\u00f1uelar"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343854987,
-    "wof:lastmodified":1537675564,
+    "wof:lastmodified":1566656832,
     "wof:name":"El Pinuelar",
     "wof:parent_id":1108693767,
     "wof:placetype":"locality",

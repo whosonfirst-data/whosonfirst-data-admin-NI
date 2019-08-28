@@ -10,13 +10,17 @@
     "geom:latitude":11.11146,
     "geom:longitude":-85.76146,
     "iso:country":"NI",
+    "lbl:bbox":"-85.78146,11.09146,-85.74146,11.13146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "El Ostional"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ostinal"
     ],
     "qs:gn_country":"NI",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3619569,
         "gp:id":152625,
-        "qs:id":228597,
+        "qs_pg:id":228597,
         "wd:id":"Q22092326"
     },
     "wof:country":"NI",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421202847,
-    "wof:lastmodified":1563335831,
+    "wof:lastmodified":1566657077,
     "wof:name":"El Ostional",
     "wof:parent_id":421202297,
     "wof:placetype":"locality",

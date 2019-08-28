@@ -10,8 +10,12 @@
     "geom:latitude":12.02263,
     "geom:longitude":-86.20493,
     "iso:country":"NI",
+    "lbl:bbox":"-86.22493,12.00263,-86.18493,12.04263",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ticuantepe"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3616064,
         "gp:id":154355,
-        "qs:id":297509,
+        "qs_pg:id":297509,
         "wd:id":"Q2216951",
         "wk:page":"Ticuantepe"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421173743,
-    "wof:lastmodified":1561767272,
+    "wof:lastmodified":1566657080,
     "wof:name":"Ticuantepe",
     "wof:parent_id":421179217,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.4556,11.6249,-84.4156,11.6649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colonia Agr\u00edcola Verd\u00fan",
         "Colonia Verd\u00fan"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276954257,
-    "wof:lastmodified":1537675573,
+    "wof:lastmodified":1566656916,
     "wof:name":"Colonia Verdun",
     "wof:parent_id":421192911,
     "wof:placetype":"locality",

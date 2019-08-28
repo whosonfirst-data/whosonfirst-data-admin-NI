@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.03494,12.02758,-85.99494,12.06758",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caser\u00edo La Piedra",
         "La Piedra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1225826297,
-    "wof:lastmodified":1537675552,
+    "wof:lastmodified":1566657214,
     "wof:name":"La Piedra",
     "wof:parent_id":1108693781,
     "wof:placetype":"locality",

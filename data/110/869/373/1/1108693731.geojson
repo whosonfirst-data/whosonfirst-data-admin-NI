@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.335114,
     "lbl:longitude":-86.642542,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MADRIZ",
     "meso:gadm_admin":"Las Sabanas",
     "meso:gadm_hasc2":"NI.MD.LS",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.642542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Las Sabanas"
     ],
@@ -68,9 +71,9 @@
         "\u62c9\u65af\u85a9\u74e6\u7d0d\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"65.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Las Sabanas",
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108693731,
-    "wof:lastmodified":1563335687,
+    "wof:lastmodified":1566657009,
     "wof:name":"Las Sabanas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

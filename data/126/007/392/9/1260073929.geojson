@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.06073,12.45312,-86.02073,12.49312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -378,7 +382,7 @@
         }
     ],
     "wof:id":1260073929,
-    "wof:lastmodified":1564231397,
+    "wof:lastmodified":1566656987,
     "wof:name":"San Antonio",
     "wof:parent_id":421175427,
     "wof:placetype":"locality",

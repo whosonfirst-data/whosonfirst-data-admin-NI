@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.09864,11.70766,-86.05864,11.74766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Valle Menier",
         "Iallemenier",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343951403,
-    "wof:lastmodified":1537675529,
+    "wof:lastmodified":1566656836,
     "wof:name":"Valle Menir",
     "wof:parent_id":421171791,
     "wof:placetype":"locality",

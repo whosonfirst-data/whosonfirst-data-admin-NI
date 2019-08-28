@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.18878,12.17789,-84.14878,12.21789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326996307,
-    "wof:lastmodified":1536812084,
+    "wof:lastmodified":1566656808,
     "wof:name":"La Candida",
     "wof:parent_id":421171813,
     "wof:placetype":"locality",

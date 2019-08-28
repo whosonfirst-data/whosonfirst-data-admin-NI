@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.31027,11.92147,-85.27027,11.96147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Calera"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1260182725,
-    "wof:lastmodified":1564231411,
+    "wof:lastmodified":1566656994,
     "wof:name":"La Calera",
     "wof:parent_id":1108693859,
     "wof:placetype":"locality",

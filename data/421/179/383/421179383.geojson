@@ -10,8 +10,12 @@
     "geom:latitude":12.76022,
     "geom:longitude":-85.85018,
     "iso:country":"NI",
+    "lbl:bbox":"-85.87018,12.74022,-85.83018,12.78022",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Dionisio"
@@ -74,7 +78,7 @@
     "wof:concordances":{
         "gn:id":3616888,
         "gp:id":153864,
-        "qs:id":149459,
+        "qs_pg:id":149459,
         "wd:id":"Q1647872",
         "wk:page":"San Dionisio, Matagalpa"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421179383,
-    "wof:lastmodified":1563335880,
+    "wof:lastmodified":1566657095,
     "wof:name":"San Dionisio",
     "wof:parent_id":1108693825,
     "wof:placetype":"locality",

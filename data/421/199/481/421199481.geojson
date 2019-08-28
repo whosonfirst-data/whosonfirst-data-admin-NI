@@ -10,8 +10,12 @@
     "geom:latitude":13.6406,
     "geom:longitude":-86.30815,
     "iso:country":"NI",
+    "lbl:bbox":"-86.32815,13.6206,-86.28815,13.6606",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ciudad Antigua"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3620353,
         "gp:id":152274,
-        "qs:id":193943,
+        "qs_pg:id":193943,
         "wd:id":"Q2215588",
         "wk:page":"Ciudad Antigua"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421199481,
-    "wof:lastmodified":1561767274,
+    "wof:lastmodified":1566657089,
     "wof:name":"Ciudad Antigua",
     "wof:parent_id":1108693703,
     "wof:placetype":"locality",

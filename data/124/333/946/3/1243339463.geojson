@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.30105,12.35849,-84.26105,12.39849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243339463,
-    "wof:lastmodified":1536959838,
+    "wof:lastmodified":1566657126,
     "wof:name":"El Corozo",
     "wof:parent_id":421171813,
     "wof:placetype":"locality",

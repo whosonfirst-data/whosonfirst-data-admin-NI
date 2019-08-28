@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":12.829512,
     "lbl:longitude":-87.216506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CHINANDEGA",
     "meso:gadm_admin":"Puerto Moraz\u00e1n",
     "meso:gadm_hasc2":"NI.CI.PM",
@@ -31,6 +33,7 @@
     "mps:longitude":-87.216506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039c\u03bf\u03c1\u03b1\u03c3\u03ac\u03bd"
     ],
@@ -73,9 +76,9 @@
         "\u83ab\u62c9\u6851\u6e2f"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"517.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Tonal\u00e1",
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108693745,
-    "wof:lastmodified":1561767267,
+    "wof:lastmodified":1566657012,
     "wof:name":"Tonala",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

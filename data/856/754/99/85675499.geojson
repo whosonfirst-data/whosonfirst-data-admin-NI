@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":12.05437,
     "lbl:longitude":-86.06353,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Masaya",
     "mps:latitude":12.01914,
     "mps:longitude":-86.084303,
@@ -179,9 +180,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0441\u0430\u0439\u044f"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Masaya"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u0627\u06cc\u0627 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-28",
+    "src:population_date":"2005-05-28",
     "statoids:area_km":"611",
     "statoids:area_mi":"236",
     "statoids:as_of_date":"2005-05-28",
@@ -290,7 +288,7 @@
         "gp:id":2346427,
         "hasc:id":"NI.MS",
         "iso:id":"NI-MS",
-        "qs:id":1046996,
+        "qs_pg:id":1046996,
         "unlc:id":"NI-MS",
         "wd:id":"Q570358",
         "wk:page":"Masaya Department"
@@ -311,11 +309,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565731574,
+    "wof:lastmodified":1566656857,
     "wof:name":"Masaya",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":289988,
     "wof:population_rank":10,

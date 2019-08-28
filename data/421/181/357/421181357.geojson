@@ -10,8 +10,12 @@
     "geom:latitude":11.46916,
     "geom:longitude":-85.81661,
     "iso:country":"NI",
+    "lbl:bbox":"-85.83661,11.44916,-85.79661,11.48916",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Buenos Aires"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3620603,
         "gp:id":152190,
-        "qs:id":489293,
+        "qs_pg:id":489293,
         "wd:id":"Q1648230"
     },
     "wof:country":"NI",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421181357,
-    "wof:lastmodified":1563335853,
+    "wof:lastmodified":1566657084,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421202287,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.18667,11.93,-86.14667,11.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Sabanas"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1242855607,
-    "wof:lastmodified":1564231648,
+    "wof:lastmodified":1566657132,
     "wof:name":"Las Sabanas",
     "wof:parent_id":1108693785,
     "wof:placetype":"locality",

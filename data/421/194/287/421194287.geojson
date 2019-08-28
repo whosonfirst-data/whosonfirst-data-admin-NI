@@ -10,8 +10,12 @@
     "geom:latitude":11.87612,
     "geom:longitude":-86.05184,
     "iso:country":"NI",
+    "lbl:bbox":"-86.07184,11.85612,-86.03184,11.89612",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0414\u0438\u0440\u0438\u043e\u043c\u043e"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3620168,
         "gp:id":152343,
-        "qs:id":1045742,
+        "qs_pg:id":1045742,
         "wd:id":"Q2215569",
         "wk:page":"Diriomo"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421194287,
-    "wof:lastmodified":1563335814,
+    "wof:lastmodified":1566657071,
     "wof:name":"Diriomo",
     "wof:parent_id":421171789,
     "wof:placetype":"locality",

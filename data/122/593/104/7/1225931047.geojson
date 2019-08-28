@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.80734,12.64446,-85.76734,12.68446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Esquipulas"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1225931047,
-    "wof:lastmodified":1564231731,
+    "wof:lastmodified":1566657173,
     "wof:name":"Esquipulas",
     "wof:parent_id":1108693829,
     "wof:placetype":"locality",

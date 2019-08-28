@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.0574,11.70766,-86.0174,11.74766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Colinas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310714867,
-    "wof:lastmodified":1537675589,
+    "wof:lastmodified":1566657018,
     "wof:name":"Las Colinas",
     "wof:parent_id":421171791,
     "wof:placetype":"locality",

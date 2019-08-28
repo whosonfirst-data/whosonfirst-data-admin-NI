@@ -10,8 +10,12 @@
     "geom:latitude":12.50683,
     "geom:longitude":-86.90292,
     "iso:country":"NI",
+    "lbl:bbox":"-86.92292,12.48683,-86.88292,12.52683",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quezalguaque"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Quezalguaque"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quesalguaque"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3617115,
         "gp:id":153747,
-        "qs:id":149463,
+        "qs_pg:id":149463,
         "wd:id":"Q739841",
         "wk:page":"Quezalguaque"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421179387,
-    "wof:lastmodified":1563335883,
+    "wof:lastmodified":1566657095,
     "wof:name":"Quezalguaque",
     "wof:parent_id":421172925,
     "wof:placetype":"locality",

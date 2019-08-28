@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.63653,12.91661,-86.59653,12.95661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hato Nueva",
         "Hato Nuevo"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293385529,
-    "wof:lastmodified":1537675560,
+    "wof:lastmodified":1566656861,
     "wof:name":"Hato Nuevo",
     "wof:parent_id":421168431,
     "wof:placetype":"locality",

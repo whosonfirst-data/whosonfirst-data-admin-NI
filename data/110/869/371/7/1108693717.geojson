@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.539276,
     "lbl:longitude":-86.432486,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MADRIZ",
     "meso:gadm_admin":"Totogalpa",
     "meso:gadm_hasc2":"NI.MD.TO",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.432486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043e\u0433\u0430\u043b\u043f\u0430"
     ],
@@ -75,9 +78,9 @@
         "\u6258\u6258\u52a0\u723e\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"133.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"Totogalpa",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1108693717,
-    "wof:lastmodified":1563335675,
+    "wof:lastmodified":1566657003,
     "wof:name":"Totolgalpa",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

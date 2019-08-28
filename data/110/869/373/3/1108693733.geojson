@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.265342,
     "lbl:longitude":-86.679465,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MADRIZ",
     "meso:gadm_admin":"San Jos\u00e9 de Cusmapa",
     "meso:gadm_hasc2":"NI.MD.SC",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.679465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c3\u03ad \u03b4\u03b5 \u039a\u03bf\u03c5\u03c3\u03bc\u03ac\u03c0\u03b1"
     ],
@@ -67,9 +70,9 @@
         "\u8056\u4f55\u585e\u5fb7\u5eab\u65af\u99ac\u5e15"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"130.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"San Jos\u00e9 De Cusmapa",
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1108693733,
-    "wof:lastmodified":1561767266,
+    "wof:lastmodified":1566657009,
     "wof:name":"San Jose De Cusmapa",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

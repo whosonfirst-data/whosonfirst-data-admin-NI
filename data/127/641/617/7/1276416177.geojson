@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-84.28781,12.02331,-84.24781,12.06331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0411\u0443\u0435\u043d\u043e\u0441-\u0410\u0438\u0440\u0435\u0441"
     ],
@@ -633,7 +637,7 @@
         }
     ],
     "wof:id":1276416177,
-    "wof:lastmodified":1564231253,
+    "wof:lastmodified":1566656923,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421171813,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.82541,11.1782,-85.78541,11.2182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Escamacita",
         "Escamequila",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226515557,
-    "wof:lastmodified":1537675561,
+    "wof:lastmodified":1566657187,
     "wof:name":"Escamequita",
     "wof:parent_id":421202297,
     "wof:placetype":"locality",

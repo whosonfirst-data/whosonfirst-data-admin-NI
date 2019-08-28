@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-85.53278,12.83356,-85.49278,12.87356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1225822377,
-    "wof:lastmodified":1537045539,
+    "wof:lastmodified":1566657214,
     "wof:name":"Cusile",
     "wof:parent_id":1108693833,
     "wof:placetype":"locality",

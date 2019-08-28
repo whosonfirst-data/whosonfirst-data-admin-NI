@@ -10,8 +10,12 @@
     "geom:latitude":13.56269,
     "geom:longitude":-86.49239,
     "iso:country":"NI",
+    "lbl:bbox":"-86.51239,13.54269,-86.47239,13.58269",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043e\u0433\u0430\u043b\u043f\u0430"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3615998,
         "gp:id":154379,
-        "qs:id":149444,
+        "qs_pg:id":149444,
         "wd:id":"Q2216999",
         "wk:page":"Totogalpa"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421179375,
-    "wof:lastmodified":1563335883,
+    "wof:lastmodified":1566657096,
     "wof:name":"Totogalpa",
     "wof:parent_id":1108693717,
     "wof:placetype":"locality",

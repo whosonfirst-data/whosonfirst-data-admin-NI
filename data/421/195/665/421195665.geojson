@@ -10,6 +10,9 @@
     "geom:latitude":11.92988,
     "geom:longitude":-85.95602,
     "iso:country":"NI",
+    "lbl:bbox":"-85.97602,11.90988,-85.93602,11.94988",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -445,7 +448,7 @@
     "wof:concordances":{
         "gn:id":3619136,
         "gp:id":152852,
-        "qs:id":489290,
+        "qs_pg:id":489290,
         "wd:id":"Q205648",
         "wk:page":"Granada, Nicaragua"
     },
@@ -462,7 +465,7 @@
         }
     ],
     "wof:id":421195665,
-    "wof:lastmodified":1563335812,
+    "wof:lastmodified":1566657071,
     "wof:name":"Granada",
     "wof:parent_id":421197135,
     "wof:placetype":"locality",

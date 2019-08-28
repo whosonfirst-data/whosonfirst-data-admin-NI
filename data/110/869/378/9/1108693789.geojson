@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":11.906565,
     "lbl:longitude":-86.297148,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"CARAZO",
     "meso:gadm_admin":"San Marcos",
     "meso:gadm_hasc2":"NI.CA.SM",
@@ -31,6 +33,7 @@
     "mps:longitude":-86.297148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "San Marcos"
     ],
@@ -80,9 +83,9 @@
         "\u8056\u99ac\u79d1\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-05-08",
+    "src:population_date":"2005-05-08",
     "statoids:area_km":"118.0",
     "statoids:as_of_date":"2005-05-08",
     "statoids:capital":"San Marcos",
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":1108693789,
-    "wof:lastmodified":1563335680,
+    "wof:lastmodified":1566657006,
     "wof:name":"San Marcos",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

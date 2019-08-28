@@ -10,8 +10,12 @@
     "geom:latitude":11.62118,
     "geom:longitude":-85.08052,
     "iso:country":"NI",
+    "lbl:bbox":"-85.10052,11.60118,-85.06052,11.64118",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Morrito"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Morrito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Morrito"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3617575,
         "gp:id":153588,
-        "qs:id":1117605,
+        "qs_pg:id":1117605,
         "wd:id":"Q2621523",
         "wk:page":"Morrito"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421177219,
-    "wof:lastmodified":1563335874,
+    "wof:lastmodified":1566657092,
     "wof:name":"Morrito",
     "wof:parent_id":1108693861,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-83.90286,14.7388,-83.86286,14.7788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Karma",
         "Bilas",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310672265,
-    "wof:lastmodified":1537675577,
+    "wof:lastmodified":1566657039,
     "wof:name":"Bilwaskarma",
     "wof:parent_id":1108693673,
     "wof:placetype":"locality",

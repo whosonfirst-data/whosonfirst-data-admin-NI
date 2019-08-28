@@ -10,8 +10,12 @@
     "geom:latitude":12.21635,
     "geom:longitude":-85.16595,
     "iso:country":"NI",
+    "lbl:bbox":"-85.18595,12.19635,-85.14595,12.23635",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Libertad"
@@ -58,7 +62,7 @@
     "name:szl_x_preferred":[
         "La Libertad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Libertad"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":3618482,
         "gp:id":153116,
-        "qs:id":1204445,
+        "qs_pg:id":1204445,
         "wd:id":"Q2606938",
         "wk:page":"La Libertad, Chontales"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":421169325,
-    "wof:lastmodified":1563335820,
+    "wof:lastmodified":1566657074,
     "wof:name":"La Libertad",
     "wof:parent_id":1108693849,
     "wof:placetype":"locality",

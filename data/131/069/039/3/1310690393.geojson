@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Managua",
     "iso:country":"NI",
+    "lbl:bbox":"-86.19315,12.1375,-86.15315,12.1775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Mercedes"
     ],
@@ -38,8 +42,7 @@
         "Las Mercedes"
     ],
     "name:und_x_variant":[
-        "Mercedes",
-        "Las Mercedes"
+        "Mercedes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310690393,
-    "wof:lastmodified":1564231506,
+    "wof:lastmodified":1566657037,
     "wof:name":"Las Mercedes",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",
