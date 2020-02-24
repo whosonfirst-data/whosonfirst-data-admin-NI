@@ -118,6 +118,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010011,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6eb3cd2bc459af5a5d40655c09363d34",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421200107,
-    "wof:lastmodified":1566657089,
+    "wof:lastmodified":1582361967,
     "wof:name":"Wiwili",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

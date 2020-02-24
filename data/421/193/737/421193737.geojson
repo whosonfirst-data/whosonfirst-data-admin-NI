@@ -121,6 +121,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009781,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aee2100fbc80402b2ff707f992778611",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421193737,
-    "wof:lastmodified":1566657073,
+    "wof:lastmodified":1582361966,
     "wof:name":"Nandasmo",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

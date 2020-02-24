@@ -124,6 +124,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008907,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"80f8ebd8c80f56437e6d6eb7eb4ed185",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421171813,
-    "wof:lastmodified":1566657099,
+    "wof:lastmodified":1582361968,
     "wof:name":"El Rama",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

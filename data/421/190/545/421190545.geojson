@@ -115,6 +115,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009661,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4aa5d1d5ea8efeb3fc770ed84eb32b63",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421190545,
-    "wof:lastmodified":1566657087,
+    "wof:lastmodified":1582361967,
     "wof:name":"Tola",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

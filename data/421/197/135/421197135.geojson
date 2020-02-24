@@ -384,6 +384,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009904,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f259ef7c159c886c97f2e6506ebec2e",
     "wof:hierarchy":[
         {
@@ -394,7 +397,7 @@
         }
     ],
     "wof:id":421197135,
-    "wof:lastmodified":1566657087,
+    "wof:lastmodified":1582361967,
     "wof:name":"Granada",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

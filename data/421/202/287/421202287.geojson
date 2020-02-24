@@ -112,6 +112,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d61edeeed80e33a83e0da9348ae0afdf",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421202287,
-    "wof:lastmodified":1566657076,
+    "wof:lastmodified":1582361966,
     "wof:name":"Buenos Aires",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

@@ -151,6 +151,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009187,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"18024f287512b2a580e93316f4bd1d3a",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":421178593,
-    "wof:lastmodified":1566657096,
+    "wof:lastmodified":1582361968,
     "wof:name":"Corinto",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

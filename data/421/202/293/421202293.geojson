@@ -136,6 +136,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d690dea4b8a1a9c7f43b60f3f7935c4",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421202293,
-    "wof:lastmodified":1566657076,
+    "wof:lastmodified":1582361966,
     "wof:name":"San Jorge",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

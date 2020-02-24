@@ -133,6 +133,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009628,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f539d93e39d9c503ace4bf5982521d4",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421189527,
-    "wof:lastmodified":1566657080,
+    "wof:lastmodified":1582361966,
     "wof:name":"Chichigalpa",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

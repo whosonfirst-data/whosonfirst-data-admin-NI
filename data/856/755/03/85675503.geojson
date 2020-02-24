@@ -300,6 +300,9 @@
         "wk:page":"Chinandega Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5b9a12f878247ff7946bc37abdf286bf",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656853,
+    "wof:lastmodified":1582361961,
     "wof:name":"Chinandega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

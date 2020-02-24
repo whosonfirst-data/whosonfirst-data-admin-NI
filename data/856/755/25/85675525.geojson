@@ -291,6 +291,9 @@
         "wk:page":"Chontales Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0eaa3dac851487767c729684503554fc",
     "wof:hierarchy":[
         {
@@ -306,7 +309,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656855,
+    "wof:lastmodified":1582361961,
     "wof:name":"Chontales",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

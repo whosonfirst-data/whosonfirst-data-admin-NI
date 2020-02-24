@@ -188,6 +188,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009486,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cdc748d98304feeb9d4c344de983561c",
     "wof:hierarchy":[
         {
@@ -199,7 +202,7 @@
         }
     ],
     "wof:id":421186609,
-    "wof:lastmodified":1566657084,
+    "wof:lastmodified":1582361967,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":1108693753,
     "wof:placetype":"locality",

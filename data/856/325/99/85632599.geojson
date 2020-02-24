@@ -948,6 +948,11 @@
     },
     "wof:country":"NI",
     "wof:country_alpha3":"NIC",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"8b04e61db14b5672a4a69c2829c55d7a",
     "wof:hierarchy":[
         {
@@ -962,7 +967,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656859,
+    "wof:lastmodified":1582361962,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

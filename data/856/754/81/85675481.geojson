@@ -294,6 +294,9 @@
         "wk:page":"Jinotega Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"acff276c2c9c2732dbe1122ca9795154",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656856,
+    "wof:lastmodified":1582361962,
     "wof:name":"Jinotega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

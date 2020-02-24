@@ -124,6 +124,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03556de403127dfb0c66c234a199364a",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421202291,
-    "wof:lastmodified":1566657077,
+    "wof:lastmodified":1582361966,
     "wof:name":"Altagracia",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

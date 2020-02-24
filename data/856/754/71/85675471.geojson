@@ -297,6 +297,9 @@
         "wk:page":"Carazo Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a9383e46b296e99be9140ee7d6cebea",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656858,
+    "wof:lastmodified":1582361962,
     "wof:name":"Carazo",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

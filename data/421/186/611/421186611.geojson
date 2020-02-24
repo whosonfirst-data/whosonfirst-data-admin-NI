@@ -312,7 +312,8 @@
     "qs:woe_id":152914,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "src:population":"wk",
     "wd:latitude":13.166667,
@@ -337,6 +338,10 @@
     },
     "wof:country":"NI",
     "wof:created":1459009486,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"29d22114c53fb98ac17805d90cbcec5e",
     "wof:hierarchy":[
         {
@@ -348,7 +353,7 @@
         }
     ],
     "wof:id":421186611,
-    "wof:lastmodified":1566657083,
+    "wof:lastmodified":1582361967,
     "wof:name":"Jinotega",
     "wof:parent_id":1108693695,
     "wof:placetype":"locality",

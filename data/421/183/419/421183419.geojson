@@ -102,6 +102,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009368,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69dae6ea795f9f79f0dffcf290e9993d",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":421183419,
-    "wof:lastmodified":1566657093,
+    "wof:lastmodified":1582361968,
     "wof:name":"Isla",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

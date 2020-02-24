@@ -133,6 +133,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008842,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b36954ea25c797a0179b291eefba3ee9",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421170189,
-    "wof:lastmodified":1566657091,
+    "wof:lastmodified":1582361967,
     "wof:name":"El Viejo",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

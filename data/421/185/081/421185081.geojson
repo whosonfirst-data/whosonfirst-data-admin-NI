@@ -129,6 +129,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009432,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08dc10e82e355a24c9da3d3f7b80f74a",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421185081,
-    "wof:lastmodified":1566657100,
+    "wof:lastmodified":1582361968,
     "wof:name":"Cinco Pinos",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

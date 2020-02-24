@@ -281,6 +281,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009486,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4189499eca70b99cfcd2ae2d89251b2",
     "wof:hierarchy":[
         {
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421186619,
-    "wof:lastmodified":1566657082,
+    "wof:lastmodified":1582361967,
     "wof:name":"Rivas",
     "wof:parent_id":421197835,
     "wof:placetype":"locality",

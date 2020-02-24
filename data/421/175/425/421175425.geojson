@@ -133,6 +133,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009067,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6d3f9258a86a150da5e7448711988834",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421175425,
-    "wof:lastmodified":1566657085,
+    "wof:lastmodified":1582361967,
     "wof:name":"Nagarote",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

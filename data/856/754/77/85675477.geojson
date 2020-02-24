@@ -252,6 +252,9 @@
         "wk:page":"Granada Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"495239baf0b40cf15587f2234a6d87b9",
     "wof:hierarchy":[
         {
@@ -267,7 +270,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656857,
+    "wof:lastmodified":1582361962,
     "wof:name":"Granada",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

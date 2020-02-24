@@ -115,6 +115,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008764,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"18f4c1db439a50b0be825fa044fc6719",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421168431,
-    "wof:lastmodified":1566657069,
+    "wof:lastmodified":1582361966,
     "wof:name":"El Sauce",
     "wof:parent_id":85675489,
     "wof:placetype":"county",
