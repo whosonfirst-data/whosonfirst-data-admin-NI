@@ -118,6 +118,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010011,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"be1b3f3daa3265c5232a72edf99c0f47",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421200105,
-    "wof:lastmodified":1566657089,
+    "wof:lastmodified":1582361967,
     "wof:name":"Terrabona",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

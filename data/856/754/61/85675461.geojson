@@ -255,6 +255,9 @@
         "wk:page":"Rivas Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58aee8bdd6717cd8738baefba4737285",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656855,
+    "wof:lastmodified":1582361961,
     "wof:name":"Rivas",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

@@ -121,6 +121,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"27002a960de1d062dda3b966dee56111",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421202289,
-    "wof:lastmodified":1566657076,
+    "wof:lastmodified":1582361966,
     "wof:name":"Moyogalpa",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

@@ -313,6 +313,9 @@
         "wk:page":"R\u00edo San Juan Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10bfd5606db1fd1bc33892719678b690",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656857,
+    "wof:lastmodified":1582361962,
     "wof:name":"Rio San Juan",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

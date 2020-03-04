@@ -126,6 +126,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009769,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4389ea0b85e84f9ccdb7df83a2b908be",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421193389,
-    "wof:lastmodified":1566657073,
+    "wof:lastmodified":1582361966,
     "wof:name":"Isla Mangles Altos",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

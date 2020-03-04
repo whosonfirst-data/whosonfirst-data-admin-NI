@@ -310,6 +310,9 @@
         "wk:page":"Estel\u00ed Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3937e6d510bb8eb4c0853b25e720047a",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656854,
+    "wof:lastmodified":1582361961,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

@@ -156,6 +156,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010080,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fbc7797a9d05d6946f6f6628512150e3",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421201657,
-    "wof:lastmodified":1566657090,
+    "wof:lastmodified":1582361967,
     "wof:name":"Puerto Cabezas",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

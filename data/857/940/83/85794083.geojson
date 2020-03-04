@@ -82,6 +82,9 @@
         "qs:id":222192
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f69185823ce11836fba5d33f2927c3bf",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379386,
+    "wof:lastmodified":1582361960,
     "wof:name":"Monimb\u00f3",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

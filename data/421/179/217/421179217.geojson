@@ -121,6 +121,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009208,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e79eb8e660d214e1a6a6b0e40fb4486",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421179217,
-    "wof:lastmodified":1566657094,
+    "wof:lastmodified":1582361968,
     "wof:name":"Ticuantepe",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

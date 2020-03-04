@@ -297,6 +297,9 @@
         "wk:page":"Nueva Segovia Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1f74acb7e8f35f59f663551c7a24cb39",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656854,
+    "wof:lastmodified":1582361961,
     "wof:name":"Nueva Segovia",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

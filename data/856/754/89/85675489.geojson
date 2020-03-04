@@ -268,6 +268,9 @@
         "wk:page":"Le\u00f3n Department"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d38cb2b88975b4e6e4b65ae438a0953",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656856,
+    "wof:lastmodified":1582361962,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

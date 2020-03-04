@@ -91,6 +91,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008834,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b4b6b815f30b0d88f3cac1e86c7e7dc",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421170023,
-    "wof:lastmodified":1566657091,
+    "wof:lastmodified":1582361967,
     "wof:name":"Jalapa",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

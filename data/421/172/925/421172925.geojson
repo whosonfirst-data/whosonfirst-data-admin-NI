@@ -124,6 +124,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008959,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc2a5317d017553ed8c4f0c26a3c2b8a",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421172925,
-    "wof:lastmodified":1566657081,
+    "wof:lastmodified":1582361966,
     "wof:name":"Quezalguaque",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

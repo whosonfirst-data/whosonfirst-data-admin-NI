@@ -124,6 +124,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009753,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"90823387a63181874de3c98d065c750e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421192911,
-    "wof:lastmodified":1566657070,
+    "wof:lastmodified":1582361966,
     "wof:name":"Nueva Guinea",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

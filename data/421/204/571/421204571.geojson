@@ -178,6 +178,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010191,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"696850f4430dc9d1bd8d48e46b919787",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421204571,
-    "wof:lastmodified":1566657075,
+    "wof:lastmodified":1582361966,
     "wof:name":"San Carlos",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

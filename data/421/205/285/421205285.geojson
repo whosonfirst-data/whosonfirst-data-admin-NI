@@ -92,6 +92,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010217,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5791ff68fcc7eb28157bd38de85edd3",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421205285,
-    "wof:lastmodified":1566657078,
+    "wof:lastmodified":1582361966,
     "wof:name":"Plueblo Nuevo",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

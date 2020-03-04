@@ -214,6 +214,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009926,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7781900e709facf58cea160ca0568ff3",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":421197835,
-    "wof:lastmodified":1566657088,
+    "wof:lastmodified":1582361967,
     "wof:name":"Rivas",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

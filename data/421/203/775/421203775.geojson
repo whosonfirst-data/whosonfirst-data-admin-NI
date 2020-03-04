@@ -139,6 +139,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010163,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8cc7be55b924a0c783108c44befb045e",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421203775,
-    "wof:lastmodified":1566657075,
+    "wof:lastmodified":1582361966,
     "wof:name":"Catarina",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

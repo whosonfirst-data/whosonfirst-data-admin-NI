@@ -118,6 +118,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010218,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"297a5e2533126f650158070fcbcb673e",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421205287,
-    "wof:lastmodified":1566657077,
+    "wof:lastmodified":1582361966,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

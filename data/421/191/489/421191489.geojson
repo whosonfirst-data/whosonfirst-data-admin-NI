@@ -90,6 +90,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009694,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5741a4c696db03e8e59c6bcef14129ae",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421191489,
-    "wof:lastmodified":1566657086,
+    "wof:lastmodified":1582361967,
     "wof:name":"Jinotepe",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

@@ -124,6 +124,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009230,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"492e9872266a9dab6d185d363dd5d4e4",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421179703,
-    "wof:lastmodified":1566657095,
+    "wof:lastmodified":1582361968,
     "wof:name":"Telica",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

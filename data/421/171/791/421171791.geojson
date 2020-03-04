@@ -127,6 +127,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008907,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9b982cafdc0234597b702d3ae47a4c72",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421171791,
-    "wof:lastmodified":1566657098,
+    "wof:lastmodified":1582361968,
     "wof:name":"Nandaime",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

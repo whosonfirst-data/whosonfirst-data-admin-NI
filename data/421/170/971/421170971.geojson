@@ -147,6 +147,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008876,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfbeebd19f4f3c464cb6ef6f52a2fb97",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421170971,
-    "wof:lastmodified":1566657091,
+    "wof:lastmodified":1582361968,
     "wof:name":"Ocotal",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

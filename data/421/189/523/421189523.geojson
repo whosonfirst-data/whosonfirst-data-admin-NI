@@ -124,6 +124,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009627,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6dac08c78929ff62dc0a4c43a9f6921",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421189523,
-    "wof:lastmodified":1566657080,
+    "wof:lastmodified":1582361966,
     "wof:name":"Camoapa",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

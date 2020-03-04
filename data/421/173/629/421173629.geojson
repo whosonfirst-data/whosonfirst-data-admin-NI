@@ -302,6 +302,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459008992,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e81ac552f53a7c841f54d50c6989e8d",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421173629,
-    "wof:lastmodified":1566657079,
+    "wof:lastmodified":1582361966,
     "wof:name":"Masaya",
     "wof:parent_id":421170019,
     "wof:placetype":"locality",

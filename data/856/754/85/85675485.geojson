@@ -151,6 +151,9 @@
         "unlc:id":"NI-AN"
     },
     "wof:country":"NI",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"55c4632c7b0697760714f9917d8af704",
     "wof:hierarchy":[
         {
@@ -166,7 +169,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566656858,
+    "wof:lastmodified":1582361962,
     "wof:name":"Atl\u00e1ntico Norte",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

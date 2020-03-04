@@ -177,6 +177,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459009476,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98443d1de0704b38102b74d4cee2d9f2",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":421186279,
-    "wof:lastmodified":1566657083,
+    "wof:lastmodified":1582361967,
     "wof:name":"Bluefields",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

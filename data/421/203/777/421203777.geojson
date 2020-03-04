@@ -130,6 +130,9 @@
     },
     "wof:country":"NI",
     "wof:created":1459010163,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"33eefd6854464fa2e2ff9aedfa2a4c85",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421203777,
-    "wof:lastmodified":1566657075,
+    "wof:lastmodified":1582361966,
     "wof:name":"Masatepe",
     "wof:parent_id":85675499,
     "wof:placetype":"county",
