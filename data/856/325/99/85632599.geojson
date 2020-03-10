@@ -924,9 +924,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Nicaragua",
-        "digitalenvoy:country_code":[
-            558
-        ],
+        "digitalenvoy:country_code":558,
         "fb:id":"en.nicaragua",
         "fifa:id":"NCA",
         "fips:code":"NU",
@@ -970,7 +968,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529194,
+    "wof:lastmodified":1583797403,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
