@@ -27,7 +27,7 @@
         "\u09b8\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8"
     ],
     "name:ben_x_variant":[
-        "\u09b8\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8 "
+        "\u09b8\u09be\u09a8 \u0995\u09be\u09b0\u09cd\u09b2\u09cb\u09b8"
     ],
     "name:cat_x_preferred":[
         "San Carlos"
@@ -274,8 +274,8 @@
     "wof:belongsto":[
         102191575,
         85632599,
-        85675465,
-        421204571
+        421204571,
+        85675465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -298,7 +298,7 @@
         }
     ],
     "wof:id":421202861,
-    "wof:lastmodified":1566657076,
+    "wof:lastmodified":1587163138,
     "wof:name":"San Carlos",
     "wof:parent_id":421204571,
     "wof:placetype":"locality",

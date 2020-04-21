@@ -45,7 +45,7 @@
         "\u0ab8\u0abe\u0aa8"
     ],
     "name:guj_x_variant":[
-        "\u0ab8\u0abe\u0aa8 "
+        "\u0ab8\u0abe\u0aa8"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0948\u0928 \u0938\u0947\u092c\u0947\u0938\u094d\u091f\u093f\u092f\u0928 \u0926\u0947 \u092f\u093e\u0932\u0940"
@@ -151,8 +151,8 @@
     "wof:belongsto":[
         102191575,
         85632599,
-        85675481,
-        1108693689
+        1108693689,
+        85675481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,7 +175,7 @@
         }
     ],
     "wof:id":421177225,
-    "wof:lastmodified":1566657093,
+    "wof:lastmodified":1587163137,
     "wof:name":"San Sebasti\u00e1n de Yal\u00ed",
     "wof:parent_id":1108693689,
     "wof:placetype":"locality",
