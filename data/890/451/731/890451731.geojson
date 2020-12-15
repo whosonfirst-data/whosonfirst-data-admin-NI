@@ -516,6 +516,9 @@
         "wd:id":"Q3274",
         "wk:page":"Managua"
     },
+    "wof:coterminous":[
+        421180305
+    ],
     "wof:country":"NI",
     "wof:created":1469052791,
     "wof:geom_alt":[
@@ -532,7 +535,7 @@
         }
     ],
     "wof:id":890451731,
-    "wof:lastmodified":1607390881,
+    "wof:lastmodified":1607993741,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",
