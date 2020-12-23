@@ -512,6 +512,7 @@
     "wof:concordances":{
         "gn:id":3617763,
         "gp:id":153523,
+        "ne:id":1159150623,
         "qs_pg:id":149449,
         "wd:id":"Q3274",
         "wk:page":"Managua"
@@ -535,7 +536,8 @@
         }
     ],
     "wof:id":890451731,
-    "wof:lastmodified":1607993741,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",
