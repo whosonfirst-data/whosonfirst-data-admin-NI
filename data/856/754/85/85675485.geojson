@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Regi\u00f3n Aut\u00f3noma del Caribe Norte"
     ],
+    "name:fra_x_preferred":[
+        "Atl\u00e1ntico Norte"
+    ],
     "name:spa_x_colloquial":[
         "Region Autonoma del Atlantico Norte"
     ],
@@ -170,7 +173,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614895476,
+    "wof:lastmodified":1627522476,
     "wof:name":"Atl\u00e1ntico Norte",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
