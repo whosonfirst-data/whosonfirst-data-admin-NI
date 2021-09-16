@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Leon"
     ],
+    "name:eng_x_variant":[
+        "MNLN"
+    ],
     "name:jpn_x_preferred":[
         "\u30ec\u30aa\u30f3\u7a7a\u6e2f"
     ],
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":102537103,
-    "wof:lastmodified":1566656817,
+    "wof:lastmodified":1631753389,
     "wof:name":"Fanor Urroz Airport",
     "wof:parent_id":85675489,
     "wof:placetype":"campus",
