@@ -87,6 +87,9 @@
         "\u0413\u043e\u043b\u0443\u0431\u043a\u0430"
     ],
     "name:vie_x_preferred":[
+        "La Paloma"
+    ],
+    "name:vie_x_variant":[
         "C\u00e1nh bu\u1ed3m xa x\u01b0a"
     ],
     "src:geom":"geonames",
@@ -101,7 +104,7 @@
         "gn:id":8017056
     },
     "wof:country":"NI",
-    "wof:geomhash":"9b9e1021b3e03e2c690c06569e9ecd65",
+    "wof:geomhash":"f475d9c30c0ff33df1102410b9ad82d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1276989979,
-    "wof:lastmodified":1566656931,
+    "wof:lastmodified":1636503383,
     "wof:name":"La Paloma",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",
@@ -122,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.30873000000003,
+    -86.30873,
     11.74026,
-    -86.30873000000003,
+    -86.30873,
     11.74026
 ],
-  "geometry": {"coordinates":[-86.30873000000003,11.74026],"type":"Point"}
+  "geometry": {"coordinates":[-86.30873,11.74026],"type":"Point"}
 }

@@ -42,7 +42,16 @@
         "Somoto",
         "SOMOTO"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0645\u0648\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Somoto"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05de\u05d5\u05d8\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Somoto"
     ],
     "qs:gn_country":null,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421171799,
-    "wof:lastmodified":1627522478,
+    "wof:lastmodified":1636503412,
     "wof:name":"Somoto",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

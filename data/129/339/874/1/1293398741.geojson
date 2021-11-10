@@ -29,7 +29,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b2\u09be\u09b8 \u09a4\u09be\u09ac\u09be\u09b2\u09be\u09b8"
+    ],
     "name:ceb_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1\u03c2 \u03a4\u03ac\u03bc\u03c0\u03bb\u03b1\u03c2"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u062a\u0627\u0628\u0644\u0627\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05d8\u05d1\u05dc\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0938 \u0924\u092c\u094d\u0932\u093e\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:ind_x_preferred":[
         "Las Tablas"
     ],
     "name:ita_x_preferred":[
@@ -44,6 +65,15 @@
     "name:swe_x_preferred":[
         "Las Tablas"
     ],
+    "name:tur_x_preferred":[
+        "Las Tablas"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430\u0441-\u0422\u0430\u0431\u043b\u0430\u0441"
+    ],
+    "name:vie_x_preferred":[
+        "Las Tablas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -56,7 +86,7 @@
         "gn:id":3618120
     },
     "wof:country":"NI",
-    "wof:geomhash":"ee7c8161f4deace8e99984e512066bbc",
+    "wof:geomhash":"22cb34a1ae7f54baa72476c738a22cf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +97,7 @@
         }
     ],
     "wof:id":1293398741,
-    "wof:lastmodified":1566656866,
+    "wof:lastmodified":1636503372,
     "wof:name":"Las Tablas",
     "wof:parent_id":1108693803,
     "wof:placetype":"locality",
@@ -77,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.11735999999998,
+    -86.11736,
     11.79143,
-    -86.11735999999998,
+    -86.11736,
     11.79143
 ],
-  "geometry": {"coordinates":[-86.11735999999998,11.79143],"type":"Point"}
+  "geometry": {"coordinates":[-86.11736000000001,11.79143],"type":"Point"}
 }

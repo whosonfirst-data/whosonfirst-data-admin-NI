@@ -56,6 +56,9 @@
     "name:eus_x_preferred":[
         "Somoto"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0645\u0648\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Somoto"
     ],
@@ -65,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0ab8\u0acb\u0aae\u0acb\u0a9f\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05de\u05d5\u05d8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u092e\u094b\u091f\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Somoto"
     ],
     "name:ind_x_preferred":[
         "Somoto"
@@ -301,7 +310,7 @@
         }
     ],
     "wof:id":421201329,
-    "wof:lastmodified":1566657090,
+    "wof:lastmodified":1636503410,
     "wof:name":"Somoto",
     "wof:parent_id":421171799,
     "wof:placetype":"locality",

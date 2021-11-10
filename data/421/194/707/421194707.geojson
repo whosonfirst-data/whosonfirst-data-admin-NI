@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8"
+    ],
     "name:deu_x_preferred":[
         "San Marcos"
     ],
@@ -26,7 +29,22 @@
     "name:eng_x_preferred":[
         "San Marcos"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0627\u0646 \u0645\u0627\u0631\u06a9\u0648\u0633"
+    ],
     "name:fra_x_preferred":[
+        "San Marcos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05de\u05e8\u05e7\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092e\u093e\u0930\u094d\u0915\u0949\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "San Marcos"
+    ],
+    "name:ind_x_preferred":[
         "San Marcos"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +52,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30de\u30eb\u30b3\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ub9c8\ub974\ucf54\uc2a4"
     ],
     "name:lit_x_preferred":[
         "San Markosas"
@@ -51,6 +72,9 @@
         "San Marcos"
     ],
     "name:swe_x_preferred":[
+        "San Marcos"
+    ],
+    "name:tur_x_preferred":[
         "San Marcos"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +135,7 @@
         }
     ],
     "wof:id":421194707,
-    "wof:lastmodified":1566657071,
+    "wof:lastmodified":1636503406,
     "wof:name":"San Marcos",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",

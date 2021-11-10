@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.6999921079,10.9204044789,-83.6999921079,10.9204044789",
+    "geom:bbox":"-83.699992,10.920404,-83.699992,10.920404",
     "geom:latitude":10.920404,
     "geom:longitude":-83.699992,
     "iso:country":"NI",
@@ -24,16 +24,37 @@
     "name:ast_x_preferred":[
         "Greytown"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b9\u09c1\u09df\u09be\u09a8 \u09a6\u09c7 \u09a8\u09bf\u0995\u09be\u09b0\u09be\u0997\u09c1\u09df\u09be"
+    ],
     "name:ceb_x_preferred":[
         "San Juan del Norte"
     ],
     "name:deu_x_preferred":[
         "San Juan de Nicaragua"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a7\u03bf\u03c5\u03ac\u03bd \u03bd\u03c4\u03b5 \u039d\u03b9\u03ba\u03b1\u03c1\u03ac\u03b3\u03bf\u03c5\u03b1"
+    ],
     "name:eng_x_preferred":[
         "San Juan de Nicaragua"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u062e\u0648\u0622\u0646 \u062f\u06cc \u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+    ],
     "name:fra_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d7\u05d5\u05d0\u05df \u05d3\u05d4 \u05e0\u05d9\u05e7\u05e8\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0939\u0941\u0906\u0928 \u0921\u0947 \u0928\u093f\u0915\u093e\u0930\u093e\u0917\u0941\u0906"
+    ],
+    "name:hun_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:ind_x_preferred":[
         "San Juan de Nicaragua"
     ],
     "name:ita_x_preferred":[
@@ -42,7 +63,13 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30d5\u30a1\u30f3\u30c7\u30eb\u30ce\u30eb\u30c6"
     ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ud6c4\uc548 \ub370 \ub2c8\uce74\ub77c\uacfc"
+    ],
     "name:nld_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:pol_x_preferred":[
         "San Juan de Nicaragua"
     ],
     "name:por_x_preferred":[
@@ -53,6 +80,12 @@
     ],
     "name:swe_x_preferred":[
         "San Juan del Norte"
+    ],
+    "name:tur_x_preferred":[
+        "San Juan de Nicaragua"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d-\u0434\u0435-\u041d\u0456\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0646 \u062e\u0648\u0627\u0646 \u062f\u06d2 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
@@ -171,7 +204,7 @@
     },
     "wof:country":"NI",
     "wof:created":1499130674,
-    "wof:geomhash":"b1adfb2b1cd4887445bb8ebbff2ca7df",
+    "wof:geomhash":"bd0fe477be3f7cd3d7aaee0b8472f686",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -182,7 +215,7 @@
         }
     ],
     "wof:id":1141907045,
-    "wof:lastmodified":1566657216,
+    "wof:lastmodified":1636503432,
     "wof:name":"San Juan de Nicaragua",
     "wof:parent_id":421175429,
     "wof:placetype":"locality",
@@ -192,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.69999210786926,
-    10.92040447890128,
-    -83.69999210786926,
-    10.92040447890128
+    -83.699992,
+    10.920404,
+    -83.699992,
+    10.920404
 ],
-  "geometry": {"coordinates":[-83.69999210786926,10.92040447890128],"type":"Point"}
+  "geometry": {"coordinates":[-83.69999199999999,10.920404],"type":"Point"}
 }

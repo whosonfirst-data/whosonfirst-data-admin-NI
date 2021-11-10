@@ -42,7 +42,16 @@
         "Matagalpa",
         "MATAGALPA"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u0627\u06af\u0627\u0644\u067e\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Matagalpa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d8\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Matagalpa"
     ],
     "qs:gn_country":null,
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":421171539,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1636503412,
     "wof:name":"Matagalpa",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

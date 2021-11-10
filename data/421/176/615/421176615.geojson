@@ -63,6 +63,9 @@
         "\u0a9a\u0abf\u0aa8\u0abe\u0aa8\u0acd\u0aa1\u0ac7\u0a97\u0abe"
     ],
     "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05e0\u05d0\u05e0\u05d3\u05d2\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e6'\u05d9\u05e0\u05e0\u05d3\u05d2\u05d4"
     ],
     "name:hin_x_preferred":[
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":421176615,
-    "wof:lastmodified":1582361968,
+    "wof:lastmodified":1636503411,
     "wof:name":"Chinandega",
     "wof:parent_id":421171365,
     "wof:placetype":"locality",

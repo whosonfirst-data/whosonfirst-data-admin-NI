@@ -144,10 +144,10 @@
         "\u0421\u0430\u043d-\u041a\u0430\u0440\u043b\u043e\u0441"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633\u060c \u0631\u06cc\u0648 \u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
+        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633"
+        "\u0633\u0627\u0646 \u06a9\u0627\u0631\u0644\u0648\u0633\u060c \u0631\u06cc\u0648 \u0633\u0627\u0646 \u062e\u0648\u0627\u0646"
     ],
     "name:vie_x_preferred":[
         "San Carlos"
@@ -274,8 +274,8 @@
     "wof:belongsto":[
         102191575,
         85632599,
-        421204571,
-        85675465
+        85675465,
+        421204571
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -298,7 +298,7 @@
         }
     ],
     "wof:id":421202861,
-    "wof:lastmodified":1587163138,
+    "wof:lastmodified":1636503407,
     "wof:name":"San Carlos",
     "wof:parent_id":421204571,
     "wof:placetype":"locality",

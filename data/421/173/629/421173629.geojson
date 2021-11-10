@@ -63,6 +63,9 @@
         "\u0aae\u0ab8\u0abe\u0aaf\u0abe"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e1\u05e7\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05e1\u05d0\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
@@ -316,7 +319,7 @@
         }
     ],
     "wof:id":421173629,
-    "wof:lastmodified":1582361966,
+    "wof:lastmodified":1636503408,
     "wof:name":"Masaya",
     "wof:parent_id":421170019,
     "wof:placetype":"locality",

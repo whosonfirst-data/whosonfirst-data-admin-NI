@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Santa Elena"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05d0\u05dc\u05e0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Santa Elena"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0576\u057f\u0561 \u0537\u056c\u0565\u0576\u0561"
     ],
@@ -107,7 +113,7 @@
         "gn:id":3616510
     },
     "wof:country":"NI",
-    "wof:geomhash":"2f4153858dbf4a6d642cae42cf78cf19",
+    "wof:geomhash":"fc64c9fa2d0df17f366c00f1f8339432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1226735391,
-    "wof:lastmodified":1566657182,
+    "wof:lastmodified":1636503427,
     "wof:name":"Santa Elena",
     "wof:parent_id":1108693765,
     "wof:placetype":"locality",
@@ -128,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.39086999999998,
+    -86.39087,
     12.54329,
-    -86.39086999999998,
+    -86.39087,
     12.54329
 ],
-  "geometry": {"coordinates":[-86.39086999999998,12.54329],"type":"Point"}
+  "geometry": {"coordinates":[-86.39087000000001,12.54329],"type":"Point"}
 }

@@ -42,7 +42,13 @@
         "Jinotepe",
         "JINOTEPE"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0646\u0648\u062a\u067e\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Jinotepe"
+    ],
+    "name:hun_x_preferred":[
         "Jinotepe"
     ],
     "qs:gn_country":null,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421191489,
-    "wof:lastmodified":1627522476,
+    "wof:lastmodified":1636503409,
     "wof:name":"Jinotepe",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

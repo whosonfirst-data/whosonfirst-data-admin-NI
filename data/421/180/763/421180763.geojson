@@ -153,6 +153,9 @@
         "Managua"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d0\u05e0\u05e0\u05d8\u05e0\u05d0\u05e0\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05e0\u05d2\u05d5\u05d0\u05d4"
     ],
     "name:hif_x_preferred":[
@@ -450,8 +453,8 @@
     "wof:belongsto":[
         102191575,
         85632599,
-        421180305,
-        85675495
+        85675495,
+        421180305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -472,7 +475,7 @@
         }
     ],
     "wof:id":421180763,
-    "wof:lastmodified":1587429042,
+    "wof:lastmodified":1636503407,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",

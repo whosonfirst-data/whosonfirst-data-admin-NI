@@ -78,6 +78,9 @@
         "\u30de\u30b0\u30c0\u30ec\u30ca"
     ],
     "name:kor_x_preferred":[
+        "\ub9c9\ub2ec\ub808\ub098"
+    ],
+    "name:kor_x_variant":[
         "\ub9c8\uadf8\ub2ec\ub808\ub098"
     ],
     "name:lit_x_preferred":[
@@ -116,6 +119,15 @@
     "name:tgl_x_preferred":[
         "Magdalena"
     ],
+    "name:tur_x_preferred":[
+        "Magdalena"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0433\u0434\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u06af\u0688\u0627\u0644\u06cc\u0646\u0627"
+    ],
     "name:vie_x_preferred":[
         "Magdalena"
     ],
@@ -134,7 +146,7 @@
         "gn:id":8017065
     },
     "wof:country":"NI",
-    "wof:geomhash":"6d092866e27f842dc244c546f107d179",
+    "wof:geomhash":"988089b3a40aae2705ef3efb34bb946f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +157,7 @@
         }
     ],
     "wof:id":1226455439,
-    "wof:lastmodified":1566657180,
+    "wof:lastmodified":1636503426,
     "wof:name":"Magdalena",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",
@@ -155,10 +167,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.25863000000003,
+    -86.25863,
     11.6513,
-    -86.25863000000003,
+    -86.25863,
     11.6513
 ],
-  "geometry": {"coordinates":[-86.25863000000003,11.6513],"type":"Point"}
+  "geometry": {"coordinates":[-86.25863,11.6513],"type":"Point"}
 }

@@ -43,6 +43,9 @@
     "name:eus_x_preferred":[
         "Jinotepe"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0646\u0648\u062a\u067e\u0647"
+    ],
     "name:fin_x_preferred":[
         "Jinotepe"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u093f\u0928\u094b\u091f\u0947\u092a\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Jinotepe"
     ],
     "name:ind_x_preferred":[
         "Jinotepe"
@@ -268,7 +274,7 @@
         }
     ],
     "wof:id":890442119,
-    "wof:lastmodified":1566657103,
+    "wof:lastmodified":1636503412,
     "wof:name":"Jinotepe",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

@@ -45,10 +45,20 @@
         "San Lorenzo"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648\u060c \u0628\u0648\u0627\u06a9\u0648"
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0632\u0648"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648"
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648",
+        "\u0633\u0627\u0646 \u0644\u0648\u0631\u06cc\u0646\u0633\u0648\u060c \u0628\u0648\u0627\u06a9\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u6d1b\u4f26\u7d22"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u6d1b\u502b\u7d22"
     ],
     "name:zho_x_preferred":[
         "\u8056\u6d1b\u502b\u7d22"
@@ -101,7 +111,7 @@
         }
     ],
     "wof:id":421182655,
-    "wof:lastmodified":1566657096,
+    "wof:lastmodified":1636503411,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108693839,
     "wof:placetype":"locality",
