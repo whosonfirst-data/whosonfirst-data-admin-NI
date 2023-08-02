@@ -47,8 +47,17 @@
     "name:hrv_x_preferred":[
         "Le\u00f3n Viejo"
     ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0578\u0576-\u054e\u0565\u056d\u0578"
+    ],
+    "name:ita_x_preferred":[
+        "Le\u00f3n Viejo"
+    ],
     "name:kat_x_preferred":[
         "\u10da\u10d4\u10dd\u10dc-\u10d5\u10d8\u10d4\u10ee\u10dd"
+    ],
+    "name:lav_x_preferred":[
+        "Leonvjeho"
     ],
     "name:lit_x_preferred":[
         "Senasis Leonas"
@@ -79,6 +88,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u0440\u0438\u0439 \u041b\u0435\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Le\u00f3n Viejo"
     ],
     "name:zho_x_preferred":[
         "\u83b1\u6602\u53e4\u57ce"
@@ -130,7 +142,7 @@
         }
     ],
     "wof:id":421186615,
-    "wof:lastmodified":1566657083,
+    "wof:lastmodified":1690848485,
     "wof:name":"Leon Viejo",
     "wof:parent_id":1108693771,
     "wof:placetype":"locality",

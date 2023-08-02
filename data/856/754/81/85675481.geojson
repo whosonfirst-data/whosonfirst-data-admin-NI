@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09cb\u09a4\u09c7\u0997\u09be"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Jinotega"
+    ],
     "name:bul_x_preferred":[
         "\u0425\u0438\u043d\u043e\u0442\u0435\u0433\u0430"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062c\u06cc\u0646\u0648\u062a\u067e\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u062e\u0634 \u062c\u06cc\u0646\u0648\u062a\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Jinotega"
@@ -135,6 +141,9 @@
     "name:msa_x_preferred":[
         "Pentadbiran Jinotega"
     ],
+    "name:nan_x_preferred":[
+        "Jinotega Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Jinotega"
     ],
@@ -191,6 +200,12 @@
     ],
     "name:vie_x_preferred":[
         "Jinotega"
+    ],
+    "name:war_x_preferred":[
+        "Jinotega"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5e0c\u8bfa\u7279\u52a0\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5e0c\u8afe\u7279\u52a0\u7701"
@@ -318,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636503370,
+    "wof:lastmodified":1690848455,
     "wof:name":"Jinotega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

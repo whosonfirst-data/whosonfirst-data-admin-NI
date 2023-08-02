@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09af\u09bc\u09be\u0995\u09c1 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Boaco"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u0430\u043a\u043e"
     ],
@@ -195,6 +198,12 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Boaco"
     ],
+    "name:war_x_preferred":[
+        "Boaco"
+    ],
+    "name:wuu_x_preferred":[
+        "\u535a\u963f\u79d1\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u535a\u963f\u79d1\u7701"
     ],
@@ -321,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636503369,
+    "wof:lastmodified":1690848453,
     "wof:name":"Boaco",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

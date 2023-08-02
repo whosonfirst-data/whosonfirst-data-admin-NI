@@ -23,16 +23,25 @@
     "name:eng_x_preferred":[
         "R\u00edo Blanco"
     ],
+    "name:eus_x_preferred":[
+        "R\u00edo Blanco"
+    ],
     "name:fra_x_preferred":[
         "R\u00edo Blanco"
     ],
     "name:ita_x_preferred":[
         "R\u00edo Blanco"
     ],
+    "name:nan_x_preferred":[
+        "R\u00edo Blanco"
+    ],
     "name:nld_x_preferred":[
         "R\u00edo Blanco"
     ],
     "name:pol_x_preferred":[
+        "R\u00edo Blanco"
+    ],
+    "name:por_x_preferred":[
         "R\u00edo Blanco"
     ],
     "name:spa_x_preferred":[
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":421186483,
-    "wof:lastmodified":1566657082,
+    "wof:lastmodified":1690848485,
     "wof:name":"R\u00edo Blanco",
     "wof:parent_id":421200101,
     "wof:placetype":"locality",

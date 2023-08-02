@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Almendro"
+    ],
     "name:ceb_x_preferred":[
         "El Almendro"
     ],
+    "name:deu_x_preferred":[
+        "El Almendro"
+    ],
     "name:eng_x_preferred":[
+        "El Almendro"
+    ],
+    "name:eus_x_preferred":[
         "El Almendro"
     ],
     "name:fra_x_preferred":[
@@ -29,7 +38,13 @@
     "name:ita_x_preferred":[
         "El Almendro"
     ],
+    "name:nan_x_preferred":[
+        "El Almendro"
+    ],
     "name:nld_x_preferred":[
+        "El Almendro"
+    ],
+    "name:por_x_preferred":[
         "El Almendro"
     ],
     "name:sco_x_preferred":[
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":421198755,
-    "wof:lastmodified":1566657086,
+    "wof:lastmodified":1690848488,
     "wof:name":"El Almendro",
     "wof:parent_id":1108693865,
     "wof:placetype":"locality",

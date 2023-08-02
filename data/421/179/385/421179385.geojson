@@ -20,7 +20,13 @@
     "name:ceb_x_preferred":[
         "Quilal\u00ed"
     ],
+    "name:deu_x_preferred":[
+        "Quilal\u00ed"
+    ],
     "name:eng_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:eus_x_preferred":[
         "Quilal\u00ed"
     ],
     "name:fra_x_preferred":[
@@ -32,10 +38,16 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30e9\u30ea"
     ],
+    "name:nan_x_preferred":[
+        "Quilal\u00ed"
+    ],
     "name:nld_x_preferred":[
         "Quilal\u00ed"
     ],
     "name:pol_x_preferred":[
+        "Quilal\u00ed"
+    ],
+    "name:por_x_preferred":[
         "Quilal\u00ed"
     ],
     "name:spa_x_preferred":[
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421179385,
-    "wof:lastmodified":1566657095,
+    "wof:lastmodified":1690848498,
     "wof:name":"Quilal\u00ed",
     "wof:parent_id":1108693699,
     "wof:placetype":"locality",

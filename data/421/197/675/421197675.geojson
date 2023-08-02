@@ -26,6 +26,12 @@
     "name:ita_x_preferred":[
         "Laguna de Perlas"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30fc\u30eb\u30e9\u30b0\u30fc\u30f3"
+    ],
+    "name:nan_x_preferred":[
+        "Pearl Lagoon"
+    ],
     "name:nld_x_preferred":[
         "Laguna de Perlas"
     ],
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421197675,
-    "wof:lastmodified":1566657087,
+    "wof:lastmodified":1690848489,
     "wof:name":"Laguna de Perlas",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Nagarote"
     ],
+    "name:eus_x_preferred":[
+        "Nagarote"
+    ],
     "name:fra_x_preferred":[
         "Nagarote"
     ],
@@ -38,10 +41,16 @@
     "name:jpn_x_preferred":[
         "\u30ca\u30ac\u30ed\u30c6"
     ],
+    "name:nan_x_preferred":[
+        "Nagarote"
+    ],
     "name:nld_x_preferred":[
         "Nagarote"
     ],
     "name:pol_x_preferred":[
+        "Nagarote"
+    ],
+    "name:por_x_preferred":[
         "Nagarote"
     ],
     "name:rus_x_preferred":[
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421188989,
-    "wof:lastmodified":1566657080,
+    "wof:lastmodified":1690848483,
     "wof:name":"Nagarote",
     "wof:parent_id":421175425,
     "wof:placetype":"locality",

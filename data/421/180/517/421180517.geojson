@@ -26,13 +26,22 @@
     "name:eng_x_preferred":[
         "Santa Luc\u00eda"
     ],
+    "name:eus_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:fra_x_preferred":[
         "Santa Luc\u00eda"
     ],
     "name:ita_x_preferred":[
         "Santa Luc\u00eda"
     ],
+    "name:nan_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:nld_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:por_x_preferred":[
         "Santa Luc\u00eda"
     ],
     "name:spa_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421180517,
-    "wof:lastmodified":1566657079,
+    "wof:lastmodified":1690848481,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":1108693837,
     "wof:placetype":"locality",

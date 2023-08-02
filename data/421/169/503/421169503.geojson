@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Cinco Pinos"
+    ],
     "name:ceb_x_preferred":[
         "Cinco Pinos"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:eng_x_preferred":[
         "San Juan de Cinco Pinos"
+    ],
+    "name:eus_x_preferred":[
+        "Cinco Pinos"
     ],
     "name:fra_x_preferred":[
         "Cinco Pinos"
@@ -37,6 +43,9 @@
     ],
     "name:nld_x_preferred":[
         "San Juan de Cinco Pinos"
+    ],
+    "name:por_x_preferred":[
+        "Cinco Pinos"
     ],
     "name:sco_x_preferred":[
         "San Juan de Cinco Pinos"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421169503,
-    "wof:lastmodified":1566657074,
+    "wof:lastmodified":1690848475,
     "wof:name":"Cinco Pinos",
     "wof:parent_id":421185081,
     "wof:placetype":"locality",

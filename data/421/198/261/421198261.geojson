@@ -26,13 +26,25 @@
     "name:eng_x_preferred":[
         "El Sauce"
     ],
+    "name:eus_x_preferred":[
+        "El Sauce"
+    ],
     "name:fra_x_preferred":[
         "El Sauce"
     ],
     "name:ita_x_preferred":[
         "El Sauce"
     ],
+    "name:nan_x_preferred":[
+        "El Sauce"
+    ],
     "name:nld_x_preferred":[
+        "El Sauce"
+    ],
+    "name:pol_x_preferred":[
+        "El Sauce"
+    ],
+    "name:por_x_preferred":[
         "El Sauce"
     ],
     "name:spa_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":421198261,
-    "wof:lastmodified":1566657086,
+    "wof:lastmodified":1690848488,
     "wof:name":"El Sauce",
     "wof:parent_id":421168431,
     "wof:placetype":"locality",

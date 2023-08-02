@@ -26,13 +26,22 @@
     "name:eng_x_preferred":[
         "Pueblo Nuevo"
     ],
+    "name:eus_x_preferred":[
+        "Pueblo Nuevo"
+    ],
     "name:fra_x_preferred":[
         "Pueblo Nuevo"
     ],
     "name:ita_x_preferred":[
         "Pueblo Nuevo"
     ],
+    "name:nan_x_preferred":[
+        "Pueblo Nuevo"
+    ],
     "name:nld_x_preferred":[
+        "Pueblo Nuevo"
+    ],
+    "name:por_x_preferred":[
         "Pueblo Nuevo"
     ],
     "name:spa_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":421176293,
-    "wof:lastmodified":1566657097,
+    "wof:lastmodified":1690848501,
     "wof:name":"Pueblo Nuevo",
     "wof:parent_id":421205285,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tisma"
+    ],
     "name:ceb_x_preferred":[
         "Tisma"
     ],
@@ -26,13 +29,22 @@
     "name:eng_x_preferred":[
         "Tisma"
     ],
+    "name:eus_x_preferred":[
+        "Tisma"
+    ],
     "name:fra_x_preferred":[
         "Tisma"
     ],
     "name:ita_x_preferred":[
         "Tisma"
     ],
+    "name:nan_x_preferred":[
+        "Tisma"
+    ],
     "name:nld_x_preferred":[
+        "Tisma"
+    ],
+    "name:por_x_preferred":[
         "Tisma"
     ],
     "name:spa_x_preferred":[
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":421179379,
-    "wof:lastmodified":1566657094,
+    "wof:lastmodified":1690848497,
     "wof:name":"Tisma",
     "wof:parent_id":1108693781,
     "wof:placetype":"locality",

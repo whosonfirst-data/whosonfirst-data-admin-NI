@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Santa Teresa"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ac\u03bd\u03c4\u03b1 \u03a4\u03b5\u03c1\u03ad\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Santa Teresa"
+    ],
+    "name:eus_x_preferred":[
         "Santa Teresa"
     ],
     "name:fra_x_preferred":[
@@ -29,7 +35,13 @@
     "name:ita_x_preferred":[
         "Santa Teresa"
     ],
+    "name:nan_x_preferred":[
+        "Santa Teresa"
+    ],
     "name:nld_x_preferred":[
+        "Santa Teresa"
+    ],
+    "name:por_x_preferred":[
         "Santa Teresa"
     ],
     "name:spa_x_preferred":[
@@ -99,7 +111,7 @@
         }
     ],
     "wof:id":421199497,
-    "wof:lastmodified":1566657088,
+    "wof:lastmodified":1690848490,
     "wof:name":"Santa Teresa",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

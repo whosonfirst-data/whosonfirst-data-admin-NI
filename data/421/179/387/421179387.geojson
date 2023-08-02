@@ -26,13 +26,22 @@
     "name:eng_x_preferred":[
         "Quezalguaque"
     ],
+    "name:eus_x_preferred":[
+        "Quezalguaque"
+    ],
     "name:fra_x_preferred":[
         "Quezalguaque"
     ],
     "name:ita_x_preferred":[
         "Quezalguaque"
     ],
+    "name:nan_x_preferred":[
+        "Quezalguaque"
+    ],
     "name:nld_x_preferred":[
+        "Quezalguaque"
+    ],
+    "name:por_x_preferred":[
         "Quezalguaque"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":421179387,
-    "wof:lastmodified":1566657095,
+    "wof:lastmodified":1690848499,
     "wof:name":"Quezalguaque",
     "wof:parent_id":421172925,
     "wof:placetype":"locality",

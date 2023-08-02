@@ -22,16 +22,25 @@
     "name:ceb_x_preferred":[
         "Acoyapa"
     ],
+    "name:deu_x_preferred":[
+        "Acoyapa"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03ba\u03bf\u03b3\u03b9\u03ac\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Acoyapa"
     ],
+    "name:eus_x_preferred":[
+        "Acoyapa"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06a9\u0648\u0627\u067e\u0627"
     ],
     "name:fra_x_preferred":[
+        "Acoyapa"
+    ],
+    "name:gle_x_preferred":[
         "Acoyapa"
     ],
     "name:ita_x_preferred":[
@@ -43,7 +52,16 @@
     "name:kor_x_preferred":[
         "\uc544\ucf54\uc57c\ud30c"
     ],
+    "name:nan_x_preferred":[
+        "Acoyapa"
+    ],
     "name:nld_x_preferred":[
+        "Acoyapa"
+    ],
+    "name:pol_x_preferred":[
+        "Acoyapa"
+    ],
+    "name:por_x_preferred":[
         "Acoyapa"
     ],
     "name:spa_x_preferred":[
@@ -51,6 +69,9 @@
     ],
     "name:spa_x_variant":[
         "Cinco Pinos"
+    ],
+    "name:sqi_x_preferred":[
+        "Acoyapa"
     ],
     "name:swe_x_preferred":[
         "Acoyapa"
@@ -100,7 +121,7 @@
         }
     ],
     "wof:id":890441007,
-    "wof:lastmodified":1566657100,
+    "wof:lastmodified":1690848504,
     "wof:name":"Acoyapa",
     "wof:parent_id":1108693859,
     "wof:placetype":"locality",

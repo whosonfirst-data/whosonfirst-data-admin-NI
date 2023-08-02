@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Somotillo"
+    ],
     "name:ceb_x_preferred":[
         "Somotillo"
     ],
@@ -26,16 +29,25 @@
     "name:eng_x_preferred":[
         "Somotillo"
     ],
+    "name:eus_x_preferred":[
+        "Somotillo"
+    ],
     "name:fra_x_preferred":[
         "Somotillo"
     ],
     "name:ita_x_preferred":[
         "Somotillo"
     ],
+    "name:nan_x_preferred":[
+        "Somotillo"
+    ],
     "name:nld_x_preferred":[
         "Somotillo"
     ],
     "name:pol_x_preferred":[
+        "Somotillo"
+    ],
+    "name:por_x_preferred":[
         "Somotillo"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421172275,
-    "wof:lastmodified":1566657081,
+    "wof:lastmodified":1690848484,
     "wof:name":"Somotillo",
     "wof:parent_id":421193389,
     "wof:placetype":"locality",

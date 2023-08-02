@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Nueva Guinea"
+    ],
     "name:ceb_x_preferred":[
         "Nueva Guinea"
     ],
+    "name:deu_x_preferred":[
+        "Nueva Guinea"
+    ],
     "name:eng_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:eus_x_preferred":[
         "Nueva Guinea"
     ],
     "name:fra_x_preferred":[
@@ -35,10 +44,16 @@
     "name:lit_x_preferred":[
         "Nueva Gin\u0117ja"
     ],
+    "name:nan_x_preferred":[
+        "Nueva Guinea"
+    ],
     "name:nld_x_preferred":[
         "Nueva Guinea"
     ],
     "name:pol_x_preferred":[
+        "Nueva Guinea"
+    ],
+    "name:por_x_preferred":[
         "Nueva Guinea"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421174769,
-    "wof:lastmodified":1566657078,
+    "wof:lastmodified":1690848480,
     "wof:name":"Nueva Guinea",
     "wof:parent_id":421192911,
     "wof:placetype":"locality",

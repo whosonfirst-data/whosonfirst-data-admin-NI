@@ -26,7 +26,22 @@
     "name:asm_x_preferred":[
         "\u09f0\u09be\u09ae"
     ],
+    "name:ast_x_preferred":[
+        "Rama"
+    ],
+    "name:awa_x_preferred":[
+        "\u0930\u093e\u092e"
+    ],
     "name:aze_x_preferred":[
+        "Rama"
+    ],
+    "name:bak_x_preferred":[
+        "\u0420\u0430\u043c\u0430"
+    ],
+    "name:ban_x_preferred":[
+        "Rama awatara"
+    ],
+    "name:bcl_x_preferred":[
         "Rama"
     ],
     "name:bel_x_preferred":[
@@ -47,11 +62,17 @@
     "name:brh_x_preferred":[
         "R\u00e1m"
     ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u0430"
+    ],
     "name:cat_x_preferred":[
         "Rama"
     ],
     "name:ces_x_preferred":[
         "R\u00e1ma"
+    ],
+    "name:cym_x_preferred":[
+        "Rama"
     ],
     "name:dan_x_preferred":[
         "Rama"
@@ -62,7 +83,16 @@
     "name:dty_x_preferred":[
         "\u0930\u093e\u092e"
     ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03ac\u03bc\u03b1"
+    ],
     "name:eng_x_preferred":[
+        "Rama"
+    ],
+    "name:epo_x_preferred":[
+        "Ramo"
+    ],
+    "name:est_x_preferred":[
         "Rama"
     ],
     "name:eus_x_preferred":[
@@ -76,6 +106,12 @@
     ],
     "name:fra_x_preferred":[
         "R\u0101ma"
+    ],
+    "name:fry_x_preferred":[
+        "Rama"
+    ],
+    "name:gcr_x_preferred":[
+        "Rama"
     ],
     "name:gom_x_preferred":[
         "\u0930\u093e\u092e"
@@ -104,7 +140,13 @@
     "name:hye_x_preferred":[
         "\u054c\u0561\u0574"
     ],
+    "name:ido_x_preferred":[
+        "Rama"
+    ],
     "name:ind_x_preferred":[
+        "Rama"
+    ],
+    "name:isl_x_preferred":[
         "Rama"
     ],
     "name:ita_x_preferred":[
@@ -121,6 +163,12 @@
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10db\u10d0"
+    ],
+    "name:kbp_x_preferred":[
+        "Rama"
+    ],
+    "name:khm_x_preferred":[
+        "\u1794\u1791\u17bb\u1798\u179a\u17b6\u1787\u17b6"
     ],
     "name:kor_x_preferred":[
         "\ub77c\ub9c8"
@@ -143,11 +191,20 @@
     "name:mar_x_preferred":[
         "\u0930\u093e\u092e"
     ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u043c\u0430"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd4\uabe5\uabdd"
+    ],
     "name:msa_x_preferred":[
         "Rama"
     ],
     "name:nep_x_preferred":[
         "\u0936\u094d\u0930\u0940\u0930\u093e\u092e \u0905\u0935\u0924\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0936\u094d\u0930\u0940\u0930\u093e\u092e"
     ],
     "name:nld_x_preferred":[
         "Rama"
@@ -158,11 +215,17 @@
     "name:nob_x_preferred":[
         "Rama"
     ],
+    "name:oci_x_preferred":[
+        "Rama"
+    ],
     "name:ori_x_preferred":[
         "\u0b30\u0b3e\u0b2e"
     ],
     "name:pan_x_preferred":[
         "\u0a30\u0a3e\u0a2e"
+    ],
+    "name:pli_x_preferred":[
+        "\u0930\u093e\u092e"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u0627\u0645"
@@ -191,16 +254,34 @@
     "name:san_x_preferred":[
         "\u0930\u093e\u092e\u0903"
     ],
+    "name:sat_x_preferred":[
+        "\u1c68\u1c5f\u1c62\u1c5a"
+    ],
     "name:sco_x_preferred":[
         "Rama"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dcf\u0db8"
+    ],
+    "name:skr_x_preferred":[
+        "\u0631\u0627\u0645 \u0686\u0646\u062f\u0631"
     ],
     "name:slk_x_preferred":[
         "R\u00e1ma"
     ],
+    "name:snd_x_preferred":[
+        "\u0631\u0627\u0645"
+    ],
     "name:spa_x_preferred":[
         "Rama"
     ],
+    "name:srp_x_preferred":[
+        "Rama"
+    ],
     "name:sun_x_preferred":[
+        "Rama"
+    ],
+    "name:swa_x_preferred":[
         "Rama"
     ],
     "name:swe_x_preferred":[
@@ -236,7 +317,16 @@
     "name:urd_x_preferred":[
         "\u0631\u0627\u0645"
     ],
+    "name:uzb_x_preferred":[
+        "Ram"
+    ],
     "name:vie_x_preferred":[
+        "Rama"
+    ],
+    "name:vro_x_preferred":[
+        "Rama"
+    ],
+    "name:war_x_preferred":[
         "Rama"
     ],
     "name:xmf_x_preferred":[
@@ -292,7 +382,7 @@
         }
     ],
     "wof:id":421197671,
-    "wof:lastmodified":1566657088,
+    "wof:lastmodified":1690848490,
     "wof:name":"Rama",
     "wof:parent_id":421171813,
     "wof:placetype":"locality",

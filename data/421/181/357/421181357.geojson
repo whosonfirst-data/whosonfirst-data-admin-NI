@@ -17,7 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:ceb_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:eng_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:eus_x_preferred":[
         "Buenos Aires"
     ],
     "name:fra_x_preferred":[
@@ -26,7 +35,13 @@
     "name:ita_x_preferred":[
         "Buenos Aires"
     ],
+    "name:nan_x_preferred":[
+        "Buenos Aires"
+    ],
     "name:nld_x_preferred":[
+        "Buenos Aires"
+    ],
+    "name:por_x_preferred":[
         "Buenos Aires"
     ],
     "name:spa_x_preferred":[
@@ -90,7 +105,7 @@
         }
     ],
     "wof:id":421181357,
-    "wof:lastmodified":1566657084,
+    "wof:lastmodified":1690848487,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421202287,
     "wof:placetype":"locality",

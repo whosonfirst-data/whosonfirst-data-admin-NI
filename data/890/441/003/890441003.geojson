@@ -34,13 +34,22 @@
     "name:eng_x_preferred":[
         "Larreynaga"
     ],
+    "name:eus_x_preferred":[
+        "Larreynaga"
+    ],
     "name:fra_x_preferred":[
         "Larreynaga"
     ],
     "name:ita_x_preferred":[
         "Larreynaga"
     ],
+    "name:nan_x_preferred":[
+        "Larreynaga"
+    ],
     "name:nld_x_preferred":[
+        "Larreynaga"
+    ],
+    "name:por_x_preferred":[
         "Larreynaga"
     ],
     "name:spa_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890441003,
-    "wof:lastmodified":1566657100,
+    "wof:lastmodified":1690848504,
     "wof:name":"Larreynaga",
     "wof:parent_id":1108693767,
     "wof:placetype":"locality",

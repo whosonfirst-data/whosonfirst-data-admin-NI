@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u064a\u064a\u0644 \u062f\u064a\u0644 \u0646\u0648\u0631\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0646 \u0631\u0627\u0641\u0627\u064a\u0644 \u062f\u064a\u0644 \u0646\u0648\u0631\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "San Rafael del Norte"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b0\u09be\u09ab\u09be\u09af\u09bc\u09c7\u09b2 \u09a1\u09c7\u09b2 \u09a8\u09b0\u09cd\u09a5\u09c7"
     ],
@@ -33,6 +39,9 @@
         "\u03a3\u03b1\u03bd \u03a1\u03b1\u03c6\u03b1\u03ad\u03bb \u03b4\u03b5\u03bb \u039d\u03cc\u03c1\u03c4\u03b5"
     ],
     "name:eng_x_preferred":[
+        "San Rafael del Norte"
+    ],
+    "name:eus_x_preferred":[
         "San Rafael del Norte"
     ],
     "name:fin_x_preferred":[
@@ -72,6 +81,9 @@
         "\u0938\u0945\u0928 \u0930\u093e\u092b\u0947\u0932 \u0921\u0947\u0932 \u0928\u0949\u0930\u094d\u091f"
     ],
     "name:msa_x_preferred":[
+        "San Rafael del Norte"
+    ],
+    "name:nan_x_preferred":[
         "San Rafael del Norte"
     ],
     "name:nld_x_preferred":[
@@ -169,7 +181,7 @@
         }
     ],
     "wof:id":421185553,
-    "wof:lastmodified":1566657100,
+    "wof:lastmodified":1690848504,
     "wof:name":"San Rafael del Norte",
     "wof:parent_id":1108693693,
     "wof:placetype":"locality",

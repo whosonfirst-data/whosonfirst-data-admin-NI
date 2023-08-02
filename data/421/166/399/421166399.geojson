@@ -29,13 +29,22 @@
     "name:est_x_preferred":[
         "Telica"
     ],
+    "name:eus_x_preferred":[
+        "Telica"
+    ],
     "name:fra_x_preferred":[
         "Telica"
     ],
     "name:ita_x_preferred":[
         "Telica"
     ],
+    "name:nan_x_preferred":[
+        "Telica"
+    ],
     "name:nld_x_preferred":[
+        "Telica"
+    ],
+    "name:por_x_preferred":[
         "Telica"
     ],
     "name:spa_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421166399,
-    "wof:lastmodified":1566657070,
+    "wof:lastmodified":1690848470,
     "wof:name":"Telica",
     "wof:parent_id":421179703,
     "wof:placetype":"locality",

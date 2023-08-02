@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Waslala"
     ],
+    "name:eus_x_preferred":[
+        "Waslala"
+    ],
     "name:fra_x_preferred":[
         "Waslala"
     ],
@@ -37,7 +40,13 @@
     "name:ita_x_preferred":[
         "Waslala"
     ],
+    "name:nan_x_preferred":[
+        "Waslala"
+    ],
     "name:nld_x_preferred":[
+        "Waslala"
+    ],
+    "name:por_x_preferred":[
         "Waslala"
     ],
     "name:ron_x_preferred":[
@@ -91,7 +100,7 @@
         }
     ],
     "wof:id":890430537,
-    "wof:lastmodified":1566657101,
+    "wof:lastmodified":1690848505,
     "wof:name":"Waslala",
     "wof:parent_id":1108693677,
     "wof:placetype":"locality",
