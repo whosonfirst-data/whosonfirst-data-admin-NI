@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Niquinohomo"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u043a\u0430\u043d\u0430\u043e\u043c\u0430"
     ],
@@ -41,8 +44,14 @@
     "name:ita_x_preferred":[
         "Niquinohomo"
     ],
+    "name:nan_x_preferred":[
+        "Niquinohomo"
+    ],
     "name:nld_x_preferred":[
         "Niquinohomo"
+    ],
+    "name:oss_x_preferred":[
+        "\u041d\u0438\u043a\u0438\u043d\u043e\u043e\u043c\u043e"
     ],
     "name:pol_x_preferred":[
         "Niquinomo"
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421204901,
-    "wof:lastmodified":1566657075,
+    "wof:lastmodified":1690848476,
     "wof:name":"Niquinohomo",
     "wof:parent_id":1108693807,
     "wof:placetype":"locality",

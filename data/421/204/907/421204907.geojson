@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Bonanza"
+    ],
     "name:ceb_x_preferred":[
         "Bonanza"
     ],
@@ -24,6 +27,9 @@
         "Bonanza"
     ],
     "name:eng_x_preferred":[
+        "Bonanza"
+    ],
+    "name:eus_x_preferred":[
         "Bonanza"
     ],
     "name:fra_x_preferred":[
@@ -35,7 +41,13 @@
     "name:jpn_x_preferred":[
         "\u30dc\u30ca\u30f3\u30b5"
     ],
+    "name:nan_x_preferred":[
+        "Bonanza"
+    ],
     "name:nld_x_preferred":[
+        "Bonanza"
+    ],
+    "name:por_x_preferred":[
         "Bonanza"
     ],
     "name:spa_x_preferred":[
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421204907,
-    "wof:lastmodified":1566657074,
+    "wof:lastmodified":1690848476,
     "wof:name":"Bonanza",
     "wof:parent_id":1108693675,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u064a\u0627\u0645\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631\u064a\u0627\u0645\u0628\u0627"
+    ],
     "name:bre_x_preferred":[
         "Diriamba"
     ],
@@ -30,6 +33,9 @@
         "Diriamba"
     ],
     "name:ceb_x_preferred":[
+        "Diriamba"
+    ],
+    "name:ces_x_preferred":[
         "Diriamba"
     ],
     "name:deu_x_preferred":[
@@ -44,6 +50,9 @@
     "name:eus_x_preferred":[
         "Diriamba"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u06cc\u0627\u0645\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Diriamba"
     ],
@@ -55,6 +64,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub514\ub9ac\uc554\ubc14"
+    ],
+    "name:nan_x_preferred":[
+        "Diriamba"
     ],
     "name:nld_x_preferred":[
         "Diriamba"
@@ -137,7 +149,7 @@
         }
     ],
     "wof:id":421182523,
-    "wof:lastmodified":1566657096,
+    "wof:lastmodified":1690848500,
     "wof:name":"Diriamba",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",

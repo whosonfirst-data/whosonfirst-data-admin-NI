@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Matigu\u00e1s"
     ],
+    "name:eus_x_preferred":[
+        "Matigu\u00e1s"
+    ],
     "name:fra_x_preferred":[
         "Matiguas"
     ],
@@ -35,10 +38,19 @@
     "name:ita_x_preferred":[
         "Matigu\u00e1s"
     ],
+    "name:nan_x_preferred":[
+        "Matigu\u00e1s"
+    ],
     "name:nld_x_preferred":[
         "Matiguas"
     ],
     "name:nld_x_variant":[
+        "Matigu\u00e1s"
+    ],
+    "name:pol_x_preferred":[
+        "Matigu\u00e1s"
+    ],
+    "name:por_x_preferred":[
         "Matigu\u00e1s"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":421201325,
-    "wof:lastmodified":1566657090,
+    "wof:lastmodified":1690848492,
     "wof:name":"Matigu\u00e1s",
     "wof:parent_id":1108693833,
     "wof:placetype":"locality",

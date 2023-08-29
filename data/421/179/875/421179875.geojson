@@ -26,16 +26,25 @@
     "name:eng_x_preferred":[
         "S\u00e9baco"
     ],
+    "name:eus_x_preferred":[
+        "S\u00e9baco"
+    ],
     "name:fra_x_preferred":[
         "S\u00e9baco"
     ],
     "name:ita_x_preferred":[
         "S\u00e9baco"
     ],
+    "name:nan_x_preferred":[
+        "S\u00e9baco"
+    ],
     "name:nld_x_preferred":[
         "S\u00e9baco"
     ],
     "name:pol_x_preferred":[
+        "S\u00e9baco"
+    ],
+    "name:por_x_preferred":[
         "S\u00e9baco"
     ],
     "name:rus_x_preferred":[
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":421179875,
-    "wof:lastmodified":1566657094,
+    "wof:lastmodified":1690848497,
     "wof:name":"S\u00e9baco",
     "wof:parent_id":1108693821,
     "wof:placetype":"locality",

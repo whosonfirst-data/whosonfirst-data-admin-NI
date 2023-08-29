@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Rosario"
     ],
+    "name:eus_x_preferred":[
+        "El Rosario"
+    ],
     "name:fra_x_preferred":[
         "El Rosario"
     ],
@@ -32,7 +35,13 @@
     "name:ita_x_preferred":[
         "El Rosario"
     ],
+    "name:nan_x_preferred":[
+        "El Rosario"
+    ],
     "name:nld_x_preferred":[
+        "El Rosario"
+    ],
+    "name:por_x_preferred":[
         "El Rosario"
     ],
     "name:spa_x_preferred":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421169821,
-    "wof:lastmodified":1566657074,
+    "wof:lastmodified":1690848475,
     "wof:name":"El Rosario",
     "wof:parent_id":1108693793,
     "wof:placetype":"locality",

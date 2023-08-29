@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Totogalpa"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u0442\u043e\u0433\u0430\u043b\u043f\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Totogalpa"
+    ],
     "name:ceb_x_preferred":[
+        "Totogalpa"
+    ],
+    "name:deu_x_preferred":[
         "Totogalpa"
     ],
     "name:ell_x_preferred":[
@@ -29,13 +38,22 @@
     "name:eng_x_preferred":[
         "Totogalpa"
     ],
+    "name:eus_x_preferred":[
+        "Totogalpa"
+    ],
     "name:fra_x_preferred":[
         "Totogalpa"
     ],
     "name:ita_x_preferred":[
         "Totogalpa"
     ],
+    "name:nan_x_preferred":[
+        "Totogalpa"
+    ],
     "name:nld_x_preferred":[
+        "Totogalpa"
+    ],
+    "name:por_x_preferred":[
         "Totogalpa"
     ],
     "name:spa_x_preferred":[
@@ -104,7 +122,7 @@
         }
     ],
     "wof:id":421179375,
-    "wof:lastmodified":1566657096,
+    "wof:lastmodified":1690848499,
     "wof:name":"Totogalpa",
     "wof:parent_id":1108693717,
     "wof:placetype":"locality",

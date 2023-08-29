@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Dolores"
     ],
+    "name:eus_x_preferred":[
+        "Dolores"
+    ],
     "name:fra_x_preferred":[
         "Dolores"
     ],
@@ -38,7 +41,13 @@
     "name:ita_x_preferred":[
         "Dolores"
     ],
+    "name:nan_x_preferred":[
+        "Dolores"
+    ],
     "name:nld_x_preferred":[
+        "Dolores"
+    ],
+    "name:por_x_preferred":[
         "Dolores"
     ],
     "name:spa_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":421198757,
-    "wof:lastmodified":1636503409,
+    "wof:lastmodified":1690848488,
     "wof:name":"Dolores",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",

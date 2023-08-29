@@ -25,13 +25,22 @@
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b2\u09be\u09aa\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Jalapa"
+    ],
     "name:ceb_x_preferred":[
+        "Jalapa"
+    ],
+    "name:deu_x_preferred":[
         "Jalapa"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03bb\u03ac\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Jalapa"
+    ],
+    "name:eus_x_preferred":[
         "Jalapa"
     ],
     "name:fra_x_preferred":[
@@ -52,10 +61,16 @@
     "name:ita_x_preferred":[
         "Jalapa"
     ],
+    "name:nan_x_preferred":[
+        "Jalapa"
+    ],
     "name:nld_x_preferred":[
         "Jalapa"
     ],
     "name:pol_x_preferred":[
+        "Jalapa"
+    ],
+    "name:por_x_preferred":[
         "Jalapa"
     ],
     "name:rus_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":1125939713,
-    "wof:lastmodified":1636503413,
+    "wof:lastmodified":1690848508,
     "wof:name":"Jalapa",
     "wof:parent_id":421170023,
     "wof:placetype":"locality",

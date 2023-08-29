@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Macuelizo"
+    ],
     "name:ceb_x_preferred":[
         "Macuelizo"
     ],
+    "name:deu_x_preferred":[
+        "Macuelizo"
+    ],
     "name:eng_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:eus_x_preferred":[
         "Macuelizo"
     ],
     "name:fra_x_preferred":[
@@ -29,7 +38,13 @@
     "name:ita_x_preferred":[
         "Macuelizo"
     ],
+    "name:nan_x_preferred":[
+        "Macuelizo"
+    ],
     "name:nld_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:por_x_preferred":[
         "Macuelizo"
     ],
     "name:spa_x_preferred":[
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":421197955,
-    "wof:lastmodified":1566657087,
+    "wof:lastmodified":1690848489,
     "wof:name":"Macuelizo",
     "wof:parent_id":1108693715,
     "wof:placetype":"locality",

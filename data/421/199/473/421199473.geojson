@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Camoapa"
+    ],
     "name:ceb_x_preferred":[
+        "Camoapa"
+    ],
+    "name:deu_x_preferred":[
         "Camoapa"
     ],
     "name:ell_x_preferred":[
@@ -26,16 +32,28 @@
     "name:eng_x_preferred":[
         "Camoapa"
     ],
+    "name:eus_x_preferred":[
+        "Camoapa"
+    ],
     "name:fra_x_preferred":[
         "Camoapa"
     ],
     "name:ita_x_preferred":[
         "Camoapa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e2\u30a2\u30d1"
+    ],
+    "name:nan_x_preferred":[
+        "Camoapa"
+    ],
     "name:nld_x_preferred":[
         "Camoapa"
     ],
     "name:pol_x_preferred":[
+        "Camoapa"
+    ],
+    "name:por_x_preferred":[
         "Camoapa"
     ],
     "name:rus_x_preferred":[
@@ -106,7 +124,7 @@
         }
     ],
     "wof:id":421199473,
-    "wof:lastmodified":1566657089,
+    "wof:lastmodified":1690848491,
     "wof:name":"Camoapa",
     "wof:parent_id":421189523,
     "wof:placetype":"locality",

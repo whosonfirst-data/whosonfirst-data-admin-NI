@@ -63,8 +63,14 @@
     "name:eng_x_variant":[
         "Managua Department"
     ],
+    "name:epo_x_preferred":[
+        "departemento Managvo"
+    ],
     "name:eus_x_preferred":[
         "Managuako departamendua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u0627\u0646\u0627\u06af\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Managuan departmentti"
@@ -138,6 +144,9 @@
     "name:nah_x_preferred":[
         "Tl\u0101lxeliuhc\u0101y\u014dtl Man\u0101huac"
     ],
+    "name:nan_x_preferred":[
+        "Managua Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Managua"
     ],
@@ -197,6 +206,12 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Managua"
+    ],
+    "name:war_x_preferred":[
+        "Managua"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u90a3\u74dc\u7701"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u90a3\u74dc"
@@ -327,7 +342,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636503370,
+    "wof:lastmodified":1690848455,
     "wof:name":"Managua",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

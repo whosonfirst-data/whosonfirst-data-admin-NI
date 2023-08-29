@@ -23,14 +23,23 @@
     "name:ast_x_preferred":[
         "Greytown"
     ],
+    "name:ast_x_variant":[
+        "San Juan del Norte"
+    ],
     "name:ceb_x_preferred":[
         "San Juan del Norte"
     ],
     "name:deu_x_preferred":[
         "San Juan de Nicaragua"
     ],
+    "name:deu_x_variant":[
+        "San Juan del Norte"
+    ],
     "name:eng_x_preferred":[
         "San Juan de Nicaragua"
+    ],
+    "name:eus_x_preferred":[
+        "San Juan del Norte"
     ],
     "name:fra_x_preferred":[
         "San Juan de Nicaragua"
@@ -46,6 +55,9 @@
     ],
     "name:por_x_preferred":[
         "San Juan de Nicar\u00e1gua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d \u0434\u0435 \u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
     ],
     "name:spa_x_preferred":[
         "San Juan del Norte"
@@ -109,7 +121,7 @@
         }
     ],
     "wof:id":421177227,
-    "wof:lastmodified":1566657092,
+    "wof:lastmodified":1690848495,
     "wof:name":"San Juan del Norte",
     "wof:parent_id":421175429,
     "wof:placetype":"locality",

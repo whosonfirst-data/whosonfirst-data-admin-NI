@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.3599847837,13.0899878122,-86.3599847837,13.0899878122",
+    "geom:bbox":"-86.359985,13.089988,-86.359985,13.089988",
     "geom:latitude":13.089988,
     "geom:longitude":-86.359985,
     "iso:country":"NI",
@@ -21,10 +21,22 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u062a\u064a\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0633\u062a\u064a\u0644\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Estel\u00ed"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0441\u0442\u044d\u043b\u0456"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u09b8\u09cd\u099f\u09c7\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Estel\u00ed"
+    ],
+    "name:ces_x_preferred":[
         "Estel\u00ed"
     ],
     "name:cym_x_preferred":[
@@ -51,14 +63,23 @@
     "name:fra_x_preferred":[
         "Estel\u00ed"
     ],
+    "name:gle_x_preferred":[
+        "Estel\u00ed"
+    ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab8\u0acd\u0a9f\u0ac7\u0ab2\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d8\u05dc\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0938\u094d\u091f\u0947\u0932\u0940"
     ],
     "name:hun_x_preferred":[
         "Estel\u00ed"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u057d\u0569\u0565\u056c\u056b"
     ],
     "name:ind_x_preferred":[
         "Estel\u00ed"
@@ -90,6 +111,12 @@
     "name:msa_x_preferred":[
         "Esteli"
     ],
+    "name:nah_x_preferred":[
+        "Eztetl"
+    ],
+    "name:nan_x_preferred":[
+        "Estel\u00ed"
+    ],
     "name:nld_x_preferred":[
         "Estel\u00ed"
     ],
@@ -111,6 +138,9 @@
     "name:spa_x_preferred":[
         "Estel\u00ed"
     ],
+    "name:srp_x_preferred":[
+        "\u0415\u0441\u0442\u0435\u043b\u0438"
+    ],
     "name:swe_x_preferred":[
         "Estel\u00ed"
     ],
@@ -119,6 +149,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b8e\u0bb8\u0bcd\u0b9f\u0bc6\u0bb2\u0bbf"
+    ],
+    "name:tat_x_preferred":[
+        "\u042d\u0441\u0442\u0435\u043b\u0438"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c38\u0c4d\u0c1f\u0c46\u0c32\u0c3f"
@@ -137,6 +170,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0633\u062a\u0627\u0644\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Estel\u00ed"
     ],
     "name:vie_x_preferred":[
         "Estel\u00ed"
@@ -252,7 +288,7 @@
     },
     "wof:country":"NI",
     "wof:created":1499130584,
-    "wof:geomhash":"87042de394e2777c4e18b25a40b676be",
+    "wof:geomhash":"918f5215bf2a3b67e2af48382b0b278e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -263,7 +299,7 @@
         }
     ],
     "wof:id":1141906413,
-    "wof:lastmodified":1566657216,
+    "wof:lastmodified":1690848509,
     "wof:name":"Esteli",
     "wof:parent_id":1108693753,
     "wof:placetype":"locality",
@@ -273,10 +309,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.3599847836611,
-    13.08998781224324,
-    -86.3599847836611,
-    13.08998781224324
+    -86.359985,
+    13.089988,
+    -86.359985,
+    13.089988
 ],
-  "geometry": {"coordinates":[-86.3599847836611,13.08998781224324],"type":"Point"}
+  "geometry": {"coordinates":[-86.35998499999999,13.089988],"type":"Point"}
 }

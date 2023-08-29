@@ -17,10 +17,16 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Murra"
+    ],
     "name:ceb_x_preferred":[
         "Murra"
     ],
     "name:eng_x_preferred":[
+        "Murra"
+    ],
+    "name:eus_x_preferred":[
         "Murra"
     ],
     "name:fra_x_preferred":[
@@ -32,7 +38,13 @@
     "name:ita_x_preferred":[
         "Murra"
     ],
+    "name:nan_x_preferred":[
+        "Murra"
+    ],
     "name:nld_x_preferred":[
+        "Murra"
+    ],
+    "name:por_x_preferred":[
         "Murra"
     ],
     "name:spa_x_preferred":[
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":421194281,
-    "wof:lastmodified":1566657072,
+    "wof:lastmodified":1690848473,
     "wof:name":"Murra",
     "wof:parent_id":1108693697,
     "wof:placetype":"locality",

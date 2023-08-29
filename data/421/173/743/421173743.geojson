@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Ticuantepe"
+    ],
     "name:ceb_x_preferred":[
         "Ticuantepe"
     ],
@@ -26,13 +29,25 @@
     "name:eng_x_preferred":[
         "Ticuantepe"
     ],
+    "name:eus_x_preferred":[
+        "Ticuantepe"
+    ],
     "name:fra_x_preferred":[
         "Ticuantepe"
     ],
     "name:ita_x_preferred":[
         "Ticuantepe"
     ],
+    "name:nan_x_preferred":[
+        "Ticuantepe"
+    ],
     "name:nld_x_preferred":[
+        "Ticuantepe"
+    ],
+    "name:pol_x_preferred":[
+        "Ticuantepe"
+    ],
+    "name:por_x_preferred":[
         "Ticuantepe"
     ],
     "name:spa_x_preferred":[
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":421173743,
-    "wof:lastmodified":1566657080,
+    "wof:lastmodified":1690848482,
     "wof:name":"Ticuantepe",
     "wof:parent_id":421179217,
     "wof:placetype":"locality",

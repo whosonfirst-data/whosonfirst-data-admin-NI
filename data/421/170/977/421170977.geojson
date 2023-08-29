@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Achuapa"
+    ],
     "name:ceb_x_preferred":[
         "Achuapa"
     ],
@@ -26,6 +29,9 @@
     "name:eng_x_preferred":[
         "San Jos\u00e9 de Achuapa"
     ],
+    "name:eus_x_preferred":[
+        "Achuapa"
+    ],
     "name:fra_x_preferred":[
         "San Jos\u00e9 de Achuapa"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:nld_x_preferred":[
         "San Jos\u00e9 de Achuapa"
+    ],
+    "name:por_x_preferred":[
+        "Achuapa"
     ],
     "name:spa_x_preferred":[
         "Achuapa"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421170977,
-    "wof:lastmodified":1566657091,
+    "wof:lastmodified":1690848494,
     "wof:name":"Achuapa",
     "wof:parent_id":1108693761,
     "wof:placetype":"locality",

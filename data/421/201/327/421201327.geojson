@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "El Crucero"
+    ],
     "name:ceb_x_preferred":[
         "El Crucero"
     ],
@@ -26,16 +29,25 @@
     "name:eng_x_preferred":[
         "El Crucero"
     ],
+    "name:eus_x_preferred":[
+        "El Crucero"
+    ],
     "name:fra_x_preferred":[
         "El Crucero"
     ],
     "name:ita_x_preferred":[
         "El Crucero"
     ],
+    "name:nan_x_preferred":[
+        "El Crucero"
+    ],
     "name:nld_x_preferred":[
         "El Crucero"
     ],
     "name:pol_x_preferred":[
+        "El Crucero"
+    ],
+    "name:por_x_preferred":[
         "El Crucero"
     ],
     "name:spa_x_preferred":[
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":421201327,
-    "wof:lastmodified":1566657090,
+    "wof:lastmodified":1690848493,
     "wof:name":"El Crucero",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",
