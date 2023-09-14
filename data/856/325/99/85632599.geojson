@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.702597,
-    "geom:area_square_m":129008439434.415833,
+    "geom:area_square_m":129008439434.426117,
     "geom:bbox":"-87.692337,10.708055,-82.550392,15.030275",
     "geom:latitude":12.845499,
     "geom:longitude":-85.03852,
@@ -13,6 +13,9 @@
     "iso:country":"NI",
     "itu:country_code":[
         "505"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NI"
@@ -1089,7 +1092,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"505",
     "statoids:ds":"NIC",
     "statoids:fifa":"NCA",
@@ -1148,7 +1152,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"76ef2fd765178f57da89fe143033dac9",
+    "wof:geomhash":"c49cb3bd1f708978a757e0cc419c2ca8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1162,12 +1166,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848457,
+    "wof:lastmodified":1694639560,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":6080478,
-    "wof:population_rank":13,
+    "wof:population":6545502,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:shortcode":"NI",
     "wof:superseded_by":[],
