@@ -1131,6 +1131,7 @@
         "hasc:id":"NI",
         "icao:code":"YN",
         "ioc:id":"NCA",
+        "iso:code":"NI",
         "itu:id":"NCG",
         "loc:id":"n80009698",
         "m49:code":"558",
@@ -1145,6 +1146,7 @@
         "wk:page":"Nicaragua",
         "wmo:id":"NK"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:country_alpha3":"NIC",
     "wof:geom_alt":[
@@ -1166,7 +1168,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639560,
+    "wof:lastmodified":1695881218,
     "wof:name":"Nicaragua",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
