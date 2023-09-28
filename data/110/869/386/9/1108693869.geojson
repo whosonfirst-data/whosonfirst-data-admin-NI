@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.275213,
-    "geom:area_square_m":3314871461.273914,
+    "geom:area_square_m":3314871461.274271,
     "geom:bbox":"-84.8043004779,12.75237646,-83.957004619,13.2901391332",
     "geom:latitude":13.072151,
     "geom:longitude":-84.392252,
@@ -78,9 +78,10 @@
         "hasc:id":"NI.AS.LC",
         "wd:id":"Q963732"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415201,
-    "wof:geomhash":"28af24c1f927b5147ca2efbc1e0e3354",
+    "wof:geomhash":"d8f0dacd710d4f0513770499e1c1a98c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108693869,
-    "wof:lastmodified":1566657013,
+    "wof:lastmodified":1695886491,
     "wof:name":"La Cruz De Rio Grande",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

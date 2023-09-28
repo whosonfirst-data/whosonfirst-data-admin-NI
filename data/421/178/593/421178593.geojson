@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003484,
-    "geom:area_square_m":42068988.4592,
+    "geom:area_square_m":42068730.820518,
     "geom:bbox":"-87.238274,12.397112,-87.06707,12.546803",
     "geom:latitude":12.473727,
     "geom:longitude":-87.140998,
@@ -164,12 +164,13 @@
         "qs_pg:id":467362,
         "wd:id":"Q1132939"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009187,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"106da3af5b07bf6b26bc461d67643a71",
+    "wof:geomhash":"10aaa99596d10bb9cfa3b86a83b92387",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421178593,
-    "wof:lastmodified":1690848499,
+    "wof:lastmodified":1695886035,
     "wof:name":"Corinto",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

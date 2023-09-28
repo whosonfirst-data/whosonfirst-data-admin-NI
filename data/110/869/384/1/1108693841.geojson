@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086852,
-    "geom:area_square_m":1048182999.120968,
+    "geom:area_square_m":1048183454.101068,
     "geom:bbox":"-85.693833,12.379031,-85.234822,12.730451",
     "geom:latitude":12.574336,
     "geom:longitude":-85.493331,
@@ -139,9 +139,10 @@
     "wof:concordances":{
         "hasc:id":"NI.BO.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415175,
-    "wof:geomhash":"cb1e31603632995ef6206ac066ad37fc",
+    "wof:geomhash":"47bd78ba3cc0400ee8217369e65fcb00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108693841,
-    "wof:lastmodified":1636503397,
+    "wof:lastmodified":1695886116,
     "wof:name":"Boaco",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

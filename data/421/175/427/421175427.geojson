@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.079093,
-    "geom:area_square_m":955416003.210187,
+    "geom:area_square_m":955416789.016411,
     "geom:bbox":"-86.138807,12.14114,-85.804186,12.585043",
     "geom:latitude":12.335751,
     "geom:longitude":-86.010984,
@@ -161,12 +161,13 @@
         "qs_pg:id":369078,
         "wd:id":"Q1365146"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009067,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4d1d67d38640f793bf6d209f7b762278",
+    "wof:geomhash":"9ad0840794093d5f181fc5b91a41f1ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":421175427,
-    "wof:lastmodified":1690848487,
+    "wof:lastmodified":1695886034,
     "wof:name":"Tipitapa",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

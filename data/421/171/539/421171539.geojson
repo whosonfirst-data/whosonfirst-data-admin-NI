@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053986,
-    "geom:area_square_m":650664734.822887,
+    "geom:area_square_m":650663998.629124,
     "geom:bbox":"-86.059943,12.757896,-85.682548,13.099021",
     "geom:latitude":12.914263,
     "geom:longitude":-85.90013,
@@ -100,12 +100,13 @@
         "hasc:id":"NI.MT.MP",
         "qs_pg:id":1264328
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008897,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0b1d4f14ca48fea9e9a69a015311a82",
+    "wof:geomhash":"83482264852cee18cc784d462e455e32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421171539,
-    "wof:lastmodified":1636503412,
+    "wof:lastmodified":1695886118,
     "wof:name":"Matagalpa",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

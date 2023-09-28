@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002515,
-    "geom:area_square_m":30427503.80962,
+    "geom:area_square_m":30427503.809596,
     "geom:bbox":"-86.1174510909,11.834025489,-86.0741674932,11.9249004072",
     "geom:latitude":11.875383,
     "geom:longitude":-86.098434,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"NI.MS.NQ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415141,
-    "wof:geomhash":"5206e11d8c3bb9f2f1f9c843c3cf58ad",
+    "wof:geomhash":"13fd5e2898a6887d3d13ea3cb1f8c8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108693807,
-    "wof:lastmodified":1566657010,
+    "wof:lastmodified":1695886490,
     "wof:name":"Niquinohomo",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

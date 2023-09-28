@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017001,
-    "geom:area_square_m":204266621.160799,
+    "geom:area_square_m":204266615.872887,
     "geom:bbox":"-86.478966,13.571479,-86.351341,13.77854",
     "geom:latitude":13.67079,
     "geom:longitude":-86.41729,
@@ -107,9 +107,10 @@
         "hasc:id":"NI.NS.MO",
         "wd:id":"Q2215922"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415052,
-    "wof:geomhash":"bec590fc9a2a2c1191584f48e08ac258",
+    "wof:geomhash":"6233e073b1bdfeb2842358fffde91dbf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108693709,
-    "wof:lastmodified":1690848459,
+    "wof:lastmodified":1695886487,
     "wof:name":"Mosonte",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

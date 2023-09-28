@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050975,
-    "geom:area_square_m":616131172.181889,
+    "geom:area_square_m":616131509.812804,
     "geom:bbox":"-86.768285,11.98377,-86.476259,12.317602",
     "geom:latitude":12.177994,
     "geom:longitude":-86.631808,
@@ -140,12 +140,13 @@
         "qs_pg:id":369077,
         "wd:id":"Q2604568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009067,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e1a6c16efec1861ac86d60073a02b06",
+    "wof:geomhash":"f41957a2c72599d6a9763d3a67947695",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421175425,
-    "wof:lastmodified":1690848487,
+    "wof:lastmodified":1695886034,
     "wof:name":"Nagarote",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

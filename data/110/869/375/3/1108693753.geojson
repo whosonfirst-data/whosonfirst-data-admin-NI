@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067247,
-    "geom:area_square_m":809771800.983672,
+    "geom:area_square_m":809771826.453723,
     "geom:bbox":"-86.504575,12.963361,-86.168943,13.29054",
     "geom:latitude":13.132142,
     "geom:longitude":-86.343246,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.ES.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415090,
-    "wof:geomhash":"767a2bac2ba390878606eee37c58c5be",
+    "wof:geomhash":"4615f5d3f2b7733f1caca971c4b36380",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693753,
-    "wof:lastmodified":1627522476,
+    "wof:lastmodified":1695886101,
     "wof:name":"Esteli",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

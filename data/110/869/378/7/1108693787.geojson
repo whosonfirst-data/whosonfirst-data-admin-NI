@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000761,
-    "geom:area_square_m":9203862.844525,
+    "geom:area_square_m":9203787.965866,
     "geom:bbox":"-86.087042,11.878458,-86.048498,11.914425",
     "geom:latitude":11.899286,
     "geom:longitude":-86.069061,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.MS.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415123,
-    "wof:geomhash":"c13d1e226b87f4872fcdd39ec30c663b",
+    "wof:geomhash":"ea94ec1de33a3599a9b2d68acd539c04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693787,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"San Juan De Oriente",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011539,
-    "geom:area_square_m":139780836.260637,
+    "geom:area_square_m":139781105.362408,
     "geom:bbox":"-85.969414,11.458491,-85.828752,11.682673",
     "geom:latitude":11.579891,
     "geom:longitude":-85.890886,
@@ -113,9 +113,10 @@
         "hasc:id":"NI.RI.PO",
         "wd:id":"Q1647911"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415145,
-    "wof:geomhash":"482e900ed80588db5fd3041a2c51aff5",
+    "wof:geomhash":"ae808f6baaa7636b066eeca27d8269ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108693813,
-    "wof:lastmodified":1690848468,
+    "wof:lastmodified":1695886490,
     "wof:name":"Potosi",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

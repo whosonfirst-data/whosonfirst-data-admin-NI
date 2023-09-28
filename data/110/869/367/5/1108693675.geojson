@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153918,
-    "geom:area_square_m":1846253561.893066,
+    "geom:area_square_m":1846254743.403114,
     "geom:bbox":"-84.935462,13.830396,-84.341045,14.243279",
     "geom:latitude":14.054018,
     "geom:longitude":-84.629282,
@@ -109,9 +109,10 @@
         "hasc:id":"NI.AN.BO",
         "wd:id":"Q892092"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415027,
-    "wof:geomhash":"7784e1ea5500ac1af31d121908e71348",
+    "wof:geomhash":"d925e06238232083482742d6e85f658d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108693675,
-    "wof:lastmodified":1690848464,
+    "wof:lastmodified":1695886489,
     "wof:name":"Bonanza",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

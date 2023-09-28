@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012067,
-    "geom:area_square_m":145945432.28026,
+    "geom:area_square_m":145945538.237329,
     "geom:bbox":"-86.112429,11.916114,-85.98766,12.14229",
     "geom:latitude":12.012889,
     "geom:longitude":-86.065745,
@@ -181,12 +181,13 @@
         "hasc:id":"NI.MS.MY",
         "qs_pg:id":772979
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008834,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5b0656a9e2d0971711de99f46c03af24",
+    "wof:geomhash":"234ba465ed9efb917a0815c9104bfac1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":421170019,
-    "wof:lastmodified":1636503411,
+    "wof:lastmodified":1695886117,
     "wof:name":"Masaya",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00804,
-    "geom:area_square_m":97275938.125865,
+    "geom:area_square_m":97275533.902347,
     "geom:bbox":"-86.379255,11.815607,-86.203226,11.954602",
     "geom:latitude":11.89721,
     "geom:longitude":-86.295761,
@@ -142,9 +142,10 @@
         "hasc:id":"NI.CA.SM",
         "wd:id":"Q1013654"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415126,
-    "wof:geomhash":"1cdb6c42cb4d56c7d3348bd2e76aef0f",
+    "wof:geomhash":"c33e8543de790cd1f567ec868e89e05a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1108693789,
-    "wof:lastmodified":1690848461,
+    "wof:lastmodified":1695886116,
     "wof:name":"San Marcos",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

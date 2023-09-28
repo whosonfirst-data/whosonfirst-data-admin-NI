@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047621,
-    "geom:area_square_m":575453961.619881,
+    "geom:area_square_m":575453668.742967,
     "geom:bbox":"-85.831341,12.058253,-85.594145,12.428881",
     "geom:latitude":12.241271,
     "geom:longitude":-85.712632,
@@ -184,9 +184,10 @@
     "wof:concordances":{
         "hasc:id":"NI.BO.SZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415173,
-    "wof:geomhash":"3ff9ebf9daf6ca11912021e65ec60896",
+    "wof:geomhash":"fda7419c00ce164067c497cf08bd2b21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +197,7 @@
         }
     ],
     "wof:id":1108693839,
-    "wof:lastmodified":1636503396,
+    "wof:lastmodified":1695886115,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

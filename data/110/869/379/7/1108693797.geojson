@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007323,
-    "geom:area_square_m":88661662.067513,
+    "geom:area_square_m":88661725.974071,
     "geom:bbox":"-86.221791,11.62509,-86.148622,11.817827",
     "geom:latitude":11.713758,
     "geom:longitude":-86.186029,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CA.LC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415131,
-    "wof:geomhash":"c2df0ceee6e4a8a4ebf13bf7862fd2cc",
+    "wof:geomhash":"fb7510b0f1f7eb4c953b19e671f07f07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108693797,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"La Conquista",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

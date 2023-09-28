@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008129,
-    "geom:area_square_m":98112241.648876,
+    "geom:area_square_m":98112722.234583,
     "geom:bbox":"-87.249288,12.498864,-87.12079,12.612606",
     "geom:latitude":12.554979,
     "geom:longitude":-87.184076,
@@ -112,9 +112,10 @@
         "hasc:id":"NI.CI.ER",
         "wd:id":"Q368227"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415083,
-    "wof:geomhash":"9f4c5027d709ceb71767e39763c80744",
+    "wof:geomhash":"5900404f8d60cbc08fa35a3b53ba2169",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108693747,
-    "wof:lastmodified":1690848467,
+    "wof:lastmodified":1695886490,
     "wof:name":"El Realejo",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

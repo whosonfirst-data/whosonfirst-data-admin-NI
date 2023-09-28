@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010203,
-    "geom:area_square_m":123365223.11837,
+    "geom:area_square_m":123364204.890808,
     "geom:bbox":"-86.069081,12.014227,-85.961348,12.151979",
     "geom:latitude":12.086136,
     "geom:longitude":-86.019791,
@@ -103,9 +103,10 @@
         "hasc:id":"NI.MS.TI",
         "wd:id":"Q2216452"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415116,
-    "wof:geomhash":"0383e3eefe1f0e7ebc742814eddf74a8",
+    "wof:geomhash":"9de4ae3e4d5241197b1b2cbf67959bea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108693781,
-    "wof:lastmodified":1690848462,
+    "wof:lastmodified":1695886488,
     "wof:name":"Tisma",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

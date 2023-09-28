@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073457,
-    "geom:area_square_m":885128222.385039,
+    "geom:area_square_m":885127574.377918,
     "geom:bbox":"-87.385263,12.809679,-86.749405,13.182281",
     "geom:latitude":12.971452,
     "geom:longitude":-87.025355,
@@ -138,12 +138,13 @@
         "qs_pg:id":893652,
         "wd:id":"Q2604179"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009769,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"20d415e94a789566069bce2848e2ce3a",
+    "wof:geomhash":"0b152ce058ff12ab3bb3a964c3628406",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421193389,
-    "wof:lastmodified":1690848475,
+    "wof:lastmodified":1695886033,
     "wof:name":"Isla Mangles Altos",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

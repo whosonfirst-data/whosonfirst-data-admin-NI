@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006141,
-    "geom:area_square_m":74293148.003025,
+    "geom:area_square_m":74293170.801979,
     "geom:bbox":"-86.297616,11.920256,-86.151036,11.99272",
     "geom:latitude":11.954953,
     "geom:longitude":-86.22222,
@@ -110,9 +110,10 @@
         "hasc:id":"NI.MS.LC",
         "wd:id":"Q538269"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415120,
-    "wof:geomhash":"e7a359168938fa81e4607d89e8b5002e",
+    "wof:geomhash":"6f5ac5b14f0adefc8abd98da661d8d36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108693785,
-    "wof:lastmodified":1690848462,
+    "wof:lastmodified":1695886489,
     "wof:name":"La Concepcion",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

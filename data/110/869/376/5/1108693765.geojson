@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036444,
-    "geom:area_square_m":439721357.715822,
+    "geom:area_square_m":439721357.715897,
     "geom:bbox":"-86.4736343022,12.4567482899,-86.2758356673,12.7974987223",
     "geom:latitude":12.638784,
     "geom:longitude":-86.386333,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"NI.LE.EJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415099,
-    "wof:geomhash":"8822ccaea3dbfbc64451c8dc696c8530",
+    "wof:geomhash":"d6a20e31591cacc50afcc1a26369bb40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693765,
-    "wof:lastmodified":1566657005,
+    "wof:lastmodified":1695886488,
     "wof:name":"El Jicaral",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

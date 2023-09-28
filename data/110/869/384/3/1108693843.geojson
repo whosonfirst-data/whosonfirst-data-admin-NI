@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054924,
-    "geom:area_square_m":663834399.380013,
+    "geom:area_square_m":663834399.379905,
     "geom:bbox":"-85.6816310702,12.0074425698,-85.3795524515,12.3559306077",
     "geom:latitude":12.189804,
     "geom:longitude":-85.558142,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CO.CO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415177,
-    "wof:geomhash":"7549477704db84610f0bcd654ec14e52",
+    "wof:geomhash":"cbc569d2eabda7d5eb5be08b6a85cf21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693843,
-    "wof:lastmodified":1566657002,
+    "wof:lastmodified":1695886487,
     "wof:name":"Comalapa",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

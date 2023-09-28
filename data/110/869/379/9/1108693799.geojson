@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001757,
-    "geom:area_square_m":21268080.648951,
+    "geom:area_square_m":21268080.648933,
     "geom:bbox":"-86.1785761872,11.8051330971,-86.1161338473,11.8567693004",
     "geom:latitude":11.829216,
     "geom:longitude":-86.150875,
@@ -106,9 +106,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CA.ER"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415133,
-    "wof:geomhash":"a2c404e980d17eb970c46b82943ba450",
+    "wof:geomhash":"65a86af0034cb78bed82a524abacf970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108693799,
-    "wof:lastmodified":1566656999,
+    "wof:lastmodified":1695886487,
     "wof:name":"El Rosario",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

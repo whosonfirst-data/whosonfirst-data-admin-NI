@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029117,
-    "geom:area_square_m":349980567.79492,
+    "geom:area_square_m":349980578.785753,
     "geom:bbox":"-86.134909,13.466095,-85.886213,13.671394",
     "geom:latitude":13.573088,
     "geom:longitude":-86.0051,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.NS.QU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415047,
-    "wof:geomhash":"ce95ccc1c99227315c132ade707ad334",
+    "wof:geomhash":"8f5c1222353243a53cdb1c6be6175eba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693699,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886101,
     "wof:name":"Quilali",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

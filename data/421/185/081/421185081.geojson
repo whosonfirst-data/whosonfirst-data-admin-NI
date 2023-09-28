@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005047,
-    "geom:area_square_m":60752745.931632,
+    "geom:area_square_m":60752670.439575,
     "geom:bbox":"-86.9061,13.159214,-86.815671,13.25275",
     "geom:latitude":13.214385,
     "geom:longitude":-86.856006,
@@ -136,12 +136,13 @@
         "qs_pg:id":1017819,
         "wd:id":"Q1647867"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009432,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec73aab9ebf146b5a05b2504ea05cd20",
+    "wof:geomhash":"9d9c87b8e471dea6a7367a9f958fc218",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421185081,
-    "wof:lastmodified":1690848504,
+    "wof:lastmodified":1695886035,
     "wof:name":"Cinco Pinos",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

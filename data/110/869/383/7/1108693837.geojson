@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01004,
-    "geom:area_square_m":121201026.523376,
+    "geom:area_square_m":121201026.523364,
     "geom:bbox":"-85.7658961522,12.443015539,-85.6609880891,12.5759593429",
     "geom:latitude":12.510026,
     "geom:longitude":-85.716662,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"NI.BO.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415171,
-    "wof:geomhash":"c5982526f617ed9d8e001371c04aa5bb",
+    "wof:geomhash":"b29e3a6a2acee513312725909b2275b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1108693837,
-    "wof:lastmodified":1566657000,
+    "wof:lastmodified":1695886487,
     "wof:name":"Santa Lucia",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

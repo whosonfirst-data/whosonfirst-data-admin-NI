@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04619,
-    "geom:area_square_m":555584976.203098,
+    "geom:area_square_m":555584976.203087,
     "geom:bbox":"-86.0561512134,13.2801894285,-85.768982259,13.5216656515",
     "geom:latitude":13.406083,
     "geom:longitude":-85.91855,
@@ -96,9 +96,10 @@
         "hasc:id":"NI.JI.SM",
         "wd:id":"Q2217474"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415037,
-    "wof:geomhash":"1d31d3c76b77088360b9311db6e0b253",
+    "wof:geomhash":"fb451a7130022976d6d1262a0adc679b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108693687,
-    "wof:lastmodified":1566657007,
+    "wof:lastmodified":1695886489,
     "wof:name":"Las Praderas",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

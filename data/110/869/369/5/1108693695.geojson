@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070452,
-    "geom:area_square_m":848240792.079468,
+    "geom:area_square_m":848240441.96845,
     "geom:bbox":"-86.118259,12.995168,-85.721218,13.338618",
     "geom:latitude":13.171293,
     "geom:longitude":-85.929305,
@@ -145,9 +145,10 @@
     "wof:concordances":{
         "hasc:id":"NI.JI.JI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415043,
-    "wof:geomhash":"807b08fbabcd40452e0575775e1dfaba",
+    "wof:geomhash":"05170f63a047319bb3d34e194f6628ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -157,7 +158,7 @@
         }
     ],
     "wof:id":1108693695,
-    "wof:lastmodified":1636503398,
+    "wof:lastmodified":1695886116,
     "wof:name":"Jinotega",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

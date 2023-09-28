@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001967,
-    "geom:area_square_m":23806070.273096,
+    "geom:area_square_m":23806204.983854,
     "geom:bbox":"-86.108293,11.810131,-86.003591,11.908334",
     "geom:latitude":11.856984,
     "geom:longitude":-86.068045,
@@ -113,9 +113,10 @@
         "hasc:id":"NI.GR.DA",
         "wd:id":"Q1647847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415138,
-    "wof:geomhash":"b200fc23a037c7f293456b7b32cff472",
+    "wof:geomhash":"1271dc70b34848f5bf81e5cddcc774c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108693805,
-    "wof:lastmodified":1690848466,
+    "wof:lastmodified":1695886490,
     "wof:name":"Diria",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

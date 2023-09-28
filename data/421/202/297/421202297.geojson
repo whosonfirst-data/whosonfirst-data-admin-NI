@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034773,
-    "geom:area_square_m":421764233.039887,
+    "geom:area_square_m":421764233.039909,
     "geom:bbox":"-85.9308340199,11.073586727,-85.6358989775,11.3474364143",
     "geom:latitude":11.216943,
     "geom:longitude":-85.782553,
@@ -124,12 +124,13 @@
         "qs_pg:id":220320,
         "wd:id":"Q240247"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7743a194afa80791d4887cf16add23a4",
+    "wof:geomhash":"692e8c59799462b24853023bf4e5fd19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421202297,
-    "wof:lastmodified":1582361966,
+    "wof:lastmodified":1695886033,
     "wof:name":"Tola",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

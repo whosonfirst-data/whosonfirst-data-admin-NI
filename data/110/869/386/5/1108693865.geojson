@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087467,
-    "geom:area_square_m":1059019626.720284,
+    "geom:area_square_m":1059019382.51741,
     "geom:bbox":"-84.885135,11.542106,-84.521586,11.88244",
     "geom:latitude":11.714169,
     "geom:longitude":-84.696165,
@@ -106,9 +106,10 @@
         "hasc:id":"NI.SJ.EA",
         "wd:id":"Q2621532"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415195,
-    "wof:geomhash":"63568a16902b0b95e3fa00ea8aabdcb3",
+    "wof:geomhash":"af1178830d69d83e4f705d35e6c9ca3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108693865,
-    "wof:lastmodified":1690848468,
+    "wof:lastmodified":1695886491,
     "wof:name":"El Almendro",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

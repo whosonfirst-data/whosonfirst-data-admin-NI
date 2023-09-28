@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.568913,
-    "geom:area_square_m":6840443761.785976,
+    "geom:area_square_m":6840444361.226569,
     "geom:bbox":"-84.769668,13.018142,-83.509718,14.052072",
     "geom:latitude":13.492512,
     "geom:longitude":-84.043016,
@@ -112,9 +112,10 @@
         "hasc:id":"NI.AN.PR",
         "wd:id":"Q1018776"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415031,
-    "wof:geomhash":"b378f7ebe1cee991f79f2f96bd114eb2",
+    "wof:geomhash":"112a5b126e9841fe455dd64beab2929e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108693681,
-    "wof:lastmodified":1690848463,
+    "wof:lastmodified":1695886488,
     "wof:name":"Prinzapolka",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

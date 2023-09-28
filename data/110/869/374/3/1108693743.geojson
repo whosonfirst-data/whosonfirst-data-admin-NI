@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067766,
-    "geom:area_square_m":816769363.542218,
+    "geom:area_square_m":816769502.657996,
     "geom:bbox":"-86.948135,12.743717,-86.661735,13.144128",
     "geom:latitude":12.906066,
     "geom:longitude":-86.793337,
@@ -157,9 +157,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CI.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415078,
-    "wof:geomhash":"15bc8294412284bc43472a993e17d932",
+    "wof:geomhash":"6b82bc8078c485ae57314430f5afa6ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":1108693743,
-    "wof:lastmodified":1636503398,
+    "wof:lastmodified":1695886116,
     "wof:name":"Villanueva",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

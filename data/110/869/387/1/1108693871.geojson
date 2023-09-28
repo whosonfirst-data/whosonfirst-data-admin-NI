@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.201755,
-    "geom:area_square_m":2431640728.668514,
+    "geom:area_square_m":2431641066.840836,
     "geom:bbox":"-85.210747,12.658834,-84.621651,13.180041",
     "geom:latitude":12.913499,
     "geom:longitude":-84.918775,
@@ -88,9 +88,10 @@
         "hasc:id":"NI.MT.RB",
         "wd:id":"Q691374"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415202,
-    "wof:geomhash":"fb8b4d9c40a599d20b343d2067d2dbad",
+    "wof:geomhash":"4aaa6d413f49c7441e1fa9d4539a5e87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693871,
-    "wof:lastmodified":1690848465,
+    "wof:lastmodified":1695886490,
     "wof:name":"Rio Blanco",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

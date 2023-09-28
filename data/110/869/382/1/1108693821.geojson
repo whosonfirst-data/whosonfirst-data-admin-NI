@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023028,
-    "geom:area_square_m":277545299.956152,
+    "geom:area_square_m":277545434.48436,
     "geom:bbox":"-86.174164,12.799322,-85.976171,13.041293",
     "geom:latitude":12.912286,
     "geom:longitude":-86.083744,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.MT.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415157,
-    "wof:geomhash":"aa97f0f883ba6f832c15a6dfdcab6fdb",
+    "wof:geomhash":"18806ba7efbb2758136693b29d54bcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693821,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"Sebaco",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

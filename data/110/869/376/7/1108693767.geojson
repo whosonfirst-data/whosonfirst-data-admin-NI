@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062876,
-    "geom:area_square_m":758610049.796261,
+    "geom:area_square_m":758610589.055285,
     "geom:bbox":"-86.788043,12.494221,-86.438545,12.792049",
     "geom:latitude":12.647578,
     "geom:longitude":-86.617989,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NI.LE.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415100,
-    "wof:geomhash":"8d7710297d8a64cb91eb1e9cb9802542",
+    "wof:geomhash":"3dc9f31e454898d031a1168d824e1d8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108693767,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"Malpaisillo",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

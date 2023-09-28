@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04753,
-    "geom:area_square_m":574832223.586169,
+    "geom:area_square_m":574832002.220094,
     "geom:bbox":"-86.673614,11.866461,-86.361435,12.158597",
     "geom:latitude":12.02118,
     "geom:longitude":-86.528278,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"NI.MN.VC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415112,
-    "wof:geomhash":"7fa90512f8a25339cd467b20b8ee8510",
+    "wof:geomhash":"8dd0536fb14ad98eeb1204311f1e059f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1108693777,
-    "wof:lastmodified":1627522478,
+    "wof:lastmodified":1695886102,
     "wof:name":"Villa Carlos Fonseca A",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

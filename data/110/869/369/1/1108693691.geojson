@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010881,
-    "geom:area_square_m":130994637.715651,
+    "geom:area_square_m":130994400.244539,
     "geom:bbox":"-86.236734,13.107911,-86.126849,13.259061",
     "geom:latitude":13.195023,
     "geom:longitude":-86.17557,
@@ -178,9 +178,10 @@
         "hasc:id":"NI.JI.LC",
         "wd:id":"Q2395382"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415040,
-    "wof:geomhash":"1d38b9d82fad4c7c3204c19d3f0541c0",
+    "wof:geomhash":"5da6da63026accb6ff17d1cf290d618a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -190,7 +191,7 @@
         }
     ],
     "wof:id":1108693691,
-    "wof:lastmodified":1690848463,
+    "wof:lastmodified":1695886489,
     "wof:name":"La Concordia",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

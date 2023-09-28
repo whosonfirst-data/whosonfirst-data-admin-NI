@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017758,
-    "geom:area_square_m":214212002.907976,
+    "geom:area_square_m":214212002.907977,
     "geom:bbox":"-85.8891102491,12.6355386652,-85.6335647848,12.7753632763",
     "geom:latitude":12.691985,
     "geom:longitude":-85.767957,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"NI.MT.ES"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415163,
-    "wof:geomhash":"9be8fe7ef2293378827b03f8e8b901ff",
+    "wof:geomhash":"40eaed60f0f84daacffe7676cdd4731a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108693829,
-    "wof:lastmodified":1566657005,
+    "wof:lastmodified":1695886488,
     "wof:name":"Esquipulas",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

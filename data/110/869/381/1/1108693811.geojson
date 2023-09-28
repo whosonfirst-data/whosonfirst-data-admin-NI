@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020432,
-    "geom:area_square_m":247520173.647825,
+    "geom:area_square_m":247520523.621008,
     "geom:bbox":"-86.137983,11.448363,-85.849804,11.655729",
     "geom:latitude":11.558612,
     "geom:longitude":-85.9707,
@@ -134,9 +134,10 @@
     "wof:concordances":{
         "hasc:id":"NI.RI.BE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415143,
-    "wof:geomhash":"a24460431878cbda41bf7808ae4a6999",
+    "wof:geomhash":"bc9fe2217b3d370af456029e1d6071b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":1108693811,
-    "wof:lastmodified":1636503398,
+    "wof:lastmodified":1695886116,
     "wof:name":"Belen",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

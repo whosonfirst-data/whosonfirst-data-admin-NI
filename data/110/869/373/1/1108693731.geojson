@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00543,
-    "geom:area_square_m":65329238.276724,
+    "geom:area_square_m":65329238.785807,
     "geom:bbox":"-86.707978,13.301889,-86.588788,13.376391",
     "geom:latitude":13.338268,
     "geom:longitude":-86.647413,
@@ -109,9 +109,10 @@
         "hasc:id":"NI.MD.LS",
         "wd:id":"Q2215117"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415069,
-    "wof:geomhash":"28b8fc918ee907978f55508894054712",
+    "wof:geomhash":"04be7aa22863689ec1e0b16aa0f83dca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108693731,
-    "wof:lastmodified":1690848465,
+    "wof:lastmodified":1695886489,
     "wof:name":"Las Sabanas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

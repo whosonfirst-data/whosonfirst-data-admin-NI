@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009536,
-    "geom:area_square_m":114548408.152925,
+    "geom:area_square_m":114547958.703521,
     "geom:bbox":"-86.580298,13.658809,-86.465946,13.789973",
     "geom:latitude":13.730584,
     "geom:longitude":-86.521635,
@@ -103,9 +103,10 @@
         "hasc:id":"NI.NS.DI",
         "wd:id":"Q2215450"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415054,
-    "wof:geomhash":"c221ac3bb8129909b70c60f6ec727b90",
+    "wof:geomhash":"7049b3117519d61a77d108c183eb2956",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108693711,
-    "wof:lastmodified":1690848460,
+    "wof:lastmodified":1695886488,
     "wof:name":"Dipilto",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

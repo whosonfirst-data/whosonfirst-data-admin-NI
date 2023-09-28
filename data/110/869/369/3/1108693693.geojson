@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01977,
-    "geom:area_square_m":237972486.894938,
+    "geom:area_square_m":237972813.129862,
     "geom:bbox":"-86.167705,13.099078,-86.011293,13.372748",
     "geom:latitude":13.232606,
     "geom:longitude":-86.0902,
@@ -179,9 +179,10 @@
         "hasc:id":"NI.JI.SR",
         "wd:id":"Q2604700"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415042,
-    "wof:geomhash":"491672e744dd47a2efb8140ef28038b8",
+    "wof:geomhash":"52114ed689ac64fd5769c854bd8555c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":1108693693,
-    "wof:lastmodified":1690848463,
+    "wof:lastmodified":1695886489,
     "wof:name":"San Rafael Del Norte",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

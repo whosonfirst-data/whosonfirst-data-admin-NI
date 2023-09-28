@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024465,
-    "geom:area_square_m":295232970.192675,
+    "geom:area_square_m":295232970.192654,
     "geom:bbox":"-85.9487714781,12.5173190525,-85.6416690362,12.6591289007",
     "geom:latitude":12.595146,
     "geom:longitude":-85.792383,
@@ -93,9 +93,10 @@
         "hasc:id":"NI.BO.SJ",
         "wd:id":"Q2215558"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415169,
-    "wof:geomhash":"670e7c570c56a9e93f568dc493ad7835",
+    "wof:geomhash":"4ab3f19198aea8636685cd31553e7266",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108693835,
-    "wof:lastmodified":1566657000,
+    "wof:lastmodified":1695886487,
     "wof:name":"San Jose De Los Remates",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

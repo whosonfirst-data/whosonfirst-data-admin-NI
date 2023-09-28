@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.379981,
-    "geom:area_square_m":4602922467.401078,
+    "geom:area_square_m":4602922693.909863,
     "geom:bbox":"-84.395821,10.946124,-83.646467,12.179323",
     "geom:latitude":11.575824,
     "geom:longitude":-83.963802,
@@ -178,12 +178,13 @@
         "hasc:id":"NI.AS.BL",
         "qs_pg:id":1063198
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009476,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12b07739e4143f9f612416a5e7c6bd77",
+    "wof:geomhash":"8db92c7bde6f17cc0103fdd9f8d5a846",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":421186279,
-    "wof:lastmodified":1636503409,
+    "wof:lastmodified":1695886117,
     "wof:name":"Bluefields",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

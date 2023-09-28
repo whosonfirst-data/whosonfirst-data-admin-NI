@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021925,
-    "geom:area_square_m":264147737.989247,
+    "geom:area_square_m":264147301.863123,
     "geom:bbox":"-86.319278,12.910004,-86.096843,13.108079",
     "geom:latitude":13.012083,
     "geom:longitude":-86.211036,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"NI.ES.LT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415092,
-    "wof:geomhash":"d502c10ff2be3a3ec21702949a894498",
+    "wof:geomhash":"0d86f06b03fbb86a3d05da84717761e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693757,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"La Trinidad",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

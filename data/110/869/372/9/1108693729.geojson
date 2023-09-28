@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012013,
-    "geom:area_square_m":144497157.655828,
+    "geom:area_square_m":144497106.553902,
     "geom:bbox":"-86.739332,13.347165,-86.558427,13.445851",
     "geom:latitude":13.400739,
     "geom:longitude":-86.653928,
@@ -109,9 +109,10 @@
         "hasc:id":"NI.MD.SL",
         "wd:id":"Q1647851"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415067,
-    "wof:geomhash":"21e2c87586a74066e189ad5930e3279e",
+    "wof:geomhash":"0b8e551e23e12b7f47f7eab2c4b5350a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108693729,
-    "wof:lastmodified":1690848468,
+    "wof:lastmodified":1695886491,
     "wof:name":"San Lucas",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

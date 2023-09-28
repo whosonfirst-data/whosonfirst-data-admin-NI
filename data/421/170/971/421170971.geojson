@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006668,
-    "geom:area_square_m":80120328.260084,
+    "geom:area_square_m":80120344.803297,
     "geom:bbox":"-86.546761,13.582879,-86.447494,13.693428",
     "geom:latitude":13.639488,
     "geom:longitude":-86.490039,
@@ -151,12 +151,13 @@
         "hasc:id":"NI.NS.OC",
         "qs_pg:id":1203947
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008876,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0409ce818e73b80c60d408e5076237f2",
+    "wof:geomhash":"cb2cd6fc948cdb854515e61446bef451",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421170971,
-    "wof:lastmodified":1636503410,
+    "wof:lastmodified":1695886117,
     "wof:name":"Ocotal",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

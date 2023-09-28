@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005795,
-    "geom:area_square_m":69684051.874574,
+    "geom:area_square_m":69683906.127292,
     "geom:bbox":"-86.534356,13.413596,-86.442551,13.526035",
     "geom:latitude":13.475292,
     "geom:longitude":-86.49447,
@@ -110,9 +110,10 @@
         "hasc:id":"NI.MD.YA",
         "wd:id":"Q2216994"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415066,
-    "wof:geomhash":"0f92dae867588e3c9fdd8562b18a90de",
+    "wof:geomhash":"a842f36155b72cc6a8b52c782cba377b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108693727,
-    "wof:lastmodified":1690848469,
+    "wof:lastmodified":1695886491,
     "wof:name":"Yalaguina",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

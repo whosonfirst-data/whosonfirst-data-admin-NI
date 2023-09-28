@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002552,
-    "geom:area_square_m":30930570.682963,
+    "geom:area_square_m":30930447.129462,
     "geom:bbox":"-85.819782,11.378032,-85.764217,11.468446",
     "geom:latitude":11.423049,
     "geom:longitude":-85.793533,
@@ -143,12 +143,13 @@
         "qs_pg:id":220319,
         "wd:id":"Q956573"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46e879077e2d5a6db4377c9fed9441b4",
+    "wof:geomhash":"764d1fd84b65c61622588ca18e790e17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":421202293,
-    "wof:lastmodified":1690848478,
+    "wof:lastmodified":1695886033,
     "wof:name":"San Jorge",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

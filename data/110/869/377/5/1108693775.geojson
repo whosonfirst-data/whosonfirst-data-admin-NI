@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056941,
-    "geom:area_square_m":687409002.024133,
+    "geom:area_square_m":687408632.999955,
     "geom:bbox":"-86.380971,12.272205,-86.100572,12.641778",
     "geom:latitude":12.494652,
     "geom:longitude":-86.222189,
@@ -109,9 +109,10 @@
         "hasc:id":"NI.MN.SF",
         "wd:id":"Q427811"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415107,
-    "wof:geomhash":"c3e661d04ab935cc12bfa91d8da30a04",
+    "wof:geomhash":"587b0a3958df92e676e873a5b0717ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1108693775,
-    "wof:lastmodified":1690848459,
+    "wof:lastmodified":1695886487,
     "wof:name":"San Francisco Libre",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

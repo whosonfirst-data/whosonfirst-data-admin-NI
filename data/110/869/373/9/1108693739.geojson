@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010194,
-    "geom:area_square_m":122711950.930751,
+    "geom:area_square_m":122711470.855035,
     "geom:bbox":"-86.831259,13.146499,-86.702518,13.280597",
     "geom:latitude":13.211166,
     "geom:longitude":-86.773238,
@@ -107,9 +107,10 @@
         "hasc:id":"NI.CI.SF",
         "wd:id":"Q2214920"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415073,
-    "wof:geomhash":"9e0735c98c0a76f61e087fc486a895d6",
+    "wof:geomhash":"05bba4ee6910897fda8e7add68acdb3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108693739,
-    "wof:lastmodified":1690848464,
+    "wof:lastmodified":1695886489,
     "wof:name":"San Fco. Del Norte",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

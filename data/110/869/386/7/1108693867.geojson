@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137908,
-    "geom:area_square_m":1673391673.760699,
+    "geom:area_square_m":1673391343.239147,
     "geom:bbox":"-84.530265,10.797047,-84.08609,11.404462",
     "geom:latitude":11.093576,
     "geom:longitude":-84.312861,
@@ -157,9 +157,10 @@
     "wof:concordances":{
         "hasc:id":"NI.SJ.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415198,
-    "wof:geomhash":"2935ba802a412fd97668e8bf0168f4ab",
+    "wof:geomhash":"e3006bfc1cff2c319fc8f5a398864473",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":1108693867,
-    "wof:lastmodified":1636503398,
+    "wof:lastmodified":1695886116,
     "wof:name":"San Carlos",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032044,
-    "geom:area_square_m":385492606.544116,
+    "geom:area_square_m":385492606.544113,
     "geom:bbox":"-86.257929,13.248949,-86.015366,13.509088",
     "geom:latitude":13.370242,
     "geom:longitude":-86.136443,
@@ -168,9 +168,10 @@
         "hasc:id":"NI.JI.SS",
         "wd:id":"Q2215401"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415039,
-    "wof:geomhash":"e8d657aa8b13e2a77c279da1eb2b14bb",
+    "wof:geomhash":"e66914bb3244640393ef8f4b66e0b550",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108693689,
-    "wof:lastmodified":1587163112,
+    "wof:lastmodified":1695886287,
     "wof:name":"San Sebastian De Yali",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

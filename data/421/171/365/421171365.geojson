@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056209,
-    "geom:area_square_m":677990938.175831,
+    "geom:area_square_m":677990409.703848,
     "geom:bbox":"-87.204215,12.529003,-86.815377,12.864997",
     "geom:latitude":12.715484,
     "geom:longitude":-87.019624,
@@ -184,12 +184,13 @@
         "hasc:id":"NI.CI.CN",
         "qs_pg:id":1264307
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008891,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b949127ead1a51b6fb28597d63ef0bff",
+    "wof:geomhash":"fe191c769831332c452a26d8b4e6591b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":421171365,
-    "wof:lastmodified":1636503412,
+    "wof:lastmodified":1695886117,
     "wof:name":"Chinandega",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

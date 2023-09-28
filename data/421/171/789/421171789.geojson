@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004195,
-    "geom:area_square_m":50771327.029113,
+    "geom:area_square_m":50771258.950106,
     "geom:bbox":"-86.066961,11.795421,-85.996273,11.897152",
     "geom:latitude":11.851149,
     "geom:longitude":-86.035578,
@@ -140,12 +140,13 @@
         "qs_pg:id":1264321,
         "wd:id":"Q2215569"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008907,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cb2233f992235a77651d3b9b3534574e",
+    "wof:geomhash":"42face12abecc5a1e52377c3cdcc8272",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421171789,
-    "wof:lastmodified":1690848503,
+    "wof:lastmodified":1695886034,
     "wof:name":"Diriomo",
     "wof:parent_id":85675477,
     "wof:placetype":"county",

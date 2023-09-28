@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083512,
-    "geom:area_square_m":1010048999.75914,
+    "geom:area_square_m":1010048999.75885,
     "geom:bbox":"-85.0432608627,11.828384111,-84.5239918055,12.1979491894",
     "geom:latitude":12.003465,
     "geom:longitude":-84.810919,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CO.VS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415191,
-    "wof:geomhash":"d3f2bdb8b579ad4daaea273365ab8bb4",
+    "wof:geomhash":"f4009662107d01350e696eb3f192cb04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693857,
-    "wof:lastmodified":1566657003,
+    "wof:lastmodified":1695886488,
     "wof:name":"Villa Sandino",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

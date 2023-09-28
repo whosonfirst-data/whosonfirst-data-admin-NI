@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029964,
-    "geom:area_square_m":361570491.270264,
+    "geom:area_square_m":361570660.389551,
     "geom:bbox":"-86.89063,12.477678,-86.713193,12.75322",
     "geom:latitude":12.608024,
     "geom:longitude":-86.811157,
@@ -131,12 +131,13 @@
         "qs_pg:id":485304,
         "wd:id":"Q1647817"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009230,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9bd4911de7d0944b383d56775627d5ff",
+    "wof:geomhash":"91abfea64dd3c6b5fca8256369282093",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421179703,
-    "wof:lastmodified":1690848498,
+    "wof:lastmodified":1695886035,
     "wof:name":"Telica",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

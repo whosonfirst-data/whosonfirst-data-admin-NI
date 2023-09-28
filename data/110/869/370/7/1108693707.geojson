@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01871,
-    "geom:area_square_m":224735362.316741,
+    "geom:area_square_m":224735309.688195,
     "geom:bbox":"-86.391317,13.623479,-86.194343,13.846599",
     "geom:latitude":13.738949,
     "geom:longitude":-86.301077,
@@ -110,9 +110,10 @@
         "hasc:id":"NI.NS.SF",
         "wd:id":"Q1647665"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415051,
-    "wof:geomhash":"96662b42a35cb439fbec1b564be438b2",
+    "wof:geomhash":"cfbfb3f9155148ac6b26e638f4736a76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108693707,
-    "wof:lastmodified":1690848459,
+    "wof:lastmodified":1695886115,
     "wof:name":"San Fernando",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

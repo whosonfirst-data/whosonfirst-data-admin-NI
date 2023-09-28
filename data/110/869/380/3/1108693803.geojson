@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017853,
-    "geom:area_square_m":216196019.015196,
+    "geom:area_square_m":216196523.60376,
     "geom:bbox":"-86.217078,11.514449,-86.085427,11.814759",
     "geom:latitude":11.661146,
     "geom:longitude":-86.151091,
@@ -95,9 +95,10 @@
         "hasc:id":"NI.CA.DI",
         "wd:id":"Q2216587"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415136,
-    "wof:geomhash":"56379845775d2d9a0d2559a956070d1f",
+    "wof:geomhash":"82ad454e0ff1333df1486c5b895511dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1108693803,
-    "wof:lastmodified":1690848466,
+    "wof:lastmodified":1695886490,
     "wof:name":"Diriamba",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

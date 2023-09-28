@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050798,
-    "geom:area_square_m":611497349.454526,
+    "geom:area_square_m":611497867.771072,
     "geom:bbox":"-85.655551,13.083583,-85.298801,13.34859",
     "geom:latitude":13.210927,
     "geom:longitude":-85.495037,
@@ -97,9 +97,10 @@
         "hasc:id":"NI.MT.RG",
         "wd:id":"Q2215071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415153,
-    "wof:geomhash":"c1728d1818b7191a019e6386904e2182",
+    "wof:geomhash":"9ed6a9af11c61157d2ec4259bb9817df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1108693817,
-    "wof:lastmodified":1690848468,
+    "wof:lastmodified":1695886490,
     "wof:name":"Rancho Grande",
     "wof:parent_id":85675513,
     "wof:placetype":"county",
