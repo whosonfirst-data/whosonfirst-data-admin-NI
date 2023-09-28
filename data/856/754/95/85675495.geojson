@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.289683,
-    "geom:area_square_m":3501022513.563382,
+    "geom:area_square_m":3501022756.119752,
     "geom:bbox":"-86.673614,11.715189,-85.804186,12.641778",
     "geom:latitude":12.203479,
     "geom:longitude":-86.268401,
@@ -317,17 +317,19 @@
         "gn:id":3617762,
         "gp:id":2346426,
         "hasc:id":"NI.MN",
+        "iso:code":"NI-MN",
         "iso:id":"NI-MN",
         "qs_pg:id":318540,
         "unlc:id":"NI-MN",
         "wd:id":"Q260009",
         "wk:page":"Managua Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74dfc7f1c4a580e2c25f37f805ec3f99",
+    "wof:geomhash":"1e15b9fe46615ec9232ab9b386a22ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -342,7 +344,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848455,
+    "wof:lastmodified":1695884954,
     "wof:name":"Managua",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

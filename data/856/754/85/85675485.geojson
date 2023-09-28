@@ -8,7 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.656353,
-    "geom:area_square_m":31872879222.991863,
+    "geom:area_square_m":31872879214.740654,
     "geom:bbox":"-85.513192,13.018142,-83.183673,15.034255",
     "geom:latitude":13.975958,
     "geom:longitude":-84.248564,
@@ -150,15 +150,17 @@
         "gn:id":3830307,
         "gp:id":20069833,
         "hasc:id":"NI.AN",
+        "iso:code":"NI-AN",
         "iso:id":"NI-AN",
         "qs_pg:id":236284,
         "unlc:id":"NI-AN"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cd35c654fc58c4045af994c2929174f8",
+    "wof:geomhash":"875fc9f6fcf17cae1e1f11c30eb92566",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,7 +175,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1627522476,
+    "wof:lastmodified":1695884755,
     "wof:name":"Atl\u00e1ntico Norte",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

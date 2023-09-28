@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088285,
-    "geom:area_square_m":1068290361.237606,
+    "geom:area_square_m":1068289947.802186,
     "geom:bbox":"-86.129896,11.601649,-85.785191,12.213491",
     "geom:latitude":11.876977,
     "geom:longitude":-85.966247,
@@ -278,17 +278,19 @@
         "gn:id":3619135,
         "gp:id":2346422,
         "hasc:id":"NI.GR",
+        "iso:code":"NI-GR",
         "iso:id":"NI-GR",
         "qs_pg:id":318538,
         "unlc:id":"NI-GR",
         "wd:id":"Q258405",
         "wk:page":"Granada Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ab3157adc5771e26996ffdd2ef97660",
+    "wof:geomhash":"a0eb48104c2708eca4d9be8c6d291f56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848456,
+    "wof:lastmodified":1695884955,
     "wof:name":"Granada",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

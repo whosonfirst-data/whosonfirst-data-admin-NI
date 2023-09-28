@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189573,
-    "geom:area_square_m":2282430210.80646,
+    "geom:area_square_m":2282430479.75934,
     "geom:bbox":"-86.750041,12.850431,-86.096843,13.432635",
     "geom:latitude":13.171995,
     "geom:longitude":-86.394647,
@@ -315,17 +315,19 @@
         "gn:id":3619193,
         "gp:id":2346421,
         "hasc:id":"NI.ES",
+        "iso:code":"NI-ES",
         "iso:id":"NI-ES",
         "qs_pg:id":1222704,
         "unlc:id":"NI-ES",
         "wd:id":"Q728015",
         "wk:page":"Estel\u00ed Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"213f71569b03634d67827e8e824d07a6",
+    "wof:geomhash":"486682465fba7825b0581f0ddb756581",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -340,7 +342,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848453,
+    "wof:lastmodified":1695884374,
     "wof:name":"Estel\u00ed",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

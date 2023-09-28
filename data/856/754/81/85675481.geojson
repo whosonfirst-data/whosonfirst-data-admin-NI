@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.796488,
-    "geom:area_square_m":9566322181.295382,
+    "geom:area_square_m":9566321855.212715,
     "geom:bbox":"-86.257929,12.995168,-84.83258,14.579734",
     "geom:latitude":13.74973,
     "geom:longitude":-85.51425,
@@ -308,17 +308,19 @@
         "gn:id":3618928,
         "gp:id":2346423,
         "hasc:id":"NI.JI",
+        "iso:code":"NI-JI",
         "iso:id":"NI-JI",
         "qs_pg:id":219581,
         "unlc:id":"NI-JI",
         "wd:id":"Q728120",
         "wk:page":"Jinotega Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f408485876258e06c9a03962d6d0b63a",
+    "wof:geomhash":"5589521530ecde40fcd399429ce33896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848455,
+    "wof:lastmodified":1695884954,
     "wof:name":"Jinotega",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

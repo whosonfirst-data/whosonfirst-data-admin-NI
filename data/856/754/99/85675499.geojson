@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051241,
-    "geom:area_square_m":619748890.51517,
+    "geom:area_square_m":619748177.72454,
     "geom:bbox":"-86.297616,11.834025,-85.961348,12.151979",
     "geom:latitude":12.005286,
     "geom:longitude":-86.102905,
@@ -308,17 +308,19 @@
         "gn:id":3617722,
         "gp:id":2346427,
         "hasc:id":"NI.MS",
+        "iso:code":"NI-MS",
         "iso:id":"NI-MS",
         "qs_pg:id":1046996,
         "unlc:id":"NI-MS",
         "wd:id":"Q570358",
         "wk:page":"Masaya Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76d8f047cd5f81768278abc0ac4ed2fd",
+    "wof:geomhash":"7ac2b9100b63056e37f0f9312c8028e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848456,
+    "wof:lastmodified":1695884954,
     "wof:name":"Masaya",
     "wof:parent_id":85632599,
     "wof:placetype":"region",
