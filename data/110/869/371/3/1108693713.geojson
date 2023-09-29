@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01018,
-    "geom:area_square_m":122289624.154438,
+    "geom:area_square_m":122289476.917917,
     "geom:bbox":"-86.766783,13.640811,-86.650032,13.780835",
     "geom:latitude":13.720406,
     "geom:longitude":-86.708742,
@@ -116,9 +116,10 @@
         "hasc:id":"NI.NS.SM",
         "wd:id":"Q1647660"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415055,
-    "wof:geomhash":"a0dcc7017e134453da87b35dcc380748",
+    "wof:geomhash":"3d2114ed297b135188d9b12972a3ddc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108693713,
-    "wof:lastmodified":1690848460,
+    "wof:lastmodified":1695886116,
     "wof:name":"Santa Maria",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

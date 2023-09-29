@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055209,
-    "geom:area_square_m":668626131.190682,
+    "geom:area_square_m":668626131.190638,
     "geom:bbox":"-85.1134410055,11.4794748282,-84.8048744735,11.7960446836",
     "geom:latitude":11.642159,
     "geom:longitude":-84.942792,
@@ -88,9 +88,10 @@
     "wof:concordances":{
         "hasc:id":"NI.SJ.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415194,
-    "wof:geomhash":"bbc4454000846e7cc4fd823f2ca54e84",
+    "wof:geomhash":"d13bafdcce8ce9e72c7e45572e613f8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -100,7 +101,7 @@
         }
     ],
     "wof:id":1108693861,
-    "wof:lastmodified":1566657014,
+    "wof:lastmodified":1695886491,
     "wof:name":"Morrito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

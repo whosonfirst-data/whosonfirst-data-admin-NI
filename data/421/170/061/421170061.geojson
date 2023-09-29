@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033819,
-    "geom:area_square_m":406896520.214827,
+    "geom:area_square_m":406897207.558359,
     "geom:bbox":"-86.486884,13.244239,-86.206875,13.432635",
     "geom:latitude":13.340361,
     "geom:longitude":-86.349915,
@@ -140,12 +140,13 @@
         "qs_pg:id":1264320,
         "wd:id":"Q1012589"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008835,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab782e334d526f53b2eaaf7c3eddbb23",
+    "wof:geomhash":"0d10d5dcd30f798681971fbd18001c9a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421170061,
-    "wof:lastmodified":1690848494,
+    "wof:lastmodified":1695886034,
     "wof:name":"Condega",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

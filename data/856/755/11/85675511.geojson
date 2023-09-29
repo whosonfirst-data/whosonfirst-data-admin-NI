@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142707,
-    "geom:area_square_m":1715965877.509024,
+    "geom:area_square_m":1715965453.296707,
     "geom:bbox":"-86.770881,13.186588,-86.069743,13.664493",
     "geom:latitude":13.48237,
     "geom:longitude":-86.470825,
@@ -307,17 +307,19 @@
         "gn:id":3617796,
         "gp:id":2346425,
         "hasc:id":"NI.MD",
+        "iso:code":"NI-MD",
         "iso:id":"NI-MD",
         "qs_pg:id":1252196,
         "unlc:id":"NI-MD",
         "wd:id":"Q728056",
         "wk:page":"Madriz Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09b8f304585fde1664f9ce51160efaad",
+    "wof:geomhash":"d91d07878dc065c56b25f69f2924af34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -332,7 +334,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848453,
+    "wof:lastmodified":1695884954,
     "wof:name":"Madriz",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

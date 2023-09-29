@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.631673,
-    "geom:area_square_m":7660535266.238631,
+    "geom:area_square_m":7660534131.030437,
     "geom:bbox":"-85.178506,10.711032,-83.664415,11.88244",
     "geom:latitude":11.252162,
     "geom:longitude":-84.481487,
@@ -324,17 +324,19 @@
         "gn:id":3617056,
         "gp:id":2346430,
         "hasc:id":"NI.SJ",
+        "iso:code":"NI-SJ",
         "iso:id":"NI-SJ",
         "qs_pg:id":890092,
         "unlc:id":"NI-SJ",
         "wd:id":"Q728155",
         "wk:page":"R\u00edo San Juan Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"892c564ba615bcc9fbb0499f79bb9f7f",
+    "wof:geomhash":"8efca5b88e1aa158772a8d49d6f0dcab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -349,7 +351,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848455,
+    "wof:lastmodified":1695884374,
     "wof:name":"Rio San Juan",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

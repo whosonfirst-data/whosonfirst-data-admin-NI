@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.716958,
-    "geom:area_square_m":8581572249.033707,
+    "geom:area_square_m":8581573571.041708,
     "geom:bbox":"-85.061101,14.123018,-83.183673,15.034255",
     "geom:latitude":14.536613,
     "geom:longitude":-84.216776,
@@ -110,9 +110,10 @@
         "hasc:id":"NI.AN.WP",
         "wd:id":"Q2217458"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415025,
-    "wof:geomhash":"27b5dc6b388e0baa7eb86a5cd5619ce9",
+    "wof:geomhash":"a746479c2fee64aff032daa248a3a8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108693673,
-    "wof:lastmodified":1690848464,
+    "wof:lastmodified":1695886489,
     "wof:name":"Waspam",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

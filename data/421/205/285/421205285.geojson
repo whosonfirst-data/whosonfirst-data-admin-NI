@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018316,
-    "geom:area_square_m":220363024.735247,
+    "geom:area_square_m":220362815.551261,
     "geom:bbox":"-86.617263,13.267907,-86.441181,13.431425",
     "geom:latitude":13.347232,
     "geom:longitude":-86.527065,
@@ -93,12 +93,13 @@
         "hasc:id":"NI.ES.PN",
         "qs_pg:id":260430
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010217,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ec97543994ca59fc2e78356a04330edf",
+    "wof:geomhash":"de8f99841126ea805be5e1a3188d91e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":421205285,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886101,
     "wof:name":"Plueblo Nuevo",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

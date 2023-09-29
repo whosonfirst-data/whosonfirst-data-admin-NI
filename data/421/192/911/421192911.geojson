@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.213984,
-    "geom:area_square_m":2590983435.721749,
+    "geom:area_square_m":2590983689.115775,
     "geom:bbox":"-84.610732,11.378316,-84.013862,11.996935",
     "geom:latitude":11.694841,
     "geom:longitude":-84.344091,
@@ -137,12 +137,13 @@
         "qs_pg:id":1183019,
         "wd:id":"Q2554341"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009753,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9484c1c4c6d2566363a13706bf7a418",
+    "wof:geomhash":"e74e6d2a1cd3e52d04b555eeb908fe6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421192911,
-    "wof:lastmodified":1690848471,
+    "wof:lastmodified":1695886033,
     "wof:name":"Nueva Guinea",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

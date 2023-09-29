@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242437,
-    "geom:area_square_m":2909868107.101082,
+    "geom:area_square_m":2909867279.424533,
     "geom:bbox":"-85.928799,13.466333,-85.072849,14.546048",
     "geom:latitude":13.908257,
     "geom:longitude":-85.54717,
@@ -119,12 +119,13 @@
         "qs_pg:id":773176,
         "wd:id":"Q593730"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010011,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cf70357db7c895f9742896a90cd6dde",
+    "wof:geomhash":"ac48a57f8307ca8346f8c8abd33d9fec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421200107,
-    "wof:lastmodified":1690848492,
+    "wof:lastmodified":1695886034,
     "wof:name":"Wiwili",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

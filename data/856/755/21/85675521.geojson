@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.344995,
-    "geom:area_square_m":4165023809.572712,
+    "geom:area_square_m":4165024412.090761,
     "geom:bbox":"-85.982277,12.058253,-84.957312,12.802382",
     "geom:latitude":12.485699,
     "geom:longitude":-85.50821,
@@ -305,17 +305,19 @@
         "gn:id":3620673,
         "gp:id":2346417,
         "hasc:id":"NI.BO",
+        "iso:code":"NI-BO",
         "iso:id":"NI-BO",
         "qs_pg:id":890090,
         "unlc:id":"NI-BO",
         "wd:id":"Q280973",
         "wk:page":"Boaco Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08a2f3ce98ce2df658dfd51a2bcc2f05",
+    "wof:geomhash":"06c08b806f8d6fe1fd85ef3583679511",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848453,
+    "wof:lastmodified":1695884954,
     "wof:name":"Boaco",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

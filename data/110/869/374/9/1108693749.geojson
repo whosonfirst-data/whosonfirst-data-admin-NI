@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011213,
-    "geom:area_square_m":135313080.005652,
+    "geom:area_square_m":135313132.23387,
     "geom:bbox":"-87.008715,12.503774,-86.87534,12.677817",
     "geom:latitude":12.600297,
     "geom:longitude":-86.950376,
@@ -115,9 +115,10 @@
         "hasc:id":"NI.CI.PO",
         "wd:id":"Q2604656"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415086,
-    "wof:geomhash":"e9d069f4c55522247153658e0358e40c",
+    "wof:geomhash":"4e62e420f672b2ccc987d16fa819605c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -127,7 +128,7 @@
         }
     ],
     "wof:id":1108693749,
-    "wof:lastmodified":1690848467,
+    "wof:lastmodified":1695886490,
     "wof:name":"Posoltega",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

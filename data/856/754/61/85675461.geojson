@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182113,
-    "geom:area_square_m":2207519083.061435,
+    "geom:area_square_m":2207518320.806355,
     "geom:bbox":"-86.171405,11.047692,-85.175616,11.695326",
     "geom:latitude":11.389029,
     "geom:longitude":-85.803554,
@@ -272,17 +272,19 @@
         "gn:id":3617051,
         "gp:id":2346431,
         "hasc:id":"NI.RI",
+        "iso:code":"NI-RI",
         "iso:id":"NI-RI",
         "qs_pg:id":890094,
         "unlc:id":"NI-RI",
         "wd:id":"Q728127",
         "wk:page":"Rivas Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"90e667eb2c6fd51c6f75aa0b9ba7f839",
+    "wof:geomhash":"5dcb382fe1d4c8ac36809ff125d55fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -297,7 +299,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848454,
+    "wof:lastmodified":1695884954,
     "wof:name":"Rivas",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

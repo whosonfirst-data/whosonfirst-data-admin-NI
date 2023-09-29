@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093586,
-    "geom:area_square_m":1134210007.282768,
+    "geom:area_square_m":1134209807.938424,
     "geom:bbox":"-84.968855,11.281435,-84.455239,11.582815",
     "geom:latitude":11.443284,
     "geom:longitude":-84.709024,
@@ -119,12 +119,13 @@
         "hasc:id":"NI.SJ.SM",
         "qs_pg:id":260433
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010218,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f817e029900fb89c987368fad01ba040",
+    "wof:geomhash":"dc94c21e7c03d1b64d34f68147596ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421205287,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886101,
     "wof:name":"San Miguelito",
     "wof:parent_id":85675465,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.118595,
-    "geom:area_square_m":1433703126.010404,
+    "geom:area_square_m":1433703126.010407,
     "geom:bbox":"-84.806550382,11.921261122,-84.3430798107,12.3627852946",
     "geom:latitude":12.130427,
     "geom:longitude":-84.585749,
@@ -90,9 +90,10 @@
         "hasc:id":"NI.AS.MB",
         "wd:id":"Q2215047"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415209,
-    "wof:geomhash":"7c1d632aa4e47b8be32513a640de85ec",
+    "wof:geomhash":"c91e223ca287ca8f6586098440d65703",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":1108693875,
-    "wof:lastmodified":1566657010,
+    "wof:lastmodified":1695886490,
     "wof:name":"Muelle De Los Bueyes",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

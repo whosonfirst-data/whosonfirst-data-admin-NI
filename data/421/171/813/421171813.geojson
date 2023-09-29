@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.381705,
-    "geom:area_square_m":4611704104.722748,
+    "geom:area_square_m":4611704515.541347,
     "geom:bbox":"-84.977699,11.712041,-83.929207,12.730331",
     "geom:latitude":12.288786,
     "geom:longitude":-84.383492,
@@ -134,12 +134,13 @@
         "qs_pg:id":1264353,
         "wd:id":"Q1324576"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008907,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fe9d8df9bda1a956f8ca7fe9326acde",
+    "wof:geomhash":"690b6d031c02c24106dd8a614105af32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421171813,
-    "wof:lastmodified":1690848502,
+    "wof:lastmodified":1695886034,
     "wof:name":"El Rama",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

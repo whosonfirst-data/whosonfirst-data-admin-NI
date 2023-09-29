@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01353,
-    "geom:area_square_m":162645266.433838,
+    "geom:area_square_m":162645602.404691,
     "geom:bbox":"-86.572345,13.491251,-86.352375,13.595471",
     "geom:latitude":13.549216,
     "geom:longitude":-86.463387,
@@ -119,9 +119,10 @@
         "hasc:id":"NI.MD.TO",
         "wd:id":"Q2216999"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415060,
-    "wof:geomhash":"b63cf290813ff37ccf2a433d773f824b",
+    "wof:geomhash":"f0ecae2a0f29a91aeab975cb115d92cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108693717,
-    "wof:lastmodified":1690848460,
+    "wof:lastmodified":1695886488,
     "wof:name":"Totolgalpa",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

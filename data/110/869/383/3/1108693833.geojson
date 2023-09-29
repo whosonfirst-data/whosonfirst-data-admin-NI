@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.130519,
-    "geom:area_square_m":1573338674.92952,
+    "geom:area_square_m":1573337834.188145,
     "geom:bbox":"-85.639641,12.610008,-85.121392,13.097422",
     "geom:latitude":12.870829,
     "geom:longitude":-85.389703,
@@ -110,9 +110,10 @@
         "hasc:id":"NI.MT.MS",
         "wd:id":"Q2215416"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415167,
-    "wof:geomhash":"7dad52b6609e4b531f807cb4bf070e31",
+    "wof:geomhash":"7bfd15864be6ba5bb5f917a15666f1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1108693833,
-    "wof:lastmodified":1690848458,
+    "wof:lastmodified":1695886487,
     "wof:name":"Matiguas",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

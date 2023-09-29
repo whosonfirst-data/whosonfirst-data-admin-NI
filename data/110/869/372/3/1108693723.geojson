@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029223,
-    "geom:area_square_m":351338918.520283,
+    "geom:area_square_m":351338212.278471,
     "geom:bbox":"-86.386162,13.396349,-86.177233,13.623078",
     "geom:latitude":13.515305,
     "geom:longitude":-86.270887,
@@ -103,9 +103,10 @@
         "hasc:id":"NI.MD.TE",
         "wd:id":"Q2216981"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415063,
-    "wof:geomhash":"9fb0a033914ba00e9600427b6338e1dd",
+    "wof:geomhash":"145b6129861d71d198b41d493998f892",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108693723,
-    "wof:lastmodified":1690848469,
+    "wof:lastmodified":1695886491,
     "wof:name":"Telpaneca",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

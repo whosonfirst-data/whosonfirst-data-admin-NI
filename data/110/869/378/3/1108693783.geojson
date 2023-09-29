@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012272,
-    "geom:area_square_m":148404634.659107,
+    "geom:area_square_m":148404765.572819,
     "geom:bbox":"-86.204989,11.962739,-86.089827,12.142373",
     "geom:latitude":12.046151,
     "geom:longitude":-86.137438,
@@ -119,9 +119,10 @@
         "hasc:id":"NI.MS.NN",
         "wd:id":"Q2215135"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415117,
-    "wof:geomhash":"daf1d7335b4e328b65ffc595032963dd",
+    "wof:geomhash":"f926c28ddcc5893242fe80e451c6a385",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108693783,
-    "wof:lastmodified":1690848462,
+    "wof:lastmodified":1695886489,
     "wof:name":"Nindiri",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

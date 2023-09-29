@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020464,
-    "geom:area_square_m":246737272.451465,
+    "geom:area_square_m":246736421.322614,
     "geom:bbox":"-87.326702,12.71162,-87.109272,12.915218",
     "geom:latitude":12.818107,
     "geom:longitude":-87.209103,
@@ -116,9 +116,10 @@
         "hasc:id":"NI.CI.PM",
         "wd:id":"Q2605034"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415080,
-    "wof:geomhash":"039ae9298d12aac3fc6f90006448e895",
+    "wof:geomhash":"f336c01aa5087feaf5292692a33a411e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108693745,
-    "wof:lastmodified":1690848467,
+    "wof:lastmodified":1695886490,
     "wof:name":"Tonala",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

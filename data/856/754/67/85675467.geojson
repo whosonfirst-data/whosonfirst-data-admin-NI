@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.239938,
-    "geom:area_square_m":27052301004.243019,
+    "geom:area_square_m":27052301664.889347,
     "geom:bbox":"-85.210747,10.946124,-83.488206,13.290139",
     "geom:latitude":12.376276,
     "geom:longitude":-84.250165,
@@ -149,15 +149,17 @@
         "gn:id":3830308,
         "gp:id":20069832,
         "hasc:id":"NI.AS",
+        "iso:code":"NI-AS",
         "iso:id":"NI-AS",
         "qs_pg:id":236283,
         "unlc:id":"NI-AS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"72151e54f7cab7e2600c7898c3296a28",
+    "wof:geomhash":"d37a4f8fcab70e5242b06d0b8d2083b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +174,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1627522476,
+    "wof:lastmodified":1695884755,
     "wof:name":"Atl\u00e1ntico Sur",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003082,
-    "geom:area_square_m":37104642.498676,
+    "geom:area_square_m":37104786.986928,
     "geom:bbox":"-86.926656,13.137857,-86.869762,13.218315",
     "geom:latitude":13.176739,
     "geom:longitude":-86.897051,
@@ -96,9 +96,10 @@
         "hasc:id":"NI.CI.SP",
         "wd:id":"Q2216439"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415076,
-    "wof:geomhash":"ad3a146efd4446fabc9bff85bd4e49cb",
+    "wof:geomhash":"b3b45ad5ebdbfcaa9f485a93fa51dca9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -108,7 +109,7 @@
         }
     ],
     "wof:id":1108693741,
-    "wof:lastmodified":1690848467,
+    "wof:lastmodified":1695886490,
     "wof:name":"San Pedro Del Norte",
     "wof:parent_id":85675503,
     "wof:placetype":"county",

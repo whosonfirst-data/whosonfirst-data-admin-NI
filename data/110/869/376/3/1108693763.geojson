@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01843,
-    "geom:area_square_m":222205842.181358,
+    "geom:area_square_m":222206040.358695,
     "geom:bbox":"-86.456467,12.734209,-86.283554,12.898223",
     "geom:latitude":12.817502,
     "geom:longitude":-86.367738,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.LE.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415097,
-    "wof:geomhash":"0ddcc645788f7789cda18b95badcfcc4",
+    "wof:geomhash":"defd885ae89b63df699c7520da644196",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693763,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"Santa Rosa Del Penon",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

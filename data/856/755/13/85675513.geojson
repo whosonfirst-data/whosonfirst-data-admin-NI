@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.572862,
-    "geom:area_square_m":6904520403.119654,
+    "geom:area_square_m":6904520119.481265,
     "geom:bbox":"-86.293759,12.53623,-85.07269,13.34859",
     "geom:latitude":12.907945,
     "geom:longitude":-85.676542,
@@ -302,17 +302,19 @@
         "gn:id":3617707,
         "gp:id":2346428,
         "hasc:id":"NI.MT",
+        "iso:code":"NI-MT",
         "iso:id":"NI-MT",
         "qs_pg:id":890091,
         "unlc:id":"NI-MT",
         "wd:id":"Q728099",
         "wk:page":"Matagalpa Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e060177d29f850cb8a4671b83e2fc26a",
+    "wof:geomhash":"1141c0502915c7c51f950ef4de55c896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848454,
+    "wof:lastmodified":1695884954,
     "wof:name":"Matagalpa",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

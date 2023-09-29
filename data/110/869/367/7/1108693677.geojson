@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111134,
-    "geom:area_square_m":1336881252.976832,
+    "geom:area_square_m":1336881252.977061,
     "geom:bbox":"-85.5131920734,13.1426085834,-85.1501796038,13.6153268088",
     "geom:latitude":13.381791,
     "geom:longitude":-85.303209,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"NI.AN.WL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415028,
-    "wof:geomhash":"81fbea84acb2ffd686634beada079878",
+    "wof:geomhash":"51f32f30d7f6c97615d228174936a3a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108693677,
-    "wof:lastmodified":1566657008,
+    "wof:lastmodified":1695886489,
     "wof:name":"Waslala",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

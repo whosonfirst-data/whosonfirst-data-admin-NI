@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005273,
-    "geom:area_square_m":63888616.655017,
+    "geom:area_square_m":63888703.959007,
     "geom:bbox":"-85.71606,11.467576,-85.64662,11.580857",
     "geom:latitude":11.518938,
     "geom:longitude":-85.676098,
@@ -134,12 +134,13 @@
         "qs_pg:id":220317,
         "wd:id":"Q2215641"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e0e84a8e0e2faa38633fd4aa6e1c53ba",
+    "wof:geomhash":"0ad196c2898412341fce52b8ae98db17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421202289,
-    "wof:lastmodified":1690848478,
+    "wof:lastmodified":1695886033,
     "wof:name":"Moyogalpa",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

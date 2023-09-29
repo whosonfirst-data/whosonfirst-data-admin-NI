@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091451,
-    "geom:area_square_m":1104788194.243106,
+    "geom:area_square_m":1104787929.409743,
     "geom:bbox":"-84.168634,12.111717,-83.664919,12.552986",
     "geom:latitude":12.31487,
     "geom:longitude":-83.922509,
@@ -116,9 +116,10 @@
         "hasc:id":"NI.AS.KH",
         "wd:id":"Q1647889"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415205,
-    "wof:geomhash":"29b80208f672322ed3f60b78633d6c8d",
+    "wof:geomhash":"c332e27f4e32e81ceaa96abe10e489f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108693873,
-    "wof:lastmodified":1690848466,
+    "wof:lastmodified":1695886490,
     "wof:name":"Kukra Hill",
     "wof:parent_id":85675467,
     "wof:placetype":"county",

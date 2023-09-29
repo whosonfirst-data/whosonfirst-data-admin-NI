@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116116,
-    "geom:area_square_m":1405132787.15754,
+    "geom:area_square_m":1405132787.157047,
     "geom:bbox":"-85.4211492376,11.6371206958,-84.8127376968,12.029635478",
     "geom:latitude":11.861253,
     "geom:longitude":-85.121734,
@@ -100,9 +100,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CO.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415192,
-    "wof:geomhash":"1c5ac3632620180ead0b06537841d196",
+    "wof:geomhash":"cb21d77fdf78093aee047c06d773476c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108693859,
-    "wof:lastmodified":1566657003,
+    "wof:lastmodified":1695886488,
     "wof:name":"Acoyapa",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

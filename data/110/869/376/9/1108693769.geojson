@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069545,
-    "geom:area_square_m":839892685.333484,
+    "geom:area_square_m":839892685.333501,
     "geom:bbox":"-87.1108857359,12.1992558651,-86.6757240626,12.5231136385",
     "geom:latitude":12.396194,
     "geom:longitude":-86.873268,
@@ -116,9 +116,10 @@
     "wof:concordances":{
         "hasc:id":"NI.LE.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415104,
-    "wof:geomhash":"3f549696912613d3f149ad488414e638",
+    "wof:geomhash":"3350b6d9b1a73e8d18093caaf3654abb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1108693769,
-    "wof:lastmodified":1566657004,
+    "wof:lastmodified":1695886488,
     "wof:name":"Isla",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.425093,
-    "geom:area_square_m":5130030012.404552,
+    "geom:area_square_m":5130030732.948115,
     "geom:bbox":"-87.110886,11.98377,-86.275836,13.127306",
     "geom:latitude":12.584109,
     "geom:longitude":-86.63744,
@@ -282,17 +282,19 @@
         "gn:id":3618029,
         "gp:id":2346424,
         "hasc:id":"NI.LE",
+        "iso:code":"NI-LE",
         "iso:id":"NI-LE",
         "qs_pg:id":318539,
         "unlc:id":"NI-LE",
         "wd:id":"Q586818",
         "wk:page":"Le\u00f3n Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11db8fa22624c9c2784e8ade6274bc91",
+    "wof:geomhash":"72e27b5228b7cac211c873423eaa0d41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848455,
+    "wof:lastmodified":1695884374,
     "wof:name":"Le\u00f3n",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

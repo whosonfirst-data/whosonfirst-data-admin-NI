@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034979,
-    "geom:area_square_m":421111567.864237,
+    "geom:area_square_m":421111479.557982,
     "geom:bbox":"-86.750041,13.098529,-86.45362,13.301889",
     "geom:latitude":13.189494,
     "geom:longitude":-86.594513,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.ES.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415089,
-    "wof:geomhash":"588328ea6a42c5ad64fdb6f4e9acae52",
+    "wof:geomhash":"8fafa1405703fde63f470ae630019c01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693751,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886101,
     "wof:name":"San Juan De Limay",
     "wof:parent_id":85675505,
     "wof:placetype":"county",

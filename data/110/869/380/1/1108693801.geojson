@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001744,
-    "geom:area_square_m":21111317.958338,
+    "geom:area_square_m":21111317.958344,
     "geom:bbox":"-86.1415421985,11.7901108812,-86.077574787,11.835559003",
     "geom:latitude":11.812988,
     "geom:longitude":-86.107618,
@@ -93,9 +93,10 @@
         "hasc:id":"NI.CA.LP",
         "wd:id":"Q2215549"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415134,
-    "wof:geomhash":"63ed3b73162d28d343694f4e7cc35c99",
+    "wof:geomhash":"5036fbd7638e82557544a3de8cb57f16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108693801,
-    "wof:lastmodified":1566657010,
+    "wof:lastmodified":1695886490,
     "wof:name":"La Paz De Carazo",
     "wof:parent_id":85675471,
     "wof:placetype":"county",

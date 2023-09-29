@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.533715,
-    "geom:area_square_m":6452693225.46139,
+    "geom:area_square_m":6452692980.468601,
     "geom:bbox":"-85.681631,11.637121,-84.523992,12.632064",
     "geom:latitude":12.105551,
     "geom:longitude":-85.132371,
@@ -305,17 +305,19 @@
         "gn:id":3620368,
         "gp:id":2346420,
         "hasc:id":"NI.CO",
+        "iso:code":"NI-CO",
         "iso:id":"NI-CO",
         "qs_pg:id":1175856,
         "unlc:id":"NI-CO",
         "wd:id":"Q498443",
         "wk:page":"Chontales Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f988875babbc0cad04cdf672a26803bd",
+    "wof:geomhash":"9566ce6385c1b7caab3c1fdb9c7b1282",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848454,
+    "wof:lastmodified":1695884954,
     "wof:name":"Chontales",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

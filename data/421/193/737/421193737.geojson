@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001165,
-    "geom:area_square_m":14098739.305408,
+    "geom:area_square_m":14098764.865867,
     "geom:bbox":"-86.132286,11.885938,-86.10496,11.945435",
     "geom:latitude":11.916025,
     "geom:longitude":-86.119428,
@@ -131,12 +131,13 @@
         "qs_pg:id":116369,
         "wd:id":"Q641207"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009781,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9128cc3cdabdf9d10305424650e370e",
+    "wof:geomhash":"da464a52bee75f8a6d33e39181d08b80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421193737,
-    "wof:lastmodified":1690848475,
+    "wof:lastmodified":1695886033,
     "wof:name":"Nandasmo",
     "wof:parent_id":85675499,
     "wof:placetype":"county",

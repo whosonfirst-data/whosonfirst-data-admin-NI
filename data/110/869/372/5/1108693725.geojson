@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013101,
-    "geom:area_square_m":157551874.676096,
+    "geom:area_square_m":157551744.508623,
     "geom:bbox":"-86.478104,13.398887,-86.297416,13.515705",
     "geom:latitude":13.449558,
     "geom:longitude":-86.398199,
@@ -113,9 +113,10 @@
         "hasc:id":"NI.MD.PA",
         "wd:id":"Q2215620"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415064,
-    "wof:geomhash":"c663ffdaf02f62258b041ebe67cb7582",
+    "wof:geomhash":"41eee11d1dcdd8026e38c309a914c560",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1108693725,
-    "wof:lastmodified":1690848469,
+    "wof:lastmodified":1695886491,
     "wof:name":"Palacaguina",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

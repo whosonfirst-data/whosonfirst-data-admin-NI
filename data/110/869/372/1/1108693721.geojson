@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016006,
-    "geom:area_square_m":192428624.279772,
+    "geom:area_square_m":192428740.679759,
     "geom:bbox":"-86.223363,13.437625,-86.069743,13.612023",
     "geom:latitude":13.52345,
     "geom:longitude":-86.148032,
@@ -102,9 +102,10 @@
         "hasc:id":"NI.MD.SR",
         "wd:id":"Q1647654"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415062,
-    "wof:geomhash":"197962840754bead8219aa401b58741f",
+    "wof:geomhash":"7f5214ce48c56a51af4ae49f66788633",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108693721,
-    "wof:lastmodified":1690848469,
+    "wof:lastmodified":1695886491,
     "wof:name":"San Juan Del Rio Coco",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

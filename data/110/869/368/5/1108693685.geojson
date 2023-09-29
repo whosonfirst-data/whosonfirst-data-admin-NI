@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374714,
-    "geom:area_square_m":4498168443.090105,
+    "geom:area_square_m":4498168821.353382,
     "geom:bbox":"-85.827567,13.247994,-84.83258,14.579734",
     "geom:latitude":13.874124,
     "geom:longitude":-85.262278,
@@ -176,9 +176,10 @@
         "hasc:id":"NI.JI.EC",
         "wd:id":"Q2214906"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415035,
-    "wof:geomhash":"81bc2aaa2563a85109f38021bbe19d88",
+    "wof:geomhash":"578942ed0661c3902ee307d87dc1d0e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1108693685,
-    "wof:lastmodified":1690848463,
+    "wof:lastmodified":1695886489,
     "wof:name":"El Cua",
     "wof:parent_id":85675481,
     "wof:placetype":"county",

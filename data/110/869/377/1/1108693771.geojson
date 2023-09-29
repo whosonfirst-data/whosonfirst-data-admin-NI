@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056537,
-    "geom:area_square_m":682749255.715827,
+    "geom:area_square_m":682749255.715816,
     "geom:bbox":"-86.7844184717,12.223686839,-86.4108105117,12.5600618745",
     "geom:latitude":12.41266,
     "geom:longitude":-86.613943,
@@ -94,9 +94,10 @@
     "wof:concordances":{
         "hasc:id":"NI.LE.LP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415105,
-    "wof:geomhash":"c216d4a01206f62723a58a651272f5b2",
+    "wof:geomhash":"54804103ffa151ae21e6dac964ca7957",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1108693771,
-    "wof:lastmodified":1566657001,
+    "wof:lastmodified":1695886487,
     "wof:name":"La Paz Centro",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

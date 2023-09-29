@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094813,
-    "geom:area_square_m":1147845464.917986,
+    "geom:area_square_m":1147845446.014254,
     "geom:bbox":"-86.452684,11.514449,-86.077575,11.954602",
     "geom:latitude":11.742716,
     "geom:longitude":-86.249757,
@@ -308,17 +308,19 @@
         "gn:id":3620481,
         "gp:id":2346418,
         "hasc:id":"NI.CA",
+        "iso:code":"NI-CA",
         "iso:id":"NI-CA",
         "qs_pg:id":1222702,
         "unlc:id":"NI-CA",
         "wd:id":"Q461133",
         "wk:page":"Carazo Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"89631869d2e8b43e81b32d5f51824805",
+    "wof:geomhash":"597494ebe1e549e5c8603855fd2ac2b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848456,
+    "wof:lastmodified":1695884955,
     "wof:name":"Carazo",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

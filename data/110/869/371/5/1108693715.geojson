@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021281,
-    "geom:area_square_m":255684715.081264,
+    "geom:area_square_m":255685132.455522,
     "geom:bbox":"-86.702677,13.569236,-86.507548,13.782441",
     "geom:latitude":13.674854,
     "geom:longitude":-86.602505,
@@ -103,9 +103,10 @@
         "hasc:id":"NI.NS.MA",
         "wd:id":"Q1647684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415057,
-    "wof:geomhash":"86ffa4b646f88e6d4320d64da4941d7d",
+    "wof:geomhash":"172d3d196aa043e02781884a3037e792",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108693715,
-    "wof:lastmodified":1690848461,
+    "wof:lastmodified":1695886488,
     "wof:name":"Macuelizo",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

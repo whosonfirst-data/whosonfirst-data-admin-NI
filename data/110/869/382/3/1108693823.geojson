@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024613,
-    "geom:area_square_m":296694637.264707,
+    "geom:area_square_m":296694624.327841,
     "geom:bbox":"-86.293759,12.740679,-86.105394,12.991406",
     "geom:latitude":12.873242,
     "geom:longitude":-86.210996,
@@ -140,9 +140,10 @@
         "hasc:id":"NI.MT.CD",
         "wd:id":"Q1015865"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415158,
-    "wof:geomhash":"527f5172a1f36cfe9f8ed15f68853e23",
+    "wof:geomhash":"24018d826628ffaf359a12fa906d370c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1108693823,
-    "wof:lastmodified":1690848461,
+    "wof:lastmodified":1695886488,
     "wof:name":"Ciudad Dario",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

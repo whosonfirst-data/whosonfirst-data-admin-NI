@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04146,
-    "geom:area_square_m":501242337.562117,
+    "geom:area_square_m":501243499.203218,
     "geom:bbox":"-85.164984,11.948088,-84.778318,12.295674",
     "geom:latitude":12.118027,
     "geom:longitude":-84.987834,
@@ -129,9 +129,10 @@
         "hasc:id":"NI.CO.ST",
         "wd:id":"Q542822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415189,
-    "wof:geomhash":"3953add54a605d8ec1a437e1b5982c2c",
+    "wof:geomhash":"8a4db344aba21d648f8f14d531887813",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108693855,
-    "wof:lastmodified":1690848460,
+    "wof:lastmodified":1695886116,
     "wof:name":"Santo Tomas",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

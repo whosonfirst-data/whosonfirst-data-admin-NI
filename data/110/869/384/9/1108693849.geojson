@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066668,
-    "geom:area_square_m":805274907.100786,
+    "geom:area_square_m":805273977.975612,
     "geom:bbox":"-85.335915,12.131481,-84.86899,12.632064",
     "geom:latitude":12.352852,
     "geom:longitude":-85.141327,
@@ -139,9 +139,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CO.LL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415185,
-    "wof:geomhash":"5dabf38eada2dda43d65feda9545be51",
+    "wof:geomhash":"66333664947cc56e817e85f16d571790",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":1108693849,
-    "wof:lastmodified":1636503397,
+    "wof:lastmodified":1695886116,
     "wof:name":"La Libertad",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004906,
-    "geom:area_square_m":59339852.532784,
+    "geom:area_square_m":59340103.364029,
     "geom:bbox":"-86.287015,11.975466,-86.175878,12.056694",
     "geom:latitude":12.009934,
     "geom:longitude":-86.220703,
@@ -134,12 +134,13 @@
         "qs_pg:id":369089,
         "wd:id":"Q2216951"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009208,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"49923866acf29a7c728293781848496e",
+    "wof:geomhash":"284cbe4a895ae4a70d33a30cad630908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421179217,
-    "wof:lastmodified":1690848497,
+    "wof:lastmodified":1695886035,
     "wof:name":"Ticuantepe",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

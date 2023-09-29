@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186602,
-    "geom:area_square_m":2239391201.626526,
+    "geom:area_square_m":2239391831.858231,
     "geom:bbox":"-84.525364,13.63586,-84.048613,14.243279",
     "geom:latitude":13.942713,
     "geom:longitude":-84.284366,
@@ -116,12 +116,13 @@
         "hasc:id":"NI.AN.RO",
         "qs_pg:id":392795
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009117,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5201b18ef0bb1a8b6e08de4c7f86d37",
+    "wof:geomhash":"1806cacac461f4fde0046d0d18694971",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421176721,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886101,
     "wof:name":"Rosita",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

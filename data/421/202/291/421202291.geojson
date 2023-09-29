@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018258,
-    "geom:area_square_m":221236377.590257,
+    "geom:area_square_m":221236155.758017,
     "geom:bbox":"-85.655567,11.392508,-85.455661,11.589234",
     "geom:latitude":11.486661,
     "geom:longitude":-85.562014,
@@ -134,12 +134,13 @@
         "qs_pg:id":220318,
         "wd:id":"Q1647907"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1a7ff48752832a7d6c437197fdd25447",
+    "wof:geomhash":"f4b436310973cab8f4a0aa3239bec4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421202291,
-    "wof:lastmodified":1690848479,
+    "wof:lastmodified":1695886033,
     "wof:name":"Altagracia",
     "wof:parent_id":85675461,
     "wof:placetype":"county",

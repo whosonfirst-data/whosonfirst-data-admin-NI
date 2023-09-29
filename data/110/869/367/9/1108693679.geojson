@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.422185,
-    "geom:area_square_m":5075075504.85338,
+    "geom:area_square_m":5075074910.929218,
     "geom:bbox":"-85.431659,13.144478,-84.441893,13.914134",
     "geom:latitude":13.551947,
     "geom:longitude":-84.89851,
@@ -112,9 +112,10 @@
         "hasc:id":"NI.AN.SN",
         "wd:id":"Q1329302"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415030,
-    "wof:geomhash":"0eedbc7250a8440b742e6d03db41ea25",
+    "wof:geomhash":"9f12a587474b82b69f5f4f6c60745f99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1108693679,
-    "wof:lastmodified":1690848464,
+    "wof:lastmodified":1695886489,
     "wof:name":"Siuna",
     "wof:parent_id":85675485,
     "wof:placetype":"county",

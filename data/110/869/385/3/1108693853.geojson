@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039467,
-    "geom:area_square_m":477088228.548599,
+    "geom:area_square_m":477088645.685593,
     "geom:bbox":"-85.273613,12.0049,-84.884271,12.280937",
     "geom:latitude":12.147273,
     "geom:longitude":-85.105959,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"NI.CO.SP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415188,
-    "wof:geomhash":"1e585073f276a312c9846670c9bdeb8a",
+    "wof:geomhash":"b65e678b140fd109111fcbdb2c92d262",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1108693853,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"San Pedro De Lovago",
     "wof:parent_id":85675525,
     "wof:placetype":"county",

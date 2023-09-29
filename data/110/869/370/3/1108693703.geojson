@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010603,
-    "geom:area_square_m":127402925.372462,
+    "geom:area_square_m":127402978.960547,
     "geom:bbox":"-86.363593,13.592805,-86.196281,13.717628",
     "geom:latitude":13.645667,
     "geom:longitude":-86.27793,
@@ -100,9 +100,10 @@
         "hasc:id":"NI.NS.CA",
         "wd:id":"Q2215588"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415048,
-    "wof:geomhash":"bf78acc8761c74cff196ef4df9162dbb",
+    "wof:geomhash":"f0c478b1e5d5ee6264ecaf59900f6060",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108693703,
-    "wof:lastmodified":1690848460,
+    "wof:lastmodified":1695886487,
     "wof:name":"Ciudad Antigua",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

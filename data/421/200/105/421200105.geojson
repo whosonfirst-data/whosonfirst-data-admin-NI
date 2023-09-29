@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019708,
-    "geom:area_square_m":237719731.957511,
+    "geom:area_square_m":237719455.586844,
     "geom:bbox":"-86.051819,12.62287,-85.859646,12.828145",
     "geom:latitude":12.710211,
     "geom:longitude":-85.960971,
@@ -134,12 +134,13 @@
         "qs_pg:id":772976,
         "wd:id":"Q664620"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010011,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"323d4f89af590965becd13447d04be2e",
+    "wof:geomhash":"d30dacf65dbd5f70fae6d280e1487f92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421200105,
-    "wof:lastmodified":1690848491,
+    "wof:lastmodified":1695886034,
     "wof:name":"Terrabona",
     "wof:parent_id":85675513,
     "wof:placetype":"county",

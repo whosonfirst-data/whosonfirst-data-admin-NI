@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00967,
-    "geom:area_square_m":116378769.720071,
+    "geom:area_square_m":116378769.72005,
     "geom:bbox":"-86.7708812162,13.1865876004,-86.6172629742,13.3202420302",
     "geom:latitude":13.260592,
     "geom:longitude":-86.680629,
@@ -93,9 +93,10 @@
         "hasc:id":"NI.MD.SC",
         "wd:id":"Q2215949"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415071,
-    "wof:geomhash":"3770f556d8c9c780dc87244ed4933ab3",
+    "wof:geomhash":"2c17161470e09aef57ce661b1ee76fe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1108693733,
-    "wof:lastmodified":1566657009,
+    "wof:lastmodified":1695886489,
     "wof:name":"San Jose De Cusmapa",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

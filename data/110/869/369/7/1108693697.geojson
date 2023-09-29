@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.037044,
-    "geom:area_square_m":444870846.189201,
+    "geom:area_square_m":444870746.479699,
     "geom:bbox":"-86.061123,13.629385,-85.824854,13.918132",
     "geom:latitude":13.782685,
     "geom:longitude":-85.954214,
@@ -106,9 +106,10 @@
         "hasc:id":"NI.NS.MU",
         "wd:id":"Q2215609"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415045,
-    "wof:geomhash":"e1ad3953d0b416d5f8fbb6a7755f437f",
+    "wof:geomhash":"72f8737df4094ed2a9695d01fadabf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":1108693697,
-    "wof:lastmodified":1690848463,
+    "wof:lastmodified":1695886489,
     "wof:name":"Murra",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

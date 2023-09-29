@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031192,
-    "geom:area_square_m":377474567.296031,
+    "geom:area_square_m":377474353.900953,
     "geom:bbox":"-86.586134,11.715189,-86.327588,11.951035",
     "geom:latitude":11.851165,
     "geom:longitude":-86.458143,
@@ -122,9 +122,10 @@
         "hasc:id":"NI.MN.SR",
         "wd:id":"Q964406"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415114,
-    "wof:geomhash":"d6d49084301f42bd3cc470cd1b5d03e7",
+    "wof:geomhash":"b116a51e5aaf01723836493086bfab3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1108693779,
-    "wof:lastmodified":1690848459,
+    "wof:lastmodified":1695886487,
     "wof:name":"San Rafael Del Sur",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

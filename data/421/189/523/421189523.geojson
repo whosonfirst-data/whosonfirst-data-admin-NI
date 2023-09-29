@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125149,
-    "geom:area_square_m":1510700786.340923,
+    "geom:area_square_m":1510700988.143201,
     "geom:bbox":"-85.599413,12.319824,-84.957312,12.802382",
     "geom:latitude":12.518242,
     "geom:longitude":-85.234668,
@@ -140,12 +140,13 @@
         "qs_pg:id":1113889,
         "wd:id":"Q2605022"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459009627,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"67392d889a43b261b8edee1f43946fc7",
+    "wof:geomhash":"ad1749c55a8812600283f9b725a0c917",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421189523,
-    "wof:lastmodified":1690848483,
+    "wof:lastmodified":1695886033,
     "wof:name":"Camoapa",
     "wof:parent_id":85675521,
     "wof:placetype":"county",

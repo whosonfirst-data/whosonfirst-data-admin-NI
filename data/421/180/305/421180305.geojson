@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046864,
-    "geom:area_square_m":566682193.794881,
+    "geom:area_square_m":566682193.794771,
     "geom:bbox":"-86.449916,11.912528,-86.121437,12.186428",
     "geom:latitude":12.063527,
     "geom:longitude":-86.304173,
@@ -421,6 +421,7 @@
         "hasc:id":"NI.MN.MN",
         "qs_pg:id":425490
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         890451731
     ],
@@ -429,7 +430,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9edfc5ee9555aba4842c0cf54c0b21e5",
+    "wof:geomhash":"8a6a68389b31c0b8e4f2e929582fade9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -439,7 +440,7 @@
         }
     ],
     "wof:id":421180305,
-    "wof:lastmodified":1636503407,
+    "wof:lastmodified":1695886116,
     "wof:name":"Managua",
     "wof:parent_id":85675495,
     "wof:placetype":"county",

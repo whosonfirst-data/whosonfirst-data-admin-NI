@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033878,
-    "geom:area_square_m":406965333.520236,
+    "geom:area_square_m":406965333.520137,
     "geom:bbox":"-86.2472568876,13.5857761953,-86.0117207516,13.845230103",
     "geom:latitude":13.715667,
     "geom:longitude":-86.131194,
@@ -107,9 +107,10 @@
     "wof:concordances":{
         "hasc:id":"NI.NS.EJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415049,
-    "wof:geomhash":"bcd31b94ccd96a6836951778c370691c",
+    "wof:geomhash":"09b48755cd9d63dc8a623de013c8ae0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1108693705,
-    "wof:lastmodified":1566657002,
+    "wof:lastmodified":1695886487,
     "wof:name":"Ciudad Sandino",
     "wof:parent_id":85675517,
     "wof:placetype":"county",

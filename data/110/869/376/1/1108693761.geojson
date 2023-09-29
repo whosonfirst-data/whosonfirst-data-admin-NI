@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032209,
-    "geom:area_square_m":387987601.046673,
+    "geom:area_square_m":387987191.291331,
     "geom:bbox":"-86.739279,12.958984,-86.469579,13.127306",
     "geom:latitude":13.050871,
     "geom:longitude":-86.602568,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"NI.LE.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1474415095,
-    "wof:geomhash":"d927bd53b0f09f03df13595ddb37058d",
+    "wof:geomhash":"78290948471dfc0c2225b5a47a615660",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108693761,
-    "wof:lastmodified":1627522477,
+    "wof:lastmodified":1695886102,
     "wof:name":"Achuapa",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

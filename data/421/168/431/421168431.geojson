@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060272,
-    "geom:area_square_m":726522335.796262,
+    "geom:area_square_m":726523190.26373,
     "geom:bbox":"-86.687536,12.718544,-86.420208,13.114327",
     "geom:latitude":12.878691,
     "geom:longitude":-86.54238,
@@ -119,12 +119,13 @@
         "qs_pg:id":1113908,
         "wd:id":"Q1155040"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008764,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5f2c6391172251d3ed9dbe66bf54ecdf",
+    "wof:geomhash":"85e3ada3451c9a3dd0a5c208d20fc647",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421168431,
-    "wof:lastmodified":1690848470,
+    "wof:lastmodified":1695886032,
     "wof:name":"El Sauce",
     "wof:parent_id":85675489,
     "wof:placetype":"county",

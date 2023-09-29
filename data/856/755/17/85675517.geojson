@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24404,
-    "geom:area_square_m":2931236577.281032,
+    "geom:area_square_m":2931236469.039461,
     "geom:bbox":"-86.766783,13.466095,-85.824854,14.06954",
     "geom:latitude":13.740871,
     "geom:longitude":-86.211333,
@@ -305,17 +305,19 @@
         "gn:id":3617458,
         "gp:id":2346429,
         "hasc:id":"NI.NS",
+        "iso:code":"NI-NS",
         "iso:id":"NI-NS",
         "qs_pg:id":1097046,
         "unlc:id":"NI-NS",
         "wd:id":"Q728022",
         "wk:page":"Nueva Segovia Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NI",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b416eec2401603437279d13848704752",
+    "wof:geomhash":"9244eaee283249f0246a3496f275e862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -330,7 +332,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690848453,
+    "wof:lastmodified":1695884954,
     "wof:name":"Nueva Segovia",
     "wof:parent_id":85632599,
     "wof:placetype":"region",

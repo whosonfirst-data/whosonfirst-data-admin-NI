@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03794,
-    "geom:area_square_m":456111976.071951,
+    "geom:area_square_m":456111812.300672,
     "geom:bbox":"-86.760984,13.423459,-86.508289,13.664493",
     "geom:latitude":13.531238,
     "geom:longitude":-86.648404,
@@ -100,12 +100,13 @@
         "hasc:id":"NI.MD.SO",
         "qs_pg:id":1264327
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459008907,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9bcef7828ef244aa309c2802d3ca5e58",
+    "wof:geomhash":"ad0112ded6516abd7a837536b280078e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":421171799,
-    "wof:lastmodified":1636503412,
+    "wof:lastmodified":1695886118,
     "wof:name":"Somoto",
     "wof:parent_id":85675511,
     "wof:placetype":"county",

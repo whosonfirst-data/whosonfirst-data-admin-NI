@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023157,
-    "geom:area_square_m":279869165.247254,
+    "geom:area_square_m":279868680.822907,
     "geom:bbox":"-86.524327,12.104231,-86.295713,12.290934",
     "geom:latitude":12.208699,
     "geom:longitude":-86.409969,
@@ -140,12 +140,13 @@
         "qs_pg:id":220314,
         "wd:id":"Q2605008"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NI",
     "wof:created":1459010111,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"69e3fb094b41bbb5c940c922015ef209",
+    "wof:geomhash":"0e0fae22ab797fbbc53efd1771969858",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421202283,
-    "wof:lastmodified":1690848479,
+    "wof:lastmodified":1695886033,
     "wof:name":"Mateare",
     "wof:parent_id":85675495,
     "wof:placetype":"county",
