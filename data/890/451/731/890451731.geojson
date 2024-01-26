@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.046864,
     "geom:area_square_m":566682193.794881,
     "geom:bbox":"-86.449916,11.912528,-86.121437,12.186428",
@@ -19,7 +21,7 @@
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":5.0,
     "name:ace_x_preferred":[
         "Managua"
@@ -596,7 +598,7 @@
         }
     ],
     "wof:id":890451731,
-    "wof:lastmodified":1690848508,
+    "wof:lastmodified":1706240540,
     "wof:megacity":1,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
@@ -604,7 +606,9 @@
     "wof:population":1028808,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ni",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421180763
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

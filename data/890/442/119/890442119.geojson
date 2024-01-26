@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-86.19903,11.84962,-86.19903,11.84962",
@@ -17,7 +19,7 @@
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u062e\u064a\u0646\u0648\u062a\u0628\u064a"
@@ -286,14 +288,16 @@
         }
     ],
     "wof:id":890442119,
-    "wof:lastmodified":1690848507,
+    "wof:lastmodified":1706240540,
     "wof:name":"Jinotepe",
     "wof:parent_id":421191489,
     "wof:placetype":"locality",
     "wof:population":29507,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-ni",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421186613
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
