@@ -9,11 +9,17 @@
     "geom:bbox":"-86.272373,12.150773,-86.272373,12.150773",
     "geom:latitude":12.150773,
     "geom:longitude":-86.272373,
+    "gn:country":"NI",
+    "gn:fcode":"PPLC",
+    "gn:population":973087,
     "iso:country":"NI",
     "lbl:bbox":"-86.292373,12.130773,-86.252373,12.170773",
+    "lbl:latitude":12.13282,
+    "lbl:longitude":-86.2504,
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
@@ -112,6 +118,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03ac\u03b3\u03ba\u03bf\u03c5\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bd\u03ac\u03b3\u03bf\u03c5\u03b1"
     ],
     "name:eng_ca_x_preferred":[
         "Managua"
@@ -290,6 +299,9 @@
     "name:nob_x_preferred":[
         "Managua"
     ],
+    "name:nor_x_preferred":[
+        "Managua"
+    ],
     "name:nov_x_preferred":[
         "Managua"
     ],
@@ -464,6 +476,92 @@
     "name:zho_x_preferred":[
         "\u99ac\u7d0d\u74dc"
     ],
+    "ne:ADM0CAP":1.0,
+    "ne:ADM0NAME":"Nicaragua",
+    "ne:ADM0_A3":"NIC",
+    "ne:ADM1NAME":"Managua",
+    "ne:ADMIN1_COD":10,
+    "ne:CAPALT":0,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-0 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLC",
+    "ne:GEONAMEID":3617763,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Managua",
+    "ne:GN_POP":973087,
+    "ne:GTOPO30":59.0,
+    "ne:ISO_A2":"NI",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":12.153017,
+    "ne:LONGITUDE":-86.268492,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Managua",
+    "ne:MAX_AREAKM":131.0,
+    "ne:MAX_AREAMI":51.0,
+    "ne:MAX_BBXMAX":-86.158333,
+    "ne:MAX_BBXMIN":-86.383333,
+    "ne:MAX_BBYMAX":12.175,
+    "ne:MAX_BBYMIN":12.075,
+    "ne:MAX_NATSCA":100.0,
+    "ne:MAX_PERKM":97.0,
+    "ne:MAX_PERMI":60.0,
+    "ne:MAX_POP10":1105973,
+    "ne:MAX_POP20":1105973,
+    "ne:MAX_POP300":1105973,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":1105973,
+    "ne:MEAN_BBXC":-86.263402,
+    "ne:MEAN_BBYC":12.13336,
+    "ne:MEGACITY":1,
+    "ne:MEGANAME":"Managua",
+    "ne:MIN_AREAKM":131.0,
+    "ne:MIN_AREAMI":51.0,
+    "ne:MIN_BBXMAX":-86.158333,
+    "ne:MIN_BBXMIN":-86.383333,
+    "ne:MIN_BBYMAX":12.175,
+    "ne:MIN_BBYMIN":12.075,
+    "ne:MIN_PERKM":97.0,
+    "ne:MIN_PERMI":60.0,
+    "ne:NAME":"Managua",
+    "ne:NAMEASCII":"Managua",
+    "ne:NAMEDIFF":0,
+    "ne:NATSCALE":110,
+    "ne:POP1950":110,
+    "ne:POP1955":148,
+    "ne:POP1960":199,
+    "ne:POP1965":269,
+    "ne:POP1970":366,
+    "ne:POP1975":443,
+    "ne:POP1980":525,
+    "ne:POP1985":621,
+    "ne:POP1990":735,
+    "ne:POP1995":865,
+    "ne:POP2000":887,
+    "ne:POP2005":909,
+    "ne:POP2010":920,
+    "ne:POP2015":944,
+    "ne:POP2020":1015,
+    "ne:POP2025":1104,
+    "ne:POP2050":1193,
+    "ne:POP_MAX":920000,
+    "ne:POP_MIN":920000,
+    "ne:POP_OTHER":1088194,
+    "ne:RANK_MAX":11,
+    "ne:RANK_MIN":11,
+    "ne:SCALERANK":3,
+    "ne:SOV0NAME":"Nicaragua",
+    "ne:SOV_A3":"NIC",
+    "ne:TIMEZONE":"America/Managua",
+    "ne:UN_ADM0":"Nicaragua",
+    "ne:UN_FID":382,
+    "ne:UN_LAT":12.15,
+    "ne:UN_LONG":-86.27,
+    "ne:WORLDCITY":0,
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -496,11 +594,31 @@
         421180305
     ],
     "wof:breaches":[],
+    "wof:capital_of":[
+        85632599
+    ],
     "wof:concordances":{
+        "gn:id":3617763,
         "gp:id":153523,
+        "ne:id":1159150623,
         "qs_pg:id":457231,
-        "wd:id":"Q3274"
+        "wd:id":"Q3274",
+        "wk:page":"Managua"
     },
+    "wof:concordances_alt":{
+        "gp:id":[
+            153523
+        ],
+        "qs_pg:id":[
+            149449
+        ],
+        "wd:id":[
+            "Q3274"
+        ]
+    },
+    "wof:coterminous":[
+        421180305
+    ],
     "wof:country":"NI",
     "wof:created":1459009270,
     "wof:geomhash":"5e6156d08ade841b6b8af286b6d77f25",
@@ -514,7 +632,8 @@
         }
     ],
     "wof:id":421180763,
-    "wof:lastmodified":1690848481,
+    "wof:lastmodified":1706240540,
+    "wof:megacity":1,
     "wof:name":"Managua",
     "wof:parent_id":421180305,
     "wof:placetype":"locality",
@@ -522,7 +641,9 @@
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ni",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890451731
+    ],
     "wof:tags":[]
 },
   "bbox": [
